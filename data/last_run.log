@@ -9,19 +9,5 @@ Bland: 519 listings scanned
 185 dining-table candidates within budget (from 11129 listings)
 Opened 59 listing pages for details
 71 pass the size filter (140-190 cm)
-score failed for https://bland.is/til-solu/heimilid/stofa/ikea-ekedalen-bord/5292736/: not an image (text/html; charset=utf-8, 84322 bytes): b'<!DOCTYPE html>\r\n<html lang="is">\r\n<head id="head">\r\n    <meta http-equiv="Content-Type" content="text/html; charset=utf'
-score failed for https://bland.is/til-solu/heimilid/stofa/bord-og-tveir-stolar-nylegt/5292648/: not an image (text/html; charset=utf-8, 84322 bytes): b'<!DOCTYPE html>\r\n<html lang="is">\r\n<head id="head">\r\n    <meta http-equiv="Content-Type" content="text/html; charset=utf'
-score failed for https://bland.is/til-solu/heimilid/stofa/bordstofubord-ur-ilva/5292481/: not an image (text/html; charset=utf-8, 84322 bytes): b'<!DOCTYPE html>\r\n<html lang="is">\r\n<head id="head">\r\n    <meta http-equiv="Content-Type" content="text/html; charset=utf'
-score failed for https://bland.is/til-solu/heimilid/stofa/laminate-bordstofubord/5292390/: not an image (text/html; charset=utf-8, 84322 bytes): b'<!DOCTYPE html>\r\n<html lang="is">\r\n<head id="head">\r\n    <meta http-equiv="Content-Type" content="text/html; charset=utf'
-score failed for https://bland.is/til-solu/heimilid/stofa/bord-ikea/5292364/: not an image (text/html; charset=utf-8, 84322 bytes): b'<!DOCTYPE html>\r\n<html lang="is">\r\n<head id="head">\r\n    <meta http-equiv="Content-Type" content="text/html; charset=utf'
-score failed for https://bland.is/til-solu/heimilid/stofa/bordstofubord-160x90-cm-210x90/5292203/: not an image (text/html; charset=utf-8, 84321 bytes): b'<!DOCTYPE html>\r\n<html lang="is">\r\n<head id="head">\r\n    <meta http-equiv="Content-Type" content="text/html; charset=utf'
-score failed for https://bland.is/til-solu/heimilid/stofa/bordstofubord-og-5-stolar/5292157/: not an image (text/html; charset=utf-8, 84322 bytes): b'<!DOCTYPE html>\r\n<html lang="is">\r\n<head id="head">\r\n    <meta http-equiv="Content-Type" content="text/html; charset=utf'
-score failed for https://bland.is/til-solu/heimilid/stofa/staekkanlegt-bordstofubord/5292154/: not an image (text/html; charset=utf-8, 84321 bytes): b'<!DOCTYPE html>\r\n<html lang="is">\r\n<head id="head">\r\n    <meta http-equiv="Content-Type" content="text/html; charset=utf'
-score failed for https://bland.is/til-solu/heimilid/stofa/eldhusbord-med-snuningsdisk-til-solu/5291579/: not an image (text/html; charset=utf-8, 84322 bytes): b'<!DOCTYPE html>\r\n<html lang="is">\r\n<head id="head">\r\n    <meta http-equiv="Content-Type" content="text/html; charset=utf'
-score failed for https://bland.is/til-solu/heimilid/stofa/bordstofubord/5291196/: not an image (text/html; charset=utf-8, 84322 bytes): b'<!DOCTYPE html>\r\n<html lang="is">\r\n<head id="head">\r\n    <meta http-equiv="Content-Type" content="text/html; charset=utf'
-score failed for https://bland.is/til-solu/heimilid/eldhus-og-badherbergi/eldhusbord-og-4-stolar/5292845/: not an image (text/html; charset=utf-8, 84322 bytes): b'<!DOCTYPE html>\r\n<html lang="is">\r\n<head id="head">\r\n    <meta http-equiv="Content-Type" content="text/html; charset=utf'
-score failed for https://bland.is/til-solu/heimilid/eldhus-og-badherbergi/italskt-bordstofubord/5292343/: not an image (text/html; charset=utf-8, 84322 bytes): b'<!DOCTYPE html>\r\n<html lang="is">\r\n<head id="head">\r\n    <meta http-equiv="Content-Type" content="text/html; charset=utf'
-score failed for https://bland.is/til-solu/heimilid/eldhus-og-badherbergi/bord/5291823/: not an image (text/html; charset=utf-8, 84322 bytes): b'<!DOCTYPE html>\r\n<html lang="is">\r\n<head id="head">\r\n    <meta http-equiv="Content-Type" content="text/html; charset=utf'
-score failed for https://bland.is/til-solu/heimilid/eldhus-og-badherbergi/ikea-docksta-eldhusbord/5282508/: not an image (text/html; charset=utf-8, 84322 bytes): b'<!DOCTYPE html>\r\n<html lang="is">\r\n<head id="head">\r\n    <meta http-equiv="Content-Type" content="text/html; charset=utf'
-Scored 0 listings with gpt-4o
+Scored 14 listings with gpt-4o
 Notify: 0 new strong matches
