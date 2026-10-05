@@ -33,12 +33,14 @@ sources:
     - name: Módern
       urls: ["https://modern.is/product-category/husgogn/bord/bordstofubord/"]
       link_pattern: "/shop/husgogn/bord/bordstofubord/"
+      dining_category: true
     - name: Línan
       urls: ["https://linan.is/verslun/bord/", "https://linan.is/verslun/bord/page/2/", "https://linan.is/verslun/bord/page/3/"]
       link_pattern: "/vara/"
     - name: ILVA
       urls: ["https://www.ilva.is/bordstofan/bordstofubord/"]
       link_pattern: "/stok-vara/"
+      dining_category: true
     - name: IKEA
       urls: ["https://www.ikea.is/is/products/bordstofa/bordstofubord-bordplotur-og-bordstofusett/bordstofubord-bordplotur-og-bordstofusett"]
       link_pattern: "/is/products/"

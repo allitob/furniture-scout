@@ -40,7 +40,8 @@ def collect(cfg):
     for s in src.get("woocommerce", []):
         jobs.append((s["name"], lambda s=s: sources.woocommerce(s["name"], s["domain"], log)))
     for s in src.get("html", []):
-        jobs.append((s["name"], lambda s=s: sources.html_listing(s["name"], s["urls"], s["link_pattern"], log)))
+        jobs.append((s["name"], lambda s=s: sources.html_listing(s["name"], s["urls"], s["link_pattern"], log,
+                                                                    broad=s.get("dining_category", False))))
     if src.get("bland"):
         b = src["bland"]
         jobs.append(("Bland", lambda: sources.bland(b["categories"], b["pages_per_category"], log)))
@@ -71,16 +72,27 @@ def main():
     bland_cfg = dict(scfg, broad=True)
     cands = []
     for it in raw:
-        c = bland_cfg if it["source"].startswith("Bland") else scfg
+        c = bland_cfg if it["source"].startswith("Bland") or it.get("broad") else scfg
         if filters.is_candidate(it, c) and filters.price_ok(it, scfg):
             cands.append(it)
     log(f"{len(cands)} dining-table candidates within budget (from {len(raw)} listings)")
 
-    # Bland cards carry little text: open each new one for description + full image
+    # HTML cards (Bland, Módern, Línan...) carry little text: open each listing once for
+    # description + full image, and reuse that on later runs
+    fetched = 0
     for it in cands:
-        if it["source"].startswith("Bland") and it["url"] not in state:
+        if not it.get("from_html"):
+            continue
+        prev = state.get(it["url"], {})
+        if prev.get("detail_text") is not None:
+            it["text"] = prev["detail_text"]
+            it["image"] = prev.get("image") or it.get("image")
+        elif fetched < 150:
             sources.enrich_detail(it)
+            it["detail_text"] = it.get("text", "")
+            fetched += 1
             time.sleep(0.5)
+    log(f"Opened {fetched} listing pages for details")
 
     kept = [it for it in cands if filters.size_ok(it, scfg) and it.get("image")]
     log(f"{len(kept)} pass the size filter ({scfg['min_length_cm']}-{scfg['max_length_cm']} cm)")
@@ -100,6 +112,8 @@ def main():
         if not prev:
             new_urls.append(it["url"])
         rec = {**prev, **{k: it.get(k) for k in ("source", "title", "price", "url", "image", "size", "shape", "sold_out")}}
+        if it.get("detail_text") is not None:
+            rec["detail_text"] = it["detail_text"][:3000]
         rec.setdefault("first_seen", now)
         rec["last_seen"] = now
         if prev.get("price") and prev["price"] != it["price"]:

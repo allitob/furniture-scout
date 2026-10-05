@@ -190,12 +190,19 @@ def extract_cards(html, base, link_pattern, source):
     return list(cards.values())
 
 
-def html_listing(name, urls, link_pattern, log):
+def html_listing(name, urls, link_pattern, log, broad=False):
     out = []
     for u in urls:
-        r = get(u)
-        found = extract_cards(r.text, u, link_pattern, name)
-        out.extend(found)
+        try:
+            r = get(u)
+        except requests.HTTPError as e:
+            if out:  # ran past the last page
+                break
+            raise
+        for c in extract_cards(r.text, u, link_pattern, name):
+            c["from_html"] = True
+            c["broad"] = broad  # the page itself is a dining-table category
+            out.append(c)
     log(f"{name}: {len(out)} listings parsed from HTML")
     return out
 
@@ -216,6 +223,7 @@ def bland(categories, pages, log):
             if not cards:
                 break
             for c in cards:
+                c["from_html"] = True
                 out.setdefault(c["url"], c)
             time.sleep(1)
     log(f"Bland: {len(out)} listings scanned")
