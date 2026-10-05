@@ -1,0 +1,48 @@
+# What to look for. Edit freely — the pipeline reads this on every run.
+search:
+  item: dining table
+  # Keywords that mark a listing as a dining table (Icelandic + English, lowercase)
+  include_keywords: [borðstofuborð, bordstofubord, borðstofusett, eldhúsborð, matarborð, dining table, spisebord, matbord]
+  # Listings whose title contains any of these are dropped
+  exclude_keywords: [sófaborð, sofabord, náttborð, skrifborð, hliðarborð, kaffiborð, coffee, barborð, barstóll, bekkur, borðplata, framlenging, stækkunarplata, dúkur, löber, borðbúnaður, lampi]
+  max_price_isk: 400000
+  min_price_isk: 5000
+  # Table top length, cm. Extendable tables pass if any length in their range fits.
+  target_length_cm: 160
+  min_length_cm: 140
+  max_length_cm: 190
+  allow_round: false
+  # Keep listings where no size could be read from the text (flagged as "size?")
+  keep_unknown_size: true
+
+scoring:
+  # Repo variable OPENAI_MODEL overrides this.
+  model: gpt-4o
+  # Style score (0-10) at or above which a NEW listing triggers a phone notification
+  notify_min_score: 7
+  # Max candidates scored per run (cost guard). Already-scored listings are cached.
+  max_new_scores_per_run: 150
+
+sources:
+  shopify:
+    - {name: Epal, domain: www.epal.is}
+    - {name: Snúran, domain: snuran.is}
+  woocommerce:
+    - {name: Húsgagnahöllin, domain: husgagnahollin.is}
+    - {name: Línan, domain: linan.is}
+    - {name: Módern, domain: modern.is}
+    - {name: Dorma, domain: dorma.is}
+  html:
+    - name: ILVA
+      urls: ["https://www.ilva.is/bordstofan/bordstofubord/"]
+      link_pattern: "/stok-vara/"
+    - name: IKEA
+      urls: ["https://www.ikea.is/is/products/bordstofa/bordstofubord-bordplotur-og-bordstofusett/bordstofubord-bordplotur-og-bordstofusett"]
+      link_pattern: "/is/products/"
+  bland:
+    # Used-goods marketplace. Category pages, newest first.
+    categories:
+      - "https://bland.is/solutorg/heimilid/stofa-sofi/?categoryId=29"
+      - "https://bland.is/solutorg/heimilid/eldhus-badherbergi/?categoryId=30"
+      - "https://bland.is/solutorg/heimilid/antik-husgogn/?categoryId=114"
+    pages_per_category: 5
