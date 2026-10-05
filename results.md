@@ -1,6 +1,6 @@
 # Dining table matches
 
-Updated 2026-10-05 21:49 UTC. 64 tables in budget and size range. Sorted by style match (gpt-4o).
+Updated 2026-10-05 21:53 UTC. 64 tables in budget and size range. Sorted by style match (gpt-4o).
 
 | | Match | Table | Price |
 |---|---|---|---|
@@ -73,7 +73,6 @@ Updated 2026-10-05 21:49 UTC. 64 tables in budget and size range. Sorted by styl
 - Módern: 46
 - Línan: 99
 - ILVA: 88
-- IKEA: 0
 - Bland: 519
 
 </details>
