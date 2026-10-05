@@ -53,8 +53,14 @@ def candidate_image(item):
     import io
     from PIL import Image
     from .sources import get
-    r = get(item["image"])
-    im = Image.open(io.BytesIO(r.content))
+    # Some sites (Bland) only serve images to requests that look like they come from their pages
+    r = get(item["image"], headers={"Referer": item["url"],
+                                    "Accept": "image/avif,image/webp,image/png,image/jpeg,*/*;q=0.8"})
+    try:
+        im = Image.open(io.BytesIO(r.content))
+    except Exception:
+        raise RuntimeError(f"not an image ({r.headers.get('content-type')}, {len(r.content)} bytes): "
+                           f"{r.content[:120]!r}")
     im = im.convert("RGB")
     im.thumbnail((768, 768))
     buf = io.BytesIO()
