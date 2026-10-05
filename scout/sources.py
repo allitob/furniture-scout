@@ -230,6 +230,15 @@ def bland(categories, pages, log):
     return list(out.values())
 
 
+def fix_image_url(url):
+    """Bland's og:image ('/album/crop/...') returns an HTML page; the real photo is on img.bland.is."""
+    if url and "bland.is/album/" in url:
+        m = re.search(r"/album/(?:crop|400|img)/(\d+)/(\w+)/([^?]+)", url)
+        if m:
+            return f"https://img.bland.is/album/img/{m.group(1)}/{m.group(2)}/{m.group(3)}"
+    return url
+
+
 def enrich_detail(item):
     """Fetch a listing page for description text and a better image (og:image)."""
     try:
@@ -238,8 +247,13 @@ def enrich_detail(item):
         return item
     soup = BeautifulSoup(r.text, "html.parser")
     og = soup.find("meta", property="og:image")
-    if og and og.get("content"):
+    photo = next((urljoin(item["url"], i.get("src") or i.get("data-src"))
+                  for i in soup.find_all("img") if "/album/img/" in (i.get("src") or i.get("data-src") or "")), None)
+    if photo:
+        item["image"] = photo
+    elif og and og.get("content"):
         item["image"] = urljoin(item["url"], og["content"])
+    item["image"] = fix_image_url(item.get("image"))
     desc = soup.find("meta", property="og:description") or soup.find("meta", attrs={"name": "description"})
     body = soup.get_text(" ", strip=True)
     item["text"] = ((desc.get("content", "") if desc else "") + " " + body[:4000])

@@ -86,7 +86,7 @@ def main():
         prev = state.get(it["url"], {})
         if prev.get("detail_text") is not None:
             it["text"] = prev["detail_text"]
-            it["image"] = prev.get("image") or it.get("image")
+            it["image"] = sources.fix_image_url(prev.get("image") or it.get("image"))
         elif fetched < 150:
             sources.enrich_detail(it)
             it["detail_text"] = it.get("text", "")
