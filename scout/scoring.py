@@ -9,6 +9,8 @@ import base64
 import json
 import mimetypes
 import os
+import re
+import time
 from pathlib import Path
 
 import requests
@@ -46,16 +48,18 @@ def ref_images():
 
 
 def candidate_image(item):
-    """Download the listing image ourselves (some shops block OpenAI's fetcher) and inline it."""
+    """Download the listing image ourselves (some shops block OpenAI's fetcher, some serve
+    AVIF or mislabelled files) and re-encode it as a small JPEG."""
+    import io
+    from PIL import Image
     from .sources import get
-    try:
-        r = get(item["image"])
-        mime = (r.headers.get("content-type") or "image/jpeg").split(";")[0]
-        if mime.startswith("image/") and len(r.content) < 15_000_000:
-            return f"data:{mime};base64,{base64.b64encode(r.content).decode()}"
-    except Exception:
-        pass
-    return item["image"]
+    r = get(item["image"])
+    im = Image.open(io.BytesIO(r.content))
+    im = im.convert("RGB")
+    im.thumbnail((768, 768))
+    buf = io.BytesIO()
+    im.save(buf, "JPEG", quality=85)
+    return "data:image/jpeg;base64," + base64.b64encode(buf.getvalue()).decode()
 
 
 def score(item, refs, model, detail="low"):
@@ -64,17 +68,24 @@ def score(item, refs, model, detail="low"):
     for r in refs:
         content.append({"type": "image_url", "image_url": {"url": r, "detail": "low"}})
     content.append({"type": "image_url", "image_url": {"url": candidate_image(item), "detail": detail}})
-    resp = requests.post(
-        API,
-        headers={"Authorization": f"Bearer {key}"},
-        json={
-            "model": model,
-            "messages": [{"role": "user", "content": content}],
-            "response_format": {"type": "json_object"},
-            "max_tokens": 300,
-        },
-        timeout=90,
-    )
+    for attempt in range(6):
+        resp = requests.post(
+            API,
+            headers={"Authorization": f"Bearer {key}"},
+            json={
+                "model": model,
+                "messages": [{"role": "user", "content": content}],
+                "response_format": {"type": "json_object"},
+                "max_tokens": 300,
+            },
+            timeout=90,
+        )
+        if resp.status_code != 429:
+            break
+        # Low-tier OpenAI accounts have a tokens-per-minute cap; wait it out
+        m = re.search(r"try again in ([\d.]+)(ms|s)", resp.text)
+        wait = (float(m.group(1)) / (1000 if m.group(2) == "ms" else 1)) if m else 10
+        time.sleep(min(wait + 1, 60))
     if resp.status_code != 200:
         raise RuntimeError(f"OpenAI {resp.status_code}: {resp.text[:300]}")
     data = json.loads(resp.json()["choices"][0]["message"]["content"])
