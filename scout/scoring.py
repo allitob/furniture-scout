@@ -20,6 +20,10 @@ PROMPT = """You are helping someone find a dining table that matches a specific 
 The first {n} images are REFERENCE images showing the look they want.
 The LAST image is a CANDIDATE listing ({title}).
 
+In words, the target look is: solid or veneered warm wood (walnut, teak, oiled oak), mid-century
+Scandinavian, slim top with softly rounded corners/edges, tapered wooden legs (often slightly splayed)
+or a simple wooden pedestal, matte/oiled finish, no glass, metal, high gloss, farmhouse or industrial.
+
 Judge the candidate table only (ignore styling, chairs, room, photo quality):
 top material and colour, wood tone, edge profile, leg/base design, proportions, overall design language.
 
