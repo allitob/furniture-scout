@@ -20,7 +20,11 @@ def ascii_fold(s: str) -> str:
     return unicodedata.normalize("NFKD", s).encode("ascii", "ignore").decode()
 
 
+TABLE_WORD = re.compile(r"(^|[^a-záéíóúýþæöð])(borð|bord|table|dining)([^a-záéíóúýþæöð]|$)")
+
+
 def is_candidate(item, cfg) -> bool:
+    """Decide from the TITLE whether this is a dining table; descriptions only break ties."""
     title = norm(item["title"])
     folded_title = ascii_fold(item["title"])
     hay = title + " " + norm(item.get("text", ""))[:600]
@@ -30,7 +34,13 @@ def is_candidate(item, cfg) -> bool:
     # A chair listing that mentions tables in passing is still a chair; a "table + chairs" set is kept
     if re.search(r"st[oó]l|chair", title) and not re.search(r"bor[dð]|table", title):
         return False
-    return any(k in hay or ascii_fold(k) in folded for k in cfg["include_keywords"])
+    if any(k in title or ascii_fold(k) in folded_title for k in cfg["include_keywords"]):
+        return True
+    # Plain "Borð X" product names: keep if the description says it's for dining
+    if TABLE_WORD.search(title):
+        return cfg.get("broad", False) or any(
+            k in hay or ascii_fold(k) in folded for k in cfg["include_keywords"] + ["dining", "borðstofu", "matar"])
+    return False
 
 
 def parse_size(text: str):
@@ -52,6 +62,9 @@ def parse_size(text: str):
         return "rect", sorted({l for lens, _ in rects for l in lens})
     for a, b in LENGTH_RE.findall(t):
         return "rect", [int(a)] + ([int(b)] if b else [])
+    m = re.search(r"\bL\s?(\d{2,3})\b", t)  # "SC113 L160"
+    if m:
+        return "rect", [int(m.group(1))]
     m = ROUND_RE.search(t)
     if m:
         return "round", [int(m.group(1))]
@@ -60,6 +73,8 @@ def parse_size(text: str):
 
 def size_ok(item, cfg):
     shape, lens = parse_size(item["title"] + " " + item.get("text", ""))
+    if ROUND_RE.search(item["title"]) and not RECT_RE.search(item["title"]):
+        shape, lens = "round", [int(ROUND_RE.search(item["title"]).group(1))]
     item["shape"] = shape
     if shape == "round":
         item["size"] = f"Ø{lens[0]}"

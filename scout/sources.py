@@ -70,7 +70,8 @@ def shopify(name, domain, log):
             variants = [v for v in p.get("variants", []) if v.get("available", True)]
             if not variants:
                 continue
-            price = min(float(v["price"]) for v in variants)
+            prices = [float(v["price"]) for v in variants]
+            price = min(p_ for p_ in prices if p_ >= 0.3 * max(prices))
             img = (p.get("images") or [{}])[0].get("src")
             out.append({
                 "source": name,
@@ -134,6 +135,18 @@ def _img_src(img, base):
     return None
 
 
+BADGE_RE = re.compile(r"^(?:\d+\s*%|nýtt|vinsælt|fast lágt verð|sérpöntun|tilboð|útsala|outlet|sale|-)\s*", re.I)
+
+
+def clean_title(t):
+    t = PRICE_RE.split(t)[0] if PRICE_RE.search(t) else t
+    t = re.split(r"\s(?:\d{1,3}(?:\.\d{3})+)\s*kr", t)[0]
+    prev = None
+    while prev != t:
+        prev, t = t, BADGE_RE.sub("", t.strip())
+    return t.strip(" -·|")
+
+
 def extract_cards(html, base, link_pattern, source):
     soup = BeautifulSoup(html, "html.parser")
     cards = {}
@@ -158,7 +171,8 @@ def extract_cards(html, base, link_pattern, source):
             node = node.parent
         if price is None:
             continue
-        title = a.get_text(" ", strip=True)
+        card_text = node.get_text(" ", strip=True)
+        title = clean_title(a.get_text(" ", strip=True))
         if len(title) < 4:
             h = node.find(["h2", "h3", "h4"]) if node else None
             img = node.find("img") if node else None
@@ -171,6 +185,7 @@ def extract_cards(html, base, link_pattern, source):
             "url": href,
             "image": _img_src(img, base) if img else None,
             "text": "",
+            "sold_out": bool(re.search(r"uppsel", card_text, re.I)) and not re.search(r"til á|til í", card_text, re.I),
         }
     return list(cards.values())
 

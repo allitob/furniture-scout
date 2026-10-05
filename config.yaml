@@ -4,7 +4,7 @@ search:
   # Keywords that mark a listing as a dining table (Icelandic + English, lowercase)
   include_keywords: [borðstofuborð, bordstofubord, borðstofusett, eldhúsborð, matarborð, dining table, spisebord, matbord]
   # Listings whose title contains any of these are dropped
-  exclude_keywords: [sófaborð, sofabord, náttborð, skrifborð, hliðarborð, kaffiborð, coffee, barborð, barstóll, bekkur, borðplata, framlenging, stækkunarplata, dúkur, löber, borðbúnaður, lampi]
+  exclude_keywords: [sófaborð, sofabord, náttborð, skrifborð, hliðarborð, kaffiborð, coffee, barborð, barstóll, bekkur, borðplata, framlenging, stækkunarplata, dúkur, löber, borðbúnaður, lampi, stækkunarplöt, barnaborð, barna, kertastjaki]
   max_price_isk: 400000
   min_price_isk: 5000
   # Table top length, cm. Extendable tables pass if any length in their range fits.
@@ -29,10 +29,13 @@ sources:
     - {name: Snúran, domain: snuran.is}
   woocommerce:
     - {name: Húsgagnahöllin, domain: husgagnahollin.is}
-    - {name: Línan, domain: linan.is}
-    - {name: Módern, domain: modern.is}
-    - {name: Dorma, domain: dorma.is}
   html:
+    - name: Módern
+      urls: ["https://modern.is/product-category/husgogn/bord/bordstofubord/"]
+      link_pattern: "/shop/husgogn/bord/bordstofubord/"
+    - name: Línan
+      urls: ["https://linan.is/verslun/bord/", "https://linan.is/verslun/bord/page/2/", "https://linan.is/verslun/bord/page/3/"]
+      link_pattern: "/vara/"
     - name: ILVA
       urls: ["https://www.ilva.is/bordstofan/bordstofubord/"]
       link_pattern: "/stok-vara/"

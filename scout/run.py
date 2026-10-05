@@ -28,6 +28,8 @@ LOG = []
 def log(msg):
     print(msg, flush=True)
     LOG.append(msg)
+    if len(LOG) > 400:
+        del LOG[:100]
 
 
 def collect(cfg):
@@ -66,7 +68,7 @@ def main():
     raw, health = collect(cfg)
 
     # Used listings have vague titles ("Borð og 4 stólar"), so match more broadly there
-    bland_cfg = dict(scfg, include_keywords=scfg["include_keywords"] + ["borð", "bord", "table"])
+    bland_cfg = dict(scfg, broad=True)
     cands = []
     for it in raw:
         c = bland_cfg if it["source"].startswith("Bland") else scfg
@@ -97,7 +99,7 @@ def main():
         prev = state.get(it["url"], {})
         if not prev:
             new_urls.append(it["url"])
-        rec = {**prev, **{k: it[k] for k in ("source", "title", "price", "url", "image", "size", "shape")}}
+        rec = {**prev, **{k: it.get(k) for k in ("source", "title", "price", "url", "image", "size", "shape", "sold_out")}}
         rec.setdefault("first_seen", now)
         rec["last_seen"] = now
         if prev.get("price") and prev["price"] != it["price"]:
@@ -125,6 +127,7 @@ def main():
     write_csv(active)
     write_md(active, health, now, set(new_urls), model if refs else None)
     notify(active, set(new_urls), cfg["scoring"]["notify_min_score"])
+    (DATA / "last_run.log").write_text("\n".join(LOG) + "\n", encoding="utf-8")
 
 
 def write_csv(rows):
@@ -145,7 +148,7 @@ def row_md(r, new):
     price = fmt_isk(r["price"])
     if r.get("prev_price") and r["prev_price"] > r["price"]:
         price += f"<br><sub>was {fmt_isk(r['prev_price'])}</sub>"
-    badge = " 🆕" if new else ""
+    badge = (" 🆕" if new else "") + (" · <sub>uppselt</sub>" if r.get("sold_out") else "")
     why = r.get("reason", "")
     img = f'<img src="{r["image"]}" width="140">' if r.get("image") else ""
     title = r["title"].replace("|", "/")
