@@ -6,7 +6,96 @@ Línan: 99 listings parsed from HTML
 ILVA: 88 listings parsed from HTML
 IKEA: 0 listings parsed from HTML
 Bland: 519 listings scanned
-178 dining-table candidates within budget (from 11129 listings)
-51 pass the size filter (140-190 cm)
-Scored 7 listings with gpt-4o
-Notify: 0 new strong matches
+185 dining-table candidates within budget (from 11129 listings)
+Opened 111 listing pages for details
+87 pass the size filter (140-190 cm)
+score failed for https://bland.is/til-solu/heimilid/stofa/ikea-ekedalen-bord/5292736/: OpenAI 400: {
+  "error": {
+    "message": "You uploaded an unsupported image. Please make sure your image has of one the following formats: ['png', 'jpeg', 'gif', 'webp'].",
+    "type": "invalid_request_error",
+    "param": null,
+    "code": "invalid_image_format"
+  }
+}
+score failed for https://bland.is/til-solu/heimilid/stofa/bord-og-tveir-stolar-nylegt/5292648/: OpenAI 400: {
+  "error": {
+    "message": "You uploaded an unsupported image. Please make sure your image has of one the following formats: ['png', 'jpeg', 'gif', 'webp'].",
+    "type": "invalid_request_error",
+    "param": null,
+    "code": "invalid_image_format"
+  }
+}
+score failed for https://bland.is/til-solu/heimilid/stofa/bordstofubord-ur-ilva/5292481/: OpenAI 400: {
+  "error": {
+    "message": "You uploaded an unsupported image. Please make sure your image has of one the following formats: ['png', 'jpeg', 'gif', 'webp'].",
+    "type": "invalid_request_error",
+    "param": null,
+    "code": "invalid_image_format"
+  }
+}
+score failed for https://bland.is/til-solu/heimilid/stofa/laminate-bordstofubord/5292390/: OpenAI 400: {
+  "error": {
+    "message": "You uploaded an unsupported image. Please make sure your image has of one the following formats: ['png', 'jpeg', 'gif', 'webp'].",
+    "type": "invalid_request_error",
+    "param": null,
+    "code": "invalid_image_format"
+  }
+}
+score failed for https://bland.is/til-solu/heimilid/stofa/bord-ikea/5292364/: OpenAI 400: {
+  "error": {
+    "message": "You uploaded an unsupported image. Please make sure your image has of one the following formats: ['png', 'jpeg', 'gif', 'webp'].",
+    "type": "invalid_request_error",
+    "param": null,
+    "code": "invalid_image_format"
+  }
+}
+score failed for https://bland.is/til-solu/heimilid/stofa/staekkanlegt-eldhusbord/5292282/: OpenAI 429: {
+    "error": {
+        "message": "Rate limit reached for gpt-4o in organization org-CpktkGaOjVZl5ItRT9ezEFKt on tokens per min (TPM): Limit 30000, Used 25646, Requested 6363. Please try again in 4.017s. Visit https://platform.openai.com/account/rate-limits to learn more.",
+        "type": "tokens
+score failed for https://bland.is/til-solu/heimilid/stofa/bordstofubord-160x90-cm-210x90/5292203/: OpenAI 429: {
+    "error": {
+        "message": "Rate limit reached for gpt-4o in organization org-CpktkGaOjVZl5ItRT9ezEFKt on tokens per min (TPM): Limit 30000, Used 25275, Requested 6364. Please try again in 3.278s. Visit https://platform.openai.com/account/rate-limits to learn more.",
+        "type": "tokens
+score failed for https://bland.is/til-solu/heimilid/stofa/bordstofubord-og-5-stolar/5292157/: OpenAI 429: {
+    "error": {
+        "message": "Rate limit reached for gpt-4o in organization org-CpktkGaOjVZl5ItRT9ezEFKt on tokens per min (TPM): Limit 30000, Used 25083, Requested 6363. Please try again in 2.892s. Visit https://platform.openai.com/account/rate-limits to learn more.",
+        "type": "tokens
+score failed for https://bland.is/til-solu/heimilid/stofa/staekkanlegt-bordstofubord/5292154/: OpenAI 429: {
+    "error": {
+        "message": "Rate limit reached for gpt-4o in organization org-CpktkGaOjVZl5ItRT9ezEFKt on tokens per min (TPM): Limit 30000, Used 24910, Requested 6363. Please try again in 2.546s. Visit https://platform.openai.com/account/rate-limits to learn more.",
+        "type": "tokens
+score failed for https://bland.is/til-solu/heimilid/stofa/eldhusbord-med-snuningsdisk-til-solu/5291579/: OpenAI 429: {
+    "error": {
+        "message": "Rate limit reached for gpt-4o in organization org-CpktkGaOjVZl5ItRT9ezEFKt on tokens per min (TPM): Limit 30000, Used 24734, Requested 6367. Please try again in 2.202s. Visit https://platform.openai.com/account/rate-limits to learn more.",
+        "type": "tokens
+score failed for https://bland.is/til-solu/heimilid/stofa/bordstofubord/5291196/: OpenAI 429: {
+    "error": {
+        "message": "Rate limit reached for gpt-4o in organization org-CpktkGaOjVZl5ItRT9ezEFKt on tokens per min (TPM): Limit 30000, Used 24545, Requested 6360. Please try again in 1.81s. Visit https://platform.openai.com/account/rate-limits to learn more.",
+        "type": "tokens"
+score failed for https://bland.is/til-solu/heimilid/eldhus-og-badherbergi/eldhusbord-og-4-stolar/5292845/: OpenAI 429: {
+    "error": {
+        "message": "Rate limit reached for gpt-4o in organization org-CpktkGaOjVZl5ItRT9ezEFKt on tokens per min (TPM): Limit 30000, Used 24302, Requested 6363. Please try again in 1.33s. Visit https://platform.openai.com/account/rate-limits to learn more.",
+        "type": "tokens"
+score failed for https://bland.is/til-solu/heimilid/eldhus-og-badherbergi/italskt-bordstofubord/5292343/: OpenAI 429: {
+    "error": {
+        "message": "Rate limit reached for gpt-4o in organization org-CpktkGaOjVZl5ItRT9ezEFKt on tokens per min (TPM): Limit 30000, Used 24108, Requested 6362. Please try again in 939ms. Visit https://platform.openai.com/account/rate-limits to learn more.",
+        "type": "tokens"
+score failed for https://bland.is/til-solu/heimilid/eldhus-og-badherbergi/bord/5291823/: OpenAI 429: {
+    "error": {
+        "message": "Rate limit reached for gpt-4o in organization org-CpktkGaOjVZl5ItRT9ezEFKt on tokens per min (TPM): Limit 30000, Used 23924, Requested 6358. Please try again in 564ms. Visit https://platform.openai.com/account/rate-limits to learn more.",
+        "type": "tokens"
+score failed for https://bland.is/til-solu/heimilid/eldhus-og-badherbergi/ikea-docksta-eldhusbord/5282508/: OpenAI 429: {
+    "error": {
+        "message": "Rate limit reached for gpt-4o in organization org-CpktkGaOjVZl5ItRT9ezEFKt on tokens per min (TPM): Limit 30000, Used 23701, Requested 6363. Please try again in 128ms. Visit https://platform.openai.com/account/rate-limits to learn more.",
+        "type": "tokens"
+score failed for https://bland.is/til-solu/heimilid/eldhus-og-badherbergi/ilva-bord/5270273/: OpenAI 400: {
+  "error": {
+    "message": "You uploaded an unsupported image. Please make sure your image has of one the following formats: ['png', 'jpeg', 'gif', 'webp'].",
+    "type": "invalid_request_error",
+    "param": null,
+    "code": "invalid_image_format"
+  }
+}
+Scored 20 listings with gpt-4o
+Notify: posted 6 new matches to issue #1
