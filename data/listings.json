@@ -15,7 +15,7 @@
   "style": "Scandinavian stool",
   "reason": "The candidate is a wooden stool, not a dining table.",
   "refs_sig": "7:ref01.jpg,ref02.jpg,ref03.jpg,ref04.jpg,ref05.jpg,ref06.jpg,ref07.jpg",
-  "active": true
+  "active": false
  },
  "https://www.epal.is/products/kertastjaki-halo-s-ivory": {
   "source": "Epal",
@@ -33,7 +33,7 @@
   "style": "modern decor item",
   "reason": "The candidate is not a dining table; it is a decorative object.",
   "refs_sig": "7:ref01.jpg,ref02.jpg,ref03.jpg,ref04.jpg,ref05.jpg,ref06.jpg,ref07.jpg",
-  "active": true
+  "active": false
  },
  "https://www.epal.is/products/kertastjaki-halo-l-wine-red": {
   "source": "Epal",
@@ -51,7 +51,7 @@
   "style": "modern abstract",
   "reason": "The item is not a dining table and does not match the design aesthetic.",
   "refs_sig": "7:ref01.jpg,ref02.jpg,ref03.jpg,ref04.jpg,ref05.jpg,ref06.jpg,ref07.jpg",
-  "active": true
+  "active": false
  },
  "https://www.epal.is/products/kertastjaki-halo-s-raw-aluminium": {
   "source": "Epal",
@@ -69,7 +69,7 @@
   "style": "modern industrial",
   "reason": "The item is metal and does not resemble a dining table or match the warm wood mid-century Scandinavian aesthetic.",
   "refs_sig": "7:ref01.jpg,ref02.jpg,ref03.jpg,ref04.jpg,ref05.jpg,ref06.jpg,ref07.jpg",
-  "active": true
+  "active": false
  },
  "https://www.epal.is/products/kertastjaki-halo-s-wine-red": {
   "source": "Epal",
@@ -87,7 +87,7 @@
   "style": "modern cylindrical",
   "reason": "The item is not a table but a red cylindrical object with a glossy finish, not matching any dining table criteria.",
   "refs_sig": "7:ref01.jpg,ref02.jpg,ref03.jpg,ref04.jpg,ref05.jpg,ref06.jpg,ref07.jpg",
-  "active": true
+  "active": false
  },
  "https://www.epal.is/products/kertastjaki-halo-l-ivory": {
   "source": "Epal",
@@ -105,7 +105,7 @@
   "style": "modern abstract",
   "reason": "The candidate is not a dining table; it is an abstract, modern piece with no resemblance to the target aesthetic.",
   "refs_sig": "7:ref01.jpg,ref02.jpg,ref03.jpg,ref04.jpg,ref05.jpg,ref06.jpg,ref07.jpg",
-  "active": true
+  "active": false
  },
  "https://www.epal.is/products/bord-thorvald-dining-sc113-l160": {
   "source": "Epal",
@@ -113,17 +113,18 @@
   "price": 182000,
   "url": "https://www.epal.is/products/bord-thorvald-dining-sc113-l160",
   "image": "https://cdn.shopify.com/s/files/1/0817/4167/6800/files/6c8575d6-f7ec-4595-89c0-96d8e7392735.jpg?v=1783976292",
-  "size": "size?",
-  "shape": null,
+  "size": "160 cm",
+  "shape": "rect",
   "first_seen": "2026-10-05 21:23 UTC",
-  "last_seen": "2026-10-05 21:23 UTC",
+  "last_seen": "2026-10-05 21:31 UTC",
   "score": 2.0,
   "is_dining_table": true,
   "materials": "metal frame, dark top",
   "style": "industrial, minimal",
   "reason": "The table lacks the warm wood tone and mid-century design; it has metal legs and a dark top, diverging from the Scandinavian aesthetic.",
   "refs_sig": "7:ref01.jpg,ref02.jpg,ref03.jpg,ref04.jpg,ref05.jpg,ref06.jpg,ref07.jpg",
-  "active": true
+  "active": true,
+  "sold_out": null
  },
  "https://www.epal.is/products/eldhusrullustandur-toolie-dark-oak": {
   "source": "Epal",
@@ -141,7 +142,7 @@
   "style": "minimal pedestal",
   "reason": "This is not a dining table; it is a pedestal stand, not matching the reference style.",
   "refs_sig": "7:ref01.jpg,ref02.jpg,ref03.jpg,ref04.jpg,ref05.jpg,ref06.jpg,ref07.jpg",
-  "active": true
+  "active": false
  },
  "https://www.epal.is/products/eldhusrullustandur-toolie-oiled-oak": {
   "source": "Epal",
@@ -159,7 +160,7 @@
   "style": "minimalist stand",
   "reason": "The candidate is not a dining table; it appears to be a minimalistic stand.",
   "refs_sig": "7:ref01.jpg,ref02.jpg,ref03.jpg,ref04.jpg,ref05.jpg,ref06.jpg,ref07.jpg",
-  "active": true
+  "active": false
  },
  "https://www.epal.is/products/hnetubrjotur-cairn-oak": {
   "source": "Epal",
@@ -177,7 +178,7 @@
   "style": "decorative accessory",
   "reason": "The image is a decorative nutcracker, not a dining table, and does not match the described design criteria.",
   "refs_sig": "7:ref01.jpg,ref02.jpg,ref03.jpg,ref04.jpg,ref05.jpg,ref06.jpg,ref07.jpg",
-  "active": true
+  "active": false
  },
  "https://www.epal.is/products/hnetubrjotur-cairn-dark-brown": {
   "source": "Epal",
@@ -195,7 +196,7 @@
   "style": "abstract object",
   "reason": "The image is not of a dining table, but rather an abstract wooden object, therefore does not match the style criteria.",
   "refs_sig": "7:ref01.jpg,ref02.jpg,ref03.jpg,ref04.jpg,ref05.jpg,ref06.jpg,ref07.jpg",
-  "active": true
+  "active": false
  },
  "https://www.epal.is/products/salt-og-pipar-kvorn-arcs": {
   "source": "Epal",
@@ -213,7 +214,7 @@
   "style": "modern, abstract",
   "reason": "The object is not a table but a pepper grinder, with a metal and abstract design, unlike the warm wood and Scandinavian style sought.",
   "refs_sig": "7:ref01.jpg,ref02.jpg,ref03.jpg,ref04.jpg,ref05.jpg,ref06.jpg,ref07.jpg",
-  "active": true
+  "active": false
  },
  "https://www.epal.is/products/bord-dapple-160x90-h74-cashmere": {
   "source": "Epal",
@@ -224,14 +225,15 @@
   "size": "160 cm",
   "shape": "rect",
   "first_seen": "2026-10-05 21:23 UTC",
-  "last_seen": "2026-10-05 21:23 UTC",
+  "last_seen": "2026-10-05 21:31 UTC",
   "score": 2.0,
   "is_dining_table": true,
   "materials": "metal, perforated surface",
   "style": "modern, industrial",
   "reason": "The table is metal with a perforated top, which contrasts the warm wood, tapered wood legs, and mid-century style of the reference images.",
   "refs_sig": "7:ref01.jpg,ref02.jpg,ref03.jpg,ref04.jpg,ref05.jpg,ref06.jpg,ref07.jpg",
-  "active": true
+  "active": true,
+  "sold_out": null
  },
  "https://www.epal.is/products/salt-og-piparkvorn-sina-dark-ash-brass": {
   "source": "Epal",
@@ -249,7 +251,7 @@
   "style": "industrial modern",
   "reason": "The candidate is not a dining table; it is a salt and pepper grinder set.",
   "refs_sig": "7:ref01.jpg,ref02.jpg,ref03.jpg,ref04.jpg,ref05.jpg,ref06.jpg,ref07.jpg",
-  "active": true
+  "active": false
  },
  "https://www.epal.is/products/kvorn-cairn-grinder-oak": {
   "source": "Epal",
@@ -267,7 +269,7 @@
   "style": "minimalist object",
   "reason": "This is a wooden object, not a table, and does not match any dining table design criteria.",
   "refs_sig": "7:ref01.jpg,ref02.jpg,ref03.jpg,ref04.jpg,ref05.jpg,ref06.jpg,ref07.jpg",
-  "active": true
+  "active": false
  },
  "https://www.epal.is/products/kvorn-pebble-grinder-oak": {
   "source": "Epal",
@@ -285,7 +287,7 @@
   "style": "sculptural object",
   "reason": "The candidate is an oak sculpture, not a dining table.",
   "refs_sig": "7:ref01.jpg,ref02.jpg,ref03.jpg,ref04.jpg,ref05.jpg,ref06.jpg,ref07.jpg",
-  "active": true
+  "active": false
  },
  "https://www.epal.is/products/karfa-nordic-caddy": {
   "source": "Epal",
@@ -303,7 +305,7 @@
   "style": "modern industrial",
   "reason": "The object is not a dining table; it has metal and wood and an industrial style unlike the mid-century Scandinavian aesthetic.",
   "refs_sig": "7:ref01.jpg,ref02.jpg,ref03.jpg,ref04.jpg,ref05.jpg,ref06.jpg,ref07.jpg",
-  "active": true
+  "active": false
  },
  "https://www.epal.is/products/bord-balcony-l144x76-h74-iron-red": {
   "source": "Epal",
@@ -314,14 +316,15 @@
   "size": "144 cm",
   "shape": "rect",
   "first_seen": "2026-10-05 21:23 UTC",
-  "last_seen": "2026-10-05 21:23 UTC",
+  "last_seen": "2026-10-05 21:31 UTC",
   "score": 1.0,
   "is_dining_table": true,
   "materials": "metal",
   "style": "industrial, minimalist",
   "reason": "The table features a metal construction, lacks tapered wooden legs, and does not have a warm wood finish or mid-century design elements.",
   "refs_sig": "7:ref01.jpg,ref02.jpg,ref03.jpg,ref04.jpg,ref05.jpg,ref06.jpg,ref07.jpg",
-  "active": true
+  "active": true,
+  "sold_out": null
  },
  "https://www.epal.is/products/bakki-divot-brass-18x16cm": {
   "source": "Epal",
@@ -339,7 +342,7 @@
   "style": "metal object",
   "reason": "The candidate is not a dining table; it's a brass item, not made of wood or matching the dining table aesthetic described.",
   "refs_sig": "7:ref01.jpg,ref02.jpg,ref03.jpg,ref04.jpg,ref05.jpg,ref06.jpg,ref07.jpg",
-  "active": true
+  "active": false
  },
  "https://www.epal.is/products/bord-ah902-98-5x100-tekk": {
   "source": "Epal",
@@ -350,14 +353,15 @@
   "size": "size?",
   "shape": null,
   "first_seen": "2026-10-05 21:23 UTC",
-  "last_seen": "2026-10-05 21:23 UTC",
+  "last_seen": "2026-10-05 21:31 UTC",
   "score": 2.0,
   "is_dining_table": true,
   "materials": "teak or similar",
   "style": "modern minimalist",
   "reason": "The table has a slatted top and straight legs, which contrasts with the mid-century style and lacks the refined, rounded elements and tapered legs.",
   "refs_sig": "7:ref01.jpg,ref02.jpg,ref03.jpg,ref04.jpg,ref05.jpg,ref06.jpg,ref07.jpg",
-  "active": true
+  "active": true,
+  "sold_out": null
  },
  "https://www.epal.is/products/braudkarfa-cobra": {
   "source": "Epal",
@@ -375,7 +379,7 @@
   "style": "contemporary metal decor",
   "reason": "The candidate is a metal decorative piece, not a wooden dining table.",
   "refs_sig": "7:ref01.jpg,ref02.jpg,ref03.jpg,ref04.jpg,ref05.jpg,ref06.jpg,ref07.jpg",
-  "active": true
+  "active": false
  },
  "https://www.epal.is/products/kertastjaki-bernadotte-3-pk-s-m-l": {
   "source": "Epal",
@@ -393,7 +397,7 @@
   "style": "modern, minimal",
   "reason": "The candidate is a set of candle holders, not a dining table.",
   "refs_sig": "7:ref01.jpg,ref02.jpg,ref03.jpg,ref04.jpg,ref05.jpg,ref06.jpg,ref07.jpg",
-  "active": true
+  "active": false
  },
  "https://www.epal.is/products/nomi-bakki": {
   "source": "Epal",
@@ -411,7 +415,7 @@
   "style": "minimalist, modern",
   "reason": "The image shows a plastic object, not a dining table, and it doesn't match the mid-century Scandinavian style in any aspect.",
   "refs_sig": "7:ref01.jpg,ref02.jpg,ref03.jpg,ref04.jpg,ref05.jpg,ref06.jpg,ref07.jpg",
-  "active": true
+  "active": false
  },
  "https://www.epal.is/products/hnifaparasett-bernadotte-16stk": {
   "source": "Epal",
@@ -429,7 +433,7 @@
   "style": "cutlery",
   "reason": "The image shows cutlery, not a dining table.",
   "refs_sig": "7:ref01.jpg,ref02.jpg,ref03.jpg,ref04.jpg,ref05.jpg,ref06.jpg,ref07.jpg",
-  "active": true
+  "active": false
  },
  "https://www.epal.is/products/framreidsluskeidar-bloom-2-pk": {
   "source": "Epal",
@@ -447,7 +451,7 @@
   "style": "not applicable",
   "reason": "The candidate image does not show a dining table.",
   "refs_sig": "7:ref01.jpg,ref02.jpg,ref03.jpg,ref04.jpg,ref05.jpg,ref06.jpg,ref07.jpg",
-  "active": true
+  "active": false
  },
  "https://www.epal.is/products/matarilat-ferhyrnd-3-pk-gler": {
   "source": "Epal",
@@ -465,7 +469,7 @@
   "style": "modern, minimal",
   "reason": "The candidate listing is made of glass, not wood, which doesn't match the mid-century Scandinavian aesthetic described.",
   "refs_sig": "7:ref01.jpg,ref02.jpg,ref03.jpg,ref04.jpg,ref05.jpg,ref06.jpg,ref07.jpg",
-  "active": true
+  "active": false
  },
  "https://www.epal.is/products/kvorn-cairn-grinder-dark-brown": {
   "source": "Epal",
@@ -483,7 +487,7 @@
   "style": "modern sculptural",
   "reason": "The candidate is not a dining table; it is a sculptural item possibly used for grinding.",
   "refs_sig": "7:ref01.jpg,ref02.jpg,ref03.jpg,ref04.jpg,ref05.jpg,ref06.jpg,ref07.jpg",
-  "active": true
+  "active": false
  },
  "https://www.epal.is/products/kvorn-pebble-grinder-dark-brown": {
   "source": "Epal",
@@ -501,7 +505,7 @@
   "style": "abstract sculpture",
   "reason": "The candidate is a wooden sculpture, not a dining table.",
   "refs_sig": "7:ref01.jpg,ref02.jpg,ref03.jpg,ref04.jpg,ref05.jpg,ref06.jpg,ref07.jpg",
-  "active": true
+  "active": false
  },
  "https://www.epal.is/products/kertastjaki-curved-h23-svartur": {
   "source": "Epal",
@@ -519,7 +523,7 @@
   "style": "minimalist, modern",
   "reason": "The candidate does not resemble a dining table and lacks any wooden elements or mid-century design characteristics.",
   "refs_sig": "7:ref01.jpg,ref02.jpg,ref03.jpg,ref04.jpg,ref05.jpg,ref06.jpg,ref07.jpg",
-  "active": true
+  "active": false
  },
  "https://www.epal.is/products/kertastjaki-curved-h26-sand": {
   "source": "Epal",
@@ -537,7 +541,7 @@
   "style": "modern sculptural",
   "reason": "The candidate is not a dining table; it is a candle holder with a modern design, which does not match the dining table aesthetic.",
   "refs_sig": "7:ref01.jpg,ref02.jpg,ref03.jpg,ref04.jpg,ref05.jpg,ref06.jpg,ref07.jpg",
-  "active": true
+  "active": false
  },
  "https://www.epal.is/products/kertastjaki-curved-h26-svartur": {
   "source": "Epal",
@@ -555,7 +559,7 @@
   "style": "modern sculptural",
   "reason": "The candidate is not a dining table; it is a metal candlestick holder, which does not match the style or function.",
   "refs_sig": "7:ref01.jpg,ref02.jpg,ref03.jpg,ref04.jpg,ref05.jpg,ref06.jpg,ref07.jpg",
-  "active": true
+  "active": false
  },
  "https://www.epal.is/products/kertastjaki-curved-h23-sand": {
   "source": "Epal",
@@ -573,7 +577,7 @@
   "style": "modern minimalist",
   "reason": "The item is not a dining table; it is a candle holder with a metal construction.",
   "refs_sig": "7:ref01.jpg,ref02.jpg,ref03.jpg,ref04.jpg,ref05.jpg,ref06.jpg,ref07.jpg",
-  "active": true
+  "active": false
  },
  "https://www.epal.is/products/eikarplatti-oak-piece-no-32-flatur": {
   "source": "Epal",
@@ -591,7 +595,7 @@
   "style": "minimalist round",
   "reason": "The item is not a table; it appears to be a wooden object, possibly a base or platform, not suited for dining use.",
   "refs_sig": "7:ref01.jpg,ref02.jpg,ref03.jpg,ref04.jpg,ref05.jpg,ref06.jpg,ref07.jpg",
-  "active": true
+  "active": false
  },
  "https://www.epal.is/products/leikfong-veggies-utsaumad-5-stk": {
   "source": "Epal",
@@ -609,7 +613,7 @@
   "style": "playful decor",
   "reason": "The candidate image is of soft toy vegetables, not a table.",
   "refs_sig": "7:ref01.jpg,ref02.jpg,ref03.jpg,ref04.jpg,ref05.jpg,ref06.jpg,ref07.jpg",
-  "active": true
+  "active": false
  },
  "https://www.epal.is/products/leikfong-fish-utsaumad-5-stk": {
   "source": "Epal",
@@ -627,7 +631,7 @@
   "style": "N/A",
   "reason": "The candidate listing does not show a dining table; it depicts toy fish, not furniture.",
   "refs_sig": "7:ref01.jpg,ref02.jpg,ref03.jpg,ref04.jpg,ref05.jpg,ref06.jpg,ref07.jpg",
-  "active": true
+  "active": false
  },
  "https://www.epal.is/products/skurdarbretti-m-rauf-green-tool-bamboo": {
   "source": "Epal",
@@ -645,7 +649,7 @@
   "style": "modern kitchen tool",
   "reason": "The candidate item is a cutting board, not a dining table, and does not match any aspect of the mid-century Scandinavian dining table aesthetic.",
   "refs_sig": "7:ref01.jpg,ref02.jpg,ref03.jpg,ref04.jpg,ref05.jpg,ref06.jpg,ref07.jpg",
-  "active": true
+  "active": false
  },
  "https://www.epal.is/products/braudbretti-no-62-m-eik": {
   "source": "Epal",
@@ -663,7 +667,7 @@
   "style": "cutting board",
   "reason": "This is a wooden cutting board, not a dining table.",
   "refs_sig": "7:ref01.jpg,ref02.jpg,ref03.jpg,ref04.jpg,ref05.jpg,ref06.jpg,ref07.jpg",
-  "active": true
+  "active": false
  },
  "https://www.epal.is/products/salt-og-piparkvorn-eik-h11": {
   "source": "Epal",
@@ -681,7 +685,7 @@
   "style": "modern minimalist",
   "reason": "The candidate is a small wooden accessory and not a dining table.",
   "refs_sig": "7:ref01.jpg,ref02.jpg,ref03.jpg,ref04.jpg,ref05.jpg,ref06.jpg,ref07.jpg",
-  "active": true
+  "active": false
  },
  "https://www.epal.is/products/serviettustandur-nordic": {
   "source": "Epal",
@@ -699,7 +703,7 @@
   "style": "modern industrial",
   "reason": "The item is a napkin holder, not a dining table.",
   "refs_sig": "7:ref01.jpg,ref02.jpg,ref03.jpg,ref04.jpg,ref05.jpg,ref06.jpg,ref07.jpg",
-  "active": true
+  "active": false
  },
  "https://www.epal.is/products/eldhusrullustandur-svartur": {
   "source": "Epal",
@@ -717,7 +721,7 @@
   "style": "minimalist metal",
   "reason": "The candidate is not a dining table; it is a metal paper towel holder, which is opposite in style and purpose.",
   "refs_sig": "7:ref01.jpg,ref02.jpg,ref03.jpg,ref04.jpg,ref05.jpg,ref06.jpg,ref07.jpg",
-  "active": true
+  "active": false
  },
  "https://www.epal.is/products/kertastjaki-bloom-2-pk": {
   "source": "Epal",
@@ -735,7 +739,7 @@
   "style": "modern candlestick",
   "reason": "The image is of candlesticks, not a dining table.",
   "refs_sig": "7:ref01.jpg,ref02.jpg,ref03.jpg,ref04.jpg,ref05.jpg,ref06.jpg,ref07.jpg",
-  "active": true
+  "active": false
  },
  "https://www.epal.is/products/kertastjaki-teljos-bloom-botanica-2-pk": {
   "source": "Epal",
@@ -753,7 +757,7 @@
   "style": "modern decor",
   "reason": "The candidate is not a dining table but a set of metallic decorative items.",
   "refs_sig": "7:ref01.jpg,ref02.jpg,ref03.jpg,ref04.jpg,ref05.jpg,ref06.jpg,ref07.jpg",
-  "active": true
+  "active": false
  },
  "https://snuran.is/products/skovby-bordstofubord-staekkanlegt-sm108-serpontun-copy": {
   "source": "Snúran",
@@ -764,14 +768,15 @@
   "size": "size?",
   "shape": null,
   "first_seen": "2026-10-05 21:23 UTC",
-  "last_seen": "2026-10-05 21:23 UTC",
+  "last_seen": "2026-10-05 21:31 UTC",
   "score": 7.0,
   "is_dining_table": true,
   "materials": "veneer, warm wood",
   "style": "Scandinavian, mid-century",
   "reason": "The table has a warm wood veneer and Scandinavian style, with softly rounded corners and tapered legs, fitting well with the reference look.",
   "refs_sig": "7:ref01.jpg,ref02.jpg,ref03.jpg,ref04.jpg,ref05.jpg,ref06.jpg,ref07.jpg",
-  "active": true
+  "active": true,
+  "sold_out": null
  },
  "https://snuran.is/products/copy-of-skovby-bordstofubord-staekanlegt-11-serpontun": {
   "source": "Snúran",
@@ -782,14 +787,15 @@
   "size": "150 cm",
   "shape": "rect",
   "first_seen": "2026-10-05 21:23 UTC",
-  "last_seen": "2026-10-05 21:23 UTC",
+  "last_seen": "2026-10-05 21:31 UTC",
   "score": 3.0,
   "is_dining_table": true,
   "materials": "light wood",
   "style": "contemporary rectangular",
   "reason": "The table is light wood and has a simple design, but lacks the mid-century Scandinavian features such as rounded edges, tapered legs, and a warm wood tone.",
   "refs_sig": "7:ref01.jpg,ref02.jpg,ref03.jpg,ref04.jpg,ref05.jpg,ref06.jpg,ref07.jpg",
-  "active": true
+  "active": true,
+  "sold_out": null
  },
  "https://snuran.is/products/skovby-bordstofubord-staekanlegt-serpontun-2": {
   "source": "Snúran",
@@ -800,14 +806,15 @@
   "size": "183 cm",
   "shape": "rect",
   "first_seen": "2026-10-05 21:23 UTC",
-  "last_seen": "2026-10-05 21:23 UTC",
+  "last_seen": "2026-10-05 21:31 UTC",
   "score": 4.0,
   "is_dining_table": true,
   "materials": "dark wood veneer",
   "style": "contemporary, angular",
   "reason": "The table's dark wood and angular design differ from the mid-century Scandinavian style with warm tones and rounded edges seen in the reference images.",
   "refs_sig": "7:ref01.jpg,ref02.jpg,ref03.jpg,ref04.jpg,ref05.jpg,ref06.jpg,ref07.jpg",
-  "active": true
+  "active": true,
+  "sold_out": null
  },
  "https://snuran.is/products/skovby-bordstofubord-staekkanlegt-26-serpontun-copy": {
   "source": "Snúran",
@@ -818,14 +825,15 @@
   "size": "174 cm",
   "shape": "rect",
   "first_seen": "2026-10-05 21:23 UTC",
-  "last_seen": "2026-10-05 21:23 UTC",
+  "last_seen": "2026-10-05 21:31 UTC",
   "score": 6.0,
   "is_dining_table": true,
   "materials": "oiled oak",
   "style": "Scandinavian, minimalist",
   "reason": "The table features a solid wood appearance and a slim top with clean lines, fitting the Scandinavian style, but the wood tone is lighter and the legs are less tapered than the reference images.",
   "refs_sig": "7:ref01.jpg,ref02.jpg,ref03.jpg,ref04.jpg,ref05.jpg,ref06.jpg,ref07.jpg",
-  "active": true
+  "active": true,
+  "sold_out": null
  },
  "https://snuran.is/products/skovby-bordstofubord-staekkanlegt-116-serpontun": {
   "source": "Snúran",
@@ -836,32 +844,35 @@
   "size": "142 cm",
   "shape": "rect",
   "first_seen": "2026-10-05 21:23 UTC",
-  "last_seen": "2026-10-05 21:23 UTC",
+  "last_seen": "2026-10-05 21:31 UTC",
   "score": 4.0,
   "is_dining_table": true,
   "materials": "light oak veneer",
   "style": "modern pedestal base",
   "reason": "The table has a simple wooden pedestal and smooth edges, but its light color and modern design diverge from the warm, mid-century look of the references.",
   "refs_sig": "7:ref01.jpg,ref02.jpg,ref03.jpg,ref04.jpg,ref05.jpg,ref06.jpg,ref07.jpg",
-  "active": true
+  "active": true,
+  "sold_out": null
  },
  "https://snuran.is/products/skovby-bordstofubord-staekkanlegt-26-serpontun": {
   "source": "Snúran",
   "title": "Skovby - borðstofuborð/stækkanlegt SM 26 - sérpöntun",
-  "price": 30499,
+  "price": 360499,
   "url": "https://snuran.is/products/skovby-bordstofubord-staekkanlegt-26-serpontun",
   "image": "https://cdn.shopify.com/s/files/1/0582/7693/7904/files/26E_0aa55126-55a5-45e0-9f8e-06687e14618e.png?v=1769187482",
   "size": "155 cm",
   "shape": "rect",
   "first_seen": "2026-10-05 21:23 UTC",
-  "last_seen": "2026-10-05 21:23 UTC",
+  "last_seen": "2026-10-05 21:31 UTC",
   "score": 7.0,
   "is_dining_table": true,
   "materials": "light wood, oiled finish",
   "style": "modern Scandinavian",
   "reason": "The table features a slim top with rounded edges and tapered legs, fitting well with the mid-century Scandinavian aesthetic, though the lighter wood tone slightly differs from the typical warmer tones seen in the references.",
   "refs_sig": "7:ref01.jpg,ref02.jpg,ref03.jpg,ref04.jpg,ref05.jpg,ref06.jpg,ref07.jpg",
-  "active": true
+  "active": true,
+  "sold_out": null,
+  "prev_price": 30499
  },
  "https://snuran.is/products/skovby-bordstofubord-staekkanlegt-78-serpontun": {
   "source": "Snúran",
@@ -872,14 +883,15 @@
   "size": "190 cm",
   "shape": "rect",
   "first_seen": "2026-10-05 21:23 UTC",
-  "last_seen": "2026-10-05 21:23 UTC",
+  "last_seen": "2026-10-05 21:31 UTC",
   "score": 6.0,
   "is_dining_table": true,
   "materials": "veneered wood",
   "style": "Scandinavian mid-century",
   "reason": "The table has a slim top with softly rounded edges and tapered wooden legs, matching the mid-century Scandinavian aesthetic, but the wood tone is lighter than typical walnut or teak.",
   "refs_sig": "7:ref01.jpg,ref02.jpg,ref03.jpg,ref04.jpg,ref05.jpg,ref06.jpg,ref07.jpg",
-  "active": true
+  "active": true,
+  "sold_out": null
  },
  "https://snuran.is/products/copy-of-skovby-bordstofubord-staekanlegt-112-serpontun": {
   "source": "Snúran",
@@ -897,25 +909,27 @@
   "style": "Scandinavian, modern",
   "reason": "The table features a slim top with softly rounded edges and a wooden finish, fitting the Scandinavian aesthetic. However, its legs are not tapered or significantly splayed.",
   "refs_sig": "7:ref01.jpg,ref02.jpg,ref03.jpg,ref04.jpg,ref05.jpg,ref06.jpg,ref07.jpg",
-  "active": true
+  "active": false
  },
  "https://snuran.is/products/skovby-bordstofubord-staekanlegt-120-serpontun": {
   "source": "Snúran",
   "title": "Skovby - borðstofuborð/stækkanlegt  SM 120 - sérpöntun",
-  "price": 25499,
+  "price": 146499,
   "url": "https://snuran.is/products/skovby-bordstofubord-staekanlegt-120-serpontun",
   "image": "https://cdn.shopify.com/s/files/1/0582/7693/7904/files/120-4-Copy.png?v=1769187455",
   "size": "147 cm",
   "shape": "rect",
   "first_seen": "2026-10-05 21:23 UTC",
-  "last_seen": "2026-10-05 21:23 UTC",
+  "last_seen": "2026-10-05 21:31 UTC",
   "score": 8.0,
   "is_dining_table": true,
   "materials": "veneered wood",
   "style": "mid-century Scandinavian",
   "reason": "It features a warm wood tone, a slim top with softly rounded edges, tapered legs, and a matte finish, fitting well with the references.",
   "refs_sig": "7:ref01.jpg,ref02.jpg,ref03.jpg,ref04.jpg,ref05.jpg,ref06.jpg,ref07.jpg",
-  "active": true
+  "active": true,
+  "sold_out": null,
+  "prev_price": 25499
  },
  "https://snuran.is/products/svendborg-4-hurda-skapur-l-180cm": {
   "source": "Snúran",
@@ -933,7 +947,7 @@
   "style": "modern cabinet",
   "reason": "The candidate is a cabinet with glass doors, not a dining table, and features glass elements not aligned with the desired style.",
   "refs_sig": "7:ref01.jpg,ref02.jpg,ref03.jpg,ref04.jpg,ref05.jpg,ref06.jpg,ref07.jpg",
-  "active": true
+  "active": false
  },
  "https://snuran.is/products/svendborg-highboard-skapur-h-125cm": {
   "source": "Snúran",
@@ -951,7 +965,7 @@
   "style": "modern, simple",
   "reason": "The candidate is a highboard with glass doors, contrasting with the dining tables' style and function, featuring solid or veneered wood and no glass.",
   "refs_sig": "7:ref01.jpg,ref02.jpg,ref03.jpg,ref04.jpg,ref05.jpg,ref06.jpg,ref07.jpg",
-  "active": true
+  "active": false
  },
  "https://snuran.is/products/svendborg-display-skapur-h-180cm": {
   "source": "Snúran",
@@ -969,7 +983,7 @@
   "style": "Scandinavian cabinet",
   "reason": "The candidate is a display cabinet with glass doors, not a dining table.",
   "refs_sig": "7:ref01.jpg,ref02.jpg,ref03.jpg,ref04.jpg,ref05.jpg,ref06.jpg,ref07.jpg",
-  "active": true
+  "active": false
  },
  "https://snuran.is/products/svendborg-bord-o140cm": {
   "source": "Snúran",
@@ -987,7 +1001,7 @@
   "style": "modern Scandinavian",
   "reason": "The table has a round wooden top with a warm tone, and a modern pedestal base that somewhat aligns with the target mid-century Scandinavian aesthetic, but the slatted pedestal is more contemporary.",
   "refs_sig": "7:ref01.jpg,ref02.jpg,ref03.jpg,ref04.jpg,ref05.jpg,ref06.jpg,ref07.jpg",
-  "active": true
+  "active": false
  },
  "https://snuran.is/products/svendborg-bord-o120cm": {
   "source": "Snúran",
@@ -1005,7 +1019,7 @@
   "style": "modern Scandinavian",
   "reason": "The table has a slim top with a rounded edge and an oiled oak finish, fitting the desired color and finish. However, its pedestal base is more modern compared to the preferred tapered legs.",
   "refs_sig": "7:ref01.jpg,ref02.jpg,ref03.jpg,ref04.jpg,ref05.jpg,ref06.jpg,ref07.jpg",
-  "active": true
+  "active": false
  },
  "https://snuran.is/products/iittala-ultima-thule-kanna-150-cl": {
   "source": "Snúran",
@@ -1023,7 +1037,7 @@
   "style": "modern glassware",
   "reason": "The candidate is not a dining table; it is a glass pitcher, which does not match the requirements of the warm wood and mid-century Scandinavian design aesthetic.",
   "refs_sig": "7:ref01.jpg,ref02.jpg,ref03.jpg,ref04.jpg,ref05.jpg,ref06.jpg,ref07.jpg",
-  "active": true
+  "active": false
  },
  "https://snuran.is/products/iittala-kastehelmi-skal-1-4-ltr": {
   "source": "Snúran",
@@ -1041,7 +1055,7 @@
   "style": "contemporary, decorative",
   "reason": "The candidate is a glass bowl, not a wooden dining table, and does not meet any of the described table characteristics.",
   "refs_sig": "7:ref01.jpg,ref02.jpg,ref03.jpg,ref04.jpg,ref05.jpg,ref06.jpg,ref07.jpg",
-  "active": true
+  "active": false
  },
  "https://husgagnahollin.is/vara/heaven-bordstofubord-90x160cm-keramik-rustik-brunt/": {
   "source": "Húsgagnahöllin",
@@ -1052,14 +1066,15 @@
   "size": "160 cm",
   "shape": "rect",
   "first_seen": "2026-10-05 21:23 UTC",
-  "last_seen": "2026-10-05 21:23 UTC",
+  "last_seen": "2026-10-05 21:31 UTC",
   "score": 2.0,
   "is_dining_table": true,
   "materials": "ceramic, metal",
   "style": "modern industrial",
   "reason": "The table has a ceramic top and metal legs, contrasting with the wood and mid-century Scandinavian style of the references.",
   "refs_sig": "7:ref01.jpg,ref02.jpg,ref03.jpg,ref04.jpg,ref05.jpg,ref06.jpg,ref07.jpg",
-  "active": true
+  "active": true,
+  "sold_out": null
  },
  "https://husgagnahollin.is/vara/oakville-bordstofubord-106-lokkud-eik-mokka/": {
   "source": "Húsgagnahöllin",
@@ -1070,14 +1085,15 @@
   "size": "size?",
   "shape": null,
   "first_seen": "2026-10-05 21:23 UTC",
-  "last_seen": "2026-10-05 21:23 UTC",
+  "last_seen": "2026-10-05 21:31 UTC",
   "score": 4.0,
   "is_dining_table": true,
   "materials": "wood veneer",
   "style": "modern minimalist",
   "reason": "The table's wood tone and matte finish are appropriate, but the angular edges and geometric legs diverge from the mid-century Scandinavian style.",
   "refs_sig": "7:ref01.jpg,ref02.jpg,ref03.jpg,ref04.jpg,ref05.jpg,ref06.jpg,ref07.jpg",
-  "active": true
+  "active": true,
+  "sold_out": null
  },
  "https://husgagnahollin.is/vara/hudson-bordstofubord-200300x100cm-gratt-keramik/": {
   "source": "Húsgagnahöllin",
@@ -1088,14 +1104,15 @@
   "size": "size?",
   "shape": null,
   "first_seen": "2026-10-05 21:23 UTC",
-  "last_seen": "2026-10-05 21:23 UTC",
+  "last_seen": "2026-10-05 21:31 UTC",
   "score": 2.0,
   "is_dining_table": true,
   "materials": "ceramic top, metal legs",
   "style": "modern, industrial",
   "reason": "The table has a ceramic top and metal legs, lacking the warmth and wood tones of the target aesthetic.",
   "refs_sig": "7:ref01.jpg,ref02.jpg,ref03.jpg,ref04.jpg,ref05.jpg,ref06.jpg,ref07.jpg",
-  "active": true
+  "active": true,
+  "sold_out": null
  },
  "https://husgagnahollin.is/vara/ritz-bordstofubord-marmari-bursa-espresso-oliuborin-eik/": {
   "source": "Húsgagnahöllin",
@@ -1106,14 +1123,15 @@
   "size": "size?",
   "shape": null,
   "first_seen": "2026-10-05 21:23 UTC",
-  "last_seen": "2026-10-05 21:23 UTC",
+  "last_seen": "2026-10-05 21:31 UTC",
   "score": 4.0,
   "is_dining_table": true,
   "materials": "marble, dark wood",
   "style": "modern, minimalist",
   "reason": "The table has a marble top and a dark wood pedestal base, which does not align with the light, warm wood and tapered leg style of the target mid-century Scandinavian aesthetic.",
   "refs_sig": "7:ref01.jpg,ref02.jpg,ref03.jpg,ref04.jpg,ref05.jpg,ref06.jpg,ref07.jpg",
-  "active": true
+  "active": true,
+  "sold_out": null
  },
  "https://husgagnahollin.is/vara/nola-bordstofubord-95x180-230-oval-natur-eik/": {
   "source": "Húsgagnahöllin",
@@ -1124,14 +1142,15 @@
   "size": "180 cm",
   "shape": "rect",
   "first_seen": "2026-10-05 21:23 UTC",
-  "last_seen": "2026-10-05 21:23 UTC",
+  "last_seen": "2026-10-05 21:31 UTC",
   "score": 7.0,
   "is_dining_table": true,
   "materials": "natural oak",
   "style": "Scandinavian, mid-century",
   "reason": "The table has a warm wood tone, softly rounded edges, and a simple wooden pedestal base, fitting well with the mid-century Scandinavian aesthetic.",
   "refs_sig": "7:ref01.jpg,ref02.jpg,ref03.jpg,ref04.jpg,ref05.jpg,ref06.jpg,ref07.jpg",
-  "active": true
+  "active": true,
+  "sold_out": null
  },
  "https://husgagnahollin.is/vara/nola-bordstofubord-95x180-230-oval-svort-eik/": {
   "source": "Húsgagnahöllin",
@@ -1142,14 +1161,15 @@
   "size": "180 cm",
   "shape": "rect",
   "first_seen": "2026-10-05 21:23 UTC",
-  "last_seen": "2026-10-05 21:23 UTC",
+  "last_seen": "2026-10-05 21:31 UTC",
   "score": 3.0,
   "is_dining_table": true,
   "materials": "dark wood",
   "style": "modern, minimal",
   "reason": "The table has a dark, modern aesthetic with a thick pedestal base which contrasts with the mid-century Scandinavian style of warm wood, slim tapered legs, and softer finish.",
   "refs_sig": "7:ref01.jpg,ref02.jpg,ref03.jpg,ref04.jpg,ref05.jpg,ref06.jpg,ref07.jpg",
-  "active": true
+  "active": true,
+  "sold_out": null
  },
  "https://husgagnahollin.is/vara/nola-bordstofubord-95x180-oval-natur-eik/": {
   "source": "Húsgagnahöllin",
@@ -1160,14 +1180,15 @@
   "size": "180 cm",
   "shape": "rect",
   "first_seen": "2026-10-05 21:23 UTC",
-  "last_seen": "2026-10-05 21:23 UTC",
+  "last_seen": "2026-10-05 21:31 UTC",
   "score": 6.0,
   "is_dining_table": true,
   "materials": "oak veneer",
   "style": "Scandinavian, modern",
   "reason": "Similar wood tone and rounded top, but the pedestal base is not mid-century style.",
   "refs_sig": "7:ref01.jpg,ref02.jpg,ref03.jpg,ref04.jpg,ref05.jpg,ref06.jpg,ref07.jpg",
-  "active": true
+  "active": true,
+  "sold_out": null
  },
  "https://husgagnahollin.is/vara/kare-possibilita-bordstofubord-180x120cm-svart/": {
   "source": "Húsgagnahöllin",
@@ -1178,14 +1199,15 @@
   "size": "180 cm",
   "shape": "rect",
   "first_seen": "2026-10-05 21:23 UTC",
-  "last_seen": "2026-10-05 21:23 UTC",
+  "last_seen": "2026-10-05 21:31 UTC",
   "score": 2.0,
   "is_dining_table": true,
   "materials": "black base, dark stone top",
   "style": "modern, minimalist",
   "reason": "The table has a modern and minimalist style with a black stone top and pedestal base, which does not match the warm wood and mid-century Scandinavian aesthetic.",
   "refs_sig": "7:ref01.jpg,ref02.jpg,ref03.jpg,ref04.jpg,ref05.jpg,ref06.jpg,ref07.jpg",
-  "active": true
+  "active": true,
+  "sold_out": null
  },
  "https://husgagnahollin.is/vara/nola-bordstofubord-95x180-oval-svort-eik/": {
   "source": "Húsgagnahöllin",
@@ -1196,14 +1218,15 @@
   "size": "180 cm",
   "shape": "rect",
   "first_seen": "2026-10-05 21:23 UTC",
-  "last_seen": "2026-10-05 21:23 UTC",
+  "last_seen": "2026-10-05 21:31 UTC",
   "score": 4.0,
   "is_dining_table": true,
   "materials": "dark wood",
   "style": "modern matte oval",
   "reason": "The table has an oval shape and a matte finish but lacks the warm wood tone and tapered legs typical of mid-century Scandinavian design.",
   "refs_sig": "7:ref01.jpg,ref02.jpg,ref03.jpg,ref04.jpg,ref05.jpg,ref06.jpg,ref07.jpg",
-  "active": true
+  "active": true,
+  "sold_out": null
  },
  "https://husgagnahollin.is/vara/nola-bordstofubord-95x180-oval-reykt-eik/": {
   "source": "Húsgagnahöllin",
@@ -1214,14 +1237,15 @@
   "size": "180 cm",
   "shape": "rect",
   "first_seen": "2026-10-05 21:23 UTC",
-  "last_seen": "2026-10-05 21:23 UTC",
+  "last_seen": "2026-10-05 21:31 UTC",
   "score": 8.0,
   "is_dining_table": true,
   "materials": "veneered wood",
   "style": "mid-century Scandinavian",
   "reason": "The table features a warm wood tone, oval shape with softly rounded edges, a wooden pedestal base, and an overall mid-century Scandinavian design.",
   "refs_sig": "7:ref01.jpg,ref02.jpg,ref03.jpg,ref04.jpg,ref05.jpg,ref06.jpg,ref07.jpg",
-  "active": true
+  "active": true,
+  "sold_out": null
  },
  "https://husgagnahollin.is/vara/skovby-bordstofubord-sm33-oliuborinn-hnota/": {
   "source": "Húsgagnahöllin",
@@ -1232,14 +1256,15 @@
   "size": "size?",
   "shape": null,
   "first_seen": "2026-10-05 21:23 UTC",
-  "last_seen": "2026-10-05 21:23 UTC",
+  "last_seen": "2026-10-05 21:31 UTC",
   "score": 6.0,
   "is_dining_table": true,
   "materials": "oiled walnut veneer",
   "style": "mid-century Scandinavian",
   "reason": "The table has a warm wood tone with a matte finish and a simple pedestal base, fitting the mid-century Scandinavian style, though the geometric top pattern adds a slight deviation from classic designs.",
   "refs_sig": "7:ref01.jpg,ref02.jpg,ref03.jpg,ref04.jpg,ref05.jpg,ref06.jpg,ref07.jpg",
-  "active": true
+  "active": true,
+  "sold_out": null
  },
  "https://husgagnahollin.is/vara/skovby-bordstofubord-117-oliuborin-hnota/": {
   "source": "Húsgagnahöllin",
@@ -1250,14 +1275,15 @@
   "size": "size?",
   "shape": null,
   "first_seen": "2026-10-05 21:23 UTC",
-  "last_seen": "2026-10-05 21:23 UTC",
+  "last_seen": "2026-10-05 21:31 UTC",
   "score": 7.0,
   "is_dining_table": true,
   "materials": "oiled walnut",
   "style": "mid-century Scandinavian",
   "reason": "The table's warm walnut tone, slim top with softly rounded corners, and simple wooden pedestal match the mid-century Scandinavian aesthetic, though the pedestal base slightly diverges from the more common tapered legs.",
   "refs_sig": "7:ref01.jpg,ref02.jpg,ref03.jpg,ref04.jpg,ref05.jpg,ref06.jpg,ref07.jpg",
-  "active": true
+  "active": true,
+  "sold_out": null
  },
  "https://husgagnahollin.is/vara/skovby-bordstofubord-33-lokkud-svort-eik/": {
   "source": "Húsgagnahöllin",
@@ -1268,14 +1294,15 @@
   "size": "size?",
   "shape": null,
   "first_seen": "2026-10-05 21:23 UTC",
-  "last_seen": "2026-10-05 21:23 UTC",
+  "last_seen": "2026-10-05 21:31 UTC",
   "score": 4.0,
   "is_dining_table": true,
   "materials": "black wood veneer",
   "style": "modern minimalist",
   "reason": "The candidate table's black wood veneer and pedestal base diverge from the warm wood tones and mid-century Scandinavian style of the references.",
   "refs_sig": "7:ref01.jpg,ref02.jpg,ref03.jpg,ref04.jpg,ref05.jpg,ref06.jpg,ref07.jpg",
-  "active": true
+  "active": true,
+  "sold_out": null
  },
  "https://husgagnahollin.is/vara/single-bordstofubord-90x180-svart-hvitt/": {
   "source": "Húsgagnahöllin",
@@ -1286,14 +1313,15 @@
   "size": "180 cm",
   "shape": "rect",
   "first_seen": "2026-10-05 21:23 UTC",
-  "last_seen": "2026-10-05 21:23 UTC",
+  "last_seen": "2026-10-05 21:31 UTC",
   "score": 2.0,
   "is_dining_table": true,
   "materials": "black and white laminate",
   "style": "contemporary minimalist",
   "reason": "The table has a laminate top and black legs, contrasting with the warm wood, mid-century Scandinavian style desired.",
   "refs_sig": "7:ref01.jpg,ref02.jpg,ref03.jpg,ref04.jpg,ref05.jpg,ref06.jpg,ref07.jpg",
-  "active": true
+  "active": true,
+  "sold_out": null
  },
  "https://husgagnahollin.is/vara/eclipse-bordstofubord-askur-svartur/": {
   "source": "Húsgagnahöllin",
@@ -1304,14 +1332,15 @@
   "size": "size?",
   "shape": null,
   "first_seen": "2026-10-05 21:23 UTC",
-  "last_seen": "2026-10-05 21:23 UTC",
+  "last_seen": "2026-10-05 21:31 UTC",
   "score": 3.0,
   "is_dining_table": true,
   "materials": "ash wood, black finish",
   "style": "modern, sleek",
   "reason": "The table features a slim top with rounded edges and tapered legs, but the dark color and modern finish deviate from the warm wood tones and mid-century aesthetic desired.",
   "refs_sig": "7:ref01.jpg,ref02.jpg,ref03.jpg,ref04.jpg,ref05.jpg,ref06.jpg,ref07.jpg",
-  "active": true
+  "active": true,
+  "sold_out": null
  },
  "https://husgagnahollin.is/vara/dinant-bordstofustoll-askur-natur-sessa/": {
   "source": "Húsgagnahöllin",
@@ -1329,7 +1358,7 @@
   "style": "modern rustic",
   "reason": "The image shows a chair, not a dining table, making it unsuitable for the criteria.",
   "refs_sig": "7:ref01.jpg,ref02.jpg,ref03.jpg,ref04.jpg,ref05.jpg,ref06.jpg,ref07.jpg",
-  "active": true
+  "active": false
  },
  "https://husgagnahollin.is/vara/axis-bordstofustoll-aklaedi-12a-ljosbrunn/": {
   "source": "Húsgagnahöllin",
@@ -1347,7 +1376,7 @@
   "style": "modern chair",
   "reason": "The candidate is a chair, not a table, making it entirely mismatched with the reference dining tables.",
   "refs_sig": "7:ref01.jpg,ref02.jpg,ref03.jpg,ref04.jpg,ref05.jpg,ref06.jpg,ref07.jpg",
-  "active": true
+  "active": false
  },
  "https://husgagnahollin.is/vara/axis-bordstofustoll-aklaedi-13a-beige/": {
   "source": "Húsgagnahöllin",
@@ -1365,7 +1394,7 @@
   "style": "none",
   "reason": "The image provided is of a chair, not a dining table.",
   "refs_sig": "7:ref01.jpg,ref02.jpg,ref03.jpg,ref04.jpg,ref05.jpg,ref06.jpg,ref07.jpg",
-  "active": true
+  "active": false
  },
  "https://husgagnahollin.is/vara/mia-bordstofustoll-m-snuning-svartur/": {
   "source": "Húsgagnahöllin",
@@ -1383,7 +1412,7 @@
   "style": "modern office chair",
   "reason": "The candidate is an office chair, not a dining table.",
   "refs_sig": "7:ref01.jpg,ref02.jpg,ref03.jpg,ref04.jpg,ref05.jpg,ref06.jpg,ref07.jpg",
-  "active": true
+  "active": false
  },
  "https://husgagnahollin.is/vara/linea-bordstofustoll-m-snuning-brunn/": {
   "source": "Húsgagnahöllin",
@@ -1401,7 +1430,7 @@
   "style": "contemporary",
   "reason": "The listing is a chair, not a dining table, and uses materials like plastic and metal, which do not match the target wood aesthetic.",
   "refs_sig": "7:ref01.jpg,ref02.jpg,ref03.jpg,ref04.jpg,ref05.jpg,ref06.jpg,ref07.jpg",
-  "active": true
+  "active": false
  },
  "https://husgagnahollin.is/vara/splendor-bordstofustoll-boucle-dokkbrunn/": {
   "source": "Húsgagnahöllin",
@@ -1419,7 +1448,7 @@
   "style": "modern chair",
   "reason": "The candidate is a bouclé fabric chair, not a dining table.",
   "refs_sig": "7:ref01.jpg,ref02.jpg,ref03.jpg,ref04.jpg,ref05.jpg,ref06.jpg,ref07.jpg",
-  "active": true
+  "active": false
  },
  "https://husgagnahollin.is/vara/splendor-bordstofustoll-boucle-earth/": {
   "source": "Húsgagnahöllin",
@@ -1437,7 +1466,7 @@
   "style": "modern upholstered",
   "reason": "The candidate is a chair, not a table, and does not match the wooden aesthetic.",
   "refs_sig": "7:ref01.jpg,ref02.jpg,ref03.jpg,ref04.jpg,ref05.jpg,ref06.jpg,ref07.jpg",
-  "active": true
+  "active": false
  },
  "https://husgagnahollin.is/vara/fowler-bordstofustoll-boucle-brunn/": {
   "source": "Húsgagnahöllin",
@@ -1455,7 +1484,7 @@
   "style": "",
   "reason": "",
   "refs_sig": "7:ref01.jpg,ref02.jpg,ref03.jpg,ref04.jpg,ref05.jpg,ref06.jpg,ref07.jpg",
-  "active": true
+  "active": false
  },
  "https://husgagnahollin.is/vara/cole-bordstofustoll-m-ormum-ljosgrar/": {
   "source": "Húsgagnahöllin",
@@ -1473,7 +1502,7 @@
   "style": "modern upholstered",
   "reason": "The image shows a chair, not a dining table, which does not match the target dining table aesthetic.",
   "refs_sig": "7:ref01.jpg,ref02.jpg,ref03.jpg,ref04.jpg,ref05.jpg,ref06.jpg,ref07.jpg",
-  "active": true
+  "active": false
  },
  "https://husgagnahollin.is/vara/cole-bordstofustoll-m-ormum-taupe/": {
   "source": "Húsgagnahöllin",
@@ -1491,7 +1520,7 @@
   "style": "modern plush",
   "reason": "The candidate is a chair, not a dining table.",
   "refs_sig": "7:ref01.jpg,ref02.jpg,ref03.jpg,ref04.jpg,ref05.jpg,ref06.jpg,ref07.jpg",
-  "active": true
+  "active": false
  },
  "https://husgagnahollin.is/vara/cole-bordstofustoll-m-ormum-beige/": {
   "source": "Húsgagnahöllin",
@@ -1509,7 +1538,7 @@
   "style": "modern upholstered chair",
   "reason": "The candidate is a chair, not a dining table.",
   "refs_sig": "7:ref01.jpg,ref02.jpg,ref03.jpg,ref04.jpg,ref05.jpg,ref06.jpg,ref07.jpg",
-  "active": true
+  "active": false
  },
  "https://husgagnahollin.is/vara/irvine-bordstofustoll-aklaedi-beige/": {
   "source": "Húsgagnahöllin",
@@ -1527,7 +1556,7 @@
   "style": "modern chair",
   "reason": "The image shows a chair, not a table, so it does not match the criteria looking for a mid-century Scandinavian dining table.",
   "refs_sig": "7:ref01.jpg,ref02.jpg,ref03.jpg,ref04.jpg,ref05.jpg,ref06.jpg,ref07.jpg",
-  "active": true
+  "active": false
  },
  "https://husgagnahollin.is/vara/irvine-bordstofustoll-ledur-dokkbrunn/": {
   "source": "Húsgagnahöllin",
@@ -1545,7 +1574,7 @@
   "style": "contemporary chair",
   "reason": "The listing is a chair, not a dining table, and does not match the mid-century Scandinavian aesthetic description.",
   "refs_sig": "7:ref01.jpg,ref02.jpg,ref03.jpg,ref04.jpg,ref05.jpg,ref06.jpg,ref07.jpg",
-  "active": true
+  "active": false
  },
  "https://husgagnahollin.is/vara/irvine-bordstofustoll-ledur-svartur/": {
   "source": "Húsgagnahöllin",
@@ -1563,7 +1592,7 @@
   "style": "",
   "reason": "",
   "refs_sig": "7:ref01.jpg,ref02.jpg,ref03.jpg,ref04.jpg,ref05.jpg,ref06.jpg,ref07.jpg",
-  "active": true
+  "active": false
  },
  "https://husgagnahollin.is/vara/altea-bordstofustoll-lord-22-beige-svartir-jarnfaetur/": {
   "source": "Húsgagnahöllin",
@@ -1581,7 +1610,7 @@
   "style": "contemporary chair",
   "reason": "The candidate is a chair, not a dining table, and does not match the style or materials described.",
   "refs_sig": "7:ref01.jpg,ref02.jpg,ref03.jpg,ref04.jpg,ref05.jpg,ref06.jpg,ref07.jpg",
-  "active": true
+  "active": false
  },
  "https://husgagnahollin.is/vara/ottawa-bordstofustoll-pvc-svartur/": {
   "source": "Húsgagnahöllin",
@@ -1599,7 +1628,7 @@
   "style": "modern, minimalist",
   "reason": "The candidate is a chair made of PVC and metal, not a dining table, and does not match the warm wood, mid-century Scandinavian aesthetic.",
   "refs_sig": "7:ref01.jpg,ref02.jpg,ref03.jpg,ref04.jpg,ref05.jpg,ref06.jpg,ref07.jpg",
-  "active": true
+  "active": false
  },
  "https://husgagnahollin.is/vara/barrie-bordstofustoll-soft-pvc-dokkbrunn/": {
   "source": "Húsgagnahöllin",
@@ -1617,7 +1646,7 @@
   "style": "modern, minimalist",
   "reason": "The candidate item is a chair, not a dining table.",
   "refs_sig": "7:ref01.jpg,ref02.jpg,ref03.jpg,ref04.jpg,ref05.jpg,ref06.jpg,ref07.jpg",
-  "active": true
+  "active": false
  },
  "https://husgagnahollin.is/vara/barrie-bordstofustoll-soft-pvc-svartur/": {
   "source": "Húsgagnahöllin",
@@ -1635,7 +1664,7 @@
   "style": "",
   "reason": "",
   "refs_sig": "7:ref01.jpg,ref02.jpg,ref03.jpg,ref04.jpg,ref05.jpg,ref06.jpg,ref07.jpg",
-  "active": true
+  "active": false
  },
  "https://husgagnahollin.is/vara/barrie-bordstofustoll-soft-pvc-sand/": {
   "source": "Húsgagnahöllin",
@@ -1653,7 +1682,7 @@
   "style": "Modern minimalist",
   "reason": "The item is a chair, not a dining table, and does not fit the described aesthetic.",
   "refs_sig": "7:ref01.jpg,ref02.jpg,ref03.jpg,ref04.jpg,ref05.jpg,ref06.jpg,ref07.jpg",
-  "active": true
+  "active": false
  },
  "https://husgagnahollin.is/vara/billund-bordstofustoll-1360-svart-beyki-svart-led/": {
   "source": "Húsgagnahöllin",
@@ -1671,7 +1700,7 @@
   "style": "modern, black",
   "reason": "The candidate is a chair, not a dining table, and does not match the warm wood mid-century Scandinavian style.",
   "refs_sig": "7:ref01.jpg,ref02.jpg,ref03.jpg,ref04.jpg,ref05.jpg,ref06.jpg,ref07.jpg",
-  "active": true
+  "active": false
  },
  "https://husgagnahollin.is/vara/nyborg-bordstofustoll-1326-svart-beyki/": {
   "source": "Húsgagnahöllin",
@@ -1689,7 +1718,7 @@
   "style": "modern, black",
   "reason": "The item is a chair, not a dining table, and does not match the mid-century Scandinavian wood style sought.",
   "refs_sig": "7:ref01.jpg,ref02.jpg,ref03.jpg,ref04.jpg,ref05.jpg,ref06.jpg,ref07.jpg",
-  "active": true
+  "active": false
  },
  "https://husgagnahollin.is/vara/billund-bordstofustoll-1360-hv-oliub-eik-svart-le/": {
   "source": "Húsgagnahöllin",
@@ -1707,7 +1736,7 @@
   "style": "modern, minimal",
   "reason": "The candidate is a chair, not a dining table.",
   "refs_sig": "7:ref01.jpg,ref02.jpg,ref03.jpg,ref04.jpg,ref05.jpg,ref06.jpg,ref07.jpg",
-  "active": true
+  "active": false
  },
  "https://husgagnahollin.is/vara/nyborg-bordstofustoll-1326-hvitoliuborin-eik/": {
   "source": "Húsgagnahöllin",
@@ -1725,7 +1754,7 @@
   "style": "chair",
   "reason": "This is a chair, not a table.",
   "refs_sig": "7:ref01.jpg,ref02.jpg,ref03.jpg,ref04.jpg,ref05.jpg,ref06.jpg,ref07.jpg",
-  "active": true
+  "active": false
  },
  "https://husgagnahollin.is/vara/nyborg-bordstofustoll-1326-oliuborin-eik/": {
   "source": "Húsgagnahöllin",
@@ -1743,7 +1772,7 @@
   "style": "n/a",
   "reason": "The image shows a chair, not a table, so it doesn't match the reference dining tables.",
   "refs_sig": "7:ref01.jpg,ref02.jpg,ref03.jpg,ref04.jpg,ref05.jpg,ref06.jpg,ref07.jpg",
-  "active": true
+  "active": false
  },
  "https://husgagnahollin.is/vara/billund-bordstofustoll-1360-oliub-eik-svart-ledur/": {
   "source": "Húsgagnahöllin",
@@ -1761,7 +1790,7 @@
   "style": "modern chair",
   "reason": "The image shows a chair, not a dining table, and therefore it does not match the mid-century Scandinavian dining table aesthetic.",
   "refs_sig": "7:ref01.jpg,ref02.jpg,ref03.jpg,ref04.jpg,ref05.jpg,ref06.jpg,ref07.jpg",
-  "active": true
+  "active": false
  },
  "https://husgagnahollin.is/vara/lake-bordstofustoll-j1115-1-pu-svartur/": {
   "source": "Húsgagnahöllin",
@@ -1779,7 +1808,7 @@
   "style": "modern industrial",
   "reason": "It's a chair with metal legs, which clashes with the wooden mid-century Scandinavian table aesthetic.",
   "refs_sig": "7:ref01.jpg,ref02.jpg,ref03.jpg,ref04.jpg,ref05.jpg,ref06.jpg,ref07.jpg",
-  "active": true
+  "active": false
  },
  "https://husgagnahollin.is/vara/lake-bordstofustoll-j1115-3-pu-brunn/": {
   "source": "Húsgagnahöllin",
@@ -1797,7 +1826,7 @@
   "style": "industrial chair",
   "reason": "The image depicts a chair rather than a dining table, which does not match the requested dining table style.",
   "refs_sig": "7:ref01.jpg,ref02.jpg,ref03.jpg,ref04.jpg,ref05.jpg,ref06.jpg,ref07.jpg",
-  "active": true
+  "active": false
  },
  "https://husgagnahollin.is/vara/lake-bordstofustoll-cowboy-dokkgrar/": {
   "source": "Húsgagnahöllin",
@@ -1815,7 +1844,7 @@
   "style": "modern industrial",
   "reason": "It is a chair with metal legs and fabric, which does not match the warm wood mid-century Scandinavian aesthetic of the dining tables.",
   "refs_sig": "7:ref01.jpg,ref02.jpg,ref03.jpg,ref04.jpg,ref05.jpg,ref06.jpg,ref07.jpg",
-  "active": true
+  "active": false
  },
  "https://husgagnahollin.is/vara/dinex-eldhusbord-90x140-hvitoliuborin-eik/": {
   "source": "Húsgagnahöllin",
@@ -1826,302 +1855,319 @@
   "size": "140 cm",
   "shape": "rect",
   "first_seen": "2026-10-05 21:23 UTC",
-  "last_seen": "2026-10-05 21:23 UTC",
+  "last_seen": "2026-10-05 21:31 UTC",
   "score": 4.0,
   "is_dining_table": true,
   "materials": "oiled oak",
   "style": "contemporary oak",
   "reason": "The table is made of oiled oak which aligns with the material requirement, but its straight legs, boxy top, and lack of soft curves diverge from the mid-century Scandinavian aesthetic.",
   "refs_sig": "7:ref01.jpg,ref02.jpg,ref03.jpg,ref04.jpg,ref05.jpg,ref06.jpg,ref07.jpg",
-  "active": true
+  "active": true,
+  "sold_out": null
  },
  "https://www.ilva.is/stok-vara/?ProductName=LAKE-Bordstofubord-150x90cm-oliuborin-gegnheil-eik&PathId=5b0acb86-6b83-45af-afce-1190f3c19f81": {
   "source": "ILVA",
-  "title": "Fast lágt verð VINSÆLT LAKE Borðstofuborð 150x90cm olíuborin gegnheil eik 109.900 kr. Til í vefverslun Til á vöruhúsi",
+  "title": "LAKE Borðstofuborð 150x90cm olíuborin gegnheil eik",
   "price": 109900,
   "url": "https://www.ilva.is/stok-vara/?ProductName=LAKE-Bordstofubord-150x90cm-oliuborin-gegnheil-eik&PathId=5b0acb86-6b83-45af-afce-1190f3c19f81",
   "image": "https://www.ilva.is/library/Images/Products/V000189.jpg?proc=productListThumbnail",
   "size": "150 cm",
   "shape": "rect",
   "first_seen": "2026-10-05 21:23 UTC",
-  "last_seen": "2026-10-05 21:23 UTC",
+  "last_seen": "2026-10-05 21:31 UTC",
   "score": 9.0,
   "is_dining_table": true,
   "materials": "oiled oak",
   "style": "mid-century Scandinavian",
   "reason": "The table features a solid wood with a warm tone, slim top with softly rounded edges, and tapered splayed legs, which aligns closely with the target aesthetic.",
   "refs_sig": "7:ref01.jpg,ref02.jpg,ref03.jpg,ref04.jpg,ref05.jpg,ref06.jpg,ref07.jpg",
-  "active": true
+  "active": true,
+  "sold_out": false
  },
  "https://www.ilva.is/stok-vara/?ProductName=SINGLE-Bordstofubord-180-277x90cm-hvitt-svart&PathId=5b0acb86-6b83-45af-afce-1190f3c19f81": {
   "source": "ILVA",
-  "title": "20% VINSÆLT SINGLE Borðstofuborð 180/277x90cm hvítt/svart 95.920 kr. 119.900 kr. Til í vefverslun Til á vöruhúsi",
+  "title": "SINGLE Borðstofuborð 180/277x90cm hvítt/svart",
   "price": 95920,
   "url": "https://www.ilva.is/stok-vara/?ProductName=SINGLE-Bordstofubord-180-277x90cm-hvitt-svart&PathId=5b0acb86-6b83-45af-afce-1190f3c19f81",
   "image": "https://www.ilva.is/library/Images/Products/V003023.jpg?proc=productListThumbnail",
   "size": "180/277 cm",
   "shape": "rect",
   "first_seen": "2026-10-05 21:23 UTC",
-  "last_seen": "2026-10-05 21:23 UTC",
+  "last_seen": "2026-10-05 21:31 UTC",
   "score": 3.0,
   "is_dining_table": true,
   "materials": "particle board, laminate",
   "style": "modern minimalist",
   "reason": "The table has a high contrast design and a laminate top, diverging from the warm wood and mid-century style of the references.",
   "refs_sig": "7:ref01.jpg,ref02.jpg,ref03.jpg,ref04.jpg,ref05.jpg,ref06.jpg,ref07.jpg",
-  "active": true
+  "active": true,
+  "sold_out": false
  },
  "https://www.ilva.is/stok-vara/?ProductName=SINGLE-Bordstofubord-120-217x80cm-hvitt-eik&PathId=5b0acb86-6b83-45af-afce-1190f3c19f81": {
   "source": "ILVA",
-  "title": "20% VINSÆLT SINGLE Borðstofuborð 120/217x80cm hvítt/eik 79.920 kr. 99.900 kr. Til í vefverslun Til á vöruhúsi",
+  "title": "SINGLE Borðstofuborð 120/217x80cm hvítt/eik",
   "price": 79920,
   "url": "https://www.ilva.is/stok-vara/?ProductName=SINGLE-Bordstofubord-120-217x80cm-hvitt-eik&PathId=5b0acb86-6b83-45af-afce-1190f3c19f81",
   "image": "https://www.ilva.is/library/Images/Products/V003024%20-%20Copy%20(3).jpg?proc=productListThumbnail",
   "size": "120/217 cm",
   "shape": "rect",
   "first_seen": "2026-10-05 21:23 UTC",
-  "last_seen": "2026-10-05 21:23 UTC",
+  "last_seen": "2026-10-05 21:31 UTC",
   "score": 3.0,
   "is_dining_table": true,
   "materials": "white top, light wood legs",
   "style": "contemporary Scandinavian",
   "reason": "The table has a contemporary look with a white top and light wood legs, which does not align well with the warm wood tones and mid-century style of the references.",
   "refs_sig": "7:ref01.jpg,ref02.jpg,ref03.jpg,ref04.jpg,ref05.jpg,ref06.jpg,ref07.jpg",
-  "active": true
+  "active": true,
+  "sold_out": false
  },
  "https://www.ilva.is/stok-vara/?ProductName=SINGLE-Bordstofubord-180-277x90cm-hvitt-eik&PathId=5b0acb86-6b83-45af-afce-1190f3c19f81": {
   "source": "ILVA",
-  "title": "20% VINSÆLT SINGLE Borðstofuborð 180/277x90cm hvítt/eik 95.920 kr. 119.900 kr. Til í vefverslun Til á vöruhúsi",
+  "title": "SINGLE Borðstofuborð 180/277x90cm hvítt/eik",
   "price": 95920,
   "url": "https://www.ilva.is/stok-vara/?ProductName=SINGLE-Bordstofubord-180-277x90cm-hvitt-eik&PathId=5b0acb86-6b83-45af-afce-1190f3c19f81",
   "image": "https://www.ilva.is/library/Images/Products/V003025.jpg?proc=productListThumbnail",
   "size": "180/277 cm",
   "shape": "rect",
   "first_seen": "2026-10-05 21:23 UTC",
-  "last_seen": "2026-10-05 21:23 UTC",
+  "last_seen": "2026-10-05 21:31 UTC",
   "score": 4.0,
   "is_dining_table": true,
   "materials": "wood and veneer",
   "style": "modern, minimalist",
   "reason": "The table has a slim top and tapered legs but its use of a white surface and lack of warm wood tones diverge from the mid-century Scandinavian style.",
   "refs_sig": "7:ref01.jpg,ref02.jpg,ref03.jpg,ref04.jpg,ref05.jpg,ref06.jpg,ref07.jpg",
-  "active": true
+  "active": true,
+  "sold_out": false
  },
  "https://www.ilva.is/stok-vara/?ProductName=SINGLE-Bordstofubord-120-217x80cm-eik-eik&PathId=5b0acb86-6b83-45af-afce-1190f3c19f81": {
   "source": "ILVA",
-  "title": "20% VINSÆLT SINGLE Borðstofuborð 120/217x80cm eik/eik 79.920 kr. 99.900 kr. Til í vefverslun Til á vöruhúsi",
+  "title": "SINGLE Borðstofuborð 120/217x80cm eik/eik",
   "price": 79920,
   "url": "https://www.ilva.is/stok-vara/?ProductName=SINGLE-Bordstofubord-120-217x80cm-eik-eik&PathId=5b0acb86-6b83-45af-afce-1190f3c19f81",
   "image": "https://www.ilva.is/library/Images/Products/V007738.jpg?proc=productListThumbnail",
   "size": "120/217 cm",
   "shape": "rect",
   "first_seen": "2026-10-05 21:23 UTC",
-  "last_seen": "2026-10-05 21:23 UTC",
+  "last_seen": "2026-10-05 21:31 UTC",
   "score": 4.0,
   "is_dining_table": true,
   "materials": "veneered wood, light oak",
   "style": "modern minimalist",
   "reason": "The table has a slim top and tapered legs, but the light oak color and overall design are more modern minimalist rather than mid-century Scandinavian.",
   "refs_sig": "7:ref01.jpg,ref02.jpg,ref03.jpg,ref04.jpg,ref05.jpg,ref06.jpg,ref07.jpg",
-  "active": true
+  "active": true,
+  "sold_out": false
  },
  "https://www.ilva.is/stok-vara/?ProductName=SINGLE-Bordstofubord-120-217x80cm-hvitt-svart&PathId=5b0acb86-6b83-45af-afce-1190f3c19f81": {
   "source": "ILVA",
-  "title": "20% VINSÆLT SINGLE Borðstofuborð 120/217x80cm hvítt/svart 79.920 kr. 99.900 kr. Til í vefverslun Til á vöruhúsi",
+  "title": "SINGLE Borðstofuborð 120/217x80cm hvítt/svart",
   "price": 79920,
   "url": "https://www.ilva.is/stok-vara/?ProductName=SINGLE-Bordstofubord-120-217x80cm-hvitt-svart&PathId=5b0acb86-6b83-45af-afce-1190f3c19f81",
   "image": "https://www.ilva.is/library/Images/Products/V003022.jpg?proc=productListThumbnail",
   "size": "120/217 cm",
   "shape": "rect",
   "first_seen": "2026-10-05 21:23 UTC",
-  "last_seen": "2026-10-05 21:23 UTC",
+  "last_seen": "2026-10-05 21:31 UTC",
   "score": 2.0,
   "is_dining_table": true,
   "materials": "white top, black legs",
   "style": "modern, minimal",
   "reason": "The candidate table lacks warm wood tones and features a modern color scheme with a white top and black legs, diverging from the mid-century Scandinavian aesthetic.",
   "refs_sig": "7:ref01.jpg,ref02.jpg,ref03.jpg,ref04.jpg,ref05.jpg,ref06.jpg,ref07.jpg",
-  "active": true
+  "active": true,
+  "sold_out": false
  },
  "https://www.ilva.is/stok-vara/?ProductName=MAGNOLIA-Bordstofubord-O150x75cm-gratt-travertin-mattlakkadur-eikarsponn&PathId=5b0acb86-6b83-45af-afce-1190f3c19f81": {
   "source": "ILVA",
-  "title": "20% MAGNOLIA Borðstofuborð Ø150x75cm grátt travertín, mattlakkaður eikarspónn 287.920 kr. 359.900 kr. Til í vefverslun Til á vöruhúsi",
+  "title": "MAGNOLIA Borðstofuborð Ø150x75cm grátt travertín, mattlakkaður eikarspónn",
   "price": 287920,
   "url": "https://www.ilva.is/stok-vara/?ProductName=MAGNOLIA-Bordstofubord-O150x75cm-gratt-travertin-mattlakkadur-eikarsponn&PathId=5b0acb86-6b83-45af-afce-1190f3c19f81",
   "image": "https://www.ilva.is/library/Images/Products/V014109.jpg?proc=productListThumbnail",
   "size": "150 cm",
   "shape": "rect",
   "first_seen": "2026-10-05 21:23 UTC",
-  "last_seen": "2026-10-05 21:23 UTC",
+  "last_seen": "2026-10-05 21:31 UTC",
   "score": 4.0,
   "is_dining_table": true,
   "materials": "travertine top, oak veneer base",
   "style": "modern, minimalist",
   "reason": "While it has a simple, minimal base, the travertine top and lack of wood on the top surface diverge from the warm wood, mid-century Scandinavian look.",
   "refs_sig": "7:ref01.jpg,ref02.jpg,ref03.jpg,ref04.jpg,ref05.jpg,ref06.jpg,ref07.jpg",
-  "active": true
+  "active": true,
+  "sold_out": false
  },
  "https://www.ilva.is/stok-vara/?ProductName=LAKE-Bordstofubord-150x90cm-graoliuborinn-gegnheil-eik&PathId=5b0acb86-6b83-45af-afce-1190f3c19f81": {
   "source": "ILVA",
-  "title": "Fast lágt verð LAKE Borðstofuborð 150x90cm gráolíuborinn gegnheil eik 109.900 kr. Til í vefverslun Til á vöruhúsi",
+  "title": "LAKE Borðstofuborð 150x90cm gráolíuborinn gegnheil eik",
   "price": 109900,
   "url": "https://www.ilva.is/stok-vara/?ProductName=LAKE-Bordstofubord-150x90cm-graoliuborinn-gegnheil-eik&PathId=5b0acb86-6b83-45af-afce-1190f3c19f81",
   "image": "https://www.ilva.is/library/Images/Products/V011430.jpg?proc=productListThumbnail",
   "size": "150 cm",
   "shape": "rect",
   "first_seen": "2026-10-05 21:23 UTC",
-  "last_seen": "2026-10-05 21:23 UTC",
+  "last_seen": "2026-10-05 21:31 UTC",
   "score": 7.0,
   "is_dining_table": true,
   "materials": "oiled oak",
   "style": "mid-century Scandinavian",
   "reason": "The table features an oiled finish, slim top, softly rounded edges, and tapered wooden legs, fitting the mid-century Scandinavian style, though the color is darker than typical references.",
   "refs_sig": "7:ref01.jpg,ref02.jpg,ref03.jpg,ref04.jpg,ref05.jpg,ref06.jpg,ref07.jpg",
-  "active": true
+  "active": true,
+  "sold_out": false
  },
  "https://www.ilva.is/stok-vara/?ProductName=LANDHOLM-Bordstofubord-180x95cm-mattlakkadur-eikarsponn&PathId=5b0acb86-6b83-45af-afce-1190f3c19f81": {
   "source": "ILVA",
-  "title": "20% LANDHOLM Borðstofuborð 180x95cm mattlakkaður eikarspónn 111.920 kr. 139.900 kr. Til í vefverslun Til á vöruhúsi",
+  "title": "LANDHOLM Borðstofuborð 180x95cm mattlakkaður eikarspónn",
   "price": 111920,
   "url": "https://www.ilva.is/stok-vara/?ProductName=LANDHOLM-Bordstofubord-180x95cm-mattlakkadur-eikarsponn&PathId=5b0acb86-6b83-45af-afce-1190f3c19f81",
   "image": "https://www.ilva.is/library/Images/Products/V009031.jpg?proc=productListThumbnail",
   "size": "180 cm",
   "shape": "rect",
   "first_seen": "2026-10-05 21:23 UTC",
-  "last_seen": "2026-10-05 21:23 UTC",
+  "last_seen": "2026-10-05 21:31 UTC",
   "score": 6.0,
   "is_dining_table": true,
   "materials": "matt-lacquered oak veneer",
   "style": "modern Scandinavian",
   "reason": "The table has a solid warm wood appearance with a matte finish, but features a pedestal base instead of tapered splayed legs, and sharper edges rather than rounded, which slightly diverges from mid-century design cues.",
   "refs_sig": "7:ref01.jpg,ref02.jpg,ref03.jpg,ref04.jpg,ref05.jpg,ref06.jpg,ref07.jpg",
-  "active": true
+  "active": true,
+  "sold_out": false
  },
  "https://www.ilva.is/stok-vara/?ProductName=RICHMONT-Bordstofubord-med-fiskibeinamynstri-160x95cm-oliuborinn-eikarsponn&PathId=5b0acb86-6b83-45af-afce-1190f3c19f81": {
   "source": "ILVA",
-  "title": "20% RICHMONT Borðstofuborð með fiskibeinamynstri 160x95cm olíuborinn eikarspónn 92.720 kr. 115.900 kr. Til í vefverslun Til á vöruhúsi",
+  "title": "RICHMONT Borðstofuborð með fiskibeinamynstri 160x95cm olíuborinn eikarspónn",
   "price": 92720,
   "url": "https://www.ilva.is/stok-vara/?ProductName=RICHMONT-Bordstofubord-med-fiskibeinamynstri-160x95cm-oliuborinn-eikarsponn&PathId=5b0acb86-6b83-45af-afce-1190f3c19f81",
   "image": "https://www.ilva.is/library/Images/Products/V013192.jpg?proc=productListThumbnail",
   "size": "160 cm",
   "shape": "rect",
   "first_seen": "2026-10-05 21:23 UTC",
-  "last_seen": "2026-10-05 21:23 UTC",
+  "last_seen": "2026-10-05 21:31 UTC",
   "score": 8.0,
   "is_dining_table": true,
   "materials": "oiled oak veneer",
   "style": "Scandinavian mid-century",
   "reason": "Matches the warm wood tone, slim top, softly rounded corners, and tapered legs with a matte finish.",
   "refs_sig": "7:ref01.jpg,ref02.jpg,ref03.jpg,ref04.jpg,ref05.jpg,ref06.jpg,ref07.jpg",
-  "active": true
+  "active": true,
+  "sold_out": false
  },
  "https://www.ilva.is/stok-vara/?ProductName=RICHMONT-Bordstofubord-med-fiskibeinamynstri-160x95cm-reyklitadur-eikarsponn&PathId=5b0acb86-6b83-45af-afce-1190f3c19f81": {
   "source": "ILVA",
-  "title": "20% RICHMONT Borðstofuborð með fiskibeinamynstri 160x95cm reyklitaður eikarspónn 92.720 kr. 115.900 kr. Til í vefverslun Til á vöruhúsi",
+  "title": "RICHMONT Borðstofuborð með fiskibeinamynstri 160x95cm reyklitaður eikarspónn",
   "price": 92720,
   "url": "https://www.ilva.is/stok-vara/?ProductName=RICHMONT-Bordstofubord-med-fiskibeinamynstri-160x95cm-reyklitadur-eikarsponn&PathId=5b0acb86-6b83-45af-afce-1190f3c19f81",
   "image": "https://www.ilva.is/library/Images/Products/V013193.jpg?proc=productListThumbnail",
   "size": "160 cm",
   "shape": "rect",
   "first_seen": "2026-10-05 21:23 UTC",
-  "last_seen": "2026-10-05 21:23 UTC",
+  "last_seen": "2026-10-05 21:31 UTC",
   "score": 8.0,
   "is_dining_table": true,
   "materials": "veneered wood",
   "style": "mid-century Scandinavian",
   "reason": "Warm wood tone, tapered legs, and slim top align well with the target mid-century Scandinavian style.",
   "refs_sig": "7:ref01.jpg,ref02.jpg,ref03.jpg,ref04.jpg,ref05.jpg,ref06.jpg,ref07.jpg",
-  "active": true
+  "active": true,
+  "sold_out": false
  },
  "https://www.ilva.is/stok-vara/?ProductName=LANDHOLM-Bordstofubord-180x95cm-reyklitadur-eikarsponn&PathId=5b0acb86-6b83-45af-afce-1190f3c19f81": {
   "source": "ILVA",
-  "title": "20% LANDHOLM Borðstofuborð 180x95cm reyklitaður eikarspónn 111.920 kr. 139.900 kr. Uppseld í vefverslun",
+  "title": "LANDHOLM Borðstofuborð 180x95cm reyklitaður eikarspónn",
   "price": 111920,
   "url": "https://www.ilva.is/stok-vara/?ProductName=LANDHOLM-Bordstofubord-180x95cm-reyklitadur-eikarsponn&PathId=5b0acb86-6b83-45af-afce-1190f3c19f81",
   "image": "https://www.ilva.is/library/Images/Products/V010238.jpg?proc=productListThumbnail",
   "size": "180 cm",
   "shape": "rect",
   "first_seen": "2026-10-05 21:23 UTC",
-  "last_seen": "2026-10-05 21:23 UTC",
+  "last_seen": "2026-10-05 21:31 UTC",
   "score": 4.0,
   "is_dining_table": true,
   "materials": "veneered wood",
   "style": "modern, minimalist",
   "reason": "The table has a veneer wood finish but lacks the tapered, splayed legs and soft edges characteristic of the Scandinavian mid-century style.",
   "refs_sig": "7:ref01.jpg,ref02.jpg,ref03.jpg,ref04.jpg,ref05.jpg,ref06.jpg,ref07.jpg",
-  "active": true
+  "active": true,
+  "sold_out": true
  },
  "https://www.ilva.is/stok-vara/?ProductName=SESSIA-Bordstofubord-180x95x75cm-mattlakkadur-eikarsponn&PathId=5b0acb86-6b83-45af-afce-1190f3c19f81": {
   "source": "ILVA",
-  "title": "20% NÝTT SESSIA Borðstofuborð 180x95x75cm mattlakkaður eikarspónn 103.920 kr. 129.900 kr. Uppseld í vefverslun Uppseld",
+  "title": "SESSIA Borðstofuborð 180x95x75cm mattlakkaður eikarspónn",
   "price": 103920,
   "url": "https://www.ilva.is/stok-vara/?ProductName=SESSIA-Bordstofubord-180x95x75cm-mattlakkadur-eikarsponn&PathId=5b0acb86-6b83-45af-afce-1190f3c19f81",
   "image": "https://www.ilva.is/library/Images/Products/V014195.jpg?proc=productListThumbnail",
   "size": "180 cm",
   "shape": "rect",
   "first_seen": "2026-10-05 21:23 UTC",
-  "last_seen": "2026-10-05 21:23 UTC",
+  "last_seen": "2026-10-05 21:31 UTC",
   "score": 5.0,
   "is_dining_table": true,
   "materials": "veneered wood",
   "style": "modern minimalist",
   "reason": "The table has a warm wood tone and a slim top with rounded edges, but the boxy leg design is not aligned with the mid-century Scandinavian aesthetic of tapered or splayed legs.",
   "refs_sig": "7:ref01.jpg,ref02.jpg,ref03.jpg,ref04.jpg,ref05.jpg,ref06.jpg,ref07.jpg",
-  "active": true
+  "active": true,
+  "sold_out": true
  },
  "https://www.ilva.is/stok-vara/?ProductName=SKOVBY-SM11-Bordstofubord-183-275x100cm-muskat-laminat-og-mokkalakkadir-eikarfaetur&PathId=5b0acb86-6b83-45af-afce-1190f3c19f81": {
   "source": "ILVA",
-  "title": "20% SKOVBY SM11 Borðstofuborð 183/275x100cm múskat lamínat og mokkalakkaðir eikarfætur 303.920 kr. 379.900 kr. Uppseld í vefverslun Uppseld",
+  "title": "SKOVBY SM11 Borðstofuborð 183/275x100cm múskat lamínat og mokkalakkaðir eikarfætur",
   "price": 303920,
   "url": "https://www.ilva.is/stok-vara/?ProductName=SKOVBY-SM11-Bordstofubord-183-275x100cm-muskat-laminat-og-mokkalakkadir-eikarfaetur&PathId=5b0acb86-6b83-45af-afce-1190f3c19f81",
   "image": "https://www.ilva.is/library/Images/Products/V012993.jpg?proc=productListThumbnail",
   "size": "183/275 cm",
   "shape": "rect",
   "first_seen": "2026-10-05 21:23 UTC",
-  "last_seen": "2026-10-05 21:23 UTC",
+  "last_seen": "2026-10-05 21:31 UTC",
   "score": 6.0,
   "is_dining_table": true,
   "materials": "laminate, wood",
   "style": "modern Scandinavian",
   "reason": "The table has a slim top, wooden elements, and a Scandinavian influence, but the legs and laminate surface slightly deviate from the warm wood aesthetic.",
   "refs_sig": "7:ref01.jpg,ref02.jpg,ref03.jpg,ref04.jpg,ref05.jpg,ref06.jpg,ref07.jpg",
-  "active": true
+  "active": true,
+  "sold_out": true
  },
  "https://www.ilva.is/stok-vara/?ProductName=SKOVBY-SM116-Bordstofubord-142-182x102cm-hvitoliuborin-eik&PathId=5b0acb86-6b83-45af-afce-1190f3c19f81": {
   "source": "ILVA",
-  "title": "SÉRPÖNTUN SKOVBY SM116 Borðstofuborð 142-182x102cm hvítolíuborin eik 283.400 kr. Sérpöntun",
+  "title": "SKOVBY SM116 Borðstofuborð 142-182x102cm hvítolíuborin eik",
   "price": 283400,
   "url": "https://www.ilva.is/stok-vara/?ProductName=SKOVBY-SM116-Bordstofubord-142-182x102cm-hvitoliuborin-eik&PathId=5b0acb86-6b83-45af-afce-1190f3c19f81",
   "image": "https://www.ilva.is/library/Images/Products/V014134.jpg?proc=productListThumbnail",
   "size": "142/182 cm",
   "shape": "rect",
   "first_seen": "2026-10-05 21:23 UTC",
-  "last_seen": "2026-10-05 21:23 UTC",
+  "last_seen": "2026-10-05 21:31 UTC",
   "score": 6.0,
   "is_dining_table": true,
   "materials": "oiled oak",
   "style": "modern Scandinavian",
   "reason": "The table has a slim top with softly rounded edges and a simple wooden pedestal, but the lighter tone of the wood and modern design slightly differ from the warm, mid-century aesthetic of the references.",
   "refs_sig": "7:ref01.jpg,ref02.jpg,ref03.jpg,ref04.jpg,ref05.jpg,ref06.jpg,ref07.jpg",
-  "active": true
+  "active": true,
+  "sold_out": false
  },
  "https://www.ilva.is/stok-vara/?ProductName=TRUE-Bordstofubord-160x95cm-vidarfaetur-graoliuborin-gegnheil-eik&PathId=5b0acb86-6b83-45af-afce-1190f3c19f81": {
   "source": "ILVA",
-  "title": "20% TRUE Borðstofuborð 160x95cm viðarfætur gráolíuborin gegnheil eik 183.920 kr. 229.900 kr. Uppseld í vefverslun Uppseld",
+  "title": "TRUE Borðstofuborð 160x95cm viðarfætur gráolíuborin gegnheil eik",
   "price": 183920,
   "url": "https://www.ilva.is/stok-vara/?ProductName=TRUE-Bordstofubord-160x95cm-vidarfaetur-graoliuborin-gegnheil-eik&PathId=5b0acb86-6b83-45af-afce-1190f3c19f81",
   "image": "https://www.ilva.is/library/Images/Products/V008269.jpg?proc=productListThumbnail",
   "size": "160 cm",
   "shape": "rect",
   "first_seen": "2026-10-05 21:23 UTC",
-  "last_seen": "2026-10-05 21:23 UTC",
+  "last_seen": "2026-10-05 21:31 UTC",
   "score": 5.0,
   "is_dining_table": true,
   "materials": "oiled oak",
   "style": "modern rustic",
   "reason": "The table has a warm wood tone and a slim top with rounded edges, but the leg design is more rustic and less tapered, and the finish is slightly more matte.",
   "refs_sig": "7:ref01.jpg,ref02.jpg,ref03.jpg,ref04.jpg,ref05.jpg,ref06.jpg,ref07.jpg",
-  "active": true
+  "active": true,
+  "sold_out": true
  },
  "https://bland.is/til-solu/heimilid/stofa/ikea-ekedalen-bord/5292736/": {
   "source": "Bland (notað)",
@@ -2133,7 +2179,7 @@
   "shape": "rect",
   "first_seen": "2026-10-05 21:23 UTC",
   "last_seen": "2026-10-05 21:23 UTC",
-  "active": true
+  "active": false
  },
  "https://bland.is/til-solu/heimilid/stofa/bord-og-tveir-stolar-nylegt/5292648/": {
   "source": "Bland (notað)",
@@ -2145,7 +2191,7 @@
   "shape": "rect",
   "first_seen": "2026-10-05 21:23 UTC",
   "last_seen": "2026-10-05 21:23 UTC",
-  "active": true
+  "active": false
  },
  "https://bland.is/til-solu/heimilid/stofa/bordstofubord-90x160-250-tvaer-staekkunarplotur/5292588/": {
   "source": "Bland (notað)",
@@ -2157,7 +2203,7 @@
   "shape": "rect",
   "first_seen": "2026-10-05 21:23 UTC",
   "last_seen": "2026-10-05 21:23 UTC",
-  "active": true
+  "active": false
  },
  "https://bland.is/til-solu/heimilid/stofa/nomi-stoll-med-barnasaeti-og-bordi-og-ungbarnasaeti/5292552/": {
   "source": "Bland (notað)",
@@ -2169,7 +2215,7 @@
   "shape": null,
   "first_seen": "2026-10-05 21:23 UTC",
   "last_seen": "2026-10-05 21:23 UTC",
-  "active": true
+  "active": false
  },
  "https://bland.is/til-solu/heimilid/stofa/barnabord-og-stoll/5292538/": {
   "source": "Bland (notað)",
@@ -2181,7 +2227,7 @@
   "shape": null,
   "first_seen": "2026-10-05 21:23 UTC",
   "last_seen": "2026-10-05 21:23 UTC",
-  "active": true
+  "active": false
  },
  "https://bland.is/til-solu/heimilid/stofa/bordstofubord-ur-ilva/5292481/": {
   "source": "Bland (notað)",
@@ -2193,7 +2239,7 @@
   "shape": "rect",
   "first_seen": "2026-10-05 21:23 UTC",
   "last_seen": "2026-10-05 21:23 UTC",
-  "active": true
+  "active": false
  },
  "https://bland.is/til-solu/heimilid/stofa/laminate-bordstofubord/5292390/": {
   "source": "Bland (notað)",
@@ -2205,7 +2251,7 @@
   "shape": "rect",
   "first_seen": "2026-10-05 21:23 UTC",
   "last_seen": "2026-10-05 21:23 UTC",
-  "active": true
+  "active": false
  },
  "https://bland.is/til-solu/heimilid/stofa/bord-ikea/5292364/": {
   "source": "Bland (notað)",
@@ -2217,7 +2263,7 @@
   "shape": "rect",
   "first_seen": "2026-10-05 21:23 UTC",
   "last_seen": "2026-10-05 21:23 UTC",
-  "active": true
+  "active": false
  },
  "https://bland.is/til-solu/heimilid/stofa/staekkanlegt-eldhusbord/5292282/": {
   "source": "Bland (notað)",
@@ -2229,7 +2275,7 @@
   "shape": "rect",
   "first_seen": "2026-10-05 21:23 UTC",
   "last_seen": "2026-10-05 21:23 UTC",
-  "active": true
+  "active": false
  },
  "https://bland.is/til-solu/heimilid/stofa/bordstofubord-160x90-cm-210x90/5292203/": {
   "source": "Bland (notað)",
@@ -2241,7 +2287,7 @@
   "shape": "rect",
   "first_seen": "2026-10-05 21:23 UTC",
   "last_seen": "2026-10-05 21:23 UTC",
-  "active": true
+  "active": false
  },
  "https://bland.is/til-solu/heimilid/stofa/bordstofubord-og-5-stolar/5292157/": {
   "source": "Bland (notað)",
@@ -2253,7 +2299,7 @@
   "shape": "rect",
   "first_seen": "2026-10-05 21:23 UTC",
   "last_seen": "2026-10-05 21:23 UTC",
-  "active": true
+  "active": false
  },
  "https://bland.is/til-solu/heimilid/stofa/staekkanlegt-bordstofubord/5292154/": {
   "source": "Bland (notað)",
@@ -2265,7 +2311,7 @@
   "shape": null,
   "first_seen": "2026-10-05 21:23 UTC",
   "last_seen": "2026-10-05 21:23 UTC",
-  "active": true
+  "active": false
  },
  "https://bland.is/til-solu/heimilid/stofa/bord/5292023/": {
   "source": "Bland (notað)",
@@ -2277,7 +2323,7 @@
   "shape": null,
   "first_seen": "2026-10-05 21:23 UTC",
   "last_seen": "2026-10-05 21:23 UTC",
-  "active": true
+  "active": false
  },
  "https://bland.is/til-solu/heimilid/stofa/6-stk-bordstofustolar-til-solu/5291830/": {
   "source": "Bland (notað)",
@@ -2289,7 +2335,7 @@
   "shape": null,
   "first_seen": "2026-10-05 21:23 UTC",
   "last_seen": "2026-10-05 21:23 UTC",
-  "active": true
+  "active": false
  },
  "https://bland.is/til-solu/heimilid/stofa/eldhusbord-med-snuningsdisk-til-solu/5291579/": {
   "source": "Bland (notað)",
@@ -2301,7 +2347,7 @@
   "shape": null,
   "first_seen": "2026-10-05 21:23 UTC",
   "last_seen": "2026-10-05 21:23 UTC",
-  "active": true
+  "active": false
  },
  "https://bland.is/til-solu/heimilid/stofa/4-bordstofustolar/5291298/": {
   "source": "Bland (notað)",
@@ -2313,7 +2359,7 @@
   "shape": null,
   "first_seen": "2026-10-05 21:23 UTC",
   "last_seen": "2026-10-05 21:23 UTC",
-  "active": true
+  "active": false
  },
  "https://bland.is/til-solu/heimilid/stofa/bordstofubord/5291196/": {
   "source": "Bland (notað)",
@@ -2325,7 +2371,7 @@
   "shape": "rect",
   "first_seen": "2026-10-05 21:23 UTC",
   "last_seen": "2026-10-05 21:23 UTC",
-  "active": true
+  "active": false
  },
  "https://bland.is/til-solu/heimilid/stofa/rafmagns-bord-nytt/5290544/": {
   "source": "Bland (notað)",
@@ -2337,7 +2383,7 @@
   "shape": null,
   "first_seen": "2026-10-05 21:23 UTC",
   "last_seen": "2026-10-05 21:23 UTC",
-  "active": true
+  "active": false
  },
  "https://bland.is/til-solu/heimilid/stofa/skiptibord-hilla-ikea-sundvik/5290528/": {
   "source": "Bland (notað)",
@@ -2349,7 +2395,7 @@
   "shape": null,
   "first_seen": "2026-10-05 21:23 UTC",
   "last_seen": "2026-10-05 21:23 UTC",
-  "active": true
+  "active": false
  },
  "https://bland.is/til-solu/heimilid/stofa/bordstofustolar-/5290177/": {
   "source": "Bland (notað)",
@@ -2361,7 +2407,7 @@
   "shape": null,
   "first_seen": "2026-10-05 21:23 UTC",
   "last_seen": "2026-10-05 21:23 UTC",
-  "active": true
+  "active": false
  },
  "https://bland.is/til-solu/heimilid/eldhus-og-badherbergi/eldhusbord-og-4-stolar/5292845/": {
   "source": "Bland (notað)",
@@ -2373,7 +2419,7 @@
   "shape": null,
   "first_seen": "2026-10-05 21:23 UTC",
   "last_seen": "2026-10-05 21:23 UTC",
-  "active": true
+  "active": false
  },
  "https://bland.is/til-solu/heimilid/eldhus-og-badherbergi/italskt-bordstofubord/5292343/": {
   "source": "Bland (notað)",
@@ -2385,7 +2431,7 @@
   "shape": "rect",
   "first_seen": "2026-10-05 21:23 UTC",
   "last_seen": "2026-10-05 21:23 UTC",
-  "active": true
+  "active": false
  },
  "https://bland.is/til-solu/heimilid/eldhus-og-badherbergi/bord/5291823/": {
   "source": "Bland (notað)",
@@ -2397,7 +2443,7 @@
   "shape": null,
   "first_seen": "2026-10-05 21:23 UTC",
   "last_seen": "2026-10-05 21:23 UTC",
-  "active": true
+  "active": false
  },
  "https://bland.is/til-solu/heimilid/eldhus-og-badherbergi/bordstofustolar/5286002/": {
   "source": "Bland (notað)",
@@ -2409,7 +2455,7 @@
   "shape": null,
   "first_seen": "2026-10-05 21:23 UTC",
   "last_seen": "2026-10-05 21:23 UTC",
-  "active": true
+  "active": false
  },
  "https://bland.is/til-solu/heimilid/eldhus-og-badherbergi/til-solu-hellubord-eico/5284157/": {
   "source": "Bland (notað)",
@@ -2421,7 +2467,7 @@
   "shape": null,
   "first_seen": "2026-10-05 21:23 UTC",
   "last_seen": "2026-10-05 21:23 UTC",
-  "active": true
+  "active": false
  },
  "https://bland.is/til-solu/heimilid/eldhus-og-badherbergi/ikea-docksta-eldhusbord/5282508/": {
   "source": "Bland (notað)",
@@ -2433,7 +2479,7 @@
   "shape": null,
   "first_seen": "2026-10-05 21:23 UTC",
   "last_seen": "2026-10-05 21:23 UTC",
-  "active": true
+  "active": false
  },
  "https://bland.is/til-solu/heimilid/eldhus-og-badherbergi/ilva-bord/5270273/": {
   "source": "Bland (notað)",
@@ -2445,7 +2491,7 @@
   "shape": "rect",
   "first_seen": "2026-10-05 21:23 UTC",
   "last_seen": "2026-10-05 21:23 UTC",
-  "active": true
+  "active": false
  },
  "https://bland.is/til-solu/heimilid/eldhus-og-badherbergi/stal-hellubord-med-2-hellum/5146466/": {
   "source": "Bland (notað)",
@@ -2457,7 +2503,7 @@
   "shape": null,
   "first_seen": "2026-10-05 21:23 UTC",
   "last_seen": "2026-10-05 21:23 UTC",
-  "active": true
+  "active": false
  },
  "https://bland.is/til-solu/heimilid/antik/innskotsbord/5286713/": {
   "source": "Bland (notað)",
@@ -2469,7 +2515,7 @@
   "shape": null,
   "first_seen": "2026-10-05 21:23 UTC",
   "last_seen": "2026-10-05 21:23 UTC",
-  "active": true
+  "active": false
  },
  "https://bland.is/til-solu/heimilid/antik/vintage-ikea-strind-stofubord/5283279/": {
   "source": "Bland (notað)",
@@ -2481,7 +2527,7 @@
   "shape": null,
   "first_seen": "2026-10-05 21:23 UTC",
   "last_seen": "2026-10-05 21:23 UTC",
-  "active": true
+  "active": false
  },
  "https://bland.is/til-solu/heimilid/antik/ventage-son-of-hibachi-portable-charcoal-grill-/5278151/": {
   "source": "Bland (notað)",
@@ -2493,6 +2539,139 @@
   "shape": null,
   "first_seen": "2026-10-05 21:23 UTC",
   "last_seen": "2026-10-05 21:23 UTC",
+  "active": false
+ },
+ "https://www.epal.is/products/sessa-palissade-dining-bench-1": {
+  "source": "Epal",
+  "title": "Sessa PALISSADE DINING BENCH",
+  "price": 21000,
+  "url": "https://www.epal.is/products/sessa-palissade-dining-bench-1",
+  "image": "https://cdn.shopify.com/s/files/1/0817/4167/6800/files/20d16435-60d5-4ffc-a692-b14a256344a7.jpg?v=1771298265",
+  "size": "size?",
+  "shape": null,
+  "sold_out": null,
+  "first_seen": "2026-10-05 21:31 UTC",
+  "last_seen": "2026-10-05 21:31 UTC",
+  "score": 0.0,
+  "is_dining_table": false,
+  "materials": "fabric",
+  "style": "modern casual",
+  "reason": "The item is a fabric cushion or mat, not a dining table.",
+  "refs_sig": "7:ref01.jpg,ref02.jpg,ref03.jpg,ref04.jpg,ref05.jpg,ref06.jpg,ref07.jpg",
+  "active": true
+ },
+ "https://www.epal.is/products/sessa-palissade-dining-bench": {
+  "source": "Epal",
+  "title": "Sessa PALISSADE DINING BENCH",
+  "price": 16900,
+  "url": "https://www.epal.is/products/sessa-palissade-dining-bench",
+  "image": "https://cdn.shopify.com/s/files/1/0817/4167/6800/files/7aac3684-13c5-4e73-bbac-a0e34371ec41.jpg?v=1771298243",
+  "size": "size?",
+  "shape": null,
+  "sold_out": null,
+  "first_seen": "2026-10-05 21:31 UTC",
+  "last_seen": "2026-10-05 21:31 UTC",
+  "score": 0.0,
+  "is_dining_table": false,
+  "materials": "n/a",
+  "style": "not applicable",
+  "reason": "The item shown is a bench cushion, not a dining table.",
+  "refs_sig": "7:ref01.jpg,ref02.jpg,ref03.jpg,ref04.jpg,ref05.jpg,ref06.jpg,ref07.jpg",
+  "active": true
+ },
+ "https://www.epal.is/products/plakat-fine-dining-50x70": {
+  "source": "Epal",
+  "title": "Plakat FINE DINING 50x70",
+  "price": 8900,
+  "url": "https://www.epal.is/products/plakat-fine-dining-50x70",
+  "image": "https://cdn.shopify.com/s/files/1/0817/4167/6800/files/c1d76d0e-fdbd-412d-bf5a-d1d89b1fc9cc.jpg?v=1771277872",
+  "size": "size?",
+  "shape": null,
+  "sold_out": null,
+  "first_seen": "2026-10-05 21:31 UTC",
+  "last_seen": "2026-10-05 21:31 UTC",
+  "score": 0.0,
+  "is_dining_table": false,
+  "materials": "n/a",
+  "style": "abstract art",
+  "reason": "The image does not depict a dining table.",
+  "refs_sig": "7:ref01.jpg,ref02.jpg,ref03.jpg,ref04.jpg,ref05.jpg,ref06.jpg,ref07.jpg",
+  "active": true
+ },
+ "https://www.epal.is/products/plakat-fine-dining-30x40": {
+  "source": "Epal",
+  "title": "Plakat FINE DINING 30x40",
+  "price": 6500,
+  "url": "https://www.epal.is/products/plakat-fine-dining-30x40",
+  "image": "https://cdn.shopify.com/s/files/1/0817/4167/6800/files/8472712b-e99e-4591-844b-910e081ce1f4.jpg?v=1771277857",
+  "size": "size?",
+  "shape": null,
+  "sold_out": null,
+  "first_seen": "2026-10-05 21:31 UTC",
+  "last_seen": "2026-10-05 21:31 UTC",
+  "score": 0.0,
+  "is_dining_table": false,
+  "materials": "image of art",
+  "style": "artistic, abstract",
+  "reason": "The image is a piece of abstract art, not a dining table.",
+  "refs_sig": "7:ref01.jpg,ref02.jpg,ref03.jpg,ref04.jpg,ref05.jpg,ref06.jpg,ref07.jpg",
+  "active": true
+ },
+ "https://www.epal.is/products/bord-weekday-180x66-fura": {
+  "source": "Epal",
+  "title": "Borð WEEKDAY 180x66 fura",
+  "price": 145500,
+  "url": "https://www.epal.is/products/bord-weekday-180x66-fura",
+  "image": "https://cdn.shopify.com/s/files/1/0817/4167/6800/files/dbdad6bc-a22b-4075-832a-9c1da6eee681.jpg?v=1771274098",
+  "size": "180 cm",
+  "shape": "rect",
+  "sold_out": null,
+  "first_seen": "2026-10-05 21:31 UTC",
+  "last_seen": "2026-10-05 21:31 UTC",
+  "score": 0.0,
+  "is_dining_table": false,
+  "materials": "pine wood",
+  "style": "farmhouse bench",
+  "reason": "The table is made of light pine wood, has a plank construction, and blocky legs, which do not match the mid-century Scandinavian style characterized by slim, tapered legs and warm wood tones.",
+  "refs_sig": "7:ref01.jpg,ref02.jpg,ref03.jpg,ref04.jpg,ref05.jpg,ref06.jpg,ref07.jpg",
+  "active": true
+ },
+ "https://www.epal.is/products/sessa-hee-dining-sky-grey": {
+  "source": "Epal",
+  "title": "Sessa HEE DINING sky grey",
+  "price": 8500,
+  "url": "https://www.epal.is/products/sessa-hee-dining-sky-grey",
+  "image": "https://cdn.shopify.com/s/files/1/0817/4167/6800/files/0e6dec68-6d3d-4bf8-97b2-9acb8aea0429.jpg?v=1771272774",
+  "size": "size?",
+  "shape": null,
+  "sold_out": null,
+  "first_seen": "2026-10-05 21:31 UTC",
+  "last_seen": "2026-10-05 21:31 UTC",
+  "score": 0.0,
+  "is_dining_table": false,
+  "materials": "fabric",
+  "style": "none",
+  "reason": "The image does not show a dining table; visually, it appears to be a cushion or seat cover.",
+  "refs_sig": "7:ref01.jpg,ref02.jpg,ref03.jpg,ref04.jpg,ref05.jpg,ref06.jpg,ref07.jpg",
+  "active": true
+ },
+ "https://www.epal.is/products/sessa-crate-dining-beige": {
+  "source": "Epal",
+  "title": "Sessa CRATE DINING beige",
+  "price": 10500,
+  "url": "https://www.epal.is/products/sessa-crate-dining-beige",
+  "image": "https://cdn.shopify.com/s/files/1/0817/4167/6800/files/a2fc1af7-0822-4279-8571-80c55521b2b0_f4a4c3e3-c305-48fd-884a-09c80912430a.jpg?v=1791234790",
+  "size": "size?",
+  "shape": null,
+  "sold_out": null,
+  "first_seen": "2026-10-05 21:31 UTC",
+  "last_seen": "2026-10-05 21:31 UTC",
+  "score": 0.0,
+  "is_dining_table": false,
+  "materials": "fabric",
+  "style": "cushion",
+  "reason": "The candidate listing is a cushion, not a dining table.",
+  "refs_sig": "7:ref01.jpg,ref02.jpg,ref03.jpg,ref04.jpg,ref05.jpg,ref06.jpg,ref07.jpg",
   "active": true
  }
 }
