@@ -1,6 +1,6 @@
 # Dining table matches
 
-Updated 2026-10-05 21:40 UTC. 64 tables in budget and size range. Sorted by style match (gpt-4o).
+Updated 2026-10-05 21:46 UTC. 64 tables in budget and size range. Sorted by style match (gpt-4o).
 
 | | Match | Table | Price |
 |---|---|---|---|
