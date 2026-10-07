@@ -1,48 +1,100 @@
 # What to look for. Edit freely — the pipeline reads this on every run.
-search:
-  item: dining table
-  # Keywords that mark a listing as a dining table (Icelandic + English, lowercase)
-  include_keywords: [borðstofuborð, bordstofubord, borðstofusett, eldhúsborð, matarborð, dining table, spisebord, matbord]
-  # Listings whose title contains any of these are dropped
-  exclude_keywords: [sófaborð, sofabord, náttborð, skrifborð, hliðarborð, kaffiborð, coffee, barborð, barstóll, bekkur, borðplata, framlenging, stækkunarplata, dúkur, löber, borðbúnaður, lampi, stækkunarplöt, barnaborð, barna, kertastjaki]
-  max_price_isk: 400000
-  min_price_isk: 5000
-  # Table top length, cm. Extendable tables pass if any length in their range fits.
-  target_length_cm: 160
-  min_length_cm: 140
-  max_length_cm: 190
-  allow_round: false
-  # Keep listings where no size could be read from the text (flagged as "size?")
-  keep_unknown_size: true
+# Each target has its own reference images in refs/<id>/, its own filters and its own results section.
+
+targets:
+  - id: dining-table
+    item: dining table
+    # Keywords that mark a listing as this item (Icelandic + English, lowercase)
+    include_keywords: [borðstofuborð, bordstofubord, borðstofusett, eldhúsborð, matarborð, dining table, spisebord, matbord]
+    # Listings whose title contains any of these are dropped
+    exclude_keywords: [sófaborð, sofabord, náttborð, skrifborð, hliðarborð, kaffiborð, coffee, barborð, barstóll, bekkur, borðplata, framlenging, stækkunarplata, dúkur, löber, borðbúnaður, lampi, stækkunarplöt, barnaborð, barna, kertastjaki]
+    # Plain product names like "Borð Oslo": kept when the text says it's for dining (or the page is a dining category)
+    generic_title_re: '\b(bor[dð]|table|dining)\b'
+    context_keywords: [dining, borðstofu, matar]
+    # A chair listing that mentions tables in passing is still a chair; a "table + chairs" set is kept
+    reject_title_re: 'st[oó]l|chair'
+    unless_title_re: 'bor[dð]|table'
+    min_price_isk: 5000
+    max_price_isk: 400000
+    size:
+      # Table top length, cm. Extendable tables pass if any length in their range fits.
+      target_length_cm: 160
+      min_length_cm: 140
+      max_length_cm: 190
+      allow_round: false
+      # Keep listings where no size could be read from the text (flagged as "size?")
+      keep_unknown_size: true
+    look: >-
+      solid or veneered warm wood (walnut, teak, oiled oak), mid-century Scandinavian, slim top with softly
+      rounded corners/edges, tapered wooden legs (often slightly splayed) or a simple wooden pedestal,
+      matte/oiled finish, no glass, metal, high gloss, farmhouse or industrial.
+    woocommerce_terms: [borðstofuborð, borðstofu, eldhúsborð]
+    html:
+      - name: Módern
+        urls: ["https://modern.is/product-category/husgogn/bord/bordstofubord/"]
+        link_pattern: "/shop/husgogn/bord/bordstofubord/"
+        dining_category: true
+      - name: Línan
+        urls: ["https://linan.is/verslun/bord/", "https://linan.is/verslun/bord/page/2/", "https://linan.is/verslun/bord/page/3/"]
+        link_pattern: "/vara/"
+      - name: ILVA
+        urls: ["https://www.ilva.is/bordstofan/bordstofubord/"]
+        link_pattern: "/stok-vara/"
+        dining_category: true
+
+  - id: dining-chair
+    item: dining chair
+    include_keywords: [borðstofustól, bordstofustol, eldhússtól, eldhusstol, dining chair, spisestol, matstol]
+    exclude_keywords: [hægindastól, hvíldarstól, barstól, skrifborðsstól, skrifstofustól, leikjastól, gaming, barnastól, matarstól barna, ruggustól, sturtustól, garðstól, útistól, lounge, easy chair, kollur, koll, skemil, puff, púði, pudi, sessa, sessur, áklæði, aklaedi, filt, sófi, sofi, bekkur, stólafætur, stolafaetur, dúkkustól, leikfang]
+    # "Stóll X", "Ami stólar": kept when the text says it's a dining/kitchen chair (or the page is a chair category / Bland)
+    generic_title_re: '\bst[oó]l(l|ar|a|um|ana)?\b|st[oó]l(l|ar)\b|\bchairs?\b'
+    context_keywords: [borðstofu, bordstofu, eldhús, eldhus, dining, matar]
+    # Table + chairs sets can't be priced per chair, so they belong to the table target
+    reject_title_re: 'bor[dð]\b|bor[dð]stofusett|\btables?\b'
+    min_price_isk: 0
+    # Per chair. Sets ("4 stólar", "6 stk") are divided by the count before this check.
+    max_price_isk: 50000
+    per_unit: true
+    look: >-
+      mid-century Scandinavian dining chair with a solid wood frame (oak or walnut, warm mid tone, oiled/matte),
+      slim round tapered legs, softly rounded joints, a curved back rest (bent wood/veneer shell or a curved
+      upholstered roll back) and an upholstered seat in a light cream/oatmeal textured fabric (bouclé, tweed).
+      No metal or chrome legs, no plastic shell, no high gloss, no bulky fully upholstered boxy chair, no lounge or office chair.
+    woocommerce_terms: [borðstofustól, borðstofustólar, eldhússtól]
+    html:
+      - name: Módern
+        urls: ["https://modern.is/product-category/husgogn/stolar/bordstofustolar/",
+               "https://modern.is/product-category/husgogn/stolar/bordstofustolar/page/2/",
+               "https://modern.is/product-category/husgogn/stolar/bordstofustolar/page/3/"]
+        link_pattern: "/shop/husgogn/stolar/"
+        dining_category: true
+      - name: Línan
+        urls: ["https://linan.is/verslun/stolar/bordstofustolar/"]
+        link_pattern: "/vara/"
+        dining_category: true
+      - name: ILVA
+        urls: ["https://www.ilva.is/bordstofan/stolar-og-bekkir/bordstofustolar/"]
+        link_pattern: "/stok-vara/"
+        dining_category: true
 
 scoring:
   # Repo variable OPENAI_MODEL overrides this.
   model: gpt-4o
   # Style score (0-10) at or above which a NEW listing triggers a phone notification
   notify_min_score: 7
-  # Max candidates scored per run (cost guard). Already-scored listings are cached.
+  # Max candidates scored per target per run (cost guard). Already-scored listings are cached.
   max_new_scores_per_run: 150
 
+# Sources shared by all targets (full catalogs / marketplace pages)
 sources:
   shopify:
     - {name: Epal, domain: www.epal.is}
     - {name: Snúran, domain: snuran.is}
   woocommerce:
     - {name: Húsgagnahöllin, domain: husgagnahollin.is}
-  html:
-    - name: Módern
-      urls: ["https://modern.is/product-category/husgogn/bord/bordstofubord/"]
-      link_pattern: "/shop/husgogn/bord/bordstofubord/"
-      dining_category: true
-    - name: Línan
-      urls: ["https://linan.is/verslun/bord/", "https://linan.is/verslun/bord/page/2/", "https://linan.is/verslun/bord/page/3/"]
-      link_pattern: "/vara/"
-    - name: ILVA
-      urls: ["https://www.ilva.is/bordstofan/bordstofubord/"]
-      link_pattern: "/stok-vara/"
-      dining_category: true
   bland:
     # Used-goods marketplace. Category pages, newest first.
+    # Listings without a price are kept as 0 kr ("gefins" if the text says so, otherwise "no price").
     categories:
       - "https://bland.is/solutorg/heimilid/stofa-sofi/?categoryId=29"
       - "https://bland.is/solutorg/heimilid/eldhus-badherbergi/?categoryId=30"

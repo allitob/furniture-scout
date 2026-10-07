@@ -147,20 +147,22 @@ def clean_title(t):
     return t.strip(" -·|")
 
 
-def extract_cards(html, base, link_pattern, source):
+def extract_cards(html, base, link_pattern, source, keep_no_price=False):
+    """`keep_no_price`: keep cards without a price (Bland shows none for free items) as price 0, flagged."""
     soup = BeautifulSoup(html, "html.parser")
     cards = {}
     for a in soup.find_all("a", href=True):
         href = urljoin(base, a["href"])
         if link_pattern not in href or href in cards:
             continue
-        node, price = a, None
+        node, price, last_single = a, None, a
         for _ in range(7):
             # Stop once we've climbed out of this card into a list of several products
             links = {urljoin(base, x["href"]) for x in node.find_all("a", href=True)
                      if link_pattern in urljoin(base, x["href"])} if node is not a else {href}
             if len(links) > 1:
                 break
+            last_single = node
             text = node.get_text(" ", strip=True)
             if PRICE_RE.search(text):
                 # Sale cards show old + new price; the lower one is what you pay
@@ -169,8 +171,12 @@ def extract_cards(html, base, link_pattern, source):
             if node.parent is None:
                 break
             node = node.parent
+        no_price = False
         if price is None:
-            continue
+            # Only real listing URLs (ending in a numeric id), never nav/category links
+            if not keep_no_price or not re.search(r"/\d{4,}/?(?:\?|$)", href):
+                continue
+            node, price, no_price = last_single, 0, True
         card_text = node.get_text(" ", strip=True)
         title = clean_title(a.get_text(" ", strip=True))
         if len(title) < 4:
@@ -186,6 +192,7 @@ def extract_cards(html, base, link_pattern, source):
             "image": _img_src(img, base) if img else None,
             "text": "",
             "sold_out": bool(re.search(r"uppsel", card_text, re.I)) and not re.search(r"til á|til í", card_text, re.I),
+            "no_price": no_price,
         }
     return list(cards.values())
 
@@ -219,7 +226,7 @@ def bland(categories, pages, log):
             except Exception as e:  # keep going on a bad page
                 log(f"Bland: failed {url}: {e}")
                 break
-            cards = extract_cards(r.text, url, "/til-solu/", "Bland (notað)")
+            cards = extract_cards(r.text, url, "/til-solu/", "Bland (notað)", keep_no_price=True)
             if not cards:
                 break
             for c in cards:
@@ -256,5 +263,11 @@ def enrich_detail(item):
     item["image"] = fix_image_url(item.get("image"))
     desc = soup.find("meta", property="og:description") or soup.find("meta", attrs={"name": "description"})
     body = soup.get_text(" ", strip=True)
-    item["text"] = ((desc.get("content", "") if desc else "") + " " + body[:4000])
+    item["desc"] = desc.get("content", "") if desc else ""
+    item["text"] = item["desc"] + " " + body[:4000]
+    if item.get("no_price"):
+        # A price shown only on the detail page beats "no price"
+        m = PRICE_RE.search(item["desc"])
+        if m:
+            item["price"], item["no_price"] = int(re.sub(r"[^\d]", "", m.group(1))), False
     return item
