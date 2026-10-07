@@ -198,7 +198,7 @@ def extract_cards(html, base, link_pattern, source, keep_no_price=False):
 
 
 def html_listing(name, urls, link_pattern, log, broad=False):
-    out = []
+    out, seen = [], set()
     for u in urls:
         try:
             r = get(u)
@@ -207,6 +207,9 @@ def html_listing(name, urls, link_pattern, log, broad=False):
                 break
             raise
         for c in extract_cards(r.text, u, link_pattern, name):
+            if c["url"] in seen:  # pages past the end can repeat the last page
+                continue
+            seen.add(c["url"])
             c["from_html"] = True
             c["broad"] = broad  # the page itself is a dining-table category
             out.append(c)

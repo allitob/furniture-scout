@@ -1,6 +1,6 @@
 # furniture-scout
 
-Finds furniture in Icelandic shops and on Bland.is that matches a reference aesthetic. Current targets: **dining table** (≤ 400.000 kr, 140–190 cm) and **dining chairs** (≤ 50.000 kr per chair, free allowed).
+Finds furniture in Icelandic shops and on Bland.is that matches a reference aesthetic. Current targets: **dining table** (≤ 400.000 kr, 140–190 cm) **dining chairs** (≤ 50.000 kr per chair, free allowed) and **sofas** (≤ 400.000 kr, free allowed).
 
 **Latest results → [results.md](results.md)**
 
@@ -13,7 +13,7 @@ Finds furniture in Icelandic shops and on Bland.is that matches a reference aest
 
 ## Adjusting
 
-- **Style:** add or remove images in `refs/dining-table/` or `refs/dining-chair/`. Changing a target's refs re-scores that target on the next run.
+- **Style:** add or remove images in `refs/dining-table/`, `refs/dining-chair/` or `refs/sofa/`. Changing a target's refs re-scores that target on the next run.
 - **New target:** add an entry under `targets` in `config.yaml` and a matching `refs/<id>/` folder.
 - **Budget, size, keywords, shop pages:** per target in `config.yaml`; shared sources at the bottom.
 - **Model:** repo variable `OPENAI_MODEL` (Settings → Secrets and variables → Actions → Variables). Default `gpt-4o`.

@@ -77,6 +77,44 @@ targets:
         link_pattern: "/stok-vara/"
         dining_category: true
 
+  - id: sofa
+    item: sofa
+    include_keywords: [sófi, sófar, sofi, sofar, hornsóf, hornsof, tungusóf, tungusof, einingasóf, einingasof, svefnsóf, svefnsof, sófasett, sofasett, sofa, couch, sæta sóf]
+    exclude_keywords: [sófaborð, sofabord, sófaborð, útisóf, utisof, garðsóf, gardsof, garðhúsgögn, barnasóf, barnasof, dúkku, dukku, hnakkapúð, hnakkapud, púði, pudi, púðar, pudar, áklæði, aklaedi, sófaáklæði, ábreiða, abreida, teppi, fætur, faetur, pulla, pullur, puff, skemil, bekkur, hægindastól, haegindastol, sófahlíf, sofahlif, lampi]
+    # Línan names some sofas only "Falkner 3ja Sæta"; Bland titles are vague
+    generic_title_re: 'sóf|\bsofa|\bcouch|\d\s*(ja|ra|-)?\s*sæta|sæta\b'
+    context_keywords: [sófi, sofi, sofa, stofu, sæta]
+    # Armchairs and chair listings belong elsewhere
+    reject_title_re: 'st[oó]l(l|ar|a)?\b|chair'
+    min_price_isk: 0
+    max_price_isk: 400000
+    look: >-
+      light cream / off-white / warm greige sofa in a soft woven or linen-look fabric, relaxed and deep with
+      plush loose back cushions, soft rounded arms and clean simple lines, low and generous; L-shaped corner
+      sofa or chaise (tungusófi) preferred, straight sofa acceptable. Legs hidden or short and wooden.
+      No leather, no dark or saturated colours, no velvet, no Chesterfield tufting, no metal frame, no recliner mechanism.
+    woocommerce_terms: [sófi, hornsófi, tungusófi]
+    html:
+      - name: Módern
+        urls: ["https://modern.is/product-category/husgogn/sofar-og-legubekkir/",
+               "https://modern.is/product-category/husgogn/sofar-og-legubekkir/page/2/",
+               "https://modern.is/product-category/husgogn/sofar-og-legubekkir/page/3/",
+               "https://modern.is/product-category/husgogn/sofar-og-legubekkir/page/4/"]
+        link_pattern: "/shop/husgogn/sofar-og-legubekkir/"
+        dining_category: true
+      - name: Línan
+        urls: ["https://linan.is/verslun/sofar/", "https://linan.is/verslun/sofar/page/2/", "https://linan.is/verslun/sofar/page/3/"]
+        link_pattern: "/vara/"
+        dining_category: true
+      - name: ILVA
+        urls: ["https://www.ilva.is/stofan/sofar/tungu-hornsofar/", "https://www.ilva.is/stofan/sofar/tungu-hornsofar/?PageNr=2",
+               "https://www.ilva.is/stofan/sofar/tungu-hornsofar/?PageNr=3",
+               "https://www.ilva.is/stofan/sofar/stakir-sofar/", "https://www.ilva.is/stofan/sofar/stakir-sofar/?PageNr=2",
+               "https://www.ilva.is/stofan/sofar/stakir-sofar/?PageNr=3",
+               "https://www.ilva.is/stofan/sofar/einingasofar/", "https://www.ilva.is/stofan/sofar/einingasofar/?PageNr=2"]
+        link_pattern: "/stok-vara/"
+        dining_category: true
+
 scoring:
   # Repo variable OPENAI_MODEL overrides this.
   model: gpt-4o
