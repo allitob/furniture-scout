@@ -1,7 +1,7 @@
 """Furniture Scout — one full run.
 
 collect listings (shared + per target) -> for each target: filter (keyword, price, size) ->
-score style vs refs/<target>/ -> write results.md + data/<target>/results.csv -> notify on new strong matches.
+score style vs refs/<target>/ -> write results.md (index) + results/<target>.md + data/<target>/results.csv -> notify on new strong matches.
 """
 from __future__ import annotations
 
@@ -202,44 +202,64 @@ def fmt_isk(n):
     return f"{n:,}".replace(",", ".") + " kr"
 
 
-def price_md(r):
+def price_md(r, sep="<br>"):
     if r.get("no_price"):
-        return "gefins" if r.get("free") else "no price<br><sub>free or offer — check</sub>"
+        return "gefins" if r.get("free") else f"no price{sep}<sub>free or offer — check</sub>"
     s = fmt_isk(r["price"])
     if (r.get("units") or 1) > 1:
-        s += f"<br><sub>{r['units']} stk · {fmt_isk(r['unit_price'])}/stk</sub>"
+        s += f"{sep}<sub>{r['units']} stk · {fmt_isk(r['unit_price'])}/stk</sub>"
     if r.get("prev_price") and r["prev_price"] > r["price"]:
-        s += f"<br><sub>was {fmt_isk(r['prev_price'])}</sub>"
+        s += f"{sep}<sub>was {fmt_isk(r['prev_price'])}</sub>"
     return s
 
 
-def row_md(r, new):
+def card_md(r, new):
+    """One listing as a stacked card — photo on its own line so it stays large on a phone."""
     sc = r.get("score")
-    score = f"**{sc:.0f}**/10" if sc is not None else "–"
-    badge = (" 🆕" if new else "") + (" · <sub>uppselt</sub>" if r.get("sold_out") else "")
-    why = r.get("reason", "")
-    img = f'<img src="{r["image"]}" width="140">' if r.get("image") else ""
-    title = r["title"].replace("|", "/")
+    score = f"**{sc:.0f}/10**" if sc is not None else "not scored yet"
+    badge = (" · 🆕" if new else "") + (" · uppselt" if r.get("sold_out") else "")
+    title = r["title"].replace("|", "/").replace("[", "(").replace("]", ")")
     meta = r["source"] + (f" · {r['size']}" if r.get("size") else "")
-    return f"| {img} | {score} | [{title}]({r['url']}){badge}<br><sub>{meta}</sub><br><sub>{why}</sub> | {price_md(r)} |"
+    out = [f"{score} · **{price_md(r, sep=' ')}**{badge}", ""]
+    if r.get("image"):
+        out += [f'<a href="{r["url"]}"><img src="{r["image"]}" width="320"></a>', ""]
+    out += [f"[{title}]({r['url']})  ", f"<sub>{meta}</sub>"]
+    if r.get("reason"):
+        out += ["", f"<sub>{r['reason']}</sub>"]
+    return "\n".join(out + ["", "---", ""])
+
+
+def target_title(t):
+    return t.get("title") or (t["item"].capitalize() + "s")
 
 
 def write_md(sections, health, now, model):
-    lines = ["# Furniture matches", "", f"Updated {now}. Sorted by style match ({model}).", ""]
-    lines += [f"- [{t['item'].capitalize()}](#{t['item'].replace(' ', '-')}s) — {len(rows)} in budget"
-              for t, rows, _, _ in sections]
+    out_dir = ROOT / "results"
+    out_dir.mkdir(exist_ok=True)
+    index = ["# Furniture matches", "", f"Updated {now}. Sorted by style match ({model}).", ""]
     for t, rows, new, has_refs in sections:
         price = (f"{fmt_isk(t['min_price_isk'])}–{fmt_isk(t['max_price_isk'])}"
                  + (" per piece" if t.get("per_unit") else ""))
-        lines += ["", f"## {t['item'].capitalize()}s", "",
-                  f"{len(rows)} listings · {price}"
-                  + ("" if has_refs else f" · add reference images to `refs/{t['id']}/` to enable scoring"),
-                  "", "| | Match | Item | Price |", "|---|---|---|---|"]
-        lines += [row_md(r, r["url"] in new) for r in rows[:60]]
-    lines += ["", "<details><summary>Source status</summary>", ""]
-    lines += [f"- {k}: {v}" for k, v in health.items()]
-    lines += ["", "</details>", ""]
-    (ROOT / "results.md").write_text("\n".join(lines), encoding="utf-8")
+        n_new = sum(1 for r in rows if r["url"] in new)
+        n_unscored = sum(1 for r in rows if r.get("score") is None)
+        head = [f"# {target_title(t)}", "", f"Updated {now} · {len(rows)} listings · {price}"
+                + (f" · {n_unscored} not scored yet" if n_unscored else "")
+                + ("" if has_refs else f" · add reference images to `refs/{t['id']}/` to enable scoring"),
+                "", "[← all categories](../results.md)", "", "---", ""]
+        body = [card_md(r, r["url"] in new) for r in rows[:60]]
+        (out_dir / f"{t['id']}.md").write_text("\n".join(head + body), encoding="utf-8")
+
+        best = next((r for r in rows if r.get("score") is not None), None)
+        index += [f"## [{target_title(t)} →](results/{t['id']}.md)", "",
+                  f"{len(rows)} in budget ({price})" + (f" · {n_new} new today" if n_new else "")]
+        if best:
+            index += ["", f"Top: **{best['score']:.0f}/10** [{best['title'].replace('|', '/')}]({best['url']}) — "
+                          f"{price_md(best, sep=' ')}"]
+        index += [""]
+    index += ["<details><summary>Source status</summary>", ""]
+    index += [f"- {k}: {v}" for k, v in health.items()]
+    index += ["", "</details>", ""]
+    (ROOT / "results.md").write_text("\n".join(index), encoding="utf-8")
 
 
 def notify(t, rows, new, min_score):
