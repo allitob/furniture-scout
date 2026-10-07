@@ -11,20 +11,20 @@ ILVA: 88 listings parsed from HTML
 [dining-table] Scored 0 listings with gpt-4o
 [dining-table] Notify: 0 new strong matches
 Húsgagnahöllin: 49 matching products
-Módern: 79 listings parsed from HTML
+Módern: 80 listings parsed from HTML
 Línan: 30 listings parsed from HTML
 ILVA: 78 listings parsed from HTML
-[dining-chair] 147 candidates within budget (from 11113 listings)
-[dining-chair] Opened 4 listing pages for details
+[dining-chair] 147 candidates within budget (from 11114 listings)
+[dining-chair] Opened 1 listing pages for details
 [dining-chair] 146 pass price/size filters
-[dining-chair] Scored 3 listings with gpt-4o
+[dining-chair] Scored 0 listings with gpt-4o
 [dining-chair] Notify: 0 new strong matches
 Húsgagnahöllin: 166 matching products
-Módern: 100 listings parsed from HTML
+Módern: 108 listings parsed from HTML
 Línan: 34 listings parsed from HTML
 ILVA: 188 listings parsed from HTML
-[sofa] 401 candidates within budget (from 11365 listings)
-[sofa] Opened 150 listing pages for details
-[sofa] 401 pass price/size filters
+[sofa] 400 candidates within budget (from 11373 listings)
+[sofa] Opened 85 listing pages for details
+[sofa] 400 pass price/size filters
 [sofa] Scored 150 listings with gpt-4o
-[sofa] Notify: posted 13 new matches to issue #1
+[sofa] Notify: 0 new strong matches
