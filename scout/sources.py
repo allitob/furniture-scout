@@ -135,7 +135,7 @@ def _img_src(img, base):
     return None
 
 
-BADGE_RE = re.compile(r"^(?:\d+\s*%|nýtt|vinsælt|fast lágt verð|sérpöntun|tilboð|útsala|outlet|sale|-)\s*", re.I)
+BADGE_RE = re.compile(r"^(?:\d+\s*%|nýtt|vinsælt?|fast lágt verð|sérpöntun|tilboð|útsala|outlet|sale|-)\s*", re.I)
 
 
 def clean_title(t):
@@ -144,6 +144,7 @@ def clean_title(t):
     prev = None
     while prev != t:
         prev, t = t, BADGE_RE.sub("", t.strip())
+    t = re.sub(r"\s+P\d{6}\s*/.*$", "", t)  # JYSK appends "P012993 / 3610188"
     return t.strip(" -·|")
 
 
@@ -207,9 +208,12 @@ def html_listing(name, urls, link_pattern, log, broad=False):
                 break
             raise
         for c in extract_cards(r.text, u, link_pattern, name):
-            if c["url"] in seen:  # pages past the end can repeat the last page
+            # Pages past the end can repeat the last page, and LiSA shops (ILVA, JYSK) list the
+            # same product under several categories with a different PathId
+            key = re.sub(r"[?&]PathId=[^&]*", "", c["url"])
+            if key in seen:
                 continue
-            seen.add(c["url"])
+            seen.add(key)
             c["from_html"] = True
             c["broad"] = broad  # the page itself is a dining-table category
             out.append(c)
