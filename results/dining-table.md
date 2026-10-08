@@ -1,6 +1,6 @@
 # Dining tables
 
-Updated 2026-10-08 07:08 UTC · 94 listings · 5.000 kr–400.000 kr
+Updated 2026-10-08 14:57 UTC · 93 listings · 5.000 kr–400.000 kr
 
 [← all categories](../results.md)
 
@@ -534,17 +534,6 @@ Updated 2026-10-08 07:08 UTC · 94 listings · 5.000 kr–400.000 kr
 
 ---
 
-**3/10** · **20.000 kr**
-
-<a href="https://bland.is/til-solu/heimilid/stofa/bordstofubord-og-5-stolar/5292157/"><img src="https://img.bland.is/album/img/197620/m/20261003151353_0.jpg" width="320"></a>
-
-[Borðstofuborð og 5 stólar](https://bland.is/til-solu/heimilid/stofa/bordstofubord-og-5-stolar/5292157/)  
-<sub>Bland (notað) · 180 cm</sub>
-
-<sub>The table has a chunky, rustic design with thick legs and a glossy finish, which does not fit the mid-century Scandinavian aesthetic of slim, tapered legs and matte/oiled finish.</sub>
-
----
-
 **3/10** · **23.992 kr**
 
 <a href="https://jysk.is/stok-vara/AABENRAA-bord-80x120-cm-eik-svart-3/?PathId=68136a40-8cc3-4036-8232-832bbcbd4a46"><img src="https://jysk.is/library/Images/products/P002111.jpg?proc=366x366" width="320"></a>
@@ -663,5 +652,16 @@ Updated 2026-10-08 07:08 UTC · 94 listings · 5.000 kr–400.000 kr
 <sub>JYSK · 160/200/220 cm</sub>
 
 <sub>The table features metal legs and a lighter wood finish, which do not align with the warm wood and sleek Scandinavian design of the reference images.</sub>
+
+---
+
+**3/10** · **79.920 kr**
+
+<a href="https://www.ilva.is/stok-vara/?ProductName=SINGLE-Bordstofubord-120-217x80cm-hvitt-eik&PathId=5b0acb86-6b83-45af-afce-1190f3c19f81"><img src="https://www.ilva.is/library/Images/Products/V003024%20-%20Copy%20(3).jpg?proc=366x366" width="320"></a>
+
+[SINGLE Borðstofuborð 120/217x80cm hvítt/eik](https://www.ilva.is/stok-vara/?ProductName=SINGLE-Bordstofubord-120-217x80cm-hvitt-eik&PathId=5b0acb86-6b83-45af-afce-1190f3c19f81)  
+<sub>ILVA · 120/217 cm</sub>
+
+<sub>The table has a contemporary look with a white top and light wood legs, which does not align well with the warm wood tones and mid-century style of the references.</sub>
 
 ---
