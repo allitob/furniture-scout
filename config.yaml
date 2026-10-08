@@ -41,6 +41,12 @@ targets:
         urls: ["https://www.ilva.is/bordstofan/bordstofubord/"]
         link_pattern: "/stok-vara/"
         dining_category: true
+      - name: JYSK
+        urls: ["https://jysk.is/husgogn/bordstofubord/",
+               "https://jysk.is/husgogn/bordstofubord/?PageNr=2",
+               "https://jysk.is/husgogn/bordstofubord/?PageNr=3"]
+        link_pattern: "/stok-vara/"
+        dining_category: true
 
   - id: dining-chair
     item: dining chair
@@ -74,6 +80,13 @@ targets:
         dining_category: true
       - name: ILVA
         urls: ["https://www.ilva.is/bordstofan/stolar-og-bekkir/bordstofustolar/"]
+        link_pattern: "/stok-vara/"
+        dining_category: true
+      - name: JYSK
+        urls: ["https://jysk.is/husgogn/stolar-bordstofustolar/",
+               "https://jysk.is/husgogn/stolar-bordstofustolar/?PageNr=2",
+               "https://jysk.is/husgogn/stolar-bordstofustolar/?PageNr=3",
+               "https://jysk.is/husgogn/stolar-bordstofustolar/?PageNr=4"]
         link_pattern: "/stok-vara/"
         dining_category: true
 
@@ -112,6 +125,19 @@ targets:
                "https://www.ilva.is/stofan/sofar/stakir-sofar/", "https://www.ilva.is/stofan/sofar/stakir-sofar/?PageNr=2",
                "https://www.ilva.is/stofan/sofar/stakir-sofar/?PageNr=3",
                "https://www.ilva.is/stofan/sofar/einingasofar/", "https://www.ilva.is/stofan/sofar/einingasofar/?PageNr=2"]
+        link_pattern: "/stok-vara/"
+        dining_category: true
+      - name: JYSK
+        urls: ["https://jysk.is/husgogn/sofar-og-haegindasofar/stakir-sofar/",
+               "https://jysk.is/husgogn/sofar-og-haegindasofar/stakir-sofar/?PageNr=2",
+               "https://jysk.is/husgogn/sofar-og-haegindasofar/stakir-sofar/?PageNr=3",
+               "https://jysk.is/husgogn/sofar-og-haegindasofar/tungu-horn/",
+               "https://jysk.is/husgogn/sofar-og-haegindasofar/tungu-horn/?PageNr=2",
+               "https://jysk.is/husgogn/sofar-og-haegindasofar/tungu-horn/?PageNr=3",
+               "https://jysk.is/husgogn/sofar-og-haegindasofar/u-sofar/",
+               "https://jysk.is/husgogn/sofar-og-haegindasofar/u-sofar/?PageNr=2",
+               "https://jysk.is/husgogn/sofar-og-haegindasofar/einingarsofar/",
+               "https://jysk.is/husgogn/sofar-og-haegindasofar/einingarsofar/?PageNr=2"]
         link_pattern: "/stok-vara/"
         dining_category: true
 
