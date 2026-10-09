@@ -1,6 +1,6 @@
 # Dining tables
 
-Updated 2026-10-08 14:57 UTC · 93 listings · 5.000 kr–400.000 kr
+Updated 2026-10-09 14:42 UTC · 93 listings · 5.000 kr–400.000 kr
 
 [← all categories](../results.md)
 
@@ -358,6 +358,17 @@ Updated 2026-10-08 14:57 UTC · 93 listings · 5.000 kr–400.000 kr
 
 ---
 
+**4/10** · **80.000 kr** · 🆕
+
+<a href="https://bland.is/til-solu/heimilid/stofa/morbylaanga-bordstofubord/5292107/"><img src="https://img.bland.is/album/img/186130/m/20261003121320_0.jpg" width="320"></a>
+
+[MÖRBYLÅNGA borðstofuborð](https://bland.is/til-solu/heimilid/stofa/morbylaanga-bordstofubord/5292107/)  
+<sub>Bland (notað) · 160 cm</sub>
+
+<sub>The table lacks the mid-century Scandinavian style elements like splayed legs and rounded edges; it has a more modern, rectangular design.</sub>
+
+---
+
 **4/10** · **95.920 kr**
 
 <a href="https://www.ilva.is/stok-vara/?ProductName=SINGLE-Bordstofubord-180-277x90cm-hvitt-eik&PathId=5b0acb86-6b83-45af-afce-1190f3c19f81"><img src="https://www.ilva.is/library/Images/Products/V003025.jpg?proc=366x366" width="320"></a>
@@ -586,17 +597,6 @@ Updated 2026-10-08 14:57 UTC · 93 listings · 5.000 kr–400.000 kr
 <sub>Bland (notað) · size?</sub>
 
 <sub>The hexagonal shape, thick top, and dark wood tone diverge from the slim, rounded mid-century Scandinavian style of the references.</sub>
-
----
-
-**3/10** · **49.000 kr**
-
-<a href="https://bland.is/til-solu/heimilid/stofa/bordstofubord/5293124/"><img src="https://img.bland.is/album/img/217729/m/20261006173324_0.jpg" width="320"></a>
-
-[Borðstofuborð](https://bland.is/til-solu/heimilid/stofa/bordstofubord/5293124/)  
-<sub>Bland (notað) · size?</sub>
-
-<sub>The table has a dark wood top and metal legs, which deviates from the warm wood and tapered leg aesthetic of the reference images.</sub>
 
 ---
 

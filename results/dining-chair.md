@@ -1,6 +1,6 @@
 # Dining chairs
 
-Updated 2026-10-08 14:57 UTC · 121 listings · 0 kr–50.000 kr per piece
+Updated 2026-10-09 14:42 UTC · 119 listings · 0 kr–50.000 kr per piece
 
 [← all categories](../results.md)
 
@@ -501,17 +501,6 @@ Updated 2026-10-08 14:57 UTC · 121 listings · 0 kr–50.000 kr per piece
 
 ---
 
-**6/10** · **47.992 kr**
-
-<a href="https://husgagnahollin.is/vara/vejle-bordstofustoll-1392-hvit-oliuborin-eik-svart-ledur/"><img src="https://husgagnahollin.is/wp-content/uploads/2025/06/Vejle-bordstofustoll-1392-hvit-oliuborin-eiksvart-ledur-CT0385WO.webp" width="320"></a>
-
-[Vejle borðstofustóll 1392 hvít olíuborin eik/svart leður](https://husgagnahollin.is/vara/vejle-bordstofustoll-1392-hvit-oliuborin-eik-svart-ledur/)  
-<sub>Húsgagnahöllin</sub>
-
-<sub>The candidate has a solid wood frame and a curved back rest, but the leather seat and angular design are less in line with the mid-century aesthetic sought.</sub>
-
----
-
 **5/10** · **5.996 kr**
 
 <a href="https://jysk.is/stok-vara/JONSTRUP-stoll-grar-tau-eikarlitadir-stalfaetur/?PathId=73bef239-beb3-4e8d-a05c-f0583025233d"><img src="https://jysk.is/library/Images/products/P002336.jpg?proc=366x366" width="320"></a>
@@ -644,17 +633,6 @@ Updated 2026-10-08 14:57 UTC · 121 listings · 0 kr–50.000 kr per piece
 
 ---
 
-**5/10** · **37.900 kr**
-
-<a href="https://modern.is/shop/husgogn/stolar/bordstofustolar/aava-stoll/"><img src="https://modern.is/wp-content/uploads/2020/08/Arper-Aava4leg-300x300.jpg" width="320"></a>
-
-[Aava stóll](https://modern.is/shop/husgogn/stolar/bordstofustolar/aava-stoll/)  
-<sub>Módern</sub>
-
-<sub>The candidate chair has a Scandinavian style but features plastic seat shells and metal legs, which don't align with the mid-century wood-only aesthetic and upholstered seat preference.</sub>
-
----
-
 **5/10** · **45.800 kr**
 
 <a href="https://www.epal.is/products/stoll-herman-dining-eik-hvitolia"><img src="https://cdn.shopify.com/s/files/1/0817/4167/6800/files/a9bf1906-44ed-4dfc-8647-2e339b3409e9.jpg?v=1771259684" width="320"></a>
@@ -663,5 +641,27 @@ Updated 2026-10-08 14:57 UTC · 121 listings · 0 kr–50.000 kr per piece
 <sub>Epal</sub>
 
 <sub>The chair has a wood back and seat, but the metal legs and simpler design do not fully match the mid-century Scandinavian aesthetic.</sub>
+
+---
+
+**4/10** · **7.495 kr**
+
+<a href="https://jysk.is/stok-vara/JONSTRUP-stoll-beige-dokk-eikarlitadir-stalfaetur/?PathId=73bef239-beb3-4e8d-a05c-f0583025233d"><img src="https://jysk.is/library/Images/products/P007678.jpg?proc=366x366" width="320"></a>
+
+[JONSTRUP stóll beige/dökk eikarlitaðir stálfætur](https://jysk.is/stok-vara/JONSTRUP-stoll-beige-dokk-eikarlitadir-stalfaetur/?PathId=73bef239-beb3-4e8d-a05c-f0583025233d)  
+<sub>JYSK</sub>
+
+<sub>The metal legs and fully upholstered design are not aligned with the mid-century Scandinavian aesthetic sought.</sub>
+
+---
+
+**4/10** · **7.495 kr**
+
+<a href="https://jysk.is/stok-vara/JONSTRUP-stoll-hvitur-PU-eikarlitadir-stalfaetur/?PathId=73bef239-beb3-4e8d-a05c-f0583025233d"><img src="https://jysk.is/library/Images/products/P011411.jpg?proc=366x366" width="320"></a>
+
+[JONSTRUP stóll hvítur/PU eikarlitaðir stálfætur](https://jysk.is/stok-vara/JONSTRUP-stoll-hvitur-PU-eikarlitadir-stalfaetur/?PathId=73bef239-beb3-4e8d-a05c-f0583025233d)  
+<sub>JYSK</sub>
+
+<sub>The chair has metal legs, a plastic shell, and lacks the curved wood and fabric aesthetic of mid-century Scandinavian design.</sub>
 
 ---

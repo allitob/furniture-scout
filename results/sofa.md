@@ -1,19 +1,8 @@
 # Sofas
 
-Updated 2026-10-08 14:57 UTC · 471 listings · 0 kr–400.000 kr
+Updated 2026-10-09 14:42 UTC · 468 listings · 0 kr–400.000 kr
 
 [← all categories](../results.md)
-
----
-
-**9/10** · **151.840 kr**
-
-<a href="https://www.ilva.is/stok-vara/?ProductName=AIMEE-Tungusofi-vinstri-off-white-1&PathId=1fc7d092-ce9e-11ef-81b7-8f3b82297126"><img src="https://www.ilva.is/library/Images/Products/V009686.png?proc=366x366" width="320"></a>
-
-[AIMEE Tungusófi vinstri off white](https://www.ilva.is/stok-vara/?ProductName=AIMEE-Tungusofi-vinstri-off-white-1&PathId=1fc7d092-ce9e-11ef-81b7-8f3b82297126)  
-<sub>ILVA</sub>
-
-<sub>The sofa is an off-white L-shaped piece with plush back cushions and clean lines, fitting well with the desired aesthetic.</sub>
 
 ---
 
@@ -72,25 +61,25 @@ Updated 2026-10-08 14:57 UTC · 471 listings · 0 kr–400.000 kr
 
 ---
 
-**8/10** · **60.000 kr**
+**8/10** · **151.840 kr**
 
-<a href="https://bland.is/til-solu/heimilid/stofa/tungusofi/5293104/"><img src="https://img.bland.is/album/img/258165/m/20261006155028_0.jpg" width="320"></a>
+<a href="https://www.ilva.is/stok-vara/?ProductName=AIMEE-Tungusofi-haegri-off-white&PathId=1fc7d092-ce9e-11ef-81b7-8f3b82297126"><img src="https://www.ilva.is/library/Images/Products/V009685.png?proc=366x366" width="320"></a>
 
-[Tungusófi](https://bland.is/til-solu/heimilid/stofa/tungusofi/5293104/)  
-<sub>Bland (notað)</sub>
+[AIMEE Tungusófi hægri off white](https://www.ilva.is/stok-vara/?ProductName=AIMEE-Tungusofi-haegri-off-white&PathId=1fc7d092-ce9e-11ef-81b7-8f3b82297126)  
+<sub>ILVA</sub>
 
-<sub>The sofa matches the desired style with its light color, soft fabric, simple lines, and L-shape. It lacks visible legs but fits the overall relaxed and deep aesthetic.</sub>
+<sub>The sofa has a light, off-white color with a woven fabric, clean lines, low profile, and hidden legs, fitting most target criteria.</sub>
 
 ---
 
 **8/10** · **151.840 kr**
 
-<a href="https://www.ilva.is/stok-vara/?ProductName=AIMEE-Tungusofi-haegri-off-white-1&PathId=1fc7d092-ce9e-11ef-81b7-8f3b82297126"><img src="https://www.ilva.is/library/Images/Products/V009685.png?proc=366x366" width="320"></a>
+<a href="https://www.ilva.is/stok-vara/?ProductName=AIMEE-Tungusofi-vinstri-off-white&PathId=1fc7d092-ce9e-11ef-81b7-8f3b82297126"><img src="https://www.ilva.is/library/Images/Products/V009686.png?proc=366x366" width="320"></a>
 
-[AIMEE Tungusófi hægri off white](https://www.ilva.is/stok-vara/?ProductName=AIMEE-Tungusofi-haegri-off-white-1&PathId=1fc7d092-ce9e-11ef-81b7-8f3b82297126)  
+[AIMEE Tungusófi vinstri off white](https://www.ilva.is/stok-vara/?ProductName=AIMEE-Tungusofi-vinstri-off-white&PathId=1fc7d092-ce9e-11ef-81b7-8f3b82297126)  
 <sub>ILVA</sub>
 
-<sub>Matches the target look in color and shape, but the fabric texture is slightly different.</sub>
+<sub>The sofa is L-shaped with a soft woven fabric, off-white color, simple lines, and hidden legs, fitting the desired aesthetic.</sub>
 
 ---
 
@@ -105,7 +94,7 @@ Updated 2026-10-08 14:57 UTC · 471 listings · 0 kr–400.000 kr
 
 ---
 
-**8/10** · **159.990 kr**
+**8/10** · **159.990 kr** · uppselt
 
 <a href="https://jysk.is/stok-vara/SKEJBY-tungusofi-litill-haegri-tunga-opin-endi-sand/?PathId=daa6be5b-5fc6-4c03-a44a-6267f53d68a8"><img src="https://jysk.is/library/Images/products/P011555.jpg?proc=366x366" width="320"></a>
 
@@ -358,7 +347,7 @@ Updated 2026-10-08 14:57 UTC · 471 listings · 0 kr–400.000 kr
 
 ---
 
-**7/10** · **69.990 kr**
+**7/10** · **69.990 kr** · uppselt
 
 <a href="https://jysk.is/stok-vara/SKEJBY-sofaeining-haegri-tungu-endi-m-bak-sand/?PathId=daa6be5b-5fc6-4c03-a44a-6267f53d68a8"><img src="https://jysk.is/library/Images/products/P011031.jpg?proc=366x366" width="320"></a>
 
@@ -523,17 +512,6 @@ Updated 2026-10-08 14:57 UTC · 471 listings · 0 kr–400.000 kr
 
 ---
 
-**7/10** · **255.992 kr**
-
-<a href="https://husgagnahollin.is/vara/friday-hornsofi-vinstri-mito-beige-sb/"><img src="https://husgagnahollin.is/wp-content/uploads/2025/10/Friday-hornsofi-vinstri-Mito-beige-10.jpg" width="320"></a>
-
-[Friday hornsófi vinstri Mito beige Sb](https://husgagnahollin.is/vara/friday-hornsofi-vinstri-mito-beige-sb/)  
-<sub>Húsgagnahöllin</sub>
-
-<sub>The sofa has a light beige color and soft fabric with simple lines, matching the desired relaxed and deep style, but the visible metal legs differ from the hidden wooden legs preferred.</sub>
-
----
-
 **7/10** · **259.900 kr**
 
 <a href="https://www.ilva.is/stok-vara/?ProductName=CLEVELAND-Horntungusofi-vinstri-tunga-sandlitadur-2&PathId=1fc7d092-ce9e-11ef-81b7-8f3b82297126"><img src="https://www.ilva.is/library/Images/Products/V014288.jpg?proc=366x366" width="320"></a>
@@ -564,6 +542,17 @@ Updated 2026-10-08 14:57 UTC · 471 listings · 0 kr–400.000 kr
 <sub>JYSK</sub>
 
 <sub>The candidate sofa's light color and woven fabric match the target aesthetic, with a modern and clean design, but lacks plush loose back cushions and features a more structured look.</sub>
+
+---
+
+**7/10** · **271.600 kr <sub>was 388.000 kr</sub>**
+
+<a href="https://snuran.is/products/furnhouse-maggie-tungusofi-haegri-tunga-tau-grar-serpontun-3-4vikur"><img src="https://cdn.shopify.com/s/files/1/0582/7693/7904/files/maggie-l-shape-sofa-right-grey.jpg?v=1742137991" width="320"></a>
+
+[MAGGIE tungusófi - hægri tunga - sýningareintak](https://snuran.is/products/furnhouse-maggie-tungusofi-haegri-tunga-tau-grar-serpontun-3-4vikur)  
+<sub>Snúran</sub>
+
+<sub>The sofa has simple lines and a light color, though it's slightly greyer than preferred. It lacks the cozy, relaxed look of the reference images due to its firmer cushions and visible dark legs.</sub>
 
 ---
 
@@ -663,5 +652,16 @@ Updated 2026-10-08 14:57 UTC · 471 listings · 0 kr–400.000 kr
 <sub>JYSK</sub>
 
 <sub>The design is modern with clean lines and soft rounded arms, aligning well with the target aesthetic, though the color is slightly darker than the reference.</sub>
+
+---
+
+**7/10** · **349.990 kr** · uppselt
+
+<a href="https://jysk.is/stok-vara/VARDO-tungusofi-haegri-beige/?PathId=daa6be5b-5fc6-4c03-a44a-6267f53d68a8"><img src="https://jysk.is/library/Images/products/P013101.jpg?proc=366x366" width="320"></a>
+
+[VARDO tungusófi hægri beige](https://jysk.is/stok-vara/VARDO-tungusofi-haegri-beige/?PathId=daa6be5b-5fc6-4c03-a44a-6267f53d68a8)  
+<sub>JYSK</sub>
+
+<sub>The sofa matches the color and basic shape requirements, though it has a more structured design and the back cushions are not loose.</sub>
 
 ---
