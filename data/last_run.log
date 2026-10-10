@@ -1,33 +1,33 @@
-Epal: 9435 products in catalog
+Epal: 9430 products in catalog
 Snúran: 830 products in catalog
 Bland: 604 listings scanned
-Húsgagnahöllin: 84 matching products
+Húsgagnahöllin: 83 matching products
 Módern: 46 listings parsed from HTML
 Línan: 33 listings parsed from HTML
 ILVA: 88 listings parsed from HTML
 JYSK: 63 listings parsed from HTML
-[dining-table] 242 candidates within budget (from 11183 listings)
-[dining-table] Opened 87 listing pages for details
-[dining-table] 102 pass price/size filters
-[dining-table] Scored 2 listings with gpt-4o
+[dining-table] 245 candidates within budget (from 11177 listings)
+[dining-table] Opened 89 listing pages for details
+[dining-table] 104 pass price/size filters
+[dining-table] Scored 4 listings with gpt-4o
 [dining-table] Notify: 0 new strong matches
-Húsgagnahöllin: 48 matching products
-Módern: 77 listings parsed from HTML
+Húsgagnahöllin: 47 matching products
+Módern: 80 listings parsed from HTML
 Línan: 30 listings parsed from HTML
 ILVA: 78 listings parsed from HTML
 JYSK: 119 listings parsed from HTML
-[dining-chair] 213 candidates within budget (from 11221 listings)
+[dining-chair] 209 candidates within budget (from 11218 listings)
 [dining-chair] Opened 1 listing pages for details
-[dining-chair] 213 pass price/size filters
+[dining-chair] 209 pass price/size filters
 [dining-chair] Scored 1 listings with gpt-4o
 [dining-chair] Notify: 0 new strong matches
-Húsgagnahöllin: 166 matching products
+Húsgagnahöllin: 164 matching products
 Módern: 100 listings parsed from HTML
 Línan: 34 listings parsed from HTML
 ILVA: 176 listings parsed from HTML
 JYSK: 127 listings parsed from HTML
-[sofa] 491 candidates within budget (from 11472 listings)
-[sofa] Opened 4 listing pages for details
+[sofa] 491 candidates within budget (from 11465 listings)
+[sofa] Opened 6 listing pages for details
 [sofa] 491 pass price/size filters
-[sofa] Scored 9 listings with gpt-4o
-[sofa] Notify: 0 new strong matches
+[sofa] Scored 8 listings with gpt-4o
+[sofa] Notify: posted 2 new matches to issue #1

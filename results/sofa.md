@@ -1,8 +1,19 @@
 # Sofas
 
-Updated 2026-10-09 14:42 UTC · 468 listings · 0 kr–400.000 kr
+Updated 2026-10-10 13:59 UTC · 469 listings · 0 kr–400.000 kr
 
 [← all categories](../results.md)
+
+---
+
+**9/10** · **151.840 kr**
+
+<a href="https://www.ilva.is/stok-vara/?ProductName=AIMEE-Tungusofi-vinstri-off-white-1&PathId=1fc7d092-ce9e-11ef-81b7-8f3b82297126"><img src="https://www.ilva.is/library/Images/Products/V009686.png?proc=366x366" width="320"></a>
+
+[AIMEE Tungusófi vinstri off white](https://www.ilva.is/stok-vara/?ProductName=AIMEE-Tungusofi-vinstri-off-white-1&PathId=1fc7d092-ce9e-11ef-81b7-8f3b82297126)  
+<sub>ILVA</sub>
+
+<sub>The sofa is an off-white L-shaped piece with plush back cushions and clean lines, fitting well with the desired aesthetic.</sub>
 
 ---
 
@@ -50,6 +61,28 @@ Updated 2026-10-09 14:42 UTC · 468 listings · 0 kr–400.000 kr
 
 ---
 
+**9/10** · **335.200 kr** · 🆕
+
+<a href="https://snuran.is/products/furnhouse-california-tungusofi-haegri-tau-sand-serpontun-3-4vikur"><img src="https://cdn.shopify.com/s/files/1/0582/7693/7904/files/california-l-shape-sofa-right-beige.jpg?v=1741971762" width="320"></a>
+
+[CALIFORNIA tungusófi - hægri tunga](https://snuran.is/products/furnhouse-california-tungusofi-haegri-tau-sand-serpontun-3-4vikur)  
+<sub>Snúran</sub>
+
+<sub>The sofa matches the light cream color, has a soft woven fabric, rounded arms, and clean lines with a low, generous L-shaped design.</sub>
+
+---
+
+**9/10** · **335.200 kr** · 🆕
+
+<a href="https://snuran.is/products/furnhouse-california-tungusofi-vinstri-tau-sand-serpontun-3-4vikur"><img src="https://cdn.shopify.com/s/files/1/0582/7693/7904/files/california-l-shape-sofa-left-beige.jpg?v=1741970965" width="320"></a>
+
+[CALIFORNIA tungusófi - vinstri tunga](https://snuran.is/products/furnhouse-california-tungusofi-vinstri-tau-sand-serpontun-3-4vikur)  
+<sub>Snúran</sub>
+
+<sub>The candidate sofa matches well with its light greige color and soft woven fabric, featuring plush loose back cushions, rounded arms, clean lines, and a low, generous L-shape.</sub>
+
+---
+
 **9/10** · **371.940 kr**
 
 <a href="https://www.ilva.is/stok-vara/?ProductName=HEAVEN-Tungusofi-vinstri-off-white&PathId=1fc7d092-ce9e-11ef-81b7-8f3b82297126"><img src="https://www.ilva.is/library/Images/Products/V010472.jpg?proc=366x366" width="320"></a>
@@ -63,23 +96,12 @@ Updated 2026-10-09 14:42 UTC · 468 listings · 0 kr–400.000 kr
 
 **8/10** · **151.840 kr**
 
-<a href="https://www.ilva.is/stok-vara/?ProductName=AIMEE-Tungusofi-haegri-off-white&PathId=1fc7d092-ce9e-11ef-81b7-8f3b82297126"><img src="https://www.ilva.is/library/Images/Products/V009685.png?proc=366x366" width="320"></a>
+<a href="https://www.ilva.is/stok-vara/?ProductName=AIMEE-Tungusofi-haegri-off-white-1&PathId=1fc7d092-ce9e-11ef-81b7-8f3b82297126"><img src="https://www.ilva.is/library/Images/Products/V009685.png?proc=366x366" width="320"></a>
 
-[AIMEE Tungusófi hægri off white](https://www.ilva.is/stok-vara/?ProductName=AIMEE-Tungusofi-haegri-off-white&PathId=1fc7d092-ce9e-11ef-81b7-8f3b82297126)  
+[AIMEE Tungusófi hægri off white](https://www.ilva.is/stok-vara/?ProductName=AIMEE-Tungusofi-haegri-off-white-1&PathId=1fc7d092-ce9e-11ef-81b7-8f3b82297126)  
 <sub>ILVA</sub>
 
-<sub>The sofa has a light, off-white color with a woven fabric, clean lines, low profile, and hidden legs, fitting most target criteria.</sub>
-
----
-
-**8/10** · **151.840 kr**
-
-<a href="https://www.ilva.is/stok-vara/?ProductName=AIMEE-Tungusofi-vinstri-off-white&PathId=1fc7d092-ce9e-11ef-81b7-8f3b82297126"><img src="https://www.ilva.is/library/Images/Products/V009686.png?proc=366x366" width="320"></a>
-
-[AIMEE Tungusófi vinstri off white](https://www.ilva.is/stok-vara/?ProductName=AIMEE-Tungusofi-vinstri-off-white&PathId=1fc7d092-ce9e-11ef-81b7-8f3b82297126)  
-<sub>ILVA</sub>
-
-<sub>The sofa is L-shaped with a soft woven fabric, off-white color, simple lines, and hidden legs, fitting the desired aesthetic.</sub>
+<sub>Matches the target look in color and shape, but the fabric texture is slightly different.</sub>
 
 ---
 
@@ -641,27 +663,5 @@ Updated 2026-10-09 14:42 UTC · 468 listings · 0 kr–400.000 kr
 <sub>JYSK</sub>
 
 <sub>The sofa has a soft woven fabric in a warm neutral tone, with a low and generous profile, matching the relaxed aesthetic desired.</sub>
-
----
-
-**7/10** · **349.990 kr** · uppselt
-
-<a href="https://jysk.is/stok-vara/VARDO-tungusofi-vinstri-brunn/?PathId=daa6be5b-5fc6-4c03-a44a-6267f53d68a8"><img src="https://jysk.is/library/Images/products/P013102.jpg?proc=366x366" width="320"></a>
-
-[VARDO tungusófi vinstri brúnn](https://jysk.is/stok-vara/VARDO-tungusofi-vinstri-brunn/?PathId=daa6be5b-5fc6-4c03-a44a-6267f53d68a8)  
-<sub>JYSK</sub>
-
-<sub>The design is modern with clean lines and soft rounded arms, aligning well with the target aesthetic, though the color is slightly darker than the reference.</sub>
-
----
-
-**7/10** · **349.990 kr** · uppselt
-
-<a href="https://jysk.is/stok-vara/VARDO-tungusofi-haegri-beige/?PathId=daa6be5b-5fc6-4c03-a44a-6267f53d68a8"><img src="https://jysk.is/library/Images/products/P013101.jpg?proc=366x366" width="320"></a>
-
-[VARDO tungusófi hægri beige](https://jysk.is/stok-vara/VARDO-tungusofi-haegri-beige/?PathId=daa6be5b-5fc6-4c03-a44a-6267f53d68a8)  
-<sub>JYSK</sub>
-
-<sub>The sofa matches the color and basic shape requirements, though it has a more structured design and the back cushions are not loose.</sub>
 
 ---

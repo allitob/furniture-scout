@@ -1,6 +1,6 @@
 # Dining tables
 
-Updated 2026-10-09 14:42 UTC · 93 listings · 5.000 kr–400.000 kr
+Updated 2026-10-10 13:59 UTC · 92 listings · 5.000 kr–400.000 kr
 
 [← all categories](../results.md)
 
@@ -358,17 +358,6 @@ Updated 2026-10-09 14:42 UTC · 93 listings · 5.000 kr–400.000 kr
 
 ---
 
-**4/10** · **80.000 kr** · 🆕
-
-<a href="https://bland.is/til-solu/heimilid/stofa/morbylaanga-bordstofubord/5292107/"><img src="https://img.bland.is/album/img/186130/m/20261003121320_0.jpg" width="320"></a>
-
-[MÖRBYLÅNGA borðstofuborð](https://bland.is/til-solu/heimilid/stofa/morbylaanga-bordstofubord/5292107/)  
-<sub>Bland (notað) · 160 cm</sub>
-
-<sub>The table lacks the mid-century Scandinavian style elements like splayed legs and rounded edges; it has a more modern, rectangular design.</sub>
-
----
-
 **4/10** · **95.920 kr**
 
 <a href="https://www.ilva.is/stok-vara/?ProductName=SINGLE-Bordstofubord-180-277x90cm-hvitt-eik&PathId=5b0acb86-6b83-45af-afce-1190f3c19f81"><img src="https://www.ilva.is/library/Images/Products/V003025.jpg?proc=366x366" width="320"></a>
@@ -663,5 +652,16 @@ Updated 2026-10-09 14:42 UTC · 93 listings · 5.000 kr–400.000 kr
 <sub>ILVA · 120/217 cm</sub>
 
 <sub>The table has a contemporary look with a white top and light wood legs, which does not align well with the warm wood tones and mid-century style of the references.</sub>
+
+---
+
+**3/10** · **79.990 kr**
+
+<a href="https://jysk.is/stok-vara/SANDBY-bordstofubord-100x160-cm-natur-svart/?PathId=68136a40-8cc3-4036-8232-832bbcbd4a46"><img src="https://jysk.is/library/Images/products/P004050.jpg?proc=366x366" width="320"></a>
+
+[SANDBY borðstofuborð 100x160 cm natur/svart](https://jysk.is/stok-vara/SANDBY-bordstofubord-100x160-cm-natur-svart/?PathId=68136a40-8cc3-4036-8232-832bbcbd4a46)  
+<sub>JYSK · 160/200/220 cm</sub>
+
+<sub>The table uses wood and metal with angled metal legs, contrasting with the mid-century styled wood-only references.</sub>
 
 ---

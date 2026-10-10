@@ -1,6 +1,6 @@
 # Dining chairs
 
-Updated 2026-10-09 14:42 UTC · 119 listings · 0 kr–50.000 kr per piece
+Updated 2026-10-10 13:59 UTC · 118 listings · 0 kr–50.000 kr per piece
 
 [← all categories](../results.md)
 
@@ -481,23 +481,12 @@ Updated 2026-10-09 14:42 UTC · 119 listings · 0 kr–50.000 kr per piece
 
 **6/10** · **47.920 kr**
 
-<a href="https://www.ilva.is/stok-vara/?ProductName=BASTIA-Bordstofustoll-med-ormum-flettad-mattlakkadir-eikarfaetur&PathId=4a9ff5ae-c167-400e-b7dd-d6afc3779559"><img src="https://www.ilva.is/library/Images/Products/V011528.jpg?proc=366x366" width="320"></a>
+<a href="https://www.ilva.is/stok-vara/?ProductName=BASTIA-Bordstofustoll-med-ormum-flettad-mattlakkadir-eikarfaetur-1&PathId=4a9ff5ae-c167-400e-b7dd-d6afc3779559"><img src="https://www.ilva.is/library/Images/Products/V011528.jpg?proc=366x366" width="320"></a>
 
-[BASTIA Borðstofustóll með örmum fléttað/mattlakkaðir eikarfætur](https://www.ilva.is/stok-vara/?ProductName=BASTIA-Bordstofustoll-med-ormum-flettad-mattlakkadir-eikarfaetur&PathId=4a9ff5ae-c167-400e-b7dd-d6afc3779559)  
+[BASTIA Borðstofustóll með örmum fléttað/mattlakkaðir eikarfætur](https://www.ilva.is/stok-vara/?ProductName=BASTIA-Bordstofustoll-med-ormum-flettad-mattlakkadir-eikarfaetur-1&PathId=4a9ff5ae-c167-400e-b7dd-d6afc3779559)  
 <sub>ILVA</sub>
 
-<sub>The chair has a wood frame and tapered legs, but the woven seat and back are not upholstered in the specified fabric.</sub>
-
----
-
-**6/10** · **47.992 kr**
-
-<a href="https://husgagnahollin.is/vara/vejle-bordstofustoll-1392-gra-oliuborin-eik-svart-ledur/"><img src="https://husgagnahollin.is/wp-content/uploads/2025/06/Vejle-bordstofustoll-1392-gra-oliuborin-eiksvart-ledur-CT0385GO.webp" width="320"></a>
-
-[Vejle borðstofustóll 1392 grá olíuborin eik/svart leður](https://husgagnahollin.is/vara/vejle-bordstofustoll-1392-gra-oliuborin-eik-svart-ledur/)  
-<sub>Húsgagnahöllin</sub>
-
-<sub>The chair has a solid wood frame with a matte finish and a curved back, but the leather seat and more angular design deviate from the reference's upholstered and rounded style.</sub>
+<sub>The chair has a solid wood frame and a mid-century Scandinavian look, but differs with woven fabric and armrests.</sub>
 
 ---
 
@@ -663,5 +652,16 @@ Updated 2026-10-09 14:42 UTC · 119 listings · 0 kr–50.000 kr per piece
 <sub>JYSK</sub>
 
 <sub>The chair has metal legs, a plastic shell, and lacks the curved wood and fabric aesthetic of mid-century Scandinavian design.</sub>
+
+---
+
+**4/10** · **9.995 kr**
+
+<a href="https://jysk.is/stok-vara/MELBY-bordstofustoll-ljosbrunn-svartur/?PathId=73bef239-beb3-4e8d-a05c-f0583025233d"><img src="https://jysk.is/library/Images/products/P011138.jpg?proc=366x366" width="320"></a>
+
+[mánaðarins 41% MELBY borðstofustóll ljósbrúnn/svartur](https://jysk.is/stok-vara/MELBY-bordstofustoll-ljosbrunn-svartur/?PathId=73bef239-beb3-4e8d-a05c-f0583025233d)  
+<sub>JYSK</sub>
+
+<sub>The chair has a modern look with metal legs and a fully upholstered seat, which does not align with the mid-century Scandinavian aesthetic desired.</sub>
 
 ---
