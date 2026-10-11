@@ -1,6 +1,6 @@
 # Dining tables
 
-Updated 2026-10-10 13:59 UTC · 92 listings · 5.000 kr–400.000 kr
+Updated 2026-10-11 14:24 UTC · 92 listings · 5.000 kr–400.000 kr
 
 [← all categories](../results.md)
 
@@ -50,7 +50,7 @@ Updated 2026-10-10 13:59 UTC · 92 listings · 5.000 kr–400.000 kr
 
 ---
 
-**8/10** · **92.720 kr**
+**8/10** · **92.720 kr** · uppselt
 
 <a href="https://www.ilva.is/stok-vara/?ProductName=RICHMONT-Bordstofubord-med-fiskibeinamynstri-160x95cm-reyklitadur-eikarsponn&PathId=5b0acb86-6b83-45af-afce-1190f3c19f81"><img src="https://www.ilva.is/library/Images/Products/V013193.jpg?proc=366x366" width="320"></a>
 

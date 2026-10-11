@@ -1,12 +1,12 @@
 # Dining chairs
 
-Updated 2026-10-10 13:59 UTC · 118 listings · 0 kr–50.000 kr per piece
+Updated 2026-10-11 14:24 UTC · 118 listings · 0 kr–50.000 kr per piece
 
 [← all categories](../results.md)
 
 ---
 
-**9/10** · **12.990 kr**
+**9/10** · **12.990 kr** · uppselt
 
 <a href="https://jysk.is/stok-vara/EJSING-bordstofustoll-beige-dokk-eik/?PathId=73bef239-beb3-4e8d-a05c-f0583025233d"><img src="https://jysk.is/library/Images/products/P012993.jpg?proc=366x366" width="320"></a>
 
@@ -83,7 +83,7 @@ Updated 2026-10-10 13:59 UTC · 118 listings · 0 kr–50.000 kr per piece
 
 ---
 
-**8/10** · **42.320 kr**
+**8/10** · **42.320 kr** · uppselt
 
 <a href="https://www.ilva.is/stok-vara/?ProductName=NEWTON-Bordstofustoll-off-white-reyklitadir-eikarfaetur&PathId=4a9ff5ae-c167-400e-b7dd-d6afc3779559"><img src="https://www.ilva.is/library/Images/Products/V012584.jpg?proc=366x366" width="320"></a>
 

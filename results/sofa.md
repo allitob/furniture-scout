@@ -1,6 +1,6 @@
 # Sofas
 
-Updated 2026-10-10 13:59 UTC · 469 listings · 0 kr–400.000 kr
+Updated 2026-10-11 14:24 UTC · 465 listings · 0 kr–400.000 kr
 
 [← all categories](../results.md)
 
@@ -61,7 +61,7 @@ Updated 2026-10-10 13:59 UTC · 469 listings · 0 kr–400.000 kr
 
 ---
 
-**9/10** · **335.200 kr** · 🆕
+**9/10** · **335.200 kr**
 
 <a href="https://snuran.is/products/furnhouse-california-tungusofi-haegri-tau-sand-serpontun-3-4vikur"><img src="https://cdn.shopify.com/s/files/1/0582/7693/7904/files/california-l-shape-sofa-right-beige.jpg?v=1741971762" width="320"></a>
 
@@ -72,7 +72,7 @@ Updated 2026-10-10 13:59 UTC · 469 listings · 0 kr–400.000 kr
 
 ---
 
-**9/10** · **335.200 kr** · 🆕
+**9/10** · **335.200 kr**
 
 <a href="https://snuran.is/products/furnhouse-california-tungusofi-vinstri-tau-sand-serpontun-3-4vikur"><img src="https://cdn.shopify.com/s/files/1/0582/7693/7904/files/california-l-shape-sofa-left-beige.jpg?v=1741970965" width="320"></a>
 
