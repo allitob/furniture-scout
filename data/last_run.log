@@ -1,33 +1,33 @@
-Epal: 9431 products in catalog
+Epal: 9442 products in catalog
 Snúran: 829 products in catalog
-Bland: 607 listings scanned
+Bland: 608 listings scanned
 Húsgagnahöllin: 83 matching products
 Módern: 46 listings parsed from HTML
 Línan: 33 listings parsed from HTML
 ILVA: 88 listings parsed from HTML
 JYSK: 63 listings parsed from HTML
-[dining-table] 246 candidates within budget (from 11180 listings)
-[dining-table] Opened 86 listing pages for details
+[dining-table] 247 candidates within budget (from 11192 listings)
+[dining-table] Opened 88 listing pages for details
 [dining-table] 104 pass price/size filters
-[dining-table] Scored 0 listings with gpt-4o
+[dining-table] Scored 1 listings with gpt-4o
 [dining-table] Notify: 0 new strong matches
 Húsgagnahöllin: 47 matching products
 Módern: 79 listings parsed from HTML
-Línan: 30 listings parsed from HTML
+Línan: 32 listings parsed from HTML
 ILVA: 78 listings parsed from HTML
 JYSK: 119 listings parsed from HTML
-[dining-chair] 207 candidates within budget (from 11220 listings)
-[dining-chair] Opened 1 listing pages for details
+[dining-chair] 207 candidates within budget (from 11234 listings)
+[dining-chair] Opened 4 listing pages for details
 [dining-chair] 207 pass price/size filters
-[dining-chair] Scored 1 listings with gpt-4o
+[dining-chair] Scored 4 listings with gpt-4o
 [dining-chair] Notify: 0 new strong matches
-Húsgagnahöllin: 164 matching products
-Módern: 100 listings parsed from HTML
+Húsgagnahöllin: 166 matching products
+Módern: 98 listings parsed from HTML
 Línan: 34 listings parsed from HTML
-ILVA: 175 listings parsed from HTML
+ILVA: 174 listings parsed from HTML
 JYSK: 127 listings parsed from HTML
-[sofa] 486 candidates within budget (from 11467 listings)
-[sofa] Opened 5 listing pages for details
-[sofa] 486 pass price/size filters
-[sofa] Scored 5 listings with gpt-4o
-[sofa] Notify: 0 new strong matches
+[sofa] 489 candidates within budget (from 11478 listings)
+[sofa] Opened 6 listing pages for details
+[sofa] 489 pass price/size filters
+[sofa] Scored 9 listings with gpt-4o
+[sofa] Notify: posted 1 new matches to issue #1

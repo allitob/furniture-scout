@@ -1,6 +1,6 @@
 # Dining chairs
 
-Updated 2026-10-11 14:24 UTC · 118 listings · 0 kr–50.000 kr per piece
+Updated 2026-10-12 17:02 UTC · 118 listings · 0 kr–50.000 kr per piece
 
 [← all categories](../results.md)
 
@@ -490,6 +490,17 @@ Updated 2026-10-11 14:24 UTC · 118 listings · 0 kr–50.000 kr per piece
 
 ---
 
+**5/10** · **5.000 kr** · 🆕
+
+<a href="https://bland.is/til-solu/heimilid/stofa/vidarstoll/5294772/"><img src="https://img.bland.is/album/img/320321/m/20261011221153_0.jpg" width="320"></a>
+
+[viðarstóll](https://bland.is/til-solu/heimilid/stofa/vidarstoll/5294772/)  
+<sub>Bland (notað)</sub>
+
+<sub>The chair is a wooden dining chair with round, tapered legs but lacks upholstered seat and mid-century features.</sub>
+
+---
+
 **5/10** · **5.996 kr**
 
 <a href="https://jysk.is/stok-vara/JONSTRUP-stoll-grar-tau-eikarlitadir-stalfaetur/?PathId=73bef239-beb3-4e8d-a05c-f0583025233d"><img src="https://jysk.is/library/Images/products/P002336.jpg?proc=366x366" width="320"></a>
@@ -553,6 +564,17 @@ Updated 2026-10-11 14:24 UTC · 118 listings · 0 kr–50.000 kr per piece
 <sub>ILVA</sub>
 
 <sub>While it features the solid wood frame and tapered legs, the seat and back are one shell and not consistent with mid-century Scandinavian design.</sub>
+
+---
+
+**5/10** · **20.000 kr** · 🆕
+
+<a href="https://bland.is/til-solu/heimilid/stofa/ton-stolar-811/5294940/"><img src="https://img.bland.is/album/img/230031/m/20261012162208_0.jpg" width="320"></a>
+
+[Ton stólar 811](https://bland.is/til-solu/heimilid/stofa/ton-stolar-811/5294940/)  
+<sub>Bland (notað)</sub>
+
+<sub>The chairs have a solid wood frame and curved backrest but feature a cane seat and back, which deviates from the upholstered look desired.</sub>
 
 ---
 
@@ -622,6 +644,17 @@ Updated 2026-10-11 14:24 UTC · 118 listings · 0 kr–50.000 kr per piece
 
 ---
 
+**5/10** · **37.900 kr**
+
+<a href="https://modern.is/shop/husgogn/stolar/bordstofustolar/aava-stoll/"><img src="https://modern.is/wp-content/uploads/2020/08/Arper-Aava4leg-300x300.jpg" width="320"></a>
+
+[Aava stóll](https://modern.is/shop/husgogn/stolar/bordstofustolar/aava-stoll/)  
+<sub>Módern</sub>
+
+<sub>The candidate chair has a Scandinavian style but features plastic seat shells and metal legs, which don't align with the mid-century wood-only aesthetic and upholstered seat preference.</sub>
+
+---
+
 **5/10** · **45.800 kr**
 
 <a href="https://www.epal.is/products/stoll-herman-dining-eik-hvitolia"><img src="https://cdn.shopify.com/s/files/1/0817/4167/6800/files/a9bf1906-44ed-4dfc-8647-2e339b3409e9.jpg?v=1771259684" width="320"></a>
@@ -630,38 +663,5 @@ Updated 2026-10-11 14:24 UTC · 118 listings · 0 kr–50.000 kr per piece
 <sub>Epal</sub>
 
 <sub>The chair has a wood back and seat, but the metal legs and simpler design do not fully match the mid-century Scandinavian aesthetic.</sub>
-
----
-
-**4/10** · **7.495 kr**
-
-<a href="https://jysk.is/stok-vara/JONSTRUP-stoll-beige-dokk-eikarlitadir-stalfaetur/?PathId=73bef239-beb3-4e8d-a05c-f0583025233d"><img src="https://jysk.is/library/Images/products/P007678.jpg?proc=366x366" width="320"></a>
-
-[JONSTRUP stóll beige/dökk eikarlitaðir stálfætur](https://jysk.is/stok-vara/JONSTRUP-stoll-beige-dokk-eikarlitadir-stalfaetur/?PathId=73bef239-beb3-4e8d-a05c-f0583025233d)  
-<sub>JYSK</sub>
-
-<sub>The metal legs and fully upholstered design are not aligned with the mid-century Scandinavian aesthetic sought.</sub>
-
----
-
-**4/10** · **7.495 kr**
-
-<a href="https://jysk.is/stok-vara/JONSTRUP-stoll-hvitur-PU-eikarlitadir-stalfaetur/?PathId=73bef239-beb3-4e8d-a05c-f0583025233d"><img src="https://jysk.is/library/Images/products/P011411.jpg?proc=366x366" width="320"></a>
-
-[JONSTRUP stóll hvítur/PU eikarlitaðir stálfætur](https://jysk.is/stok-vara/JONSTRUP-stoll-hvitur-PU-eikarlitadir-stalfaetur/?PathId=73bef239-beb3-4e8d-a05c-f0583025233d)  
-<sub>JYSK</sub>
-
-<sub>The chair has metal legs, a plastic shell, and lacks the curved wood and fabric aesthetic of mid-century Scandinavian design.</sub>
-
----
-
-**4/10** · **9.995 kr**
-
-<a href="https://jysk.is/stok-vara/MELBY-bordstofustoll-ljosbrunn-svartur/?PathId=73bef239-beb3-4e8d-a05c-f0583025233d"><img src="https://jysk.is/library/Images/products/P011138.jpg?proc=366x366" width="320"></a>
-
-[mánaðarins 41% MELBY borðstofustóll ljósbrúnn/svartur](https://jysk.is/stok-vara/MELBY-bordstofustoll-ljosbrunn-svartur/?PathId=73bef239-beb3-4e8d-a05c-f0583025233d)  
-<sub>JYSK</sub>
-
-<sub>The chair has a modern look with metal legs and a fully upholstered seat, which does not align with the mid-century Scandinavian aesthetic desired.</sub>
 
 ---

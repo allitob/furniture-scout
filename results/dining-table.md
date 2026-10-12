@@ -1,6 +1,6 @@
 # Dining tables
 
-Updated 2026-10-11 14:24 UTC · 92 listings · 5.000 kr–400.000 kr
+Updated 2026-10-12 17:02 UTC · 92 listings · 5.000 kr–400.000 kr
 
 [← all categories](../results.md)
 
@@ -50,7 +50,7 @@ Updated 2026-10-11 14:24 UTC · 92 listings · 5.000 kr–400.000 kr
 
 ---
 
-**8/10** · **92.720 kr** · uppselt
+**8/10** · **92.720 kr**
 
 <a href="https://www.ilva.is/stok-vara/?ProductName=RICHMONT-Bordstofubord-med-fiskibeinamynstri-160x95cm-reyklitadur-eikarsponn&PathId=5b0acb86-6b83-45af-afce-1190f3c19f81"><img src="https://www.ilva.is/library/Images/Products/V013193.jpg?proc=366x366" width="320"></a>
 
@@ -281,7 +281,7 @@ Updated 2026-10-11 14:24 UTC · 92 listings · 5.000 kr–400.000 kr
 
 ---
 
-**5/10** · **103.920 kr** · uppselt
+**5/10** · **103.920 kr**
 
 <a href="https://www.ilva.is/stok-vara/?ProductName=SESSIA-Bordstofubord-180x95x75cm-mattlakkadur-eikarsponn&PathId=5b0acb86-6b83-45af-afce-1190f3c19f81"><img src="https://www.ilva.is/library/Images/Products/V014195.jpg?proc=366x366" width="320"></a>
 
@@ -333,17 +333,6 @@ Updated 2026-10-11 14:24 UTC · 92 listings · 5.000 kr–400.000 kr
 <sub>JYSK · 160/200/220 cm</sub>
 
 <sub>The candidate table has a dark wood tone but features metal legs, which doesn't align with the mid-century Scandinavian aesthetic characterized by wooden legs.</sub>
-
----
-
-**4/10** · **75.000 kr**
-
-<a href="https://bland.is/til-solu/heimilid/stofa/bordstofubord/5291196/"><img src="https://img.bland.is/album/img/120625/m/20260929221304_0.jpg" width="320"></a>
-
-[Borðstofuborð](https://bland.is/til-solu/heimilid/stofa/bordstofubord/5291196/)  
-<sub>Bland (notað) · 180 cm</sub>
-
-<sub>The table has a warm wood tone and oiled finish but lacks the mid-century Scandinavian style and design details like tapered legs or rounded edges.</sub>
 
 ---
 
@@ -608,6 +597,17 @@ Updated 2026-10-11 14:24 UTC · 92 listings · 5.000 kr–400.000 kr
 <sub>Bland (notað) · size?</sub>
 
 <sub>The table has a wood tone but lacks the slim top, rounded edges, and tapered legs typical of mid-century Scandinavian design.</sub>
+
+---
+
+**3/10** · **50.000 kr** · 🆕
+
+<a href="https://bland.is/til-solu/heimilid/stofa/bordstofubord/5294870/"><img src="https://img.bland.is/album/img/298305/m/20261012124425_0.jpg" width="320"></a>
+
+[Borðstofuborð](https://bland.is/til-solu/heimilid/stofa/bordstofubord/5294870/)  
+<sub>Bland (notað) · size?</sub>
+
+<sub>The candidate table has a blocky, modern look that lacks the tapered legs and slim top typical of mid-century Scandinavian style.</sub>
 
 ---
 

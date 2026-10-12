@@ -1,6 +1,6 @@
 # Sofas
 
-Updated 2026-10-11 14:24 UTC · 465 listings · 0 kr–400.000 kr
+Updated 2026-10-12 17:02 UTC · 469 listings · 0 kr–400.000 kr
 
 [← all categories](../results.md)
 
@@ -36,6 +36,17 @@ Updated 2026-10-11 14:24 UTC · 465 listings · 0 kr–400.000 kr
 <sub>JYSK</sub>
 
 <sub>Matches the warm greige color and relaxed style with plush cushions, soft rounded arms, and hidden legs, fitting well with the reference images.</sub>
+
+---
+
+**9/10** · **269.993 kr** · 🆕
+
+<a href="https://husgagnahollin.is/vara/dean-tungusofi-cremona-14-beige/"><img src="https://husgagnahollin.is/wp-content/uploads/2026/01/HA0010185-Dean-tungusofi-Cremona-14-1.webp" width="320"></a>
+
+[Dean tungusófi Cremona 14 beige](https://husgagnahollin.is/vara/dean-tungusofi-cremona-14-beige/)  
+<sub>Húsgagnahöllin</sub>
+
+<sub>The candidate sofa has a light warm greige tone, soft fabric, and plush loose back cushions fitting the desired aesthetic.</sub>
 
 ---
 
@@ -215,7 +226,7 @@ Updated 2026-10-11 14:24 UTC · 465 listings · 0 kr–400.000 kr
 
 ---
 
-**8/10** · **259.990 kr** · uppselt
+**8/10** · **259.990 kr**
 
 <a href="https://jysk.is/stok-vara/SKEJBY-hornsofi-m-opnum-enda-sand/?PathId=daa6be5b-5fc6-4c03-a44a-6267f53d68a8"><img src="https://jysk.is/library/Images/products/P009240.jpg?proc=366x366" width="320"></a>
 
@@ -435,7 +446,7 @@ Updated 2026-10-11 14:24 UTC · 465 listings · 0 kr–400.000 kr
 
 ---
 
-**7/10** · **179.990 kr** · uppselt
+**7/10** · **179.990 kr**
 
 <a href="https://jysk.is/stok-vara/SKIBBY-tungusofi-haegri-sand/?PathId=daa6be5b-5fc6-4c03-a44a-6267f53d68a8"><img src="https://jysk.is/library/Images/products/P013095.jpg?proc=366x366" width="320"></a>
 
@@ -490,7 +501,7 @@ Updated 2026-10-11 14:24 UTC · 465 listings · 0 kr–400.000 kr
 
 ---
 
-**7/10** · **239.990 kr** · uppselt
+**7/10** · **239.990 kr**
 
 <a href="https://jysk.is/stok-vara/SKIBBY-hornsofi-m-opnum-enda-sand/?PathId=daa6be5b-5fc6-4c03-a44a-6267f53d68a8"><img src="https://jysk.is/library/Images/products/P013098.jpg?proc=366x366" width="320"></a>
 
@@ -556,7 +567,7 @@ Updated 2026-10-11 14:24 UTC · 465 listings · 0 kr–400.000 kr
 
 ---
 
-**7/10** · **269.990 kr** · uppselt
+**7/10** · **269.990 kr**
 
 <a href="https://jysk.is/stok-vara/SKEJBY-hornsofi-sand/?PathId=daa6be5b-5fc6-4c03-a44a-6267f53d68a8"><img src="https://jysk.is/library/Images/products/P009244.jpg?proc=366x366" width="320"></a>
 
@@ -652,16 +663,5 @@ Updated 2026-10-11 14:24 UTC · 465 listings · 0 kr–400.000 kr
 <sub>Húsgagnahöllin</sub>
 
 <sub>The candidate sofa has a light warm greige color with soft fabric, loose back cushions, and a relaxed L-shape; however, the visible chrome legs are a mismatch.</sub>
-
----
-
-**7/10** · **349.990 kr** · uppselt
-
-<a href="https://jysk.is/stok-vara/VARDO-tungusofi-haegri-brunn/?PathId=daa6be5b-5fc6-4c03-a44a-6267f53d68a8"><img src="https://jysk.is/library/Images/products/P013103.jpg?proc=366x366" width="320"></a>
-
-[VARDO tungusófi hægri brúnn](https://jysk.is/stok-vara/VARDO-tungusofi-haegri-brunn/?PathId=daa6be5b-5fc6-4c03-a44a-6267f53d68a8)  
-<sub>JYSK</sub>
-
-<sub>The sofa has a soft woven fabric in a warm neutral tone, with a low and generous profile, matching the relaxed aesthetic desired.</sub>
 
 ---
