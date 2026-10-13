@@ -1,6 +1,6 @@
 # Dining chairs
 
-Updated 2026-10-12 17:02 UTC · 118 listings · 0 kr–50.000 kr per piece
+Updated 2026-10-13 15:18 UTC · 116 listings · 0 kr–50.000 kr per piece
 
 [← all categories](../results.md)
 
@@ -490,7 +490,7 @@ Updated 2026-10-12 17:02 UTC · 118 listings · 0 kr–50.000 kr per piece
 
 ---
 
-**5/10** · **5.000 kr** · 🆕
+**5/10** · **5.000 kr**
 
 <a href="https://bland.is/til-solu/heimilid/stofa/vidarstoll/5294772/"><img src="https://img.bland.is/album/img/320321/m/20261011221153_0.jpg" width="320"></a>
 
@@ -556,7 +556,7 @@ Updated 2026-10-12 17:02 UTC · 118 listings · 0 kr–50.000 kr per piece
 
 ---
 
-**5/10** · **17.430 kr**
+**5/10** · **17.430 kr** · uppselt
 
 <a href="https://www.ilva.is/stok-vara/?ProductName=ALLY-Bordstofustoll-brunn-oliubornir-eikarfaetur&PathId=4a9ff5ae-c167-400e-b7dd-d6afc3779559"><img src="https://www.ilva.is/library/Images/Products/V010112.jpg?proc=366x366" width="320"></a>
 
@@ -564,17 +564,6 @@ Updated 2026-10-12 17:02 UTC · 118 listings · 0 kr–50.000 kr per piece
 <sub>ILVA</sub>
 
 <sub>While it features the solid wood frame and tapered legs, the seat and back are one shell and not consistent with mid-century Scandinavian design.</sub>
-
----
-
-**5/10** · **20.000 kr** · 🆕
-
-<a href="https://bland.is/til-solu/heimilid/stofa/ton-stolar-811/5294940/"><img src="https://img.bland.is/album/img/230031/m/20261012162208_0.jpg" width="320"></a>
-
-[Ton stólar 811](https://bland.is/til-solu/heimilid/stofa/ton-stolar-811/5294940/)  
-<sub>Bland (notað)</sub>
-
-<sub>The chairs have a solid wood frame and curved backrest but feature a cane seat and back, which deviates from the upholstered look desired.</sub>
 
 ---
 
@@ -663,5 +652,16 @@ Updated 2026-10-12 17:02 UTC · 118 listings · 0 kr–50.000 kr per piece
 <sub>Epal</sub>
 
 <sub>The chair has a wood back and seat, but the metal legs and simpler design do not fully match the mid-century Scandinavian aesthetic.</sub>
+
+---
+
+**4/10** · **7.495 kr**
+
+<a href="https://jysk.is/stok-vara/JONSTRUP-stoll-beige-dokk-eikarlitadir-stalfaetur/?PathId=73bef239-beb3-4e8d-a05c-f0583025233d"><img src="https://jysk.is/library/Images/products/P007678.jpg?proc=366x366" width="320"></a>
+
+[JONSTRUP stóll beige/dökk eikarlitaðir stálfætur](https://jysk.is/stok-vara/JONSTRUP-stoll-beige-dokk-eikarlitadir-stalfaetur/?PathId=73bef239-beb3-4e8d-a05c-f0583025233d)  
+<sub>JYSK</sub>
+
+<sub>The metal legs and fully upholstered design are not aligned with the mid-century Scandinavian aesthetic sought.</sub>
 
 ---

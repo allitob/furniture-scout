@@ -1,6 +1,6 @@
 # Sofas
 
-Updated 2026-10-12 17:02 UTC · 469 listings · 0 kr–400.000 kr
+Updated 2026-10-13 15:18 UTC · 462 listings · 0 kr–400.000 kr
 
 [← all categories](../results.md)
 
@@ -39,7 +39,7 @@ Updated 2026-10-12 17:02 UTC · 469 listings · 0 kr–400.000 kr
 
 ---
 
-**9/10** · **269.993 kr** · 🆕
+**9/10** · **269.993 kr**
 
 <a href="https://husgagnahollin.is/vara/dean-tungusofi-cremona-14-beige/"><img src="https://husgagnahollin.is/wp-content/uploads/2026/01/HA0010185-Dean-tungusofi-Cremona-14-1.webp" width="320"></a>
 
@@ -171,17 +171,6 @@ Updated 2026-10-12 17:02 UTC · 469 listings · 0 kr–400.000 kr
 
 ---
 
-**8/10** · **189.990 kr** · uppselt
-
-<a href="https://jysk.is/stok-vara/SKEJBY-tungusofi-haegri-sand/?PathId=daa6be5b-5fc6-4c03-a44a-6267f53d68a8"><img src="https://jysk.is/library/Images/products/P009243.jpg?proc=366x366" width="320"></a>
-
-[SKEJBY tungusófi hægri sand](https://jysk.is/stok-vara/SKEJBY-tungusofi-haegri-sand/?PathId=daa6be5b-5fc6-4c03-a44a-6267f53d68a8)  
-<sub>JYSK</sub>
-
-<sub>The sofa is light-colored with soft fabric and clean lines, matching the relaxed, modern aesthetic of the references.</sub>
-
----
-
 **8/10** · **199.760 kr**
 
 <a href="https://www.ilva.is/stok-vara/?ProductName=AIMEE-Tungusofi-vinstri-off-white-med-midjueiningu&PathId=1fc7d092-ce9e-11ef-81b7-8f3b82297126"><img src="https://www.ilva.is/library/Images/Products/V011413.jpg?proc=366x366" width="320"></a>
@@ -234,6 +223,17 @@ Updated 2026-10-12 17:02 UTC · 469 listings · 0 kr–400.000 kr
 <sub>JYSK</sub>
 
 <sub>The sofa is light cream with a soft woven texture, relaxed deep seating, and clean lines, closely matching the target aesthetic.</sub>
+
+---
+
+**8/10** · **269.993 kr** · 🆕
+
+<a href="https://husgagnahollin.is/vara/dean-tungusofi-cremona-24-brunn/"><img src="https://husgagnahollin.is/wp-content/uploads/2026/08/HA0010188-Dean-tungusofi-Cremona-24-brunn-1-1.webp" width="320"></a>
+
+[Dean tungusófi Cremona 24 brúnn](https://husgagnahollin.is/vara/dean-tungusofi-cremona-24-brunn/)  
+<sub>Húsgagnahöllin</sub>
+
+<sub>The sofa matches the color and relaxed style, has deep cushions, rounded arms, and low design but is slightly darker than the desired greige/cream tone.</sub>
 
 ---
 

@@ -1,6 +1,6 @@
 # Dining tables
 
-Updated 2026-10-12 17:02 UTC · 92 listings · 5.000 kr–400.000 kr
+Updated 2026-10-13 15:18 UTC · 90 listings · 5.000 kr–400.000 kr
 
 [← all categories](../results.md)
 
@@ -512,7 +512,7 @@ Updated 2026-10-12 17:02 UTC · 92 listings · 5.000 kr–400.000 kr
 
 ---
 
-**3/10** · **10.000 kr**
+**3/10** · **15.000 kr**
 
 <a href="https://bland.is/til-solu/heimilid/stofa/bord-ikea/5292364/"><img src="https://img.bland.is/album/img/335294/m/20261004111232_0.jpg" width="320"></a>
 
@@ -600,7 +600,7 @@ Updated 2026-10-12 17:02 UTC · 92 listings · 5.000 kr–400.000 kr
 
 ---
 
-**3/10** · **50.000 kr** · 🆕
+**3/10** · **50.000 kr**
 
 <a href="https://bland.is/til-solu/heimilid/stofa/bordstofubord/5294870/"><img src="https://img.bland.is/album/img/298305/m/20261012124425_0.jpg" width="320"></a>
 
