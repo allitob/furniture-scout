@@ -1,6 +1,6 @@
 # Dining tables
 
-Updated 2026-10-13 15:18 UTC · 90 listings · 5.000 kr–400.000 kr
+Updated 2026-10-14 13:07 UTC · 91 listings · 5.000 kr–400.000 kr
 
 [← all categories](../results.md)
 
@@ -39,7 +39,7 @@ Updated 2026-10-13 15:18 UTC · 90 listings · 5.000 kr–400.000 kr
 
 ---
 
-**8/10** · **92.720 kr**
+**8/10** · **115.900 kr**
 
 <a href="https://www.ilva.is/stok-vara/?ProductName=RICHMONT-Bordstofubord-med-fiskibeinamynstri-160x95cm-oliuborinn-eikarsponn&PathId=5b0acb86-6b83-45af-afce-1190f3c19f81"><img src="https://www.ilva.is/library/Images/Products/V013192.jpg?proc=366x366" width="320"></a>
 
@@ -50,7 +50,7 @@ Updated 2026-10-13 15:18 UTC · 90 listings · 5.000 kr–400.000 kr
 
 ---
 
-**8/10** · **92.720 kr**
+**8/10** · **115.900 kr**
 
 <a href="https://www.ilva.is/stok-vara/?ProductName=RICHMONT-Bordstofubord-med-fiskibeinamynstri-160x95cm-reyklitadur-eikarsponn&PathId=5b0acb86-6b83-45af-afce-1190f3c19f81"><img src="https://www.ilva.is/library/Images/Products/V013193.jpg?proc=366x366" width="320"></a>
 
@@ -171,7 +171,7 @@ Updated 2026-10-13 15:18 UTC · 90 listings · 5.000 kr–400.000 kr
 
 ---
 
-**6/10** · **111.920 kr**
+**6/10** · **139.900 kr**
 
 <a href="https://www.ilva.is/stok-vara/?ProductName=LANDHOLM-Bordstofubord-180x95cm-mattlakkadur-eikarsponn&PathId=5b0acb86-6b83-45af-afce-1190f3c19f81"><img src="https://www.ilva.is/library/Images/Products/V009031.jpg?proc=366x366" width="320"></a>
 
@@ -237,7 +237,7 @@ Updated 2026-10-13 15:18 UTC · 90 listings · 5.000 kr–400.000 kr
 
 ---
 
-**6/10** · **303.920 kr** · uppselt
+**6/10** · **379.900 kr** · uppselt
 
 <a href="https://www.ilva.is/stok-vara/?ProductName=SKOVBY-SM11-Bordstofubord-183-275x100cm-muskat-laminat-og-mokkalakkadir-eikarfaetur&PathId=5b0acb86-6b83-45af-afce-1190f3c19f81"><img src="https://www.ilva.is/library/Images/Products/V012993.jpg?proc=366x366" width="320"></a>
 
@@ -259,6 +259,17 @@ Updated 2026-10-13 15:18 UTC · 90 listings · 5.000 kr–400.000 kr
 
 ---
 
+**5/10** · **15.000 kr** · 🆕
+
+<a href="https://bland.is/til-solu/heimilid/stofa/bordstofubord/5295329/"><img src="https://img.bland.is/album/img/120625/m/20261001213658_0.jpg" width="320"></a>
+
+[Borðstofuborð](https://bland.is/til-solu/heimilid/stofa/bordstofubord/5295329/)  
+<sub>Bland (notað) · 180 cm</sub>
+
+<sub>The candidate table is solid wood with a warm tone and minimalist design but has more angular edges and lacks the tapered or splayed legs characteristic of mid-century Scandinavian style.</sub>
+
+---
+
 **5/10** · **18.990 kr** · uppselt
 
 <a href="https://jysk.is/stok-vara/ALLING-bordstofubord-80x100-163-cm-eikarlitad/?PathId=68136a40-8cc3-4036-8232-832bbcbd4a46"><img src="https://jysk.is/library/Images/products/P009218.jpg?proc=366x366" width="320"></a>
@@ -270,18 +281,18 @@ Updated 2026-10-13 15:18 UTC · 90 listings · 5.000 kr–400.000 kr
 
 ---
 
-**5/10** · **99.990 kr**
+**5/10** · **89.900 kr** · 🆕
 
-<a href="https://jysk.is/stok-vara/LYNGVIG-bordstofubord-95x180-260-cm-eik/?PathId=68136a40-8cc3-4036-8232-832bbcbd4a46"><img src="https://jysk.is/library/Images/products/P012987.jpg?proc=366x366" width="320"></a>
+<a href="https://www.ilva.is/stok-vara/?ProductName=SINGLE-Bordstofubord-90x90cm-eik-eik&PathId=5b0acb86-6b83-45af-afce-1190f3c19f81"><img src="https://www.ilva.is/library/Images/Products/V009720.jpg?proc=366x366" width="320"></a>
 
-[LYNGVIG borðstofuborð 95x180/260 cm eik](https://jysk.is/stok-vara/LYNGVIG-bordstofubord-95x180-260-cm-eik/?PathId=68136a40-8cc3-4036-8232-832bbcbd4a46)  
-<sub>JYSK · 180/200/220 cm</sub>
+[SINGLE Borðstofuborð 90x90cm eik/eik](https://www.ilva.is/stok-vara/?ProductName=SINGLE-Bordstofubord-90x90cm-eik-eik&PathId=5b0acb86-6b83-45af-afce-1190f3c19f81)  
+<sub>ILVA · 90/127/164 cm</sub>
 
-<sub>The table has a solid wood look with rounded edges but uses a pedestal base which deviates from the mid-century Scandinavian style's tapered legs.</sub>
+<sub>The table has a slim top and wooden legs, but it lacks the warm wood tone and tapered, splayed legs typical of mid-century style.</sub>
 
 ---
 
-**5/10** · **103.920 kr**
+**5/10** · **129.900 kr**
 
 <a href="https://www.ilva.is/stok-vara/?ProductName=SESSIA-Bordstofubord-180x95x75cm-mattlakkadur-eikarsponn&PathId=5b0acb86-6b83-45af-afce-1190f3c19f81"><img src="https://www.ilva.is/library/Images/Products/V014195.jpg?proc=366x366" width="320"></a>
 
@@ -292,7 +303,18 @@ Updated 2026-10-13 15:18 UTC · 90 listings · 5.000 kr–400.000 kr
 
 ---
 
-**5/10** · **183.920 kr** · uppselt
+**5/10** · **129.990 kr**
+
+<a href="https://jysk.is/stok-vara/LYNGVIG-bordstofubord-95x180-260-cm-eik/?PathId=68136a40-8cc3-4036-8232-832bbcbd4a46"><img src="https://jysk.is/library/Images/products/P012987.jpg?proc=366x366" width="320"></a>
+
+[LYNGVIG borðstofuborð 95x180/260 cm eik](https://jysk.is/stok-vara/LYNGVIG-bordstofubord-95x180-260-cm-eik/?PathId=68136a40-8cc3-4036-8232-832bbcbd4a46)  
+<sub>JYSK · 180/200/220 cm</sub>
+
+<sub>The table has a solid wood look with rounded edges but uses a pedestal base which deviates from the mid-century Scandinavian style's tapered legs.</sub>
+
+---
+
+**5/10** · **229.900 kr** · uppselt
 
 <a href="https://www.ilva.is/stok-vara/?ProductName=TRUE-Bordstofubord-160x95cm-vidarfaetur-graoliuborin-gegnheil-eik&PathId=5b0acb86-6b83-45af-afce-1190f3c19f81"><img src="https://www.ilva.is/library/Images/Products/V008269.jpg?proc=366x366" width="320"></a>
 
@@ -336,7 +358,7 @@ Updated 2026-10-13 15:18 UTC · 90 listings · 5.000 kr–400.000 kr
 
 ---
 
-**4/10** · **79.920 kr**
+**4/10** · **99.900 kr**
 
 <a href="https://www.ilva.is/stok-vara/?ProductName=SINGLE-Bordstofubord-120-217x80cm-eik-eik&PathId=5b0acb86-6b83-45af-afce-1190f3c19f81"><img src="https://www.ilva.is/library/Images/Products/V007738.jpg?proc=366x366" width="320"></a>
 
@@ -347,7 +369,7 @@ Updated 2026-10-13 15:18 UTC · 90 listings · 5.000 kr–400.000 kr
 
 ---
 
-**4/10** · **95.920 kr**
+**4/10** · **119.900 kr**
 
 <a href="https://www.ilva.is/stok-vara/?ProductName=SINGLE-Bordstofubord-180-277x90cm-hvitt-eik&PathId=5b0acb86-6b83-45af-afce-1190f3c19f81"><img src="https://www.ilva.is/library/Images/Products/V003025.jpg?proc=366x366" width="320"></a>
 
@@ -358,7 +380,7 @@ Updated 2026-10-13 15:18 UTC · 90 listings · 5.000 kr–400.000 kr
 
 ---
 
-**4/10** · **99.990 kr** · uppselt
+**4/10** · **129.990 kr** · uppselt
 
 <a href="https://jysk.is/stok-vara/LYNGVIG-bordstofubord-95x180-260-cm-dokk-eik/?PathId=68136a40-8cc3-4036-8232-832bbcbd4a46"><img src="https://jysk.is/library/Images/products/P012986.jpg?proc=366x366" width="320"></a>
 
@@ -369,7 +391,7 @@ Updated 2026-10-13 15:18 UTC · 90 listings · 5.000 kr–400.000 kr
 
 ---
 
-**4/10** · **111.920 kr** · uppselt
+**4/10** · **139.900 kr** · uppselt
 
 <a href="https://www.ilva.is/stok-vara/?ProductName=LANDHOLM-Bordstofubord-180x95cm-reyklitadur-eikarsponn&PathId=5b0acb86-6b83-45af-afce-1190f3c19f81"><img src="https://www.ilva.is/library/Images/Products/V010238.jpg?proc=366x366" width="320"></a>
 
@@ -479,17 +501,6 @@ Updated 2026-10-13 15:18 UTC · 90 listings · 5.000 kr–400.000 kr
 
 ---
 
-**4/10** · **287.920 kr**
-
-<a href="https://www.ilva.is/stok-vara/?ProductName=MAGNOLIA-Bordstofubord-O150x75cm-gratt-travertin-mattlakkadur-eikarsponn&PathId=5b0acb86-6b83-45af-afce-1190f3c19f81"><img src="https://www.ilva.is/library/Images/Products/V014109.jpg?proc=366x366" width="320"></a>
-
-[MAGNOLIA Borðstofuborð Ø150x75cm grátt travertín, mattlakkaður eikarspónn](https://www.ilva.is/stok-vara/?ProductName=MAGNOLIA-Bordstofubord-O150x75cm-gratt-travertin-mattlakkadur-eikarsponn&PathId=5b0acb86-6b83-45af-afce-1190f3c19f81)  
-<sub>ILVA · 150 cm</sub>
-
-<sub>While it has a simple, minimal base, the travertine top and lack of wood on the top surface diverge from the warm wood, mid-century Scandinavian look.</sub>
-
----
-
 **4/10** · **291.499 kr**
 
 <a href="https://snuran.is/products/skovby-bordstofubord-staekanlegt-serpontun-2"><img src="https://cdn.shopify.com/s/files/1/0582/7693/7904/files/13.jpg?v=1769187874" width="320"></a>
@@ -498,6 +509,17 @@ Updated 2026-10-13 15:18 UTC · 90 listings · 5.000 kr–400.000 kr
 <sub>Snúran · 183 cm</sub>
 
 <sub>The table's dark wood and angular design differ from the mid-century Scandinavian style with warm tones and rounded edges seen in the reference images.</sub>
+
+---
+
+**4/10** · **359.900 kr**
+
+<a href="https://www.ilva.is/stok-vara/?ProductName=MAGNOLIA-Bordstofubord-O150x75cm-gratt-travertin-mattlakkadur-eikarsponn&PathId=5b0acb86-6b83-45af-afce-1190f3c19f81"><img src="https://www.ilva.is/library/Images/Products/V014109.jpg?proc=366x366" width="320"></a>
+
+[MAGNOLIA Borðstofuborð Ø150x75cm grátt travertín, mattlakkaður eikarspónn](https://www.ilva.is/stok-vara/?ProductName=MAGNOLIA-Bordstofubord-O150x75cm-gratt-travertin-mattlakkadur-eikarsponn&PathId=5b0acb86-6b83-45af-afce-1190f3c19f81)  
+<sub>ILVA · 150 cm</sub>
+
+<sub>While it has a simple, minimal base, the travertine top and lack of wood on the top surface diverge from the warm wood, mid-century Scandinavian look.</sub>
 
 ---
 
@@ -567,17 +589,6 @@ Updated 2026-10-13 15:18 UTC · 90 listings · 5.000 kr–400.000 kr
 
 ---
 
-**3/10** · **40.000 kr**
-
-<a href="https://bland.is/til-solu/heimilid/stofa/staekkanlegt-bordstofubord/5292154/"><img src="https://img.bland.is/album/img/68469/m/20261003144826_0.jpg" width="320"></a>
-
-[Stækkanlegt Borðstofuborð](https://bland.is/til-solu/heimilid/stofa/staekkanlegt-bordstofubord/5292154/)  
-<sub>Bland (notað) · size?</sub>
-
-<sub>The hexagonal shape, thick top, and dark wood tone diverge from the slim, rounded mid-century Scandinavian style of the references.</sub>
-
----
-
 **3/10** · **49.990 kr**
 
 <a href="https://jysk.is/stok-vara/VIMMERBY-bordstofubord-80x140-cm-brunt-ceramik/?PathId=68136a40-8cc3-4036-8232-832bbcbd4a46"><img src="https://jysk.is/library/Images/products/P010687.Jpg?proc=366x366" width="320"></a>
@@ -641,17 +652,6 @@ Updated 2026-10-13 15:18 UTC · 90 listings · 5.000 kr–400.000 kr
 <sub>JYSK · 160/200/220 cm</sub>
 
 <sub>The table features metal legs and a lighter wood finish, which do not align with the warm wood and sleek Scandinavian design of the reference images.</sub>
-
----
-
-**3/10** · **79.920 kr**
-
-<a href="https://www.ilva.is/stok-vara/?ProductName=SINGLE-Bordstofubord-120-217x80cm-hvitt-eik&PathId=5b0acb86-6b83-45af-afce-1190f3c19f81"><img src="https://www.ilva.is/library/Images/Products/V003024%20-%20Copy%20(3).jpg?proc=366x366" width="320"></a>
-
-[SINGLE Borðstofuborð 120/217x80cm hvítt/eik](https://www.ilva.is/stok-vara/?ProductName=SINGLE-Bordstofubord-120-217x80cm-hvitt-eik&PathId=5b0acb86-6b83-45af-afce-1190f3c19f81)  
-<sub>ILVA · 120/217 cm</sub>
-
-<sub>The table has a contemporary look with a white top and light wood legs, which does not align well with the warm wood tones and mid-century style of the references.</sub>
 
 ---
 
