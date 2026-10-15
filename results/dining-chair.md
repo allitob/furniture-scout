@@ -1,12 +1,12 @@
 # Dining chairs
 
-Updated 2026-10-14 13:07 UTC · 111 listings · 0 kr–50.000 kr per piece
+Updated 2026-10-15 12:53 UTC · 110 listings · 0 kr–50.000 kr per piece
 
 [← all categories](../results.md)
 
 ---
 
-**9/10** · **13.592 kr** · uppselt
+**9/10** · **13.592 kr**
 
 <a href="https://jysk.is/stok-vara/EJSING-bordstofustoll-beige-dokk-eik/?PathId=73bef239-beb3-4e8d-a05c-f0583025233d"><img src="https://jysk.is/library/Images/products/P012993.jpg?proc=366x366" width="320"></a>
 
@@ -47,6 +47,17 @@ Updated 2026-10-14 13:07 UTC · 111 listings · 0 kr–50.000 kr per piece
 <sub>JYSK</sub>
 
 <sub>The chair has a solid wood frame with slim, tapered legs and a curved backrest. It features a light upholstered seat, matching the mid-century Scandinavian aesthetic.</sub>
+
+---
+
+**8/10** · **15.000 kr** · 🆕
+
+<a href="https://bland.is/til-solu/heimilid/stofa/tekk-stolar-x4/5295675/"><img src="https://img.bland.is/album/img/325747/m/20261014175152_0.jpg" width="320"></a>
+
+[Tekk stólar x4](https://bland.is/til-solu/heimilid/stofa/tekk-stolar-x4/5295675/)  
+<sub>Bland (notað)</sub>
+
+<sub>The candidate chairs have slim round tapered legs, a curved wooden backrest, and an upholstered seat, aligning well with the mid-century Scandinavian aesthetic.</sub>
 
 ---
 
@@ -468,7 +479,7 @@ Updated 2026-10-14 13:07 UTC · 111 listings · 0 kr–50.000 kr per piece
 
 ---
 
-**5/10** · **14.990 kr** · uppselt
+**5/10** · **14.990 kr**
 
 <a href="https://jysk.is/stok-vara/SOTTRUP-bordstofustoll-beige-svartur/?PathId=73bef239-beb3-4e8d-a05c-f0583025233d"><img src="https://jysk.is/library/Images/products/P011139.jpg?proc=366x366" width="320"></a>
 
@@ -531,17 +542,6 @@ Updated 2026-10-14 13:07 UTC · 111 listings · 0 kr–50.000 kr per piece
 <sub>Húsgagnahöllin</sub>
 
 <sub>The chair has a mid-century design with a wood frame and tapered legs, but the black color and backrest style deviate from the desired aesthetic.</sub>
-
----
-
-**5/10** · **37.900 kr**
-
-<a href="https://modern.is/shop/husgogn/stolar/bordstofustolar/aava-stoll/"><img src="https://modern.is/wp-content/uploads/2020/08/Arper-Aava4leg-300x300.jpg" width="320"></a>
-
-[Aava stóll](https://modern.is/shop/husgogn/stolar/bordstofustolar/aava-stoll/)  
-<sub>Módern</sub>
-
-<sub>The candidate chair has a Scandinavian style but features plastic seat shells and metal legs, which don't align with the mid-century wood-only aesthetic and upholstered seat preference.</sub>
 
 ---
 

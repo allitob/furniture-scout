@@ -1,6 +1,6 @@
 # Furniture matches
 
-Updated 2026-10-14 13:07 UTC. Sorted by style match (gpt-4o).
+Updated 2026-10-15 12:53 UTC. Sorted by style match (gpt-4o).
 
 ## [Dining tables →](results/dining-table.md)
 
@@ -10,33 +10,33 @@ Top: **9/10** [LAKE Borðstofuborð 150x90cm olíuborin gegnheil eik](https://ww
 
 ## [Dining chairs →](results/dining-chair.md)
 
-111 in budget (0 kr–50.000 kr per piece)
+110 in budget (0 kr–50.000 kr per piece) · 1 new today
 
 Top: **9/10** [EJSING borðstofustóll beige/dökk eik](https://jysk.is/stok-vara/EJSING-bordstofustoll-beige-dokk-eik/?PathId=73bef239-beb3-4e8d-a05c-f0583025233d) — 13.592 kr
 
 ## [Sofas →](results/sofa.md)
 
-446 in budget (0 kr–400.000 kr) · 8 new today
+440 in budget (0 kr–400.000 kr) · 8 new today
 
-Top: **9/10** [LYBY tungusófi sand](https://jysk.is/stok-vara/LYBY-tungusofi-sand/?PathId=daa6be5b-5fc6-4c03-a44a-6267f53d68a8) — 199.890 kr
+Top: **9/10** [AIMEE Tungusófi vinstri off white](https://www.ilva.is/stok-vara/?ProductName=AIMEE-Tungusofi-vinstri-off-white-1&PathId=1fc7d092-ce9e-11ef-81b7-8f3b82297126) — 189.800 kr
 
 <details><summary>Source status</summary>
 
-- Epal: 9449
-- Snúran: 831
+- Epal: 9454
+- Snúran: 833
 - Bland: 603
-- Húsgagnahöllin [dining-table]: 82
+- Húsgagnahöllin [dining-table]: 85
 - Módern [dining-table]: 46
 - Línan [dining-table]: 33
 - ILVA [dining-table]: 88
 - JYSK [dining-table]: 63
-- Húsgagnahöllin [dining-chair]: 46
-- Módern [dining-chair]: 79
+- Húsgagnahöllin [dining-chair]: 48
+- Módern [dining-chair]: 75
 - Línan [dining-chair]: 32
 - ILVA [dining-chair]: 78
-- JYSK [dining-chair]: 119
-- Húsgagnahöllin [sofa]: 166
-- Módern [sofa]: 103
+- JYSK [dining-chair]: 120
+- Húsgagnahöllin [sofa]: 165
+- Módern [sofa]: 99
 - Línan [sofa]: 34
 - ILVA [sofa]: 170
 - JYSK [sofa]: 125

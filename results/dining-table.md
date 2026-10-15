@@ -1,6 +1,6 @@
 # Dining tables
 
-Updated 2026-10-14 13:07 UTC · 91 listings · 5.000 kr–400.000 kr
+Updated 2026-10-15 12:53 UTC · 91 listings · 5.000 kr–400.000 kr
 
 [← all categories](../results.md)
 
@@ -25,6 +25,17 @@ Updated 2026-10-14 13:07 UTC · 91 listings · 5.000 kr–400.000 kr
 <sub>Módern · 90/140/180/200/220/240/260/280 cm</sub>
 
 <sub>The table has a slim top with softly rounded edges and tapered, slightly splayed wooden legs, fitting well with the desired mid-century Scandinavian style.</sub>
+
+---
+
+**9/10** · **242.499 kr** · 🆕
+
+<a href="https://snuran.is/products/skovby-bordstofubord-staekkanlegt-sm-112-serpontun-copy"><img src="https://cdn.shopify.com/s/files/1/0582/7693/7904/files/111no_a.jpg?v=1791996107" width="320"></a>
+
+[Skovby - borðstofuborð/stækkanlegt  SM 111 - sérpöntun](https://snuran.is/products/skovby-bordstofubord-staekkanlegt-sm-112-serpontun-copy)  
+<sub>Snúran · 145 cm</sub>
+
+<sub>The table features a warm wood tone, softly rounded edges, tapered legs, and a matte finish, fitting well with the mid-century Scandinavian aesthetic.</sub>
 
 ---
 
@@ -94,7 +105,7 @@ Updated 2026-10-14 13:07 UTC · 91 listings · 5.000 kr–400.000 kr
 
 ---
 
-**7/10** · **159.990 kr**
+**7/10** · **159.990 kr** · uppselt
 
 <a href="https://jysk.is/stok-vara/OREBRO-bordstofubord-o120-120x160-200-H75-cm-eikaraferd/?PathId=68136a40-8cc3-4036-8232-832bbcbd4a46"><img src="https://jysk.is/library/Images/products/P008212.jpg?proc=366x366" width="320"></a>
 
@@ -102,6 +113,17 @@ Updated 2026-10-14 13:07 UTC · 91 listings · 5.000 kr–400.000 kr
 <sub>JYSK · 160/200/220 cm</sub>
 
 <sub>The table has a warm wood tone with softly rounded edges and a unique wooden pedestal base, aligning moderately with the mid-century Scandinavian style.</sub>
+
+---
+
+**7/10** · **159.990 kr** · 🆕
+
+<a href="https://husgagnahollin.is/vara/arun-bordstofubord-95x180cm-espresso/"><img src="https://husgagnahollin.is/wp-content/uploads/2025/10/Arun-bordstofubord-95x180cm-espresso-50164710-1.webp" width="320"></a>
+
+[Arun borðstofuborð 95x180cm espresso](https://husgagnahollin.is/vara/arun-bordstofubord-95x180cm-espresso/)  
+<sub>Húsgagnahöllin · 180 cm</sub>
+
+<sub>The table features a warm wood tone and a simple, slim design with tapered legs, fitting the mid-century Scandinavian aesthetic.</sub>
 
 ---
 
@@ -259,7 +281,7 @@ Updated 2026-10-14 13:07 UTC · 91 listings · 5.000 kr–400.000 kr
 
 ---
 
-**5/10** · **15.000 kr** · 🆕
+**5/10** · **15.000 kr**
 
 <a href="https://bland.is/til-solu/heimilid/stofa/bordstofubord/5295329/"><img src="https://img.bland.is/album/img/120625/m/20261001213658_0.jpg" width="320"></a>
 
@@ -278,17 +300,6 @@ Updated 2026-10-14 13:07 UTC · 91 listings · 5.000 kr–400.000 kr
 <sub>JYSK · 100/200/220 cm</sub>
 
 <sub>The table has warm wood tones and rounded edges but lacks the tapered legs and refined mid-century aesthetic of the references.</sub>
-
----
-
-**5/10** · **89.900 kr** · 🆕
-
-<a href="https://www.ilva.is/stok-vara/?ProductName=SINGLE-Bordstofubord-90x90cm-eik-eik&PathId=5b0acb86-6b83-45af-afce-1190f3c19f81"><img src="https://www.ilva.is/library/Images/Products/V009720.jpg?proc=366x366" width="320"></a>
-
-[SINGLE Borðstofuborð 90x90cm eik/eik](https://www.ilva.is/stok-vara/?ProductName=SINGLE-Bordstofubord-90x90cm-eik-eik&PathId=5b0acb86-6b83-45af-afce-1190f3c19f81)  
-<sub>ILVA · 90/127/164 cm</sub>
-
-<sub>The table has a slim top and wooden legs, but it lacks the warm wood tone and tapered, splayed legs typical of mid-century style.</sub>
 
 ---
 
@@ -564,17 +575,6 @@ Updated 2026-10-14 13:07 UTC · 91 listings · 5.000 kr–400.000 kr
 <sub>JYSK · 80/200/220 cm</sub>
 
 <sub>The table is too blocky with sharp edges and lacks the mid-century Scandinavian design features such as tapered legs and rounded corners seen in the references.</sub>
-
----
-
-**3/10** · **25.000 kr**
-
-<a href="https://bland.is/til-solu/heimilid/stofa/bordstofubord-160x90-cm-210x90/5292203/"><img src="https://img.bland.is/album/img/45417/m/20261003172451_0.jpg" width="320"></a>
-
-[Borðstofuborð 160x90 cm 210x90](https://bland.is/til-solu/heimilid/stofa/bordstofubord-160x90-cm-210x90/5292203/)  
-<sub>Bland (notað) · 160/210 cm</sub>
-
-<sub>The table has a blocky design with straight legs and lacks the softness and slim top of the mid-century style.</sub>
 
 ---
 
