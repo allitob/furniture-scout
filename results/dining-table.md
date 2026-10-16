@@ -1,6 +1,6 @@
 # Dining tables
 
-Updated 2026-10-15 12:53 UTC · 91 listings · 5.000 kr–400.000 kr
+Updated 2026-10-16 12:45 UTC · 90 listings · 5.000 kr–400.000 kr
 
 [← all categories](../results.md)
 
@@ -28,7 +28,7 @@ Updated 2026-10-15 12:53 UTC · 91 listings · 5.000 kr–400.000 kr
 
 ---
 
-**9/10** · **242.499 kr** · 🆕
+**9/10** · **242.499 kr**
 
 <a href="https://snuran.is/products/skovby-bordstofubord-staekkanlegt-sm-112-serpontun-copy"><img src="https://cdn.shopify.com/s/files/1/0582/7693/7904/files/111no_a.jpg?v=1791996107" width="320"></a>
 
@@ -116,7 +116,7 @@ Updated 2026-10-15 12:53 UTC · 91 listings · 5.000 kr–400.000 kr
 
 ---
 
-**7/10** · **159.990 kr** · 🆕
+**7/10** · **159.990 kr**
 
 <a href="https://husgagnahollin.is/vara/arun-bordstofubord-95x180cm-espresso/"><img src="https://husgagnahollin.is/wp-content/uploads/2025/10/Arun-bordstofubord-95x180cm-espresso-50164710-1.webp" width="320"></a>
 
@@ -336,6 +336,17 @@ Updated 2026-10-15 12:53 UTC · 91 listings · 5.000 kr–400.000 kr
 
 ---
 
+**4/10** · **20.000 kr** · 🆕
+
+<a href="https://bland.is/til-solu/heimilid/stofa/bordstofubord/5296017/"><img src="https://img.bland.is/album/img/197620/m/20261015171820_0.jpg" width="320"></a>
+
+[Borðstofuborð](https://bland.is/til-solu/heimilid/stofa/bordstofubord/5296017/)  
+<sub>Bland (notað) · 180 cm</sub>
+
+<sub>The candidate table is made of solid wood, but its darker tone, farmhouse-style legs, and bulkier design differ from the mid-century Scandinavian style seen in the references.</sub>
+
+---
+
 **4/10** · **22.990 kr**
 
 <a href="https://jysk.is/stok-vara/JEGIND-bordstofubord-80x130-cm-eik-svart/?PathId=68136a40-8cc3-4036-8232-832bbcbd4a46"><img src="https://jysk.is/library/Images/products/P007358.jpg?proc=366x366" width="320"></a>
@@ -432,17 +443,6 @@ Updated 2026-10-15 12:53 UTC · 91 listings · 5.000 kr–400.000 kr
 <sub>JYSK · 180/200/220 cm</sub>
 
 <sub>The table material is oak wood, but the crossed legs and lack of rounded edges give it a more rustic modern look, differing from the mid-century Scandinavian design.</sub>
-
----
-
-**4/10** · **150.000 kr**
-
-<a href="https://bland.is/til-solu/heimilid/stofa/laminate-bordstofubord/5292390/"><img src="https://img.bland.is/album/img/140685/m/20261004122647_0.jpg" width="320"></a>
-
-[Laminate borðstofuborð](https://bland.is/til-solu/heimilid/stofa/laminate-bordstofubord/5292390/)  
-<sub>Bland (notað) · size?</sub>
-
-<sub>The table is minimal and slim but lacks the warmth of wood, with a dark top and metal legs, diverging from the mid-century Scandinavian wooden aesthetic.</sub>
 
 ---
 
@@ -545,17 +545,6 @@ Updated 2026-10-15 12:53 UTC · 91 listings · 5.000 kr–400.000 kr
 
 ---
 
-**3/10** · **15.000 kr**
-
-<a href="https://bland.is/til-solu/heimilid/stofa/bord-ikea/5292364/"><img src="https://img.bland.is/album/img/335294/m/20261004111232_0.jpg" width="320"></a>
-
-[Borð IKEA](https://bland.is/til-solu/heimilid/stofa/bord-ikea/5292364/)  
-<sub>Bland (notað) · 147/204 cm</sub>
-
-<sub>The table has a dark wood tone but lacks the mid-century Scandinavian design with its thick, straight edges and bulky legs.</sub>
-
----
-
 **3/10** · **23.992 kr**
 
 <a href="https://jysk.is/stok-vara/AABENRAA-bord-80x120-cm-eik-svart-3/?PathId=68136a40-8cc3-4036-8232-832bbcbd4a46"><img src="https://jysk.is/library/Images/products/P002111.jpg?proc=366x366" width="320"></a>
@@ -633,17 +622,6 @@ Updated 2026-10-15 12:53 UTC · 91 listings · 5.000 kr–400.000 kr
 
 ---
 
-**3/10** · **60.000 kr**
-
-<a href="https://bland.is/til-solu/heimilid/stofa/bordstofubord-ur-ilva/5292481/"><img src="https://img.bland.is/album/img/251044/m/20261004150427_0.jpg" width="320"></a>
-
-[Borðstofuborð úr Ilva](https://bland.is/til-solu/heimilid/stofa/bordstofubord-ur-ilva/5292481/)  
-<sub>Bland (notað) · 160 cm</sub>
-
-<sub>The table has a wood top but with a rough finish and metal legs, which deviates from the desired mid-century Scandinavian style with wooden legs and a smooth, matte finish.</sub>
-
----
-
 **3/10** · **74.990 kr**
 
 <a href="https://jysk.is/stok-vara/SKOVLUNDE-bordstofubord-90x160-cm-ljos-eik/?PathId=68136a40-8cc3-4036-8232-832bbcbd4a46"><img src="https://jysk.is/library/Images/products/P002382.jpg?proc=366x366" width="320"></a>
@@ -663,5 +641,27 @@ Updated 2026-10-15 12:53 UTC · 91 listings · 5.000 kr–400.000 kr
 <sub>JYSK · 160/200/220 cm</sub>
 
 <sub>The table uses wood and metal with angled metal legs, contrasting with the mid-century styled wood-only references.</sub>
+
+---
+
+**3/10** · **79.990 kr** · uppselt
+
+<a href="https://jysk.is/stok-vara/SANDBY-bordstofubord-100x160-cm-dokk-eik/?PathId=68136a40-8cc3-4036-8232-832bbcbd4a46"><img src="https://jysk.is/library/Images/products/P006956.jpg?proc=366x366" width="320"></a>
+
+[SANDBY borðstofuborð 100x160 cm dökk eik](https://jysk.is/stok-vara/SANDBY-bordstofubord-100x160-cm-dokk-eik/?PathId=68136a40-8cc3-4036-8232-832bbcbd4a46)  
+<sub>JYSK · 160/200/220 cm</sub>
+
+<sub>The table utilizes wood and metal, featuring a minimalist design that leans industrial, contrasting with the warm, mid-century style and wooden legs of the references.</sub>
+
+---
+
+**3/10** · **99.900 kr**
+
+<a href="https://www.ilva.is/stok-vara/?ProductName=SINGLE-Bordstofubord-120-217x80cm-hvitt-eik&PathId=5b0acb86-6b83-45af-afce-1190f3c19f81"><img src="https://www.ilva.is/library/Images/Products/V003024%20-%20Copy%20(3).jpg?proc=366x366" width="320"></a>
+
+[SINGLE Borðstofuborð 120/217x80cm hvítt/eik](https://www.ilva.is/stok-vara/?ProductName=SINGLE-Bordstofubord-120-217x80cm-hvitt-eik&PathId=5b0acb86-6b83-45af-afce-1190f3c19f81)  
+<sub>ILVA · 120/217 cm</sub>
+
+<sub>The table has a contemporary look with a white top and light wood legs, which does not align well with the warm wood tones and mid-century style of the references.</sub>
 
 ---

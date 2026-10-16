@@ -1,6 +1,6 @@
 # Sofas
 
-Updated 2026-10-15 12:53 UTC · 440 listings · 0 kr–400.000 kr
+Updated 2026-10-16 12:45 UTC · 440 listings · 0 kr–400.000 kr
 
 [← all categories](../results.md)
 
@@ -28,7 +28,7 @@ Updated 2026-10-15 12:53 UTC · 440 listings · 0 kr–400.000 kr
 
 ---
 
-**9/10** · **200.000 kr** · 🆕
+**9/10** · **200.000 kr**
 
 <a href="https://bland.is/til-solu/heimilid/stofa/sofi-ur-tekk/5295852/"><img src="https://img.bland.is/album/img/299260/m/20261015104152_0.jpg" width="320"></a>
 
@@ -105,7 +105,18 @@ Updated 2026-10-15 12:53 UTC · 440 listings · 0 kr–400.000 kr
 
 ---
 
-**8/10** · **100.000 kr** · 🆕
+**8/10** · **65.000 kr** · 🆕
+
+<a href="https://bland.is/til-solu/heimilid/stofa/soderham-tungusofi/5296072/"><img src="https://img.bland.is/album/img/188388/m/20261015212244_0.jpg" width="320"></a>
+
+[Söderham tungusófi](https://bland.is/til-solu/heimilid/stofa/soderham-tungusofi/5296072/)  
+<sub>Bland (notað)</sub>
+
+<sub>The candidate sofa matches the color and material preferences, has a clean design with plush cushions and fits the L-shape requirement.</sub>
+
+---
+
+**8/10** · **70.000 kr <sub>was 100.000 kr</sub>**
 
 <a href="https://bland.is/til-solu/heimilid/stofa/soderhamn-4-manna-sofi/5295651/"><img src="https://img.bland.is/album/img/187669/m/20261014164744_0.jpg" width="320"></a>
 
@@ -300,17 +311,6 @@ Updated 2026-10-15 12:53 UTC · 440 listings · 0 kr–400.000 kr
 <sub>JYSK</sub>
 
 <sub>The sofa is light-colored with a soft fabric, has a relaxed and deep design, plush cushions, and hidden legs, fitting well with the desired aesthetic.</sub>
-
----
-
-**8/10** · **384.900 kr**
-
-<a href="https://modern.is/shop/husgogn/sofar-og-legubekkir/beinir-sofar/bib-sofi/"><img src="https://modern.is/wp-content/uploads/2025/08/Photoroom_20250819_014254-2-300x300.png" width="320"></a>
-
-[Bib sófi](https://modern.is/shop/husgogn/sofar-og-legubekkir/beinir-sofar/bib-sofi/)  
-<sub>Módern</sub>
-
-<sub>The candidate sofa has a similar off-white woven fabric, with soft rounded arms and clean simple lines, matching the desired aesthetic.</sub>
 
 ---
 
