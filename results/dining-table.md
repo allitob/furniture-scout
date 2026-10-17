@@ -1,6 +1,6 @@
 # Dining tables
 
-Updated 2026-10-16 12:45 UTC · 90 listings · 5.000 kr–400.000 kr
+Updated 2026-10-17 11:46 UTC · 86 listings · 5.000 kr–400.000 kr
 
 [← all categories](../results.md)
 
@@ -336,7 +336,7 @@ Updated 2026-10-16 12:45 UTC · 90 listings · 5.000 kr–400.000 kr
 
 ---
 
-**4/10** · **20.000 kr** · 🆕
+**4/10** · **20.000 kr**
 
 <a href="https://bland.is/til-solu/heimilid/stofa/bordstofubord/5296017/"><img src="https://img.bland.is/album/img/197620/m/20261015171820_0.jpg" width="320"></a>
 
@@ -591,17 +591,6 @@ Updated 2026-10-16 12:45 UTC · 90 listings · 5.000 kr–400.000 kr
 
 **3/10** · **50.000 kr**
 
-<a href="https://bland.is/til-solu/heimilid/stofa/til-solu-bord-med-6-stolum-/5292777/"><img src="https://img.bland.is/album/img/434003/m/20261005133248_0.jpg" width="320"></a>
-
-[Til sölu borð með 6 stólum.](https://bland.is/til-solu/heimilid/stofa/til-solu-bord-med-6-stolum-/5292777/)  
-<sub>Bland (notað) · size?</sub>
-
-<sub>The table has a wood tone but lacks the slim top, rounded edges, and tapered legs typical of mid-century Scandinavian design.</sub>
-
----
-
-**3/10** · **50.000 kr**
-
 <a href="https://bland.is/til-solu/heimilid/stofa/bordstofubord/5294870/"><img src="https://img.bland.is/album/img/298305/m/20261012124425_0.jpg" width="320"></a>
 
 [Borðstofuborð](https://bland.is/til-solu/heimilid/stofa/bordstofubord/5294870/)  
@@ -663,5 +652,16 @@ Updated 2026-10-16 12:45 UTC · 90 listings · 5.000 kr–400.000 kr
 <sub>ILVA · 120/217 cm</sub>
 
 <sub>The table has a contemporary look with a white top and light wood legs, which does not align well with the warm wood tones and mid-century style of the references.</sub>
+
+---
+
+**3/10** · **119.900 kr**
+
+<a href="https://www.ilva.is/stok-vara/?ProductName=SINGLE-Bordstofubord-180-277x90cm-hvitt-svart&PathId=5b0acb86-6b83-45af-afce-1190f3c19f81"><img src="https://www.ilva.is/library/Images/Products/V003023.jpg?proc=366x366" width="320"></a>
+
+[SINGLE Borðstofuborð 180/277x90cm hvítt/svart](https://www.ilva.is/stok-vara/?ProductName=SINGLE-Bordstofubord-180-277x90cm-hvitt-svart&PathId=5b0acb86-6b83-45af-afce-1190f3c19f81)  
+<sub>ILVA · 180/277 cm</sub>
+
+<sub>The table has a high contrast design and a laminate top, diverging from the warm wood and mid-century style of the references.</sub>
 
 ---

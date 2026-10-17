@@ -1,6 +1,6 @@
 # Sofas
 
-Updated 2026-10-16 12:45 UTC · 440 listings · 0 kr–400.000 kr
+Updated 2026-10-17 11:46 UTC · 443 listings · 0 kr–400.000 kr
 
 [← all categories](../results.md)
 
@@ -105,7 +105,7 @@ Updated 2026-10-16 12:45 UTC · 440 listings · 0 kr–400.000 kr
 
 ---
 
-**8/10** · **65.000 kr** · 🆕
+**8/10** · **65.000 kr**
 
 <a href="https://bland.is/til-solu/heimilid/stofa/soderham-tungusofi/5296072/"><img src="https://img.bland.is/album/img/188388/m/20261015212244_0.jpg" width="320"></a>
 
@@ -127,7 +127,7 @@ Updated 2026-10-16 12:45 UTC · 440 listings · 0 kr–400.000 kr
 
 ---
 
-**8/10** · **159.990 kr** · uppselt
+**8/10** · **159.990 kr**
 
 <a href="https://jysk.is/stok-vara/SKEJBY-tungusofi-litill-haegri-tunga-opin-endi-sand/?PathId=daa6be5b-5fc6-4c03-a44a-6267f53d68a8"><img src="https://jysk.is/library/Images/products/P011555.jpg?proc=366x366" width="320"></a>
 
@@ -193,7 +193,7 @@ Updated 2026-10-16 12:45 UTC · 440 listings · 0 kr–400.000 kr
 
 ---
 
-**8/10** · **209.990 kr** · uppselt
+**8/10** · **209.990 kr**
 
 <a href="https://jysk.is/stok-vara/SKEJBY-tungusofi-stor-haegri-tunga-opin-endi-sand/?PathId=daa6be5b-5fc6-4c03-a44a-6267f53d68a8"><img src="https://jysk.is/library/Images/products/P011787.jpg?proc=366x366" width="320"></a>
 
@@ -270,7 +270,7 @@ Updated 2026-10-16 12:45 UTC · 440 listings · 0 kr–400.000 kr
 
 ---
 
-**8/10** · **319.990 kr** · uppselt
+**8/10** · **319.990 kr**
 
 <a href="https://jysk.is/stok-vara/SKEJBY-U-tungusofi-sand/?PathId=daa6be5b-5fc6-4c03-a44a-6267f53d68a8"><img src="https://jysk.is/library/Images/products/P011788.jpg?proc=366x366" width="320"></a>
 
@@ -314,6 +314,17 @@ Updated 2026-10-16 12:45 UTC · 440 listings · 0 kr–400.000 kr
 
 ---
 
+**8/10** · **384.900 kr**
+
+<a href="https://modern.is/shop/husgogn/sofar-og-legubekkir/beinir-sofar/bib-sofi/"><img src="https://modern.is/wp-content/uploads/2025/08/Photoroom_20250819_014254-2-300x300.png" width="320"></a>
+
+[Bib sófi](https://modern.is/shop/husgogn/sofar-og-legubekkir/beinir-sofar/bib-sofi/)  
+<sub>Módern</sub>
+
+<sub>The candidate sofa has a similar off-white woven fabric, with soft rounded arms and clean simple lines, matching the desired aesthetic.</sub>
+
+---
+
 **8/10** · **391.992 kr**
 
 <a href="https://husgagnahollin.is/vara/nelson-hornsofi-vinstri-hevre-beige-bb/"><img src="https://husgagnahollin.is/wp-content/uploads/2026/01/104835098002-Nelson-hornsofi-haegri-Hevre-beige-Bb-1-copy.webp" width="320"></a>
@@ -347,7 +358,7 @@ Updated 2026-10-16 12:45 UTC · 440 listings · 0 kr–400.000 kr
 
 ---
 
-**7/10** · **69.990 kr** · uppselt
+**7/10** · **69.990 kr**
 
 <a href="https://jysk.is/stok-vara/SKEJBY-sofaeining-haegri-tungu-endi-m-bak-sand/?PathId=daa6be5b-5fc6-4c03-a44a-6267f53d68a8"><img src="https://jysk.is/library/Images/products/P011031.jpg?proc=366x366" width="320"></a>
 
@@ -652,16 +663,5 @@ Updated 2026-10-16 12:45 UTC · 440 listings · 0 kr–400.000 kr
 <sub>ILVA</sub>
 
 <sub>The color and fabric match the relaxed, light aesthetic, but the design lacks the L-shape or chaise.</sub>
-
----
-
-**7/10** · **389.993 kr**
-
-<a href="https://husgagnahollin.is/vara/maggie-3s-sofi-more-rabbit/"><img src="https://husgagnahollin.is/wp-content/uploads/2026/05/463130310131126808-Maggie.webp" width="320"></a>
-
-[Maggie 3s sófi More Rabbit](https://husgagnahollin.is/vara/maggie-3s-sofi-more-rabbit/)  
-<sub>Húsgagnahöllin</sub>
-
-<sub>The sofa features light warm greige fabric, plush back cushions, and simple lines, but it is not an L-shaped or chaise style.</sub>
 
 ---

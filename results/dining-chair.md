@@ -1,6 +1,6 @@
 # Dining chairs
 
-Updated 2026-10-16 12:45 UTC · 113 listings · 0 kr–50.000 kr per piece
+Updated 2026-10-17 11:46 UTC · 113 listings · 0 kr–50.000 kr per piece
 
 [← all categories](../results.md)
 
@@ -523,7 +523,7 @@ Updated 2026-10-16 12:45 UTC · 113 listings · 0 kr–50.000 kr per piece
 
 ---
 
-**5/10** · **31.992 kr** · 🆕
+**5/10** · **31.992 kr**
 
 <a href="https://husgagnahollin.is/vara/almere-bordstofustoll-hnota-milan-130-ote/"><img src="https://husgagnahollin.is/wp-content/uploads/2026/04/B2982MIL130-Almere-bordstofustoll-Hnota-Milan-130-Ote-2.webp" width="320"></a>
 
