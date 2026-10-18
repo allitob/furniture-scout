@@ -1,33 +1,34 @@
-Epal: 9458 products in catalog
-Snúran: 833 products in catalog
-Bland: 601 listings scanned
-Húsgagnahöllin: 89 matching products
+Epal: 9457 products in catalog
+Snúran: 831 products in catalog
+Bland: 594 listings scanned
+Húsgagnahöllin: 87 matching products
 Módern: 46 listings parsed from HTML
 Línan: 33 listings parsed from HTML
 ILVA: 88 listings parsed from HTML
 JYSK: 63 listings parsed from HTML
-[dining-table] 236 candidates within budget (from 11211 listings)
-[dining-table] Opened 78 listing pages for details
+[dining-table] 235 candidates within budget (from 11199 listings)
+[dining-table] Opened 79 listing pages for details
 [dining-table] 100 pass price/size filters
-[dining-table] Scored 0 listings with gpt-4o
+[dining-table] Scored 1 listings with gpt-4o
 [dining-table] Notify: 0 new strong matches
 Húsgagnahöllin: 50 matching products
-Módern: 74 listings parsed from HTML
+Módern: 78 listings parsed from HTML
 Línan: 32 listings parsed from HTML
 ILVA: 78 listings parsed from HTML
 JYSK: 120 listings parsed from HTML
-[dining-chair] 194 candidates within budget (from 11246 listings)
-[dining-chair] Opened 0 listing pages for details
+[dining-chair] 194 candidates within budget (from 11240 listings)
+[dining-chair] Opened 3 listing pages for details
 [dining-chair] 194 pass price/size filters
-[dining-chair] Scored 0 listings with gpt-4o
+[dining-chair] Scored 3 listings with gpt-4o
 [dining-chair] Notify: 0 new strong matches
-Húsgagnahöllin: 164 matching products
-Módern: 100 listings parsed from HTML
+Húsgagnahöllin: 162 matching products
+Módern: 103 listings parsed from HTML
 Línan: 34 listings parsed from HTML
 ILVA: 171 listings parsed from HTML
 JYSK: 125 listings parsed from HTML
-[sofa] 466 candidates within budget (from 11486 listings)
-[sofa] Opened 7 listing pages for details
-[sofa] 466 pass price/size filters
-[sofa] Scored 7 listings with gpt-4o
-[sofa] Notify: 0 new strong matches
+[sofa] 457 candidates within budget (from 11477 listings)
+[sofa] Opened 10 listing pages for details
+[sofa] 457 pass price/size filters
+[sofa] score failed for https://bland.is/til-solu/heimilid/stofa/sofa-ilva-140x230cm/5296634/: the JSON object must be str, bytes or bytearray, not NoneType
+[sofa] Scored 9 listings with gpt-4o
+[sofa] Notify: posted 2 new matches to issue #1

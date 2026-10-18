@@ -1,8 +1,19 @@
 # Sofas
 
-Updated 2026-10-17 11:46 UTC · 443 listings · 0 kr–400.000 kr
+Updated 2026-10-18 12:11 UTC · 434 listings · 0 kr–400.000 kr · 1 not scored yet
 
 [← all categories](../results.md)
+
+---
+
+**9/10** · **45.000 kr** · 🆕
+
+<a href="https://bland.is/til-solu/heimilid/stofa/soderhamn-sofi/5296622/"><img src="https://img.bland.is/album/img/188388/m/20261017185804_0.jpg" width="320"></a>
+
+[Söderhamn sófi](https://bland.is/til-solu/heimilid/stofa/soderhamn-sofi/5296622/)  
+<sub>Bland (notað)</sub>
+
+<sub>The candidate sofa features a light cream color with soft, simple lines, and deep seating with plush back cushions, matching the desired look.</sub>
 
 ---
 
@@ -102,17 +113,6 @@ Updated 2026-10-17 11:46 UTC · 443 listings · 0 kr–400.000 kr
 <sub>Snúran</sub>
 
 <sub>The candidate sofa matches well with its light greige color and soft woven fabric, featuring plush loose back cushions, rounded arms, clean lines, and a low, generous L-shape.</sub>
-
----
-
-**8/10** · **65.000 kr**
-
-<a href="https://bland.is/til-solu/heimilid/stofa/soderham-tungusofi/5296072/"><img src="https://img.bland.is/album/img/188388/m/20261015212244_0.jpg" width="320"></a>
-
-[Söderham tungusófi](https://bland.is/til-solu/heimilid/stofa/soderham-tungusofi/5296072/)  
-<sub>Bland (notað)</sub>
-
-<sub>The candidate sofa matches the color and material preferences, has a clean design with plush cushions and fits the L-shape requirement.</sub>
 
 ---
 
@@ -314,17 +314,6 @@ Updated 2026-10-17 11:46 UTC · 443 listings · 0 kr–400.000 kr
 
 ---
 
-**8/10** · **384.900 kr**
-
-<a href="https://modern.is/shop/husgogn/sofar-og-legubekkir/beinir-sofar/bib-sofi/"><img src="https://modern.is/wp-content/uploads/2025/08/Photoroom_20250819_014254-2-300x300.png" width="320"></a>
-
-[Bib sófi](https://modern.is/shop/husgogn/sofar-og-legubekkir/beinir-sofar/bib-sofi/)  
-<sub>Módern</sub>
-
-<sub>The candidate sofa has a similar off-white woven fabric, with soft rounded arms and clean simple lines, matching the desired aesthetic.</sub>
-
----
-
 **8/10** · **391.992 kr**
 
 <a href="https://husgagnahollin.is/vara/nelson-hornsofi-vinstri-hevre-beige-bb/"><img src="https://husgagnahollin.is/wp-content/uploads/2026/01/104835098002-Nelson-hornsofi-haegri-Hevre-beige-Bb-1-copy.webp" width="320"></a>
@@ -355,6 +344,17 @@ Updated 2026-10-17 11:46 UTC · 443 listings · 0 kr–400.000 kr
 <sub>ILVA</sub>
 
 <sub>The sofa matches the target style with its light greige fabric, generous L-shape, plush loose cushions, and simple design.</sub>
+
+---
+
+**7/10** · **20.000 kr** · 🆕
+
+<a href="https://bland.is/til-solu/heimilid/stofa/sofi/5296669/"><img src="https://img.bland.is/album/img/261473/m/20261017205045_0.jpg" width="320"></a>
+
+[Sófi](https://bland.is/til-solu/heimilid/stofa/sofi/5296669/)  
+<sub>Bland (notað)</sub>
+
+<sub>The candidate sofa has a woven fabric in a light greige tone, with a relaxed and deep design and soft rounded arms, but lacks the ideal corner or chaise configuration.</sub>
 
 ---
 

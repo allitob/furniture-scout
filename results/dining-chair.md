@@ -1,6 +1,6 @@
 # Dining chairs
 
-Updated 2026-10-17 11:46 UTC · 113 listings · 0 kr–50.000 kr per piece
+Updated 2026-10-18 12:11 UTC · 113 listings · 0 kr–50.000 kr per piece
 
 [← all categories](../results.md)
 
@@ -83,7 +83,7 @@ Updated 2026-10-17 11:46 UTC · 113 listings · 0 kr–50.000 kr per piece
 
 ---
 
-**7/10** · **9.995 kr** · uppselt
+**7/10** · **9.995 kr**
 
 <a href="https://jysk.is/stok-vara/THORUP-bordstofustoll-beige-eikarlitadir-faetur/?PathId=73bef239-beb3-4e8d-a05c-f0583025233d"><img src="https://jysk.is/library/Images/products/P009219.jpg?proc=366x366" width="320"></a>
 
@@ -468,7 +468,7 @@ Updated 2026-10-17 11:46 UTC · 113 listings · 0 kr–50.000 kr per piece
 
 ---
 
-**5/10** · **14.990 kr**
+**5/10** · **14.990 kr** · uppselt
 
 <a href="https://jysk.is/stok-vara/SOTTRUP-bordstofustoll-beige-svartur/?PathId=73bef239-beb3-4e8d-a05c-f0583025233d"><img src="https://jysk.is/library/Images/products/P011139.jpg?proc=366x366" width="320"></a>
 

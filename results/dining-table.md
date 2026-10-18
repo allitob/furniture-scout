@@ -1,6 +1,6 @@
 # Dining tables
 
-Updated 2026-10-17 11:46 UTC · 86 listings · 5.000 kr–400.000 kr
+Updated 2026-10-18 12:11 UTC · 86 listings · 5.000 kr–400.000 kr
 
 [← all categories](../results.md)
 
@@ -168,17 +168,6 @@ Updated 2026-10-17 11:46 UTC · 86 listings · 5.000 kr–400.000 kr
 <sub>Snúran · 155 cm</sub>
 
 <sub>The table features a slim top with rounded edges and tapered legs, fitting well with the mid-century Scandinavian aesthetic, though the lighter wood tone slightly differs from the typical warmer tones seen in the references.</sub>
-
----
-
-**7/10** · **372.499 kr**
-
-<a href="https://husgagnahollin.is/vara/skovby-bordstofubord-117-oliuborin-hnota/"><img src="https://husgagnahollin.is/wp-content/uploads/2021/01/Skovby-bordstofubord-117-oliuborin-hnota-SM117NO.jpg" width="320"></a>
-
-[Skovby borðstofuborð 117 olíuborin hnota](https://husgagnahollin.is/vara/skovby-bordstofubord-117-oliuborin-hnota/)  
-<sub>Húsgagnahöllin · size?</sub>
-
-<sub>The table's warm walnut tone, slim top with softly rounded corners, and simple wooden pedestal match the mid-century Scandinavian aesthetic, though the pedestal base slightly diverges from the more common tapered legs.</sub>
 
 ---
 
@@ -377,6 +366,17 @@ Updated 2026-10-17 11:46 UTC · 86 listings · 5.000 kr–400.000 kr
 <sub>JYSK · 160/200/220 cm</sub>
 
 <sub>The candidate table has a dark wood tone but features metal legs, which doesn't align with the mid-century Scandinavian aesthetic characterized by wooden legs.</sub>
+
+---
+
+**4/10** · **99.000 kr** · 🆕
+
+<a href="https://bland.is/til-solu/heimilid/stofa/dining-table-six-chairs/5296546/"><img src="https://img.bland.is/album/img/431871/m/20261017155635_0.jpg" width="320"></a>
+
+[Dining table  six chairs](https://bland.is/til-solu/heimilid/stofa/dining-table-six-chairs/5296546/)  
+<sub>Bland (notað) · size?</sub>
+
+<sub>The table has a solid wood top but with squared edges and metal cross legs, contrasting with the rounded, tapered legs and softer edges of the reference images.</sub>
 
 ---
 
