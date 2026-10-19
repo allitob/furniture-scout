@@ -1,6 +1,6 @@
 # Dining chairs
 
-Updated 2026-10-18 12:11 UTC · 113 listings · 0 kr–50.000 kr per piece
+Updated 2026-10-19 15:00 UTC · 112 listings · 0 kr–50.000 kr per piece
 
 [← all categories](../results.md)
 
@@ -545,17 +545,6 @@ Updated 2026-10-18 12:11 UTC · 113 listings · 0 kr–50.000 kr per piece
 
 ---
 
-**5/10** · **37.900 kr**
-
-<a href="https://modern.is/shop/husgogn/stolar/bordstofustolar/aava-stoll/"><img src="https://modern.is/wp-content/uploads/2020/08/Arper-Aava4leg-300x300.jpg" width="320"></a>
-
-[Aava stóll](https://modern.is/shop/husgogn/stolar/bordstofustolar/aava-stoll/)  
-<sub>Módern</sub>
-
-<sub>The candidate chair has a Scandinavian style but features plastic seat shells and metal legs, which don't align with the mid-century wood-only aesthetic and upholstered seat preference.</sub>
-
----
-
 **5/10** · **39.900 kr**
 
 <a href="https://www.ilva.is/stok-vara/?ProductName=NORRLAND-Bordstofustoll-svart-flettad-svartlakkadir-eikarfaetur&PathId=4a9ff5ae-c167-400e-b7dd-d6afc3779559"><img src="https://www.ilva.is/library/Images/Products/V007971.jpg?proc=366x366" width="320"></a>
@@ -663,5 +652,16 @@ Updated 2026-10-18 12:11 UTC · 113 listings · 0 kr–50.000 kr per piece
 <sub>JYSK</sub>
 
 <sub>The chair has metal legs and a boxy, fully upholstered design, which contrasts with the mid-century Scandinavian style and materials of the references.</sub>
+
+---
+
+**4/10** · **18.392 kr**
+
+<a href="https://jysk.is/stok-vara/MADS-bordstofustoll-graenn/?PathId=73bef239-beb3-4e8d-a05c-f0583025233d"><img src="https://jysk.is/library/Images/products/P012398.jpg?proc=366x366" width="320"></a>
+
+[MADS borðstofustóll grænn](https://jysk.is/stok-vara/MADS-bordstofustoll-graenn/?PathId=73bef239-beb3-4e8d-a05c-f0583025233d)  
+<sub>JYSK</sub>
+
+<sub>The chair has modern metal legs and a curved back, but lacks the wooden frame and mid-century Scandinavian design elements.</sub>
 
 ---

@@ -1,6 +1,6 @@
 # Dining tables
 
-Updated 2026-10-18 12:11 UTC · 86 listings · 5.000 kr–400.000 kr
+Updated 2026-10-19 15:00 UTC · 86 listings · 5.000 kr–400.000 kr
 
 [← all categories](../results.md)
 
@@ -281,7 +281,7 @@ Updated 2026-10-18 12:11 UTC · 86 listings · 5.000 kr–400.000 kr
 
 ---
 
-**5/10** · **18.990 kr** · uppselt
+**5/10** · **18.990 kr**
 
 <a href="https://jysk.is/stok-vara/ALLING-bordstofubord-80x100-163-cm-eikarlitad/?PathId=68136a40-8cc3-4036-8232-832bbcbd4a46"><img src="https://jysk.is/library/Images/products/P009218.jpg?proc=366x366" width="320"></a>
 
@@ -369,7 +369,7 @@ Updated 2026-10-18 12:11 UTC · 86 listings · 5.000 kr–400.000 kr
 
 ---
 
-**4/10** · **99.000 kr** · 🆕
+**4/10** · **99.000 kr**
 
 <a href="https://bland.is/til-solu/heimilid/stofa/dining-table-six-chairs/5296546/"><img src="https://img.bland.is/album/img/431871/m/20261017155635_0.jpg" width="320"></a>
 

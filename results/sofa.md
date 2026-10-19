@@ -1,19 +1,8 @@
 # Sofas
 
-Updated 2026-10-18 12:11 UTC · 434 listings · 0 kr–400.000 kr · 1 not scored yet
+Updated 2026-10-19 15:00 UTC · 445 listings · 0 kr–400.000 kr
 
 [← all categories](../results.md)
-
----
-
-**9/10** · **45.000 kr** · 🆕
-
-<a href="https://bland.is/til-solu/heimilid/stofa/soderhamn-sofi/5296622/"><img src="https://img.bland.is/album/img/188388/m/20261017185804_0.jpg" width="320"></a>
-
-[Söderhamn sófi](https://bland.is/til-solu/heimilid/stofa/soderhamn-sofi/5296622/)  
-<sub>Bland (notað)</sub>
-
-<sub>The candidate sofa features a light cream color with soft, simple lines, and deep seating with plush back cushions, matching the desired look.</sub>
 
 ---
 
@@ -28,7 +17,7 @@ Updated 2026-10-18 12:11 UTC · 434 listings · 0 kr–400.000 kr · 1 not score
 
 ---
 
-**9/10** · **199.890 kr** · uppselt
+**9/10** · **199.890 kr**
 
 <a href="https://jysk.is/stok-vara/LYBY-tungusofi-sand/?PathId=daa6be5b-5fc6-4c03-a44a-6267f53d68a8"><img src="https://jysk.is/library/Images/products/P009394XXX.jpg?proc=366x366" width="320"></a>
 
@@ -314,6 +303,17 @@ Updated 2026-10-18 12:11 UTC · 434 listings · 0 kr–400.000 kr · 1 not score
 
 ---
 
+**8/10** · **384.900 kr**
+
+<a href="https://modern.is/shop/husgogn/sofar-og-legubekkir/beinir-sofar/bib-sofi/"><img src="https://modern.is/wp-content/uploads/2025/08/Photoroom_20250819_014254-2-300x300.png" width="320"></a>
+
+[Bib sófi](https://modern.is/shop/husgogn/sofar-og-legubekkir/beinir-sofar/bib-sofi/)  
+<sub>Módern</sub>
+
+<sub>The candidate sofa has a similar off-white woven fabric, with soft rounded arms and clean simple lines, matching the desired aesthetic.</sub>
+
+---
+
 **8/10** · **391.992 kr**
 
 <a href="https://husgagnahollin.is/vara/nelson-hornsofi-vinstri-hevre-beige-bb/"><img src="https://husgagnahollin.is/wp-content/uploads/2026/01/104835098002-Nelson-hornsofi-haegri-Hevre-beige-Bb-1-copy.webp" width="320"></a>
@@ -347,7 +347,7 @@ Updated 2026-10-18 12:11 UTC · 434 listings · 0 kr–400.000 kr · 1 not score
 
 ---
 
-**7/10** · **20.000 kr** · 🆕
+**7/10** · **20.000 kr**
 
 <a href="https://bland.is/til-solu/heimilid/stofa/sofi/5296669/"><img src="https://img.bland.is/album/img/261473/m/20261017205045_0.jpg" width="320"></a>
 
