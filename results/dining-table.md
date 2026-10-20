@@ -1,6 +1,6 @@
 # Dining tables
 
-Updated 2026-10-19 15:00 UTC · 86 listings · 5.000 kr–400.000 kr
+Updated 2026-10-20 13:02 UTC · 87 listings · 5.000 kr–400.000 kr
 
 [← all categories](../results.md)
 
@@ -611,6 +611,17 @@ Updated 2026-10-19 15:00 UTC · 86 listings · 5.000 kr–400.000 kr
 
 ---
 
+**3/10** · **60.000 kr** · 🆕
+
+<a href="https://bland.is/til-solu/heimilid/stofa/bordstofubord/5297317/"><img src="https://img.bland.is/album/img/144770/m/20261020104738_0.jpg" width="320"></a>
+
+[Borðstofuborð](https://bland.is/til-solu/heimilid/stofa/bordstofubord/5297317/)  
+<sub>Bland (notað) · 175 cm</sub>
+
+<sub>The table lacks the mid-century Scandinavian elements like tapered legs or rounded edges; it's too blocky and plain.</sub>
+
+---
+
 **3/10** · **74.990 kr**
 
 <a href="https://jysk.is/stok-vara/SKOVLUNDE-bordstofubord-90x160-cm-ljos-eik/?PathId=68136a40-8cc3-4036-8232-832bbcbd4a46"><img src="https://jysk.is/library/Images/products/P002382.jpg?proc=366x366" width="320"></a>
@@ -652,16 +663,5 @@ Updated 2026-10-19 15:00 UTC · 86 listings · 5.000 kr–400.000 kr
 <sub>ILVA · 120/217 cm</sub>
 
 <sub>The table has a contemporary look with a white top and light wood legs, which does not align well with the warm wood tones and mid-century style of the references.</sub>
-
----
-
-**3/10** · **119.900 kr**
-
-<a href="https://www.ilva.is/stok-vara/?ProductName=SINGLE-Bordstofubord-180-277x90cm-hvitt-svart&PathId=5b0acb86-6b83-45af-afce-1190f3c19f81"><img src="https://www.ilva.is/library/Images/Products/V003023.jpg?proc=366x366" width="320"></a>
-
-[SINGLE Borðstofuborð 180/277x90cm hvítt/svart](https://www.ilva.is/stok-vara/?ProductName=SINGLE-Bordstofubord-180-277x90cm-hvitt-svart&PathId=5b0acb86-6b83-45af-afce-1190f3c19f81)  
-<sub>ILVA · 180/277 cm</sub>
-
-<sub>The table has a high contrast design and a laminate top, diverging from the warm wood and mid-century style of the references.</sub>
 
 ---
