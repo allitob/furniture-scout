@@ -1,6 +1,6 @@
 # Dining chairs
 
-Updated 2026-10-20 13:02 UTC · 108 listings · 0 kr–50.000 kr per piece
+Updated 2026-10-21 13:15 UTC · 109 listings · 0 kr–50.000 kr per piece
 
 [← all categories](../results.md)
 
@@ -47,6 +47,17 @@ Updated 2026-10-20 13:02 UTC · 108 listings · 0 kr–50.000 kr per piece
 <sub>JYSK</sub>
 
 <sub>The chair has a solid wood frame with slim, tapered legs and a curved backrest. It features a light upholstered seat, matching the mid-century Scandinavian aesthetic.</sub>
+
+---
+
+**8/10** · **15.000 kr**
+
+<a href="https://bland.is/til-solu/heimilid/stofa/tekk-stolar-x4/5295675/"><img src="https://img.bland.is/album/img/325747/m/20261014175152_0.jpg" width="320"></a>
+
+[Tekk stólar x4](https://bland.is/til-solu/heimilid/stofa/tekk-stolar-x4/5295675/)  
+<sub>Bland (notað)</sub>
+
+<sub>The candidate chairs have slim round tapered legs, a curved wooden backrest, and an upholstered seat, aligning well with the mid-century Scandinavian aesthetic.</sub>
 
 ---
 
@@ -652,16 +663,5 @@ Updated 2026-10-20 13:02 UTC · 108 listings · 0 kr–50.000 kr per piece
 <sub>ILVA</sub>
 
 <sub>The chair has metal legs and an overall modern industrial look, which deviates from the warm wood and mid-century Scandinavian design criteria.</sub>
-
----
-
-**4/10** · **19.992 kr**
-
-<a href="https://jysk.is/stok-vara/LARVIK-bordstofustoll-stal-taupe/?PathId=73bef239-beb3-4e8d-a05c-f0583025233d"><img src="https://jysk.is/library/Images/products/P012350.jpg?proc=366x366" width="320"></a>
-
-[LARVIK borðstofustóll stál/taupe](https://jysk.is/stok-vara/LARVIK-bordstofustoll-stal-taupe/?PathId=73bef239-beb3-4e8d-a05c-f0583025233d)  
-<sub>JYSK</sub>
-
-<sub>The candidate chair has metal legs and a seat that doesn't match the light cream textured fabric requirement, deviating from the mid-century wood aesthetic.</sub>
 
 ---

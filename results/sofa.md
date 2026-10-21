@@ -1,6 +1,6 @@
 # Sofas
 
-Updated 2026-10-20 13:02 UTC · 423 listings · 0 kr–400.000 kr
+Updated 2026-10-21 13:15 UTC · 421 listings · 0 kr–400.000 kr
 
 [← all categories](../results.md)
 
@@ -102,6 +102,17 @@ Updated 2026-10-20 13:02 UTC · 423 listings · 0 kr–400.000 kr
 <sub>Húsgagnahöllin</sub>
 
 <sub>The candidate sofa has a light warm greige tone, soft fabric, and plush loose back cushions fitting the desired aesthetic.</sub>
+
+---
+
+**8/10** · **no price <sub>free or offer — check</sub>** · 🆕
+
+<a href="https://bland.is/til-solu/heimilid/stofa/sofi-grar-stor/5297483/"><img src="https://img.bland.is/album/img/280686/m/20261020192320_0.jpg" width="320"></a>
+
+[Sófi - grár -stór](https://bland.is/til-solu/heimilid/stofa/sofi-grar-stor/5297483/)  
+<sub>Bland (notað)</sub>
+
+<sub>The sofa matches the desired color and fabric type with its light greige tone and woven texture, and it features a relaxed L-shape with simple lines, fitting well with the reference aesthetic.</sub>
 
 ---
 
@@ -545,6 +556,17 @@ Updated 2026-10-20 13:02 UTC · 423 listings · 0 kr–400.000 kr
 
 ---
 
+**7/10** · **299.990 kr** · 🆕 · uppselt
+
+<a href="https://jysk.is/stok-vara/RJUKAN-4-saeta-sofi-260x99x84-cm-beige/?PathId=f6d7172e-17b7-451c-bff9-8ef08a1d4c2a"><img src="https://jysk.is/library/Images/products/P012329.jpg?proc=366x366" width="320"></a>
+
+[RJUKAN 4 sæta sófi 260x99x84 cm beige](https://jysk.is/stok-vara/RJUKAN-4-saeta-sofi-260x99x84-cm-beige/?PathId=f6d7172e-17b7-451c-bff9-8ef08a1d4c2a)  
+<sub>JYSK</sub>
+
+<sub>The sofa matches in color and fabric, but lacks loose back cushions and a corner/chaise layout.</sub>
+
+---
+
 **7/10** · **309.990 kr**
 
 <a href="https://husgagnahollin.is/vara/nelson-sofi-35s-hevre-ljos-beige-bb/"><img src="https://husgagnahollin.is/wp-content/uploads/2025/05/Nelson-sofi-35s-Hevre-ljos-beige-Bb-104863098002.webp" width="320"></a>
@@ -641,27 +663,5 @@ Updated 2026-10-20 13:02 UTC · 423 listings · 0 kr–400.000 kr
 <sub>Húsgagnahöllin</sub>
 
 <sub>The sofa has a light greige color and simple lines that match the desired aesthetic, but the visible metal legs and firm-looking back cushions slightly detract from the relaxed look.</sub>
-
----
-
-**7/10** · **389.990 kr**
-
-<a href="https://husgagnahollin.is/vara/friday-u-sofi-m-tungu-vinstri-mito-desert-sb/"><img src="https://husgagnahollin.is/wp-content/uploads/2024/06/Friday-u-sofi-mtungu-vinstri-Mito-Desert-Sb-123115429706.webp" width="320"></a>
-
-[Friday u-sófi m/tungu vinstri Mito Desert Sb](https://husgagnahollin.is/vara/friday-u-sofi-m-tungu-vinstri-mito-desert-sb/)  
-<sub>Húsgagnahöllin</sub>
-
-<sub>The sofa has a light neutral color and woven fabric, matching relaxed L-shaped style. However, the base is fully visible and not wooden, slightly detracting from the ideal match.</sub>
-
----
-
-**6/10** · **25.000 kr**
-
-<a href="https://bland.is/til-solu/heimilid/stofa/fallegur-sofi-til-solu/5295334/"><img src="https://img.bland.is/album/img/15564/m/20261013171157_0.jpg" width="320"></a>
-
-[Fallegur sófi til sölu](https://bland.is/til-solu/heimilid/stofa/fallegur-sofi-til-solu/5295334/)  
-<sub>Bland (notað)</sub>
-
-<sub>Matches in color and material but lacks the L-shape and deep, relaxed form.</sub>
 
 ---
