@@ -1,6 +1,6 @@
 # Dining tables
 
-Updated 2026-10-22 13:13 UTC · 88 listings · 5.000 kr–400.000 kr
+Updated 2026-10-23 12:52 UTC · 87 listings · 5.000 kr–400.000 kr
 
 [← all categories](../results.md)
 
@@ -105,7 +105,7 @@ Updated 2026-10-22 13:13 UTC · 88 listings · 5.000 kr–400.000 kr
 
 ---
 
-**7/10** · **159.990 kr** · uppselt
+**7/10** · **149.993 kr <sub>was 159.990 kr</sub>** · uppselt
 
 <a href="https://jysk.is/stok-vara/OREBRO-bordstofubord-o120-120x160-200-H75-cm-eikaraferd/?PathId=68136a40-8cc3-4036-8232-832bbcbd4a46"><img src="https://jysk.is/library/Images/products/P008212.jpg?proc=366x366" width="320"></a>
 
@@ -303,6 +303,17 @@ Updated 2026-10-22 13:13 UTC · 88 listings · 5.000 kr–400.000 kr
 
 ---
 
+**5/10** · **97.493 kr <sub>was 129.990 kr</sub>**
+
+<a href="https://jysk.is/stok-vara/LYNGVIG-bordstofubord-95x180-260-cm-eik/?PathId=68136a40-8cc3-4036-8232-832bbcbd4a46"><img src="https://jysk.is/library/Images/products/P012987.jpg?proc=366x366" width="320"></a>
+
+[LYNGVIG borðstofuborð 95x180/260 cm eik](https://jysk.is/stok-vara/LYNGVIG-bordstofubord-95x180-260-cm-eik/?PathId=68136a40-8cc3-4036-8232-832bbcbd4a46)  
+<sub>JYSK · 180/200/220 cm</sub>
+
+<sub>The table has a solid wood look with rounded edges but uses a pedestal base which deviates from the mid-century Scandinavian style's tapered legs.</sub>
+
+---
+
 **5/10** · **129.900 kr**
 
 <a href="https://www.ilva.is/stok-vara/?ProductName=SESSIA-Bordstofubord-180x95x75cm-mattlakkadur-eikarsponn&PathId=5b0acb86-6b83-45af-afce-1190f3c19f81"><img src="https://www.ilva.is/library/Images/Products/V014195.jpg?proc=366x366" width="320"></a>
@@ -311,17 +322,6 @@ Updated 2026-10-22 13:13 UTC · 88 listings · 5.000 kr–400.000 kr
 <sub>ILVA · 180 cm</sub>
 
 <sub>The table has a warm wood tone and a slim top with rounded edges, but the boxy leg design is not aligned with the mid-century Scandinavian aesthetic of tapered or splayed legs.</sub>
-
----
-
-**5/10** · **129.990 kr**
-
-<a href="https://jysk.is/stok-vara/LYNGVIG-bordstofubord-95x180-260-cm-eik/?PathId=68136a40-8cc3-4036-8232-832bbcbd4a46"><img src="https://jysk.is/library/Images/products/P012987.jpg?proc=366x366" width="320"></a>
-
-[LYNGVIG borðstofuborð 95x180/260 cm eik](https://jysk.is/stok-vara/LYNGVIG-bordstofubord-95x180-260-cm-eik/?PathId=68136a40-8cc3-4036-8232-832bbcbd4a46)  
-<sub>JYSK · 180/200/220 cm</sub>
-
-<sub>The table has a solid wood look with rounded edges but uses a pedestal base which deviates from the mid-century Scandinavian style's tapered legs.</sub>
 
 ---
 
@@ -347,7 +347,7 @@ Updated 2026-10-22 13:13 UTC · 88 listings · 5.000 kr–400.000 kr
 
 ---
 
-**4/10** · **22.990 kr**
+**4/10** · **22.493 kr <sub>was 22.990 kr</sub>**
 
 <a href="https://jysk.is/stok-vara/JEGIND-bordstofubord-80x130-cm-eik-svart/?PathId=68136a40-8cc3-4036-8232-832bbcbd4a46"><img src="https://jysk.is/library/Images/products/P007358.jpg?proc=366x366" width="320"></a>
 
@@ -358,7 +358,7 @@ Updated 2026-10-22 13:13 UTC · 88 listings · 5.000 kr–400.000 kr
 
 ---
 
-**4/10** · **35.000 kr** · 🆕
+**4/10** · **35.000 kr**
 
 <a href="https://bland.is/til-solu/heimilid/stofa/bordstofubord-og-4-stolar-frammlengingar/5282631/"><img src="https://img.bland.is/album/img/422523/m/20260830114255_0.jpg" width="320"></a>
 
@@ -369,7 +369,7 @@ Updated 2026-10-22 13:13 UTC · 88 listings · 5.000 kr–400.000 kr
 
 ---
 
-**4/10** · **60.000 kr** · 🆕
+**4/10** · **60.000 kr**
 
 <a href="https://bland.is/til-solu/heimilid/stofa/morbylanga-bordstofubord/5297763/"><img src="https://img.bland.is/album/img/254856/m/20261021180105_0.jpg" width="320"></a>
 
@@ -380,7 +380,7 @@ Updated 2026-10-22 13:13 UTC · 88 listings · 5.000 kr–400.000 kr
 
 ---
 
-**4/10** · **74.990 kr**
+**4/10** · **71.243 kr <sub>was 74.990 kr</sub>**
 
 <a href="https://jysk.is/stok-vara/SKOVLUNDE-bordstofubord-90x160-cm-dokk-eik/?PathId=68136a40-8cc3-4036-8232-832bbcbd4a46"><img src="https://jysk.is/library/Images/products/P002317.jpg?proc=366x366" width="320"></a>
 
@@ -388,6 +388,17 @@ Updated 2026-10-22 13:13 UTC · 88 listings · 5.000 kr–400.000 kr
 <sub>JYSK · 160/200/220 cm</sub>
 
 <sub>The candidate table has a dark wood tone but features metal legs, which doesn't align with the mid-century Scandinavian aesthetic characterized by wooden legs.</sub>
+
+---
+
+**4/10** · **97.493 kr <sub>was 129.990 kr</sub>**
+
+<a href="https://jysk.is/stok-vara/LYNGVIG-bordstofubord-95x180-260-cm-dokk-eik/?PathId=68136a40-8cc3-4036-8232-832bbcbd4a46"><img src="https://jysk.is/library/Images/products/P012986.jpg?proc=366x366" width="320"></a>
+
+[LYNGVIG borðstofuborð 95x180/260 cm dökk eik](https://jysk.is/stok-vara/LYNGVIG-bordstofubord-95x180-260-cm-dokk-eik/?PathId=68136a40-8cc3-4036-8232-832bbcbd4a46)  
+<sub>JYSK · 180/200/220 cm</sub>
+
+<sub>The table has a sleek design with softly rounded edges, but its pedestal legs and dark, even finish deviate from the mid-century Scandinavian aesthetic.</sub>
 
 ---
 
@@ -424,17 +435,6 @@ Updated 2026-10-22 13:13 UTC · 88 listings · 5.000 kr–400.000 kr
 
 ---
 
-**4/10** · **129.990 kr**
-
-<a href="https://jysk.is/stok-vara/LYNGVIG-bordstofubord-95x180-260-cm-dokk-eik/?PathId=68136a40-8cc3-4036-8232-832bbcbd4a46"><img src="https://jysk.is/library/Images/products/P012986.jpg?proc=366x366" width="320"></a>
-
-[LYNGVIG borðstofuborð 95x180/260 cm dökk eik](https://jysk.is/stok-vara/LYNGVIG-bordstofubord-95x180-260-cm-dokk-eik/?PathId=68136a40-8cc3-4036-8232-832bbcbd4a46)  
-<sub>JYSK · 180/200/220 cm</sub>
-
-<sub>The table has a sleek design with softly rounded edges, but its pedestal legs and dark, even finish deviate from the mid-century Scandinavian aesthetic.</sub>
-
----
-
 **4/10** · **139.900 kr** · uppselt
 
 <a href="https://www.ilva.is/stok-vara/?ProductName=LANDHOLM-Bordstofubord-180x95cm-reyklitadur-eikarsponn&PathId=5b0acb86-6b83-45af-afce-1190f3c19f81"><img src="https://www.ilva.is/library/Images/Products/V010238.jpg?proc=366x366" width="320"></a>
@@ -457,7 +457,7 @@ Updated 2026-10-22 13:13 UTC · 88 listings · 5.000 kr–400.000 kr
 
 ---
 
-**4/10** · **149.990 kr** · uppselt
+**4/10** · **149.990 kr**
 
 <a href="https://jysk.is/stok-vara/GRIBSKOV-bordstofubord-100x180-cm-eik/?PathId=68136a40-8cc3-4036-8232-832bbcbd4a46"><img src="https://jysk.is/library/Images/products/P007353.jpg?proc=366x366" width="320"></a>
 
@@ -479,7 +479,7 @@ Updated 2026-10-22 13:13 UTC · 88 listings · 5.000 kr–400.000 kr
 
 ---
 
-**4/10** · **199.990 kr**
+**4/10** · **199.990 kr** · uppselt
 
 <a href="https://jysk.is/stok-vara/OREBRO-bordstofubord-o120-120x160-200-H75-cm-svart/?PathId=68136a40-8cc3-4036-8232-832bbcbd4a46"><img src="https://jysk.is/library/Images/products/P010726.jpg?proc=366x366" width="320"></a>
 
@@ -567,7 +567,7 @@ Updated 2026-10-22 13:13 UTC · 88 listings · 5.000 kr–400.000 kr
 
 ---
 
-**3/10** · **23.992 kr**
+**3/10** · **22.493 kr <sub>was 23.992 kr</sub>**
 
 <a href="https://jysk.is/stok-vara/AABENRAA-bord-80x120-cm-eik-svart-3/?PathId=68136a40-8cc3-4036-8232-832bbcbd4a46"><img src="https://jysk.is/library/Images/products/P002111.jpg?proc=366x366" width="320"></a>
 
@@ -600,7 +600,7 @@ Updated 2026-10-22 13:13 UTC · 88 listings · 5.000 kr–400.000 kr
 
 ---
 
-**3/10** · **39.990 kr**
+**3/10** · **37.493 kr <sub>was 39.990 kr</sub>**
 
 <a href="https://jysk.is/stok-vara/ALSTED-bordstofubord-90x160-cm-dokk-eikarlitad/?PathId=68136a40-8cc3-4036-8232-832bbcbd4a46"><img src="https://jysk.is/library/Images/products/P012995.jpg?proc=366x366" width="320"></a>
 
@@ -644,7 +644,7 @@ Updated 2026-10-22 13:13 UTC · 88 listings · 5.000 kr–400.000 kr
 
 ---
 
-**3/10** · **74.990 kr**
+**3/10** · **71.243 kr <sub>was 74.990 kr</sub>**
 
 <a href="https://jysk.is/stok-vara/SKOVLUNDE-bordstofubord-90x160-cm-ljos-eik/?PathId=68136a40-8cc3-4036-8232-832bbcbd4a46"><img src="https://jysk.is/library/Images/products/P002382.jpg?proc=366x366" width="320"></a>
 

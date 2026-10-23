@@ -1,6 +1,6 @@
 # Sofas
 
-Updated 2026-10-22 13:13 UTC · 413 listings · 0 kr–400.000 kr
+Updated 2026-10-23 12:52 UTC · 420 listings · 0 kr–400.000 kr
 
 [← all categories](../results.md)
 
@@ -336,7 +336,18 @@ Updated 2026-10-22 13:13 UTC · 413 listings · 0 kr–400.000 kr
 
 ---
 
-**7/10** · **69.990 kr**
+**7/10** · **30.000 kr** · 🆕
+
+<a href="https://bland.is/til-solu/heimilid/stofa/tungusofi/5298146/"><img src="https://img.bland.is/album/img/373411/m/20261022223420_0.jpg" width="320"></a>
+
+[Tungusófi](https://bland.is/til-solu/heimilid/stofa/tungusofi/5298146/)  
+<sub>Bland (notað)</sub>
+
+<sub>The sofa has a light greige woven fabric and clean lines, matching the relaxed and deep style, but the cushions and arm design are less plush and rounded.</sub>
+
+---
+
+**7/10** · **67.493 kr <sub>was 69.990 kr</sub>**
 
 <a href="https://jysk.is/stok-vara/SKEJBY-sofaeining-haegri-tungu-endi-m-bak-sand/?PathId=daa6be5b-5fc6-4c03-a44a-6267f53d68a8"><img src="https://jysk.is/library/Images/products/P011031.jpg?proc=366x366" width="320"></a>
 
@@ -347,7 +358,7 @@ Updated 2026-10-22 13:13 UTC · 413 listings · 0 kr–400.000 kr
 
 ---
 
-**7/10** · **84.990 kr**
+**7/10** · **82.493 kr <sub>was 84.990 kr</sub>**
 
 <a href="https://jysk.is/stok-vara/SKEJBY-sofi-2ja-saeta-sand/?PathId=f6d7172e-17b7-451c-bff9-8ef08a1d4c2a"><img src="https://jysk.is/library/Images/products/P009241.jpg?proc=366x366" width="320"></a>
 
@@ -358,7 +369,7 @@ Updated 2026-10-22 13:13 UTC · 413 listings · 0 kr–400.000 kr
 
 ---
 
-**7/10** · **94.990 kr**
+**7/10** · **89.993 kr <sub>was 94.990 kr</sub>**
 
 <a href="https://jysk.is/stok-vara/LYBY-sofi-2ja-saeta-sand/?PathId=f6d7172e-17b7-451c-bff9-8ef08a1d4c2a"><img src="https://jysk.is/library/Images/products/P009392.jpg?proc=366x366" width="320"></a>
 
@@ -652,16 +663,5 @@ Updated 2026-10-22 13:13 UTC · 413 listings · 0 kr–400.000 kr
 <sub>Húsgagnahöllin</sub>
 
 <sub>The sofa has a light greige color and simple lines that match the desired aesthetic, but the visible metal legs and firm-looking back cushions slightly detract from the relaxed look.</sub>
-
----
-
-**7/10** · **389.990 kr**
-
-<a href="https://husgagnahollin.is/vara/friday-u-sofi-m-tungu-vinstri-mito-desert-sb/"><img src="https://husgagnahollin.is/wp-content/uploads/2024/06/Friday-u-sofi-mtungu-vinstri-Mito-Desert-Sb-123115429706.webp" width="320"></a>
-
-[Friday u-sófi m/tungu vinstri Mito Desert Sb](https://husgagnahollin.is/vara/friday-u-sofi-m-tungu-vinstri-mito-desert-sb/)  
-<sub>Húsgagnahöllin</sub>
-
-<sub>The sofa has a light neutral color and woven fabric, matching relaxed L-shaped style. However, the base is fully visible and not wooden, slightly detracting from the ideal match.</sub>
 
 ---
