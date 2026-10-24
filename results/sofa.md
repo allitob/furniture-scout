@@ -1,6 +1,6 @@
 # Sofas
 
-Updated 2026-10-23 12:52 UTC · 420 listings · 0 kr–400.000 kr
+Updated 2026-10-24 12:15 UTC · 422 listings · 0 kr–400.000 kr
 
 [← all categories](../results.md)
 
@@ -105,14 +105,14 @@ Updated 2026-10-23 12:52 UTC · 420 listings · 0 kr–400.000 kr
 
 ---
 
-**8/10** · **no price <sub>free or offer — check</sub>**
+**9/10** · **359.990 kr** · 🆕
 
-<a href="https://bland.is/til-solu/heimilid/stofa/sofi-grar-stor/5297483/"><img src="https://img.bland.is/album/img/280686/m/20261020192320_0.jpg" width="320"></a>
+<a href="https://husgagnahollin.is/vara/enjoy-hornsofi-haegri-mito-01-sand/"><img src="https://husgagnahollin.is/wp-content/uploads/2024/09/Enjoy-hornsofi-haegri-Mito-01-Sand-KSO018651.webp" width="320"></a>
 
-[Sófi - grár -stór](https://bland.is/til-solu/heimilid/stofa/sofi-grar-stor/5297483/)  
-<sub>Bland (notað)</sub>
+[Enjoy hornsófi hægri Mito 01 Sand](https://husgagnahollin.is/vara/enjoy-hornsofi-haegri-mito-01-sand/)  
+<sub>Húsgagnahöllin</sub>
 
-<sub>The sofa matches the desired color and fabric type with its light greige tone and woven texture, and it features a relaxed L-shape with simple lines, fitting well with the reference aesthetic.</sub>
+<sub>The sofa matches the aesthetic with its light cream color, soft woven fabric, relaxed and deep design, and clean lines, fitting the reference images.</sub>
 
 ---
 
@@ -336,7 +336,7 @@ Updated 2026-10-23 12:52 UTC · 420 listings · 0 kr–400.000 kr
 
 ---
 
-**7/10** · **30.000 kr** · 🆕
+**7/10** · **20.000 kr <sub>was 30.000 kr</sub>**
 
 <a href="https://bland.is/til-solu/heimilid/stofa/tungusofi/5298146/"><img src="https://img.bland.is/album/img/373411/m/20261022223420_0.jpg" width="320"></a>
 
@@ -347,7 +347,7 @@ Updated 2026-10-23 12:52 UTC · 420 listings · 0 kr–400.000 kr
 
 ---
 
-**7/10** · **67.493 kr <sub>was 69.990 kr</sub>**
+**7/10** · **69.990 kr**
 
 <a href="https://jysk.is/stok-vara/SKEJBY-sofaeining-haegri-tungu-endi-m-bak-sand/?PathId=daa6be5b-5fc6-4c03-a44a-6267f53d68a8"><img src="https://jysk.is/library/Images/products/P011031.jpg?proc=366x366" width="320"></a>
 
@@ -358,7 +358,7 @@ Updated 2026-10-23 12:52 UTC · 420 listings · 0 kr–400.000 kr
 
 ---
 
-**7/10** · **82.493 kr <sub>was 84.990 kr</sub>**
+**7/10** · **84.990 kr**
 
 <a href="https://jysk.is/stok-vara/SKEJBY-sofi-2ja-saeta-sand/?PathId=f6d7172e-17b7-451c-bff9-8ef08a1d4c2a"><img src="https://jysk.is/library/Images/products/P009241.jpg?proc=366x366" width="320"></a>
 
@@ -369,7 +369,7 @@ Updated 2026-10-23 12:52 UTC · 420 listings · 0 kr–400.000 kr
 
 ---
 
-**7/10** · **89.993 kr <sub>was 94.990 kr</sub>**
+**7/10** · **94.990 kr**
 
 <a href="https://jysk.is/stok-vara/LYBY-sofi-2ja-saeta-sand/?PathId=f6d7172e-17b7-451c-bff9-8ef08a1d4c2a"><img src="https://jysk.is/library/Images/products/P009392.jpg?proc=366x366" width="320"></a>
 
