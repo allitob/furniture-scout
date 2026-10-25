@@ -1,6 +1,6 @@
 # Sofas
 
-Updated 2026-10-24 12:15 UTC · 422 listings · 0 kr–400.000 kr
+Updated 2026-10-25 12:47 UTC · 419 listings · 0 kr–400.000 kr
 
 [← all categories](../results.md)
 
@@ -105,7 +105,7 @@ Updated 2026-10-24 12:15 UTC · 422 listings · 0 kr–400.000 kr
 
 ---
 
-**9/10** · **359.990 kr** · 🆕
+**9/10** · **359.990 kr**
 
 <a href="https://husgagnahollin.is/vara/enjoy-hornsofi-haegri-mito-01-sand/"><img src="https://husgagnahollin.is/wp-content/uploads/2024/09/Enjoy-hornsofi-haegri-Mito-01-Sand-KSO018651.webp" width="320"></a>
 
@@ -468,7 +468,7 @@ Updated 2026-10-24 12:15 UTC · 422 listings · 0 kr–400.000 kr
 
 ---
 
-**7/10** · **259.900 kr**
+**7/10** · **259.900 kr** · uppselt
 
 <a href="https://www.ilva.is/stok-vara/?ProductName=CLEVELAND-Horntungusofi-vinstri-tunga-sandlitadur-2&PathId=1fc7d092-ce9e-11ef-81b7-8f3b82297126"><img src="https://www.ilva.is/library/Images/Products/V014288.jpg?proc=366x366" width="320"></a>
 

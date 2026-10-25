@@ -1,6 +1,6 @@
 # Dining chairs
 
-Updated 2026-10-24 12:15 UTC · 112 listings · 0 kr–50.000 kr per piece
+Updated 2026-10-25 12:47 UTC · 113 listings · 0 kr–50.000 kr per piece
 
 [← all categories](../results.md)
 
@@ -149,7 +149,7 @@ Updated 2026-10-24 12:15 UTC · 112 listings · 0 kr–50.000 kr per piece
 
 ---
 
-**7/10** · **39.900 kr** · 🆕
+**7/10** · **39.900 kr**
 
 <a href="https://www.ilva.is/stok-vara/?ProductName=ADLER-Bordstofustoll-brunn-reyklitadir-eikarfaetur&PathId=4a9ff5ae-c167-400e-b7dd-d6afc3779559"><img src="https://www.ilva.is/library/Images/Products/V013327.jpg?proc=366x366" width="320"></a>
 
