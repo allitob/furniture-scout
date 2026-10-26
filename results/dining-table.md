@@ -1,6 +1,6 @@
 # Dining tables
 
-Updated 2026-10-25 12:47 UTC · 88 listings · 5.000 kr–400.000 kr
+Updated 2026-10-26 14:35 UTC · 88 listings · 5.000 kr–400.000 kr
 
 [← all categories](../results.md)
 
@@ -94,7 +94,7 @@ Updated 2026-10-25 12:47 UTC · 88 listings · 5.000 kr–400.000 kr
 
 ---
 
-**7/10** · **40.000 kr** · 🆕
+**7/10** · **40.000 kr**
 
 <a href="https://bland.is/til-solu/heimilid/eldhus-og-badherbergi/morbylanga-bord-fra-ikea/5298587/"><img src="https://img.bland.is/album/img/90200/m/20261024142719_0.jpg" width="320"></a>
 
@@ -578,6 +578,17 @@ Updated 2026-10-25 12:47 UTC · 88 listings · 5.000 kr–400.000 kr
 
 ---
 
+**3/10** · **19.000 kr** · 🆕
+
+<a href="https://bland.is/til-solu/heimilid/stofa/bord-og-stolar/5298914/"><img src="https://img.bland.is/album/img/68409/m/20261025143823_0.jpg" width="320"></a>
+
+[Borð og stólar](https://bland.is/til-solu/heimilid/stofa/bord-og-stolar/5298914/)  
+<sub>Bland (notað) · size?</sub>
+
+<sub>The white pedestal base and round top do not match the warm wood mid-century Scandinavian style.</sub>
+
+---
+
 **3/10** · **23.992 kr**
 
 <a href="https://jysk.is/stok-vara/AABENRAA-bord-80x120-cm-eik-svart-3/?PathId=68136a40-8cc3-4036-8232-832bbcbd4a46"><img src="https://jysk.is/library/Images/products/P002111.jpg?proc=366x366" width="320"></a>
@@ -619,17 +630,6 @@ Updated 2026-10-25 12:47 UTC · 88 listings · 5.000 kr–400.000 kr
 <sub>JYSK · 140/200/220 cm</sub>
 
 <sub>The table has a slim top and rounded edges but has a ceramic top and metal legs, which do not match the warm wood aesthetic of the references.</sub>
-
----
-
-**3/10** · **50.000 kr**
-
-<a href="https://bland.is/til-solu/heimilid/stofa/bordstofubord/5294870/"><img src="https://img.bland.is/album/img/298305/m/20261012124425_0.jpg" width="320"></a>
-
-[Borðstofuborð](https://bland.is/til-solu/heimilid/stofa/bordstofubord/5294870/)  
-<sub>Bland (notað) · size?</sub>
-
-<sub>The candidate table has a blocky, modern look that lacks the tapered legs and slim top typical of mid-century Scandinavian style.</sub>
 
 ---
 

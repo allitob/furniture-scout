@@ -1,6 +1,6 @@
 # Dining chairs
 
-Updated 2026-10-25 12:47 UTC · 113 listings · 0 kr–50.000 kr per piece
+Updated 2026-10-26 14:35 UTC · 112 listings · 0 kr–50.000 kr per piece
 
 [← all categories](../results.md)
 
@@ -402,17 +402,6 @@ Updated 2026-10-25 12:47 UTC · 113 listings · 0 kr–50.000 kr per piece
 
 ---
 
-**5/10** · **5.000 kr**
-
-<a href="https://bland.is/til-solu/heimilid/stofa/vidarstoll/5294772/"><img src="https://img.bland.is/album/img/320321/m/20261011221153_0.jpg" width="320"></a>
-
-[viðarstóll](https://bland.is/til-solu/heimilid/stofa/vidarstoll/5294772/)  
-<sub>Bland (notað)</sub>
-
-<sub>The chair is a wooden dining chair with round, tapered legs but lacks upholstered seat and mid-century features.</sub>
-
----
-
 **5/10** · **5.996 kr**
 
 <a href="https://jysk.is/stok-vara/JONSTRUP-stoll-grar-tau-eikarlitadir-stalfaetur/?PathId=73bef239-beb3-4e8d-a05c-f0583025233d"><img src="https://jysk.is/library/Images/products/P002336.jpg?proc=366x366" width="320"></a>
@@ -498,17 +487,6 @@ Updated 2026-10-25 12:47 UTC · 113 listings · 0 kr–50.000 kr per piece
 <sub>Húsgagnahöllin</sub>
 
 <sub>The chair has a modern design, but features like the metal legs and dark upholstery deviate from the desired mid-century Scandinavian style with solid wood and light fabric.</sub>
-
----
-
-**5/10** · **37.900 kr**
-
-<a href="https://modern.is/shop/husgogn/stolar/bordstofustolar/aava-stoll/"><img src="https://modern.is/wp-content/uploads/2020/08/Arper-Aava4leg-300x300.jpg" width="320"></a>
-
-[Aava stóll](https://modern.is/shop/husgogn/stolar/bordstofustolar/aava-stoll/)  
-<sub>Módern</sub>
-
-<sub>The candidate chair has a Scandinavian style but features plastic seat shells and metal legs, which don't align with the mid-century wood-only aesthetic and upholstered seat preference.</sub>
 
 ---
 
@@ -663,5 +641,27 @@ Updated 2026-10-25 12:47 UTC · 113 listings · 0 kr–50.000 kr per piece
 <sub>JYSK</sub>
 
 <sub>The chair has a curved back and upholstered seat but features metal legs, which do not fit the mid-century aesthetic with wood frame desired.</sub>
+
+---
+
+**4/10** · **19.900 kr**
+
+<a href="https://www.ilva.is/stok-vara/?ProductName=MAREK-Bordstofustoll-brunn-svartir-malmfaetur&PathId=4a9ff5ae-c167-400e-b7dd-d6afc3779559"><img src="https://www.ilva.is/library/Images/Products/V010434.jpg?proc=366x366" width="320"></a>
+
+[MAREK Borðstofustóll brúnn/svartir málmfætur](https://www.ilva.is/stok-vara/?ProductName=MAREK-Bordstofustoll-brunn-svartir-malmfaetur&PathId=4a9ff5ae-c167-400e-b7dd-d6afc3779559)  
+<sub>ILVA</sub>
+
+<sub>The chair has metal legs and an overall modern industrial look, which deviates from the warm wood and mid-century Scandinavian design criteria.</sub>
+
+---
+
+**4/10** · **19.992 kr**
+
+<a href="https://jysk.is/stok-vara/LARVIK-bordstofustoll-stal-taupe/?PathId=73bef239-beb3-4e8d-a05c-f0583025233d"><img src="https://jysk.is/library/Images/products/P012350.jpg?proc=366x366" width="320"></a>
+
+[LARVIK borðstofustóll stál/taupe](https://jysk.is/stok-vara/LARVIK-bordstofustoll-stal-taupe/?PathId=73bef239-beb3-4e8d-a05c-f0583025233d)  
+<sub>JYSK</sub>
+
+<sub>The candidate chair has metal legs and a seat that doesn't match the light cream textured fabric requirement, deviating from the mid-century wood aesthetic.</sub>
 
 ---
