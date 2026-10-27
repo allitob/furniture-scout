@@ -1,6 +1,6 @@
 # Dining chairs
 
-Updated 2026-10-26 14:35 UTC · 112 listings · 0 kr–50.000 kr per piece
+Updated 2026-10-27 13:38 UTC · 115 listings · 0 kr–50.000 kr per piece
 
 [← all categories](../results.md)
 
@@ -490,6 +490,17 @@ Updated 2026-10-26 14:35 UTC · 112 listings · 0 kr–50.000 kr per piece
 
 ---
 
+**5/10** · **37.900 kr**
+
+<a href="https://modern.is/shop/husgogn/stolar/bordstofustolar/aava-stoll/"><img src="https://modern.is/wp-content/uploads/2020/08/Arper-Aava4leg-300x300.jpg" width="320"></a>
+
+[Aava stóll](https://modern.is/shop/husgogn/stolar/bordstofustolar/aava-stoll/)  
+<sub>Módern</sub>
+
+<sub>The candidate chair has a Scandinavian style but features plastic seat shells and metal legs, which don't align with the mid-century wood-only aesthetic and upholstered seat preference.</sub>
+
+---
+
 **5/10** · **39.900 kr**
 
 <a href="https://www.ilva.is/stok-vara/?ProductName=NORRLAND-Bordstofustoll-svart-flettad-svartlakkadir-eikarfaetur&PathId=4a9ff5ae-c167-400e-b7dd-d6afc3779559"><img src="https://www.ilva.is/library/Images/Products/V007971.jpg?proc=366x366" width="320"></a>
@@ -633,7 +644,7 @@ Updated 2026-10-26 14:35 UTC · 112 listings · 0 kr–50.000 kr per piece
 
 ---
 
-**4/10** · **18.392 kr**
+**4/10** · **18.392 kr** · uppselt
 
 <a href="https://jysk.is/stok-vara/MADS-bordstofustoll-beige/?PathId=73bef239-beb3-4e8d-a05c-f0583025233d"><img src="https://jysk.is/library/Images/products/P012399.jpg?proc=366x366" width="320"></a>
 
@@ -652,16 +663,5 @@ Updated 2026-10-26 14:35 UTC · 112 listings · 0 kr–50.000 kr per piece
 <sub>ILVA</sub>
 
 <sub>The chair has metal legs and an overall modern industrial look, which deviates from the warm wood and mid-century Scandinavian design criteria.</sub>
-
----
-
-**4/10** · **19.992 kr**
-
-<a href="https://jysk.is/stok-vara/LARVIK-bordstofustoll-stal-taupe/?PathId=73bef239-beb3-4e8d-a05c-f0583025233d"><img src="https://jysk.is/library/Images/products/P012350.jpg?proc=366x366" width="320"></a>
-
-[LARVIK borðstofustóll stál/taupe](https://jysk.is/stok-vara/LARVIK-bordstofustoll-stal-taupe/?PathId=73bef239-beb3-4e8d-a05c-f0583025233d)  
-<sub>JYSK</sub>
-
-<sub>The candidate chair has metal legs and a seat that doesn't match the light cream textured fabric requirement, deviating from the mid-century wood aesthetic.</sub>
 
 ---

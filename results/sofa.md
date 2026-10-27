@@ -1,6 +1,6 @@
 # Sofas
 
-Updated 2026-10-26 14:35 UTC · 422 listings · 0 kr–400.000 kr
+Updated 2026-10-27 13:38 UTC · 428 listings · 0 kr–400.000 kr
 
 [← all categories](../results.md)
 
@@ -259,7 +259,7 @@ Updated 2026-10-26 14:35 UTC · 422 listings · 0 kr–400.000 kr
 
 ---
 
-**8/10** · **349.990 kr** · uppselt
+**8/10** · **349.990 kr**
 
 <a href="https://jysk.is/stok-vara/VARDO-tungusofi-vinstri-beige/?PathId=daa6be5b-5fc6-4c03-a44a-6267f53d68a8"><img src="https://jysk.is/library/Images/products/P013100.jpg?proc=366x366" width="320"></a>
 
@@ -289,6 +289,17 @@ Updated 2026-10-26 14:35 UTC · 422 listings · 0 kr–400.000 kr
 <sub>JYSK</sub>
 
 <sub>The sofa is light-colored with a soft fabric, has a relaxed and deep design, plush cushions, and hidden legs, fitting well with the desired aesthetic.</sub>
+
+---
+
+**8/10** · **384.900 kr**
+
+<a href="https://modern.is/shop/husgogn/sofar-og-legubekkir/beinir-sofar/bib-sofi/"><img src="https://modern.is/wp-content/uploads/2025/08/Photoroom_20250819_014254-2-300x300.png" width="320"></a>
+
+[Bib sófi](https://modern.is/shop/husgogn/sofar-og-legubekkir/beinir-sofar/bib-sofi/)  
+<sub>Módern</sub>
+
+<sub>The candidate sofa has a similar off-white woven fabric, with soft rounded arms and clean simple lines, matching the desired aesthetic.</sub>
 
 ---
 
@@ -567,7 +578,7 @@ Updated 2026-10-26 14:35 UTC · 422 listings · 0 kr–400.000 kr
 
 ---
 
-**7/10** · **349.990 kr** · uppselt
+**7/10** · **349.990 kr**
 
 <a href="https://jysk.is/stok-vara/VARDO-tungusofi-haegri-brunn/?PathId=daa6be5b-5fc6-4c03-a44a-6267f53d68a8"><img src="https://jysk.is/library/Images/products/P013103.jpg?proc=366x366" width="320"></a>
 
@@ -578,7 +589,7 @@ Updated 2026-10-26 14:35 UTC · 422 listings · 0 kr–400.000 kr
 
 ---
 
-**7/10** · **349.990 kr** · uppselt
+**7/10** · **349.990 kr**
 
 <a href="https://jysk.is/stok-vara/VARDO-tungusofi-vinstri-brunn/?PathId=daa6be5b-5fc6-4c03-a44a-6267f53d68a8"><img src="https://jysk.is/library/Images/products/P013102.jpg?proc=366x366" width="320"></a>
 
@@ -589,7 +600,7 @@ Updated 2026-10-26 14:35 UTC · 422 listings · 0 kr–400.000 kr
 
 ---
 
-**7/10** · **349.990 kr** · uppselt
+**7/10** · **349.990 kr**
 
 <a href="https://jysk.is/stok-vara/VARDO-tungusofi-haegri-beige/?PathId=daa6be5b-5fc6-4c03-a44a-6267f53d68a8"><img src="https://jysk.is/library/Images/products/P013101.jpg?proc=366x366" width="320"></a>
 
@@ -652,16 +663,5 @@ Updated 2026-10-26 14:35 UTC · 422 listings · 0 kr–400.000 kr
 <sub>Húsgagnahöllin</sub>
 
 <sub>The sofa has a light neutral color and woven fabric, matching relaxed L-shaped style. However, the base is fully visible and not wooden, slightly detracting from the ideal match.</sub>
-
----
-
-**6/10** · **25.000 kr**
-
-<a href="https://bland.is/til-solu/heimilid/stofa/fallegur-sofi-til-solu/5295334/"><img src="https://img.bland.is/album/img/15564/m/20261013171157_0.jpg" width="320"></a>
-
-[Fallegur sófi til sölu](https://bland.is/til-solu/heimilid/stofa/fallegur-sofi-til-solu/5295334/)  
-<sub>Bland (notað)</sub>
-
-<sub>Matches in color and material but lacks the L-shape and deep, relaxed form.</sub>
 
 ---

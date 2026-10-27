@@ -1,6 +1,6 @@
 # Dining tables
 
-Updated 2026-10-26 14:35 UTC · 88 listings · 5.000 kr–400.000 kr
+Updated 2026-10-27 13:38 UTC · 89 listings · 5.000 kr–400.000 kr
 
 [← all categories](../results.md)
 
@@ -578,7 +578,18 @@ Updated 2026-10-26 14:35 UTC · 88 listings · 5.000 kr–400.000 kr
 
 ---
 
-**3/10** · **19.000 kr** · 🆕
+**3/10** · **5.000 kr** · 🆕
+
+<a href="https://bland.is/til-solu/heimilid/stofa/bordstofubord/5299281/"><img src="https://img.bland.is/album/img/261461/m/20261026190736_0.jpg" width="320"></a>
+
+[Borðstofuborð](https://bland.is/til-solu/heimilid/stofa/bordstofubord/5299281/)  
+<sub>Bland (notað) · 180 cm</sub>
+
+<sub>The table is made of wood and appears to have an oiled finish, but its chunky design and straight edges do not match the mid-century Scandinavian style with slender, rounded features.</sub>
+
+---
+
+**3/10** · **19.000 kr**
 
 <a href="https://bland.is/til-solu/heimilid/stofa/bord-og-stolar/5298914/"><img src="https://img.bland.is/album/img/68409/m/20261025143823_0.jpg" width="320"></a>
 
@@ -652,16 +663,5 @@ Updated 2026-10-26 14:35 UTC · 88 listings · 5.000 kr–400.000 kr
 <sub>JYSK · 160/200/220 cm</sub>
 
 <sub>The table features metal legs and a lighter wood finish, which do not align with the warm wood and sleek Scandinavian design of the reference images.</sub>
-
----
-
-**3/10** · **79.990 kr**
-
-<a href="https://jysk.is/stok-vara/SANDBY-bordstofubord-100x160-cm-natur-svart/?PathId=68136a40-8cc3-4036-8232-832bbcbd4a46"><img src="https://jysk.is/library/Images/products/P004050.jpg?proc=366x366" width="320"></a>
-
-[SANDBY borðstofuborð 100x160 cm natur/svart](https://jysk.is/stok-vara/SANDBY-bordstofubord-100x160-cm-natur-svart/?PathId=68136a40-8cc3-4036-8232-832bbcbd4a46)  
-<sub>JYSK · 160/200/220 cm</sub>
-
-<sub>The table uses wood and metal with angled metal legs, contrasting with the mid-century styled wood-only references.</sub>
 
 ---
