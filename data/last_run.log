@@ -1,33 +1,34 @@
-Epal: 9610 products in catalog
-Snúran: 793 products in catalog
-Bland: 590 listings scanned
-Húsgagnahöllin: 92 matching products
-Módern: 46 listings parsed from HTML
+Epal: 9611 products in catalog
+Snúran: 798 products in catalog
+Bland: 589 listings scanned
+Húsgagnahöllin: 94 matching products
+Módern [dining-table]: FAILED — HTTPError: 522 Server Error: <none> for url: https://modern.is/product-category/husgogn/bord/bordstofubord/
 Línan: 36 listings parsed from HTML
 ILVA: 89 listings parsed from HTML
 JYSK: 63 listings parsed from HTML
-[dining-table] 216 candidates within budget (from 11319 listings)
-[dining-table] Opened 69 listing pages for details
-[dining-table] 94 pass price/size filters
+[dining-table] 233 candidates within budget (from 11280 listings)
+[dining-table] Opened 82 listing pages for details
+[dining-table] 99 pass price/size filters
 [dining-table] Scored 3 listings with gpt-4o
 [dining-table] Notify: 0 new strong matches
-Húsgagnahöllin: 54 matching products
-Módern: 76 listings parsed from HTML
+Húsgagnahöllin: 56 matching products
+Módern: 79 listings parsed from HTML
 Línan: 32 listings parsed from HTML
 ILVA: 77 listings parsed from HTML
 JYSK: 120 listings parsed from HTML
-[dining-chair] 210 candidates within budget (from 11352 listings)
+[dining-chair] 211 candidates within budget (from 11362 listings)
 [dining-chair] Opened 1 listing pages for details
-[dining-chair] 210 pass price/size filters
-[dining-chair] Scored 1 listings with gpt-4o
+[dining-chair] 211 pass price/size filters
+[dining-chair] score failed for https://husgagnahollin.is/vara/kare-tobi-bordstofustoll-beige/: the JSON object must be str, bytes or bytearray, not NoneType
+[dining-chair] Scored 3 listings with gpt-4o
 [dining-chair] Notify: 0 new strong matches
-Húsgagnahöllin: 163 matching products
-Módern: 104 listings parsed from HTML
+Húsgagnahöllin: 168 matching products
+Módern: 103 listings parsed from HTML
 Línan: 35 listings parsed from HTML
-ILVA: 173 listings parsed from HTML
+ILVA: 172 listings parsed from HTML
 JYSK: 133 listings parsed from HTML
-[sofa] 409 candidates within budget (from 11601 listings)
-[sofa] Opened 7 listing pages for details
-[sofa] 409 pass price/size filters
-[sofa] Scored 7 listings with gpt-4o
-[sofa] Notify: 0 new strong matches
+[sofa] 476 candidates within budget (from 11609 listings)
+[sofa] Opened 5 listing pages for details
+[sofa] 476 pass price/size filters
+[sofa] Scored 9 listings with gpt-4o
+[sofa] Notify: posted 2 new matches to issue #1

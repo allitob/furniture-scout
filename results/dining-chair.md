@@ -1,12 +1,12 @@
 # Dining chairs
 
-Updated 2026-10-28 14:33 UTC · 120 listings · 0 kr–50.000 kr per piece
+Updated 2026-10-29 14:41 UTC · 119 listings · 0 kr–50.000 kr per piece · 1 not scored yet
 
 [← all categories](../results.md)
 
 ---
 
-**9/10** · **12.990 kr <sub>was 13.592 kr</sub>** · uppselt
+**9/10** · **12.743 kr <sub>was 12.990 kr</sub>** · uppselt
 
 <a href="https://jysk.is/stok-vara/EJSING-bordstofustoll-beige-dokk-eik/?PathId=73bef239-beb3-4e8d-a05c-f0583025233d"><img src="https://jysk.is/library/Images/products/P012993.jpg?proc=366x366" width="320"></a>
 
@@ -39,7 +39,7 @@ Updated 2026-10-28 14:33 UTC · 120 listings · 0 kr–50.000 kr per piece
 
 ---
 
-**8/10** · **12.990 kr <sub>was 13.592 kr</sub>**
+**8/10** · **12.743 kr <sub>was 12.990 kr</sub>**
 
 <a href="https://jysk.is/stok-vara/EJSING-bordstofustoll-beige-eik/?PathId=73bef239-beb3-4e8d-a05c-f0583025233d"><img src="https://jysk.is/library/Images/products/P011137.jpg?proc=366x366" width="320"></a>
 
@@ -83,7 +83,7 @@ Updated 2026-10-28 14:33 UTC · 120 listings · 0 kr–50.000 kr per piece
 
 ---
 
-**7/10** · **14.990 kr**
+**7/10** · **11.243 kr <sub>was 14.990 kr</sub>**
 
 <a href="https://jysk.is/stok-vara/THORUP-bordstofustoll-beige-eikarlitadir-faetur/?PathId=73bef239-beb3-4e8d-a05c-f0583025233d"><img src="https://jysk.is/library/Images/products/P009219.jpg?proc=366x366" width="320"></a>
 
@@ -94,7 +94,7 @@ Updated 2026-10-28 14:33 UTC · 120 listings · 0 kr–50.000 kr per piece
 
 ---
 
-**7/10** · **26.990 kr**
+**7/10** · **20.243 kr <sub>was 26.990 kr</sub>**
 
 <a href="https://jysk.is/stok-vara/ISLEV-bordstofustoll-eik/?PathId=73bef239-beb3-4e8d-a05c-f0583025233d"><img src="https://jysk.is/library/Images/products/P009224.jpg?proc=366x366" width="320"></a>
 
@@ -182,7 +182,7 @@ Updated 2026-10-28 14:33 UTC · 120 listings · 0 kr–50.000 kr per piece
 
 ---
 
-**6/10** · **12.990 kr <sub>was 13.592 kr</sub>**
+**6/10** · **12.743 kr <sub>was 12.990 kr</sub>**
 
 <a href="https://jysk.is/stok-vara/EJSING-bordstofustoll-brunn-ljos-eik/?PathId=73bef239-beb3-4e8d-a05c-f0583025233d"><img src="https://jysk.is/library/Images/products/P012994.jpg?proc=366x366" width="320"></a>
 
@@ -190,6 +190,28 @@ Updated 2026-10-28 14:33 UTC · 120 listings · 0 kr–50.000 kr per piece
 <sub>JYSK</sub>
 
 <sub>The candidate chair has the Scandinavian style with wood frame and textured fabric but lacks the mid-century curves and warm wood tone of the references.</sub>
+
+---
+
+**6/10** · **14.993 kr <sub>was 19.990 kr</sub>**
+
+<a href="https://jysk.is/stok-vara/ADSLEV-bordstofustoll-drapplitadur/?PathId=73bef239-beb3-4e8d-a05c-f0583025233d"><img src="https://jysk.is/library/Images/products/P002204.jpg?proc=366x366" width="320"></a>
+
+[ADSLEV borðstofustóll drapplitaður](https://jysk.is/stok-vara/ADSLEV-bordstofustoll-drapplitadur/?PathId=73bef239-beb3-4e8d-a05c-f0583025233d)  
+<sub>JYSK</sub>
+
+<sub>The chair has wood legs and an upholstered seat but the backrest and armrest design deviates from the desired slim, curved look.</sub>
+
+---
+
+**6/10** · **17.243 kr <sub>was 22.990 kr</sub>**
+
+<a href="https://jysk.is/stok-vara/LYNGHOLM-bordstofustoll-eik-svartur-PU/?PathId=73bef239-beb3-4e8d-a05c-f0583025233d"><img src="https://jysk.is/library/Images/products/P002099.jpg?proc=366x366" width="320"></a>
+
+[LYNGHOLM borðstofustóll eik/svartur PU](https://jysk.is/stok-vara/LYNGHOLM-bordstofustoll-eik-svartur-PU/?PathId=73bef239-beb3-4e8d-a05c-f0583025233d)  
+<sub>JYSK</sub>
+
+<sub>The chair has a wood frame with rounded legs and a curved back, but the black PU seat contrasts with the desired light cream upholstery.</sub>
 
 ---
 
@@ -201,17 +223,6 @@ Updated 2026-10-28 14:33 UTC · 120 listings · 0 kr–50.000 kr per piece
 <sub>Húsgagnahöllin</sub>
 
 <sub>The chair has the curved backrest and upholstered seat, but the metal legs and lack of wood frame deviate from the desired mid-century wood aesthetic.</sub>
-
----
-
-**6/10** · **19.990 kr**
-
-<a href="https://jysk.is/stok-vara/ADSLEV-bordstofustoll-drapplitadur/?PathId=73bef239-beb3-4e8d-a05c-f0583025233d"><img src="https://jysk.is/library/Images/products/P002204.jpg?proc=366x366" width="320"></a>
-
-[ADSLEV borðstofustóll drapplitaður](https://jysk.is/stok-vara/ADSLEV-bordstofustoll-drapplitadur/?PathId=73bef239-beb3-4e8d-a05c-f0583025233d)  
-<sub>JYSK</sub>
-
-<sub>The chair has wood legs and an upholstered seat but the backrest and armrest design deviates from the desired slim, curved look.</sub>
 
 ---
 
@@ -237,18 +248,7 @@ Updated 2026-10-28 14:33 UTC · 120 listings · 0 kr–50.000 kr per piece
 
 ---
 
-**6/10** · **22.990 kr**
-
-<a href="https://jysk.is/stok-vara/LYNGHOLM-bordstofustoll-eik-svartur-PU/?PathId=73bef239-beb3-4e8d-a05c-f0583025233d"><img src="https://jysk.is/library/Images/products/P002099.jpg?proc=366x366" width="320"></a>
-
-[LYNGHOLM borðstofustóll eik/svartur PU](https://jysk.is/stok-vara/LYNGHOLM-bordstofustoll-eik-svartur-PU/?PathId=73bef239-beb3-4e8d-a05c-f0583025233d)  
-<sub>JYSK</sub>
-
-<sub>The chair has a wood frame with rounded legs and a curved back, but the black PU seat contrasts with the desired light cream upholstery.</sub>
-
----
-
-**6/10** · **29.990 kr**
+**6/10** · **22.493 kr <sub>was 29.990 kr</sub>**
 
 <a href="https://jysk.is/stok-vara/GUDERUP-bordstofustoll-dokk-eik-natur/?PathId=73bef239-beb3-4e8d-a05c-f0583025233d"><img src="https://jysk.is/library/Images/products/P010965.jpg?proc=366x366" width="320"></a>
 
@@ -259,7 +259,7 @@ Updated 2026-10-28 14:33 UTC · 120 listings · 0 kr–50.000 kr per piece
 
 ---
 
-**6/10** · **29.990 kr**
+**6/10** · **22.493 kr <sub>was 29.990 kr</sub>**
 
 <a href="https://jysk.is/stok-vara/GUDERUP-bordstofustoll-eik-natur/?PathId=73bef239-beb3-4e8d-a05c-f0583025233d"><img src="https://jysk.is/library/Images/products/P007389.jpg?proc=366x366" width="320"></a>
 
@@ -267,6 +267,28 @@ Updated 2026-10-28 14:33 UTC · 120 listings · 0 kr–50.000 kr per piece
 <sub>JYSK</sub>
 
 <sub>The chair features a wooden frame and a light-colored seat, but the backrest design and seat material are not fully aligned with the reference.</sub>
+
+---
+
+**6/10** · **26.243 kr <sub>was 34.990 kr</sub>**
+
+<a href="https://jysk.is/stok-vara/LYKSBORG-stoll-eik-krem/?PathId=73bef239-beb3-4e8d-a05c-f0583025233d"><img src="https://jysk.is/library/Images/products/P002394.jpg?proc=366x366" width="320"></a>
+
+[LYKSBORG stóll eik/krem](https://jysk.is/stok-vara/LYKSBORG-stoll-eik-krem/?PathId=73bef239-beb3-4e8d-a05c-f0583025233d)  
+<sub>JYSK</sub>
+
+<sub>The chair has a solid wood frame with slim tapered legs and a light-colored upholstered seat, but the back is more open than the reference images.</sub>
+
+---
+
+**6/10** · **26.243 kr <sub>was 34.990 kr</sub>**
+
+<a href="https://jysk.is/stok-vara/LYKSBORG-stoll-dokk-eik-dokksandlitadur/?PathId=73bef239-beb3-4e8d-a05c-f0583025233d"><img src="https://jysk.is/library/Images/products/P002304.jpg?proc=366x366" width="320"></a>
+
+[LYKSBORG stóll dökk eik/dökksandlitaður](https://jysk.is/stok-vara/LYKSBORG-stoll-dokk-eik-dokksandlitadur/?PathId=73bef239-beb3-4e8d-a05c-f0583025233d)  
+<sub>JYSK</sub>
+
+<sub>The candidate chair has a solid wood frame and upholstered seat, but the design with spindled back and slightly different legs diverges from a soft mid-century aesthetic.</sub>
 
 ---
 
@@ -278,28 +300,6 @@ Updated 2026-10-28 14:33 UTC · 120 listings · 0 kr–50.000 kr per piece
 <sub>Húsgagnahöllin</sub>
 
 <sub>The chair has a solid wood frame with round tapered legs and a curved back, aligning somewhat with the mid-century Scandinavian style, but the green upholstery and lack of light fabric reduce the match.</sub>
-
----
-
-**6/10** · **34.990 kr**
-
-<a href="https://jysk.is/stok-vara/LYKSBORG-stoll-eik-krem/?PathId=73bef239-beb3-4e8d-a05c-f0583025233d"><img src="https://jysk.is/library/Images/products/P002394.jpg?proc=366x366" width="320"></a>
-
-[LYKSBORG stóll eik/krem](https://jysk.is/stok-vara/LYKSBORG-stoll-eik-krem/?PathId=73bef239-beb3-4e8d-a05c-f0583025233d)  
-<sub>JYSK</sub>
-
-<sub>The chair has a solid wood frame with slim tapered legs and a light-colored upholstered seat, but the back is more open than the reference images.</sub>
-
----
-
-**6/10** · **34.990 kr**
-
-<a href="https://jysk.is/stok-vara/LYKSBORG-stoll-dokk-eik-dokksandlitadur/?PathId=73bef239-beb3-4e8d-a05c-f0583025233d"><img src="https://jysk.is/library/Images/products/P002304.jpg?proc=366x366" width="320"></a>
-
-[LYKSBORG stóll dökk eik/dökksandlitaður](https://jysk.is/stok-vara/LYKSBORG-stoll-dokk-eik-dokksandlitadur/?PathId=73bef239-beb3-4e8d-a05c-f0583025233d)  
-<sub>JYSK</sub>
-
-<sub>The candidate chair has a solid wood frame and upholstered seat, but the design with spindled back and slightly different legs diverges from a soft mid-century aesthetic.</sub>
 
 ---
 
@@ -424,7 +424,7 @@ Updated 2026-10-28 14:33 UTC · 120 listings · 0 kr–50.000 kr per piece
 
 ---
 
-**5/10** · **7.995 kr**
+**5/10** · **5.996 kr <sub>was 7.995 kr</sub>**
 
 <a href="https://jysk.is/stok-vara/JONSTRUP-stoll-grar-tau-eikarlitadir-stalfaetur/?PathId=73bef239-beb3-4e8d-a05c-f0583025233d"><img src="https://jysk.is/library/Images/products/P002336.jpg?proc=366x366" width="320"></a>
 
@@ -435,7 +435,7 @@ Updated 2026-10-28 14:33 UTC · 120 listings · 0 kr–50.000 kr per piece
 
 ---
 
-**5/10** · **9.995 kr**
+**5/10** · **7.496 kr <sub>was 9.995 kr</sub>**
 
 <a href="https://jysk.is/stok-vara/BISTRUP-stoll-sand-eik/?PathId=73bef239-beb3-4e8d-a05c-f0583025233d"><img src="https://jysk.is/library/Images/products/P002410.jpg?proc=366x366" width="320"></a>
 
@@ -446,7 +446,7 @@ Updated 2026-10-28 14:33 UTC · 120 listings · 0 kr–50.000 kr per piece
 
 ---
 
-**5/10** · **19.990 kr**
+**5/10** · **14.993 kr <sub>was 19.990 kr</sub>**
 
 <a href="https://jysk.is/stok-vara/ADSLEV-bordstofustoll-grar-flauel-eik-2/?PathId=73bef239-beb3-4e8d-a05c-f0583025233d"><img src="https://jysk.is/library/Images/products/P002091.jpg?proc=366x366" width="320"></a>
 
@@ -457,7 +457,7 @@ Updated 2026-10-28 14:33 UTC · 120 listings · 0 kr–50.000 kr per piece
 
 ---
 
-**5/10** · **19.990 kr** · uppselt
+**5/10** · **14.993 kr <sub>was 19.990 kr</sub>** · uppselt
 
 <a href="https://jysk.is/stok-vara/SOTTRUP-bordstofustoll-beige-svartur/?PathId=73bef239-beb3-4e8d-a05c-f0583025233d"><img src="https://jysk.is/library/Images/products/P011139.jpg?proc=366x366" width="320"></a>
 
@@ -589,7 +589,7 @@ Updated 2026-10-28 14:33 UTC · 120 listings · 0 kr–50.000 kr per piece
 
 ---
 
-**4/10** · **9.995 kr**
+**4/10** · **7.496 kr <sub>was 9.995 kr</sub>**
 
 <a href="https://jysk.is/stok-vara/JONSTRUP-stoll-beige-dokk-eikarlitadir-stalfaetur/?PathId=73bef239-beb3-4e8d-a05c-f0583025233d"><img src="https://jysk.is/library/Images/products/P007678.jpg?proc=366x366" width="320"></a>
 
@@ -600,7 +600,7 @@ Updated 2026-10-28 14:33 UTC · 120 listings · 0 kr–50.000 kr per piece
 
 ---
 
-**4/10** · **9.995 kr**
+**4/10** · **7.496 kr <sub>was 9.995 kr</sub>**
 
 <a href="https://jysk.is/stok-vara/JONSTRUP-stoll-hvitur-PU-eikarlitadir-stalfaetur/?PathId=73bef239-beb3-4e8d-a05c-f0583025233d"><img src="https://jysk.is/library/Images/products/P011411.jpg?proc=366x366" width="320"></a>
 
@@ -622,18 +622,7 @@ Updated 2026-10-28 14:33 UTC · 120 listings · 0 kr–50.000 kr per piece
 
 ---
 
-**4/10** · **19.900 kr**
-
-<a href="https://www.ilva.is/stok-vara/?ProductName=MAREK-Bordstofustoll-brunn-svartir-malmfaetur&PathId=4a9ff5ae-c167-400e-b7dd-d6afc3779559"><img src="https://www.ilva.is/library/Images/Products/V010434.jpg?proc=366x366" width="320"></a>
-
-[MAREK Borðstofustóll brúnn/svartir málmfætur](https://www.ilva.is/stok-vara/?ProductName=MAREK-Bordstofustoll-brunn-svartir-malmfaetur&PathId=4a9ff5ae-c167-400e-b7dd-d6afc3779559)  
-<sub>ILVA</sub>
-
-<sub>The chair has metal legs and an overall modern industrial look, which deviates from the warm wood and mid-century Scandinavian design criteria.</sub>
-
----
-
-**4/10** · **19.990 kr**
+**4/10** · **14.993 kr <sub>was 19.990 kr</sub>**
 
 <a href="https://jysk.is/stok-vara/PEBRINGE-bordstofustoll-velour-grar-eik/?PathId=73bef239-beb3-4e8d-a05c-f0583025233d"><img src="https://jysk.is/library/Images/products/P002129.jpg?proc=366x366" width="320"></a>
 
@@ -644,7 +633,7 @@ Updated 2026-10-28 14:33 UTC · 120 listings · 0 kr–50.000 kr per piece
 
 ---
 
-**4/10** · **19.990 kr**
+**4/10** · **14.993 kr <sub>was 19.990 kr</sub>**
 
 <a href="https://jysk.is/stok-vara/GJESING-bordstofustoll-beige-svart/?PathId=73bef239-beb3-4e8d-a05c-f0583025233d"><img src="https://jysk.is/library/Images/products/P010984.jpg?proc=366x366" width="320"></a>
 
@@ -655,7 +644,7 @@ Updated 2026-10-28 14:33 UTC · 120 listings · 0 kr–50.000 kr per piece
 
 ---
 
-**4/10** · **19.990 kr**
+**4/10** · **14.993 kr <sub>was 19.990 kr</sub>**
 
 <a href="https://jysk.is/stok-vara/PEBRINGE-bordstofustoll-grar-svartur/?PathId=73bef239-beb3-4e8d-a05c-f0583025233d"><img src="https://jysk.is/library/Images/products/P006622.jpg?proc=366x366" width="320"></a>
 
@@ -663,5 +652,16 @@ Updated 2026-10-28 14:33 UTC · 120 listings · 0 kr–50.000 kr per piece
 <sub>JYSK</sub>
 
 <sub>The chair has a padded seat and back, but the dark metal legs and fully upholstered design do not align with the mid-century Scandinavian style.</sub>
+
+---
+
+**4/10** · **17.243 kr <sub>was 22.990 kr</sub>**
+
+<a href="https://jysk.is/stok-vara/MADS-bordstofustoll-graenn/?PathId=73bef239-beb3-4e8d-a05c-f0583025233d"><img src="https://jysk.is/library/Images/products/P012398.jpg?proc=366x366" width="320"></a>
+
+[MADS borðstofustóll grænn](https://jysk.is/stok-vara/MADS-bordstofustoll-graenn/?PathId=73bef239-beb3-4e8d-a05c-f0583025233d)  
+<sub>JYSK</sub>
+
+<sub>The chair has modern metal legs and a curved back, but lacks the wooden frame and mid-century Scandinavian design elements.</sub>
 
 ---
