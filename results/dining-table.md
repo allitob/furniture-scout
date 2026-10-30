@@ -1,6 +1,6 @@
 # Dining tables
 
-Updated 2026-10-29 14:41 UTC · 83 listings · 5.000 kr–400.000 kr
+Updated 2026-10-30 14:35 UTC · 89 listings · 5.000 kr–400.000 kr
 
 [← all categories](../results.md)
 
@@ -17,6 +17,17 @@ Updated 2026-10-29 14:41 UTC · 83 listings · 5.000 kr–400.000 kr
 
 ---
 
+**9/10** · **224.900 kr**
+
+<a href="https://modern.is/shop/husgogn/bord/bordstofubord/wave-bord/"><img src="https://modern.is/wp-content/uploads/2024/12/WAVE_dining_table_C4_oak_001-300x300.png" width="320"></a>
+
+[Wave borð](https://modern.is/shop/husgogn/bord/bordstofubord/wave-bord/)  
+<sub>Módern · 90/140/180/200/220/240/260/280 cm</sub>
+
+<sub>The table has a slim top with softly rounded edges and tapered, slightly splayed wooden legs, fitting well with the desired mid-century Scandinavian style.</sub>
+
+---
+
 **9/10** · **242.499 kr**
 
 <a href="https://snuran.is/products/skovby-bordstofubord-staekkanlegt-sm-112-serpontun-copy"><img src="https://cdn.shopify.com/s/files/1/0582/7693/7904/files/111no_a.jpg?v=1791996107" width="320"></a>
@@ -25,6 +36,17 @@ Updated 2026-10-29 14:41 UTC · 83 listings · 5.000 kr–400.000 kr
 <sub>Snúran · 145 cm</sub>
 
 <sub>The table features a warm wood tone, softly rounded edges, tapered legs, and a matte finish, fitting well with the mid-century Scandinavian aesthetic.</sub>
+
+---
+
+**9/10** · **339.900 kr**
+
+<a href="https://modern.is/shop/husgogn/bord/bordstofubord/klassi-oval-bord/"><img src="https://modern.is/wp-content/uploads/2026/09/Klassi_Oval_105x200_Pisa_OC4_01-300x300.jpg" width="320"></a>
+
+[Klassi Oval borð](https://modern.is/shop/husgogn/bord/bordstofubord/klassi-oval-bord/)  
+<sub>Módern · 180/200/220/240/260/280 cm</sub>
+
+<sub>The table has a slim top with softly rounded edges, tapered and slightly splayed legs, and a matte finish, fitting well with the reference aesthetic.</sub>
 
 ---
 
@@ -138,6 +160,17 @@ Updated 2026-10-29 14:41 UTC · 83 listings · 5.000 kr–400.000 kr
 
 ---
 
+**7/10** · **314.900 kr**
+
+<a href="https://modern.is/shop/husgogn/bord/bordstofubord/klassi-bord/"><img src="https://modern.is/wp-content/uploads/2026/09/Klassi_200x100_AC11_Ben50_Rectangulaer_Harlekin-300x300.jpg" width="320"></a>
+
+[Klassi borð](https://modern.is/shop/husgogn/bord/bordstofubord/klassi-bord/)  
+<sub>Módern · 160/180/200/220/240/260/280 cm</sub>
+
+<sub>The table features a slim wooden top, softly rounded edges, and slightly tapered splayed legs, fitting well into the mid-century Scandinavian aesthetic.</sub>
+
+---
+
 **7/10** · **346.499 kr**
 
 <a href="https://snuran.is/products/skovby-bordstofubord-staekkanlegt-sm108-serpontun-copy"><img src="https://cdn.shopify.com/s/files/1/0582/7693/7904/files/108n.png?v=1789487819" width="320"></a>
@@ -157,6 +190,28 @@ Updated 2026-10-29 14:41 UTC · 83 listings · 5.000 kr–400.000 kr
 <sub>Snúran · 155 cm</sub>
 
 <sub>The table features a slim top with rounded edges and tapered legs, fitting well with the mid-century Scandinavian aesthetic, though the lighter wood tone slightly differs from the typical warmer tones seen in the references.</sub>
+
+---
+
+**7/10** · **394.900 kr**
+
+<a href="https://modern.is/shop/husgogn/bord/bordstofubord/amelia-bord/"><img src="https://modern.is/wp-content/uploads/2021/03/AMELIA_dining_table_220x100cm_oak_C4-w.-shadow-scaled-1-300x300.jpg" width="320"></a>
+
+[Amelia borð](https://modern.is/shop/husgogn/bord/bordstofubord/amelia-bord/)  
+<sub>Módern · 160/180/200/220/240/260/280 cm</sub>
+
+<sub>The table features warm wood tones, a slim top with rounded corners, and a mid-century Scandinavian style with its unique wooden leg design.</sub>
+
+---
+
+**6/10** · **30.000 kr** · 🆕
+
+<a href="https://bland.is/til-solu/heimilid/stofa/eldhusbord/5300095/"><img src="https://img.bland.is/album/img/360263/m/20261029170653_0.jpg" width="320"></a>
+
+[Eldhúsborð](https://bland.is/til-solu/heimilid/stofa/eldhusbord/5300095/)  
+<sub>Bland (notað) · size?</sub>
+
+<sub>The table features a simple wooden pedestal base and a slim round top with a matte finish, but its lighter wood tone is less warm than the reference images which emphasize darker woods.</sub>
 
 ---
 
@@ -182,7 +237,7 @@ Updated 2026-10-29 14:41 UTC · 83 listings · 5.000 kr–400.000 kr
 
 ---
 
-**6/10** · **199.990 kr** · uppselt
+**6/10** · **199.990 kr**
 
 <a href="https://jysk.is/stok-vara/OREBRO-bordstofubord-o120-120x160-200-H75-cm-dokk-eikaraferd/?PathId=68136a40-8cc3-4036-8232-832bbcbd4a46"><img src="https://jysk.is/library/Images/products/P008213.jpg?proc=366x366" width="320"></a>
 
@@ -292,17 +347,6 @@ Updated 2026-10-29 14:41 UTC · 83 listings · 5.000 kr–400.000 kr
 
 ---
 
-**4/10** · **20.000 kr**
-
-<a href="https://bland.is/til-solu/heimilid/stofa/bordstofubord/5296017/"><img src="https://img.bland.is/album/img/197620/m/20261015171820_0.jpg" width="320"></a>
-
-[Borðstofuborð](https://bland.is/til-solu/heimilid/stofa/bordstofubord/5296017/)  
-<sub>Bland (notað) · 180 cm</sub>
-
-<sub>The candidate table is made of solid wood, but its darker tone, farmhouse-style legs, and bulkier design differ from the mid-century Scandinavian style seen in the references.</sub>
-
----
-
 **4/10** · **22.493 kr <sub>was 29.990 kr</sub>**
 
 <a href="https://jysk.is/stok-vara/JEGIND-bordstofubord-80x130-cm-eik-svart/?PathId=68136a40-8cc3-4036-8232-832bbcbd4a46"><img src="https://jysk.is/library/Images/products/P007358.jpg?proc=366x366" width="320"></a>
@@ -314,7 +358,7 @@ Updated 2026-10-29 14:41 UTC · 83 listings · 5.000 kr–400.000 kr
 
 ---
 
-**4/10** · **25.000 kr** · 🆕
+**4/10** · **25.000 kr**
 
 <a href="https://bland.is/til-solu/heimilid/stofa/bordstofubord-og-8-stolar/5299842/"><img src="https://img.bland.is/album/img/268635/m/20261028170624_0.jpg" width="320"></a>
 
@@ -435,7 +479,7 @@ Updated 2026-10-29 14:41 UTC · 83 listings · 5.000 kr–400.000 kr
 
 ---
 
-**4/10** · **199.990 kr** · uppselt
+**4/10** · **199.990 kr**
 
 <a href="https://jysk.is/stok-vara/OREBRO-bordstofubord-o120-120x160-200-H75-cm-svart/?PathId=68136a40-8cc3-4036-8232-832bbcbd4a46"><img src="https://jysk.is/library/Images/products/P010726.jpg?proc=366x366" width="320"></a>
 
@@ -476,6 +520,17 @@ Updated 2026-10-29 14:41 UTC · 83 listings · 5.000 kr–400.000 kr
 <sub>Snúran · 142 cm</sub>
 
 <sub>The table has a simple wooden pedestal and smooth edges, but its light color and modern design diverge from the warm, mid-century look of the references.</sub>
+
+---
+
+**4/10** · **284.900 kr**
+
+<a href="https://modern.is/shop/husgogn/bord/bordstofubord/curve-bord/"><img src="https://modern.is/wp-content/uploads/2020/08/72619543101-2-e1660516446664-1-300x300.jpg" width="320"></a>
+
+[Navis borð](https://modern.is/shop/husgogn/bord/bordstofubord/curve-bord/)  
+<sub>Módern · 92/132/150/153/232/253 cm</sub>
+
+<sub>The table has a similar form with tapered legs and a slim top, but the light wood color and possibly veneer top do not match the warm wood tone of the reference style.</sub>
 
 ---
 
@@ -608,60 +663,5 @@ Updated 2026-10-29 14:41 UTC · 83 listings · 5.000 kr–400.000 kr
 <sub>Bland (notað) · 184/228 cm</sub>
 
 <sub>The dark, glossy finish and pedestal base contrast with the matte, mid-century Scandinavian style sought.</sub>
-
----
-
-**3/10** · **71.243 kr <sub>was 94.990 kr</sub>**
-
-<a href="https://jysk.is/stok-vara/SKOVLUNDE-bordstofubord-90x160-cm-ljos-eik/?PathId=68136a40-8cc3-4036-8232-832bbcbd4a46"><img src="https://jysk.is/library/Images/products/P002382.jpg?proc=366x366" width="320"></a>
-
-[SKOVLUNDE borðstofuborð 90x160 cm ljós eik](https://jysk.is/stok-vara/SKOVLUNDE-bordstofubord-90x160-cm-ljos-eik/?PathId=68136a40-8cc3-4036-8232-832bbcbd4a46)  
-<sub>JYSK · 160/200/220 cm</sub>
-
-<sub>The table features metal legs and a lighter wood finish, which do not align with the warm wood and sleek Scandinavian design of the reference images.</sub>
-
----
-
-**3/10** · **89.993 kr**
-
-<a href="https://jysk.is/stok-vara/SANDBY-bordstofubord-100x160-cm-natur-svart/?PathId=68136a40-8cc3-4036-8232-832bbcbd4a46"><img src="https://jysk.is/library/Images/products/P004050.jpg?proc=366x366" width="320"></a>
-
-[SANDBY borðstofuborð 100x160 cm natur/svart](https://jysk.is/stok-vara/SANDBY-bordstofubord-100x160-cm-natur-svart/?PathId=68136a40-8cc3-4036-8232-832bbcbd4a46)  
-<sub>JYSK · 160/200/220 cm</sub>
-
-<sub>The table uses wood and metal with angled metal legs, contrasting with the mid-century styled wood-only references.</sub>
-
----
-
-**3/10** · **89.993 kr** · uppselt
-
-<a href="https://jysk.is/stok-vara/SANDBY-bordstofubord-100x160-cm-dokk-eik/?PathId=68136a40-8cc3-4036-8232-832bbcbd4a46"><img src="https://jysk.is/library/Images/products/P006956.jpg?proc=366x366" width="320"></a>
-
-[SANDBY borðstofuborð 100x160 cm dökk eik](https://jysk.is/stok-vara/SANDBY-bordstofubord-100x160-cm-dokk-eik/?PathId=68136a40-8cc3-4036-8232-832bbcbd4a46)  
-<sub>JYSK · 160/200/220 cm</sub>
-
-<sub>The table utilizes wood and metal, featuring a minimalist design that leans industrial, contrasting with the warm, mid-century style and wooden legs of the references.</sub>
-
----
-
-**3/10** · **99.900 kr**
-
-<a href="https://www.ilva.is/stok-vara/?ProductName=SINGLE-Bordstofubord-120-217x80cm-hvitt-eik&PathId=5b0acb86-6b83-45af-afce-1190f3c19f81"><img src="https://www.ilva.is/library/Images/Products/V003024%20-%20Copy%20(3).jpg?proc=366x366" width="320"></a>
-
-[SINGLE Borðstofuborð 120/217x80cm hvítt/eik](https://www.ilva.is/stok-vara/?ProductName=SINGLE-Bordstofubord-120-217x80cm-hvitt-eik&PathId=5b0acb86-6b83-45af-afce-1190f3c19f81)  
-<sub>ILVA · 120/217 cm</sub>
-
-<sub>The table has a contemporary look with a white top and light wood legs, which does not align well with the warm wood tones and mid-century style of the references.</sub>
-
----
-
-**3/10** · **119.900 kr**
-
-<a href="https://www.ilva.is/stok-vara/?ProductName=SINGLE-Bordstofubord-180-277x90cm-hvitt-svart&PathId=5b0acb86-6b83-45af-afce-1190f3c19f81"><img src="https://www.ilva.is/library/Images/Products/V003023.jpg?proc=366x366" width="320"></a>
-
-[SINGLE Borðstofuborð 180/277x90cm hvítt/svart](https://www.ilva.is/stok-vara/?ProductName=SINGLE-Bordstofubord-180-277x90cm-hvitt-svart&PathId=5b0acb86-6b83-45af-afce-1190f3c19f81)  
-<sub>ILVA · 180/277 cm</sub>
-
-<sub>The table has a high contrast design and a laminate top, diverging from the warm wood and mid-century style of the references.</sub>
 
 ---

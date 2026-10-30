@@ -1,6 +1,6 @@
 # Sofas
 
-Updated 2026-10-29 14:41 UTC · 451 listings · 0 kr–400.000 kr
+Updated 2026-10-30 14:35 UTC · 465 listings · 0 kr–400.000 kr
 
 [← all categories](../results.md)
 
@@ -25,17 +25,6 @@ Updated 2026-10-29 14:41 UTC · 451 listings · 0 kr–400.000 kr
 <sub>JYSK</sub>
 
 <sub>The candidate sofa is a light cream color with a soft, woven fabric, featuring a relaxed design with plush cushions, rounded arms, and clean lines. It has a low profile and hidden legs, matching the desired aesthetic closely.</sub>
-
----
-
-**9/10** · **200.000 kr**
-
-<a href="https://bland.is/til-solu/heimilid/stofa/sofi-ur-tekk/5295852/"><img src="https://img.bland.is/album/img/299260/m/20261015104152_0.jpg" width="320"></a>
-
-[Sófi úr tekk](https://bland.is/til-solu/heimilid/stofa/sofi-ur-tekk/5295852/)  
-<sub>Bland (notað)</sub>
-
-<sub>The sofa matches the target style with its light neutral color, soft woven fabric, relaxed deep design, and plush cushions, fitting well with the reference images.</sub>
 
 ---
 
@@ -72,7 +61,7 @@ Updated 2026-10-29 14:41 UTC · 451 listings · 0 kr–400.000 kr
 
 ---
 
-**9/10** · **282.267 kr** · 🆕
+**9/10** · **282.267 kr**
 
 <a href="https://husgagnahollin.is/vara/vesta-tungusofi-vinstri-mito-beige/"><img src="https://husgagnahollin.is/wp-content/uploads/2025/12/Vesta-tungusofi-haegri-Mito-beige-vinstri-6.jpg" width="320"></a>
 
@@ -303,7 +292,7 @@ Updated 2026-10-29 14:41 UTC · 451 listings · 0 kr–400.000 kr
 
 ---
 
-**8/10** · **379.990 kr** · uppselt
+**8/10** · **379.990 kr**
 
 <a href="https://jysk.is/stok-vara/VARDO-hornsofi-beige-haegt-ad-vixla/?PathId=daa6be5b-5fc6-4c03-a44a-6267f53d68a8"><img src="https://jysk.is/library/Images/products/P013104.jpg?proc=366x366" width="320"></a>
 
@@ -311,6 +300,17 @@ Updated 2026-10-29 14:41 UTC · 451 listings · 0 kr–400.000 kr
 <sub>JYSK</sub>
 
 <sub>The sofa is light-colored with a soft fabric, has a relaxed and deep design, plush cushions, and hidden legs, fitting well with the desired aesthetic.</sub>
+
+---
+
+**8/10** · **384.900 kr**
+
+<a href="https://modern.is/shop/husgogn/sofar-og-legubekkir/beinir-sofar/bib-sofi/"><img src="https://modern.is/wp-content/uploads/2025/08/Photoroom_20250819_014254-2-300x300.png" width="320"></a>
+
+[Bib sófi](https://modern.is/shop/husgogn/sofar-og-legubekkir/beinir-sofar/bib-sofi/)  
+<sub>Módern</sub>
+
+<sub>The candidate sofa has a similar off-white woven fabric, with soft rounded arms and clean simple lines, matching the desired aesthetic.</sub>
 
 ---
 
@@ -633,7 +633,7 @@ Updated 2026-10-29 14:41 UTC · 451 listings · 0 kr–400.000 kr
 
 ---
 
-**7/10** · **338.722 kr** · 🆕
+**7/10** · **338.722 kr**
 
 <a href="https://husgagnahollin.is/vara/paso-doble-night-tungusofi-haegri-mito-beige/"><img src="https://husgagnahollin.is/wp-content/uploads/2024/10/Paso-Doble-Night-tungusofi-haegri-Mito-beige-262255001099151562.webp" width="320"></a>
 
