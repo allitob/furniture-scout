@@ -1,6 +1,6 @@
 # Dining tables
 
-Updated 2026-10-30 14:35 UTC · 89 listings · 5.000 kr–400.000 kr
+Updated 2026-10-31 13:55 UTC · 88 listings · 5.000 kr–400.000 kr
 
 [← all categories](../results.md)
 
@@ -204,7 +204,7 @@ Updated 2026-10-30 14:35 UTC · 89 listings · 5.000 kr–400.000 kr
 
 ---
 
-**6/10** · **30.000 kr** · 🆕
+**6/10** · **30.000 kr**
 
 <a href="https://bland.is/til-solu/heimilid/stofa/eldhusbord/5300095/"><img src="https://img.bland.is/album/img/360263/m/20261029170653_0.jpg" width="320"></a>
 
@@ -355,17 +355,6 @@ Updated 2026-10-30 14:35 UTC · 89 listings · 5.000 kr–400.000 kr
 <sub>JYSK · 130/200/220 cm</sub>
 
 <sub>The table has a slim top with rounded edges but features black metal legs, contrasting with the warm wood and purely wooden elements of the target aesthetic.</sub>
-
----
-
-**4/10** · **25.000 kr**
-
-<a href="https://bland.is/til-solu/heimilid/stofa/bordstofubord-og-8-stolar/5299842/"><img src="https://img.bland.is/album/img/268635/m/20261028170624_0.jpg" width="320"></a>
-
-[Borðstofuborð og 8 stólar](https://bland.is/til-solu/heimilid/stofa/bordstofubord-og-8-stolar/5299842/)  
-<sub>Bland (notað) · size?</sub>
-
-<sub>The table is made of wood with a warm tone and rounded edges but has a more traditional style with a rustic finish, not fitting the mid-century Scandinavian aesthetic.</sub>
 
 ---
 
@@ -663,5 +652,16 @@ Updated 2026-10-30 14:35 UTC · 89 listings · 5.000 kr–400.000 kr
 <sub>Bland (notað) · 184/228 cm</sub>
 
 <sub>The dark, glossy finish and pedestal base contrast with the matte, mid-century Scandinavian style sought.</sub>
+
+---
+
+**3/10** · **71.243 kr <sub>was 94.990 kr</sub>**
+
+<a href="https://jysk.is/stok-vara/SKOVLUNDE-bordstofubord-90x160-cm-ljos-eik/?PathId=68136a40-8cc3-4036-8232-832bbcbd4a46"><img src="https://jysk.is/library/Images/products/P002382.jpg?proc=366x366" width="320"></a>
+
+[SKOVLUNDE borðstofuborð 90x160 cm ljós eik](https://jysk.is/stok-vara/SKOVLUNDE-bordstofubord-90x160-cm-ljos-eik/?PathId=68136a40-8cc3-4036-8232-832bbcbd4a46)  
+<sub>JYSK · 160/200/220 cm</sub>
+
+<sub>The table features metal legs and a lighter wood finish, which do not align with the warm wood and sleek Scandinavian design of the reference images.</sub>
 
 ---

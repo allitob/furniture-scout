@@ -1,6 +1,6 @@
 # Dining chairs
 
-Updated 2026-10-30 14:35 UTC · 118 listings · 0 kr–50.000 kr per piece
+Updated 2026-10-31 13:55 UTC · 117 listings · 0 kr–50.000 kr per piece
 
 [← all categories](../results.md)
 
