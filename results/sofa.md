@@ -1,6 +1,6 @@
 # Sofas
 
-Updated 2026-10-31 13:55 UTC · 465 listings · 0 kr–400.000 kr
+Updated 2026-11-01 14:32 UTC · 464 listings · 0 kr–400.000 kr
 
 [← all categories](../results.md)
 
@@ -116,6 +116,17 @@ Updated 2026-10-31 13:55 UTC · 465 listings · 0 kr–400.000 kr
 
 ---
 
+**8/10** · **60.000 kr** · 🆕
+
+<a href="https://bland.is/til-solu/heimilid/stofa/furninova-paso-doble-sofa/5300745/"><img src="https://img.bland.is/album/img/423791/m/20261031184904_0.jpg" width="320"></a>
+
+[Furninova Paso Doble Sofa](https://bland.is/til-solu/heimilid/stofa/furninova-paso-doble-sofa/5300745/)  
+<sub>Bland (notað)</sub>
+
+<sub>The sofa features a light cream color and soft woven fabric, with plush loose back cushions and clean simple lines, matching the target aesthetic well.</sub>
+
+---
+
 **8/10** · **159.990 kr**
 
 <a href="https://jysk.is/stok-vara/SKEJBY-tungusofi-litill-haegri-tunga-opin-endi-sand/?PathId=daa6be5b-5fc6-4c03-a44a-6267f53d68a8"><img src="https://jysk.is/library/Images/products/P011555.jpg?proc=366x366" width="320"></a>
@@ -223,17 +234,6 @@ Updated 2026-10-31 13:55 UTC · 465 listings · 0 kr–400.000 kr
 <sub>ILVA</sub>
 
 <sub>The sofa has the right color and shape with soft rounded arms and clean lines, but the visible dark legs diminish the match slightly.</sub>
-
----
-
-**8/10** · **290.332 kr <sub>was 359.990 kr</sub>**
-
-<a href="https://husgagnahollin.is/vara/dean-tungusofi-cremona-24-brunn/"><img src="https://husgagnahollin.is/wp-content/uploads/2026/08/HA0010188-Dean-tungusofi-Cremona-24-brunn-1-1.webp" width="320"></a>
-
-[Dean tungusófi Cremona 24 brúnn](https://husgagnahollin.is/vara/dean-tungusofi-cremona-24-brunn/)  
-<sub>Húsgagnahöllin</sub>
-
-<sub>The sofa matches the color and relaxed style, has deep cushions, rounded arms, and low design but is slightly darker than the desired greige/cream tone.</sub>
 
 ---
 
@@ -391,7 +391,7 @@ Updated 2026-10-31 13:55 UTC · 465 listings · 0 kr–400.000 kr
 
 ---
 
-**7/10** · **150.000 kr** · 🆕
+**7/10** · **150.000 kr**
 
 <a href="https://bland.is/til-solu/heimilid/stofa/litid-notadur-hornsofi/5300539/"><img src="https://img.bland.is/album/img/300730/m/20261031102816_0.jpg" width="320"></a>
 

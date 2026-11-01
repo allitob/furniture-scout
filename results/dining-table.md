@@ -1,6 +1,6 @@
 # Dining tables
 
-Updated 2026-10-31 13:55 UTC · 88 listings · 5.000 kr–400.000 kr
+Updated 2026-11-01 14:32 UTC · 86 listings · 5.000 kr–400.000 kr
 
 [← all categories](../results.md)
 
@@ -391,17 +391,6 @@ Updated 2026-10-31 13:55 UTC · 88 listings · 5.000 kr–400.000 kr
 
 ---
 
-**4/10** · **99.000 kr**
-
-<a href="https://bland.is/til-solu/heimilid/stofa/dining-table-six-chairs/5296546/"><img src="https://img.bland.is/album/img/431871/m/20261017155635_0.jpg" width="320"></a>
-
-[Dining table  six chairs](https://bland.is/til-solu/heimilid/stofa/dining-table-six-chairs/5296546/)  
-<sub>Bland (notað) · size?</sub>
-
-<sub>The table has a solid wood top but with squared edges and metal cross legs, contrasting with the rounded, tapered legs and softer edges of the reference images.</sub>
-
----
-
 **4/10** · **99.900 kr**
 
 <a href="https://www.ilva.is/stok-vara/?ProductName=SINGLE-Bordstofubord-120-217x80cm-eik-eik&PathId=5b0acb86-6b83-45af-afce-1190f3c19f81"><img src="https://www.ilva.is/library/Images/Products/V007738.jpg?proc=366x366" width="320"></a>
@@ -589,17 +578,6 @@ Updated 2026-10-31 13:55 UTC · 88 listings · 5.000 kr–400.000 kr
 
 ---
 
-**3/10** · **25.000 kr**
-
-<a href="https://bland.is/til-solu/heimilid/eldhus-og-badherbergi/eldhusbord-og-4-stolar/5299632/"><img src="https://img.bland.is/album/img/130118/m/20261027233833_0.jpg" width="320"></a>
-
-[Eldhúsborð og 4 stólar](https://bland.is/til-solu/heimilid/eldhus-og-badherbergi/eldhusbord-og-4-stolar/5299632/)  
-<sub>Bland (notað) · size?</sub>
-
-<sub>The table is a simple design with wooden elements but features a white laminate top which contrasts with the warm wood tone and mid-century style of the references.</sub>
-
----
-
 **3/10** · **26.243 kr <sub>was 34.990 kr</sub>**
 
 <a href="https://jysk.is/stok-vara/JUNGEN-bordstofubord-80x80-160-cm-ljos-eik/?PathId=68136a40-8cc3-4036-8232-832bbcbd4a46"><img src="https://jysk.is/library/Images/products/P011136.jpg?proc=366x366" width="320"></a>
@@ -663,5 +641,27 @@ Updated 2026-10-31 13:55 UTC · 88 listings · 5.000 kr–400.000 kr
 <sub>JYSK · 160/200/220 cm</sub>
 
 <sub>The table features metal legs and a lighter wood finish, which do not align with the warm wood and sleek Scandinavian design of the reference images.</sub>
+
+---
+
+**3/10** · **89.993 kr**
+
+<a href="https://jysk.is/stok-vara/SANDBY-bordstofubord-100x160-cm-natur-svart/?PathId=68136a40-8cc3-4036-8232-832bbcbd4a46"><img src="https://jysk.is/library/Images/products/P004050.jpg?proc=366x366" width="320"></a>
+
+[SANDBY borðstofuborð 100x160 cm natur/svart](https://jysk.is/stok-vara/SANDBY-bordstofubord-100x160-cm-natur-svart/?PathId=68136a40-8cc3-4036-8232-832bbcbd4a46)  
+<sub>JYSK · 160/200/220 cm</sub>
+
+<sub>The table uses wood and metal with angled metal legs, contrasting with the mid-century styled wood-only references.</sub>
+
+---
+
+**3/10** · **89.993 kr** · uppselt
+
+<a href="https://jysk.is/stok-vara/SANDBY-bordstofubord-100x160-cm-dokk-eik/?PathId=68136a40-8cc3-4036-8232-832bbcbd4a46"><img src="https://jysk.is/library/Images/products/P006956.jpg?proc=366x366" width="320"></a>
+
+[SANDBY borðstofuborð 100x160 cm dökk eik](https://jysk.is/stok-vara/SANDBY-bordstofubord-100x160-cm-dokk-eik/?PathId=68136a40-8cc3-4036-8232-832bbcbd4a46)  
+<sub>JYSK · 160/200/220 cm</sub>
+
+<sub>The table utilizes wood and metal, featuring a minimalist design that leans industrial, contrasting with the warm, mid-century style and wooden legs of the references.</sub>
 
 ---

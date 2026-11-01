@@ -1,6 +1,6 @@
 # Dining chairs
 
-Updated 2026-10-31 13:55 UTC · 117 listings · 0 kr–50.000 kr per piece
+Updated 2026-11-01 14:32 UTC · 117 listings · 0 kr–50.000 kr per piece
 
 [← all categories](../results.md)
 
@@ -593,7 +593,7 @@ Updated 2026-10-31 13:55 UTC · 117 listings · 0 kr–50.000 kr per piece
 
 <a href="https://jysk.is/stok-vara/MELBY-bordstofustoll-ljosbrunn-svartur/?PathId=73bef239-beb3-4e8d-a05c-f0583025233d"><img src="https://jysk.is/library/Images/products/P011138.jpg?proc=366x366" width="320"></a>
 
-[mánaðarins 41% MELBY borðstofustóll ljósbrúnn/svartur](https://jysk.is/stok-vara/MELBY-bordstofustoll-ljosbrunn-svartur/?PathId=73bef239-beb3-4e8d-a05c-f0583025233d)  
+[MELBY borðstofustóll ljósbrúnn/svartur](https://jysk.is/stok-vara/MELBY-bordstofustoll-ljosbrunn-svartur/?PathId=73bef239-beb3-4e8d-a05c-f0583025233d)  
 <sub>JYSK</sub>
 
 <sub>The chair has a modern look with metal legs and a fully upholstered seat, which does not align with the mid-century Scandinavian aesthetic desired.</sub>
