@@ -1,6 +1,6 @@
 # Sofas
 
-Updated 2026-11-01 14:32 UTC · 464 listings · 0 kr–400.000 kr
+Updated 2026-11-02 17:27 UTC · 458 listings · 0 kr–400.000 kr
 
 [← all categories](../results.md)
 
@@ -116,7 +116,7 @@ Updated 2026-11-01 14:32 UTC · 464 listings · 0 kr–400.000 kr
 
 ---
 
-**8/10** · **60.000 kr** · 🆕
+**8/10** · **60.000 kr**
 
 <a href="https://bland.is/til-solu/heimilid/stofa/furninova-paso-doble-sofa/5300745/"><img src="https://img.bland.is/album/img/423791/m/20261031184904_0.jpg" width="320"></a>
 
@@ -347,17 +347,6 @@ Updated 2026-11-01 14:32 UTC · 464 listings · 0 kr–400.000 kr
 
 ---
 
-**7/10** · **20.000 kr**
-
-<a href="https://bland.is/til-solu/heimilid/stofa/sofi/5296669/"><img src="https://img.bland.is/album/img/261473/m/20261017205045_0.jpg" width="320"></a>
-
-[Sófi](https://bland.is/til-solu/heimilid/stofa/sofi/5296669/)  
-<sub>Bland (notað)</sub>
-
-<sub>The candidate sofa has a woven fabric in a light greige tone, with a relaxed and deep design and soft rounded arms, but lacks the ideal corner or chaise configuration.</sub>
-
----
-
 **7/10** · **67.493 kr <sub>was 69.990 kr</sub>**
 
 <a href="https://jysk.is/stok-vara/SKEJBY-sofaeining-haegri-tungu-endi-m-bak-sand/?PathId=daa6be5b-5fc6-4c03-a44a-6267f53d68a8"><img src="https://jysk.is/library/Images/products/P011031.jpg?proc=366x366" width="320"></a>
@@ -388,17 +377,6 @@ Updated 2026-11-01 14:32 UTC · 464 listings · 0 kr–400.000 kr
 <sub>JYSK</sub>
 
 <sub>The sofa features a suitable light color and fabric, but lacks the L-shape and has slightly more structured lines than desired.</sub>
-
----
-
-**7/10** · **150.000 kr**
-
-<a href="https://bland.is/til-solu/heimilid/stofa/litid-notadur-hornsofi/5300539/"><img src="https://img.bland.is/album/img/300730/m/20261031102816_0.jpg" width="320"></a>
-
-[Lítið notaður hornsófi](https://bland.is/til-solu/heimilid/stofa/litid-notadur-hornsofi/5300539/)  
-<sub>Bland (notað)</sub>
-
-<sub>The sofa is a light color with woven fabric, L-shaped, but has visible legs and lacks the plush, relaxed cushioning of the references.</sub>
 
 ---
 
@@ -663,5 +641,27 @@ Updated 2026-11-01 14:32 UTC · 464 listings · 0 kr–400.000 kr
 <sub>JYSK</sub>
 
 <sub>The sofa has a soft woven fabric in a warm neutral tone, with a low and generous profile, matching the relaxed aesthetic desired.</sub>
+
+---
+
+**7/10** · **349.990 kr**
+
+<a href="https://jysk.is/stok-vara/VARDO-tungusofi-vinstri-brunn/?PathId=daa6be5b-5fc6-4c03-a44a-6267f53d68a8"><img src="https://jysk.is/library/Images/products/P013102.jpg?proc=366x366" width="320"></a>
+
+[VARDO tungusófi vinstri brúnn](https://jysk.is/stok-vara/VARDO-tungusofi-vinstri-brunn/?PathId=daa6be5b-5fc6-4c03-a44a-6267f53d68a8)  
+<sub>JYSK</sub>
+
+<sub>The design is modern with clean lines and soft rounded arms, aligning well with the target aesthetic, though the color is slightly darker than the reference.</sub>
+
+---
+
+**7/10** · **349.990 kr**
+
+<a href="https://jysk.is/stok-vara/VARDO-tungusofi-haegri-beige/?PathId=daa6be5b-5fc6-4c03-a44a-6267f53d68a8"><img src="https://jysk.is/library/Images/products/P013101.jpg?proc=366x366" width="320"></a>
+
+[VARDO tungusófi hægri beige](https://jysk.is/stok-vara/VARDO-tungusofi-haegri-beige/?PathId=daa6be5b-5fc6-4c03-a44a-6267f53d68a8)  
+<sub>JYSK</sub>
+
+<sub>The sofa matches the color and basic shape requirements, though it has a more structured design and the back cushions are not loose.</sub>
 
 ---
