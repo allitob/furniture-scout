@@ -1,12 +1,12 @@
 # Sofas
 
-Updated 2026-11-04 15:47 UTC · 358 listings · 0 kr–400.000 kr
+Updated 2026-11-05 15:50 UTC · 441 listings · 0 kr–400.000 kr
 
 [← all categories](../results.md)
 
 ---
 
-**9/10** · **189.800 kr**
+**9/10** · **142.350 kr <sub>was 189.800 kr</sub>**
 
 <a href="https://www.ilva.is/stok-vara/?ProductName=AIMEE-Tungusofi-vinstri-off-white-1&PathId=1fc7d092-ce9e-11ef-81b7-8f3b82297126"><img src="https://www.ilva.is/library/Images/Products/V009686.png?proc=366x366" width="320"></a>
 
@@ -14,6 +14,83 @@ Updated 2026-11-04 15:47 UTC · 358 listings · 0 kr–400.000 kr
 <sub>ILVA</sub>
 
 <sub>The sofa is an off-white L-shaped piece with plush back cushions and clean lines, fitting well with the desired aesthetic.</sub>
+
+---
+
+**9/10** · **199.890 kr**
+
+<a href="https://jysk.is/stok-vara/LYBY-tungusofi-sand/?PathId=daa6be5b-5fc6-4c03-a44a-6267f53d68a8"><img src="https://jysk.is/library/Images/products/P009394XXX.jpg?proc=366x366" width="320"></a>
+
+[LYBY tungusófi sand](https://jysk.is/stok-vara/LYBY-tungusofi-sand/?PathId=daa6be5b-5fc6-4c03-a44a-6267f53d68a8)  
+<sub>JYSK</sub>
+
+<sub>The candidate sofa is a light cream color with a soft, woven fabric, featuring a relaxed design with plush cushions, rounded arms, and clean lines. It has a low profile and hidden legs, matching the desired aesthetic closely.</sub>
+
+---
+
+**9/10** · **262.493 kr <sub>was 349.990 kr</sub>**
+
+<a href="https://husgagnahollin.is/vara/vesta-tungusofi-haegri-mito-beige/"><img src="https://husgagnahollin.is/wp-content/uploads/2026/04/Vesta-tungusofi-haegri-Mito-beige-haegri-6.webp" width="320"></a>
+
+[Vesta tungusófi hægri Mito Beige](https://husgagnahollin.is/vara/vesta-tungusofi-haegri-mito-beige/)  
+<sub>Húsgagnahöllin</sub>
+
+<sub>The sofa has a light cream color, soft rounded arms, plush cushions, and simple lines, matching the desired aesthetic closely.</sub>
+
+---
+
+**9/10** · **262.493 kr <sub>was 349.990 kr</sub>**
+
+<a href="https://husgagnahollin.is/vara/vesta-tungusofi-vinstri-mito-beige/"><img src="https://husgagnahollin.is/wp-content/uploads/2025/12/Vesta-tungusofi-haegri-Mito-beige-vinstri-6.jpg" width="320"></a>
+
+[Vesta tungusófi vinstri Mito Beige](https://husgagnahollin.is/vara/vesta-tungusofi-vinstri-mito-beige/)  
+<sub>Húsgagnahöllin</sub>
+
+<sub>Matches the aesthetic with its light color, soft fabric, rounded arms, and low, generous proportions.</sub>
+
+---
+
+**9/10** · **269.790 kr**
+
+<a href="https://jysk.is/stok-vara/LYBY-hornsofi-m-opnum-enda-sand/?PathId=daa6be5b-5fc6-4c03-a44a-6267f53d68a8"><img src="https://jysk.is/library/Images/products/P009391.jpg?proc=366x366" width="320"></a>
+
+[LYBY hornsófi m/opnum enda sand](https://jysk.is/stok-vara/LYBY-hornsofi-m-opnum-enda-sand/?PathId=daa6be5b-5fc6-4c03-a44a-6267f53d68a8)  
+<sub>JYSK</sub>
+
+<sub>Matches the warm greige color and relaxed style with plush cushions, soft rounded arms, and hidden legs, fitting well with the reference images.</sub>
+
+---
+
+**9/10** · **269.993 kr <sub>was 359.990 kr</sub>**
+
+<a href="https://husgagnahollin.is/vara/dean-tungusofi-cremona-14-beige/"><img src="https://husgagnahollin.is/wp-content/uploads/2026/01/HA0010185-Dean-tungusofi-Cremona-14-1.webp" width="320"></a>
+
+[Dean tungusófi Cremona 14 beige](https://husgagnahollin.is/vara/dean-tungusofi-cremona-14-beige/)  
+<sub>Húsgagnahöllin</sub>
+
+<sub>The candidate sofa has a light warm greige tone, soft fabric, and plush loose back cushions fitting the desired aesthetic.</sub>
+
+---
+
+**9/10** · **279.790 kr**
+
+<a href="https://jysk.is/stok-vara/LYBY-hornsofi-sand/?PathId=daa6be5b-5fc6-4c03-a44a-6267f53d68a8"><img src="https://jysk.is/library/Images/products/P009390.jpg?proc=366x366" width="320"></a>
+
+[LYBY hornsófi sand](https://jysk.is/stok-vara/LYBY-hornsofi-sand/?PathId=daa6be5b-5fc6-4c03-a44a-6267f53d68a8)  
+<sub>JYSK</sub>
+
+<sub>The sofa's light warm greige color, soft woven fabric, loose back cushions, and hidden legs align closely with the desired style.</sub>
+
+---
+
+**9/10** · **287.992 kr <sub>was 359.990 kr</sub>**
+
+<a href="https://husgagnahollin.is/vara/enjoy-hornsofi-haegri-mito-01-sand/"><img src="https://husgagnahollin.is/wp-content/uploads/2024/09/Enjoy-hornsofi-haegri-Mito-01-Sand-KSO018651.webp" width="320"></a>
+
+[Enjoy hornsófi hægri Mito 01 Sand](https://husgagnahollin.is/vara/enjoy-hornsofi-haegri-mito-01-sand/)  
+<sub>Húsgagnahöllin</sub>
+
+<sub>The sofa matches the aesthetic with its light cream color, soft woven fabric, relaxed and deep design, and clean lines, fitting the reference images.</sub>
 
 ---
 
@@ -39,50 +116,6 @@ Updated 2026-11-04 15:47 UTC · 358 listings · 0 kr–400.000 kr
 
 ---
 
-**9/10** · **349.990 kr**
-
-<a href="https://husgagnahollin.is/vara/vesta-tungusofi-haegri-mito-beige/"><img src="https://husgagnahollin.is/wp-content/uploads/2026/04/Vesta-tungusofi-haegri-Mito-beige-haegri-6.webp" width="320"></a>
-
-[Vesta tungusófi hægri Mito Beige](https://husgagnahollin.is/vara/vesta-tungusofi-haegri-mito-beige/)  
-<sub>Húsgagnahöllin</sub>
-
-<sub>The sofa has a light cream color, soft rounded arms, plush cushions, and simple lines, matching the desired aesthetic closely.</sub>
-
----
-
-**9/10** · **349.990 kr**
-
-<a href="https://husgagnahollin.is/vara/vesta-tungusofi-vinstri-mito-beige/"><img src="https://husgagnahollin.is/wp-content/uploads/2025/12/Vesta-tungusofi-haegri-Mito-beige-vinstri-6.jpg" width="320"></a>
-
-[Vesta tungusófi vinstri Mito Beige](https://husgagnahollin.is/vara/vesta-tungusofi-vinstri-mito-beige/)  
-<sub>Húsgagnahöllin</sub>
-
-<sub>Matches the aesthetic with its light color, soft fabric, rounded arms, and low, generous proportions.</sub>
-
----
-
-**9/10** · **359.990 kr**
-
-<a href="https://husgagnahollin.is/vara/dean-tungusofi-cremona-14-beige/"><img src="https://husgagnahollin.is/wp-content/uploads/2026/01/HA0010185-Dean-tungusofi-Cremona-14-1.webp" width="320"></a>
-
-[Dean tungusófi Cremona 14 beige](https://husgagnahollin.is/vara/dean-tungusofi-cremona-14-beige/)  
-<sub>Húsgagnahöllin</sub>
-
-<sub>The candidate sofa has a light warm greige tone, soft fabric, and plush loose back cushions fitting the desired aesthetic.</sub>
-
----
-
-**9/10** · **359.990 kr**
-
-<a href="https://husgagnahollin.is/vara/enjoy-hornsofi-haegri-mito-01-sand/"><img src="https://husgagnahollin.is/wp-content/uploads/2024/09/Enjoy-hornsofi-haegri-Mito-01-Sand-KSO018651.webp" width="320"></a>
-
-[Enjoy hornsófi hægri Mito 01 Sand](https://husgagnahollin.is/vara/enjoy-hornsofi-haegri-mito-01-sand/)  
-<sub>Húsgagnahöllin</sub>
-
-<sub>The sofa matches the aesthetic with its light cream color, soft woven fabric, relaxed and deep design, and clean lines, fitting the reference images.</sub>
-
----
-
 **8/10** · **60.000 kr**
 
 <a href="https://bland.is/til-solu/heimilid/stofa/furninova-paso-doble-sofa/5300745/"><img src="https://img.bland.is/album/img/423791/m/20261031184904_0.jpg" width="320"></a>
@@ -91,6 +124,28 @@ Updated 2026-11-04 15:47 UTC · 358 listings · 0 kr–400.000 kr
 <sub>Bland (notað)</sub>
 
 <sub>The sofa features a light cream color and soft woven fabric, with plush loose back cushions and clean simple lines, matching the target aesthetic well.</sub>
+
+---
+
+**8/10** · **142.350 kr <sub>was 189.800 kr</sub>**
+
+<a href="https://www.ilva.is/stok-vara/?ProductName=AIMEE-Tungusofi-haegri-off-white-1&PathId=1fc7d092-ce9e-11ef-81b7-8f3b82297126"><img src="https://www.ilva.is/library/Images/Products/V009685.png?proc=366x366" width="320"></a>
+
+[AIMEE Tungusófi hægri off white](https://www.ilva.is/stok-vara/?ProductName=AIMEE-Tungusofi-haegri-off-white-1&PathId=1fc7d092-ce9e-11ef-81b7-8f3b82297126)  
+<sub>ILVA</sub>
+
+<sub>Matches the target look in color and shape, but the fabric texture is slightly different.</sub>
+
+---
+
+**8/10** · **149.850 kr <sub>was 199.800 kr</sub>**
+
+<a href="https://www.ilva.is/stok-vara/?ProductName=AIMEE-4ra-saeta-sofi-off-white&PathId=4281ffde-4606-4172-b524-c44ff6c618af"><img src="https://www.ilva.is/library/Images/Products/V013982.jpg?proc=366x366" width="320"></a>
+
+[AIMEE 4ra sæta sófi off white](https://www.ilva.is/stok-vara/?ProductName=AIMEE-4ra-saeta-sofi-off-white&PathId=4281ffde-4606-4172-b524-c44ff6c618af)  
+<sub>ILVA</sub>
+
+<sub>The sofa has a modern design with clean lines and a light woven fabric, fitting well with the desired aesthetic, although its bulkier shape slightly deviates from the relaxed look.</sub>
 
 ---
 
@@ -138,29 +193,18 @@ Updated 2026-11-04 15:47 UTC · 358 listings · 0 kr–400.000 kr
 
 ---
 
-**8/10** · **189.800 kr**
+**8/10** · **187.275 kr <sub>was 249.700 kr</sub>**
 
-<a href="https://www.ilva.is/stok-vara/?ProductName=AIMEE-Tungusofi-haegri-off-white-1&PathId=1fc7d092-ce9e-11ef-81b7-8f3b82297126"><img src="https://www.ilva.is/library/Images/Products/V009685.png?proc=366x366" width="320"></a>
+<a href="https://www.ilva.is/stok-vara/?ProductName=AIMEE-Tungusofi-vinstri-off-white-med-midjueiningu&PathId=1fc7d092-ce9e-11ef-81b7-8f3b82297126"><img src="https://www.ilva.is/library/Images/Products/V011413.jpg?proc=366x366" width="320"></a>
 
-[AIMEE Tungusófi hægri off white](https://www.ilva.is/stok-vara/?ProductName=AIMEE-Tungusofi-haegri-off-white-1&PathId=1fc7d092-ce9e-11ef-81b7-8f3b82297126)  
+[AIMEE Tungusófi vinstri off white með miðjueiningu](https://www.ilva.is/stok-vara/?ProductName=AIMEE-Tungusofi-vinstri-off-white-med-midjueiningu&PathId=1fc7d092-ce9e-11ef-81b7-8f3b82297126)  
 <sub>ILVA</sub>
 
-<sub>Matches the target look in color and shape, but the fabric texture is slightly different.</sub>
+<sub>The sofa's color and fabric closely resemble the desired aesthetic, with a low-profile, generous design and an L-shape, but it lacks visible wooden elements for legs.</sub>
 
 ---
 
-**8/10** · **199.800 kr**
-
-<a href="https://www.ilva.is/stok-vara/?ProductName=AIMEE-4ra-saeta-sofi-off-white&PathId=4281ffde-4606-4172-b524-c44ff6c618af"><img src="https://www.ilva.is/library/Images/Products/V013982.jpg?proc=366x366" width="320"></a>
-
-[AIMEE 4ra sæta sófi off white](https://www.ilva.is/stok-vara/?ProductName=AIMEE-4ra-saeta-sofi-off-white&PathId=4281ffde-4606-4172-b524-c44ff6c618af)  
-<sub>ILVA</sub>
-
-<sub>The sofa has a modern design with clean lines and a light woven fabric, fitting well with the desired aesthetic, although its bulkier shape slightly deviates from the relaxed look.</sub>
-
----
-
-**8/10** · **200.000 kr** · 🆕
+**8/10** · **200.000 kr**
 
 <a href="https://bland.is/til-solu/heimilid/stofa/hornsofi/5301618/"><img src="https://img.bland.is/album/img/326356/m/20261103204222_0.jpg" width="320"></a>
 
@@ -182,17 +226,6 @@ Updated 2026-11-04 15:47 UTC · 358 listings · 0 kr–400.000 kr
 
 ---
 
-**8/10** · **249.700 kr**
-
-<a href="https://www.ilva.is/stok-vara/?ProductName=AIMEE-Tungusofi-vinstri-off-white-med-midjueiningu&PathId=1fc7d092-ce9e-11ef-81b7-8f3b82297126"><img src="https://www.ilva.is/library/Images/Products/V011413.jpg?proc=366x366" width="320"></a>
-
-[AIMEE Tungusófi vinstri off white með miðjueiningu](https://www.ilva.is/stok-vara/?ProductName=AIMEE-Tungusofi-vinstri-off-white-med-midjueiningu&PathId=1fc7d092-ce9e-11ef-81b7-8f3b82297126)  
-<sub>ILVA</sub>
-
-<sub>The sofa's color and fabric closely resemble the desired aesthetic, with a low-profile, generous design and an L-shape, but it lacks visible wooden elements for legs.</sub>
-
----
-
 **8/10** · **259.990 kr**
 
 <a href="https://jysk.is/stok-vara/SKEJBY-hornsofi-m-opnum-enda-sand/?PathId=daa6be5b-5fc6-4c03-a44a-6267f53d68a8"><img src="https://jysk.is/library/Images/products/P009240.jpg?proc=366x366" width="320"></a>
@@ -204,14 +237,58 @@ Updated 2026-11-04 15:47 UTC · 358 listings · 0 kr–400.000 kr
 
 ---
 
-**8/10** · **289.900 kr**
+**8/10** · **298.987 kr <sub>was 370.974 kr</sub>**
 
-<a href="https://www.ilva.is/stok-vara/?ProductName=PARKER-Tungusofi-haegri-hvitur&PathId=1fc7d092-ce9e-11ef-81b7-8f3b82297126"><img src="https://www.ilva.is/library/Images/Products/V007182.jpg?proc=366x366" width="320"></a>
+<a href="https://husgagnahollin.is/vara/vesta-tungusofi-haegri-c1-denali-beige/"><img src="https://husgagnahollin.is/wp-content/uploads/2023/05/Vesta-tungusofi-haegri-C1-Denali-beige-496670006099150162.jpg" width="320"></a>
 
-[PARKER Tungusófi hægri hvítur](https://www.ilva.is/stok-vara/?ProductName=PARKER-Tungusofi-haegri-hvitur&PathId=1fc7d092-ce9e-11ef-81b7-8f3b82297126)  
+[Vesta tungusófi hægri (C1) Denali beige](https://husgagnahollin.is/vara/vesta-tungusofi-haegri-c1-denali-beige/)  
+<sub>Húsgagnahöllin</sub>
+
+<sub>The sofa is a light greige in a soft woven fabric with plush cushions and rounded arms, matching the relaxed and deep aesthetic desired, though with slightly visible legs.</sub>
+
+---
+
+**8/10** · **299.925 kr <sub>was 399.900 kr</sub>**
+
+<a href="https://www.ilva.is/stok-vara/?ProductName=RUNAR-Hornsofi-haegri-natural&PathId=1fc7d092-ce9e-11ef-81b7-8f3b82297126"><img src="https://www.ilva.is/library/Images/Products/V011275.jpg?proc=366x366" width="320"></a>
+
+[RUNAR Hornsófi hægri natural](https://www.ilva.is/stok-vara/?ProductName=RUNAR-Hornsofi-haegri-natural&PathId=1fc7d092-ce9e-11ef-81b7-8f3b82297126)  
 <sub>ILVA</sub>
 
-<sub>The sofa has the right color and shape with soft rounded arms and clean lines, but the visible dark legs diminish the match slightly.</sub>
+<sub>The candidate sofa has a light cream color, soft woven look, concealed legs, and clean lines, which align well with the reference aesthetics.</sub>
+
+---
+
+**8/10** · **299.925 kr <sub>was 399.900 kr</sub>**
+
+<a href="https://www.ilva.is/stok-vara/?ProductName=RUNAR-Hornsofi-vinstri-natural&PathId=1fc7d092-ce9e-11ef-81b7-8f3b82297126"><img src="https://www.ilva.is/library/Images/Products/V011274.jpg?proc=366x366" width="320"></a>
+
+[RUNAR Hornsófi vinstri natural](https://www.ilva.is/stok-vara/?ProductName=RUNAR-Hornsofi-vinstri-natural&PathId=1fc7d092-ce9e-11ef-81b7-8f3b82297126)  
+<sub>ILVA</sub>
+
+<sub>The sofa matches the target style with its light greige fabric, generous L-shape, plush loose cushions, and simple design.</sub>
+
+---
+
+**8/10** · **299.990 kr**
+
+<a href="https://jysk.is/stok-vara/KOGE-tungusofi-haegri-beige/?PathId=daa6be5b-5fc6-4c03-a44a-6267f53d68a8"><img src="https://jysk.is/library/Images/products/P012410.jpg?proc=366x366" width="320"></a>
+
+[KOGE tungusófi hægri beige](https://jysk.is/stok-vara/KOGE-tungusofi-haegri-beige/?PathId=daa6be5b-5fc6-4c03-a44a-6267f53d68a8)  
+<sub>JYSK</sub>
+
+<sub>The candidate has a light color, soft fabric, rounded arms, and a low, generous design matching the relaxed and plush aesthetic.</sub>
+
+---
+
+**8/10** · **299.990 kr**
+
+<a href="https://jysk.is/stok-vara/KOGE-tungusofi-vinstri-beige/?PathId=daa6be5b-5fc6-4c03-a44a-6267f53d68a8"><img src="https://jysk.is/library/Images/products/P012409.jpg?proc=366x366" width="320"></a>
+
+[KOGE tungusófi vinstri beige](https://jysk.is/stok-vara/KOGE-tungusofi-vinstri-beige/?PathId=daa6be5b-5fc6-4c03-a44a-6267f53d68a8)  
+<sub>JYSK</sub>
+
+<sub>The sofa is light cream with a soft woven texture, has clean lines, and features an L-shape with a low profile, matching the relaxed and deep style of the references.</sub>
 
 ---
 
@@ -226,36 +303,80 @@ Updated 2026-11-04 15:47 UTC · 358 listings · 0 kr–400.000 kr
 
 ---
 
-**8/10** · **384.900 kr**
+**8/10** · **329.925 kr <sub>was 351.920 kr</sub>**
 
-<a href="https://modern.is/shop/husgogn/sofar-og-legubekkir/beinir-sofar/bib-sofi/"><img src="https://modern.is/wp-content/uploads/2025/08/Photoroom_20250819_014254-2-300x300.png" width="320"></a>
+<a href="https://www.ilva.is/stok-vara/?ProductName=SIENA-Tungusofi-haegri-sandlitadur-2&PathId=1fc7d092-ce9e-11ef-81b7-8f3b82297126"><img src="https://www.ilva.is/library/Images/Products/V013134.jpg?proc=366x366" width="320"></a>
 
-[Bib sófi](https://modern.is/shop/husgogn/sofar-og-legubekkir/beinir-sofar/bib-sofi/)  
-<sub>Módern</sub>
+[SIENA Tungusófi hægri sandlitaður](https://www.ilva.is/stok-vara/?ProductName=SIENA-Tungusofi-haegri-sandlitadur-2&PathId=1fc7d092-ce9e-11ef-81b7-8f3b82297126)  
+<sub>ILVA</sub>
 
-<sub>The candidate sofa has a similar off-white woven fabric, with soft rounded arms and clean simple lines, matching the desired aesthetic.</sub>
+<sub>The sofa matches the desired light, warm tone and minimalistic style with its simple lines and soft fabric, but it lacks the plush, loose back cushions and visible wooden legs.</sub>
 
 ---
 
-**8/10** · **399.900 kr**
+**8/10** · **349.990 kr**
 
-<a href="https://www.ilva.is/stok-vara/?ProductName=RUNAR-Hornsofi-haegri-natural&PathId=1fc7d092-ce9e-11ef-81b7-8f3b82297126"><img src="https://www.ilva.is/library/Images/Products/V011275.jpg?proc=366x366" width="320"></a>
+<a href="https://jysk.is/stok-vara/VARDO-tungusofi-vinstri-beige/?PathId=daa6be5b-5fc6-4c03-a44a-6267f53d68a8"><img src="https://jysk.is/library/Images/products/P013100.jpg?proc=366x366" width="320"></a>
 
-[RUNAR Hornsófi hægri natural](https://www.ilva.is/stok-vara/?ProductName=RUNAR-Hornsofi-haegri-natural&PathId=1fc7d092-ce9e-11ef-81b7-8f3b82297126)  
-<sub>ILVA</sub>
+[VARDO tungusófi vinstri beige](https://jysk.is/stok-vara/VARDO-tungusofi-vinstri-beige/?PathId=daa6be5b-5fc6-4c03-a44a-6267f53d68a8)  
+<sub>JYSK</sub>
 
-<sub>The candidate sofa has a light cream color, soft woven look, concealed legs, and clean lines, which align well with the reference aesthetics.</sub>
+<sub>The sofa is light beige with soft, rounded arms, plush seating, and simple lines, fitting well with the target aesthetic.</sub>
 
 ---
 
-**8/10** · **399.900 kr**
+**8/10** · **352.425 kr**
 
-<a href="https://www.ilva.is/stok-vara/?ProductName=RUNAR-Hornsofi-vinstri-natural&PathId=1fc7d092-ce9e-11ef-81b7-8f3b82297126"><img src="https://www.ilva.is/library/Images/Products/V011274.jpg?proc=366x366" width="320"></a>
+<a href="https://www.ilva.is/stok-vara/?ProductName=LEAN-Hornsofi-haegri-drapplitadur&PathId=1fc7d092-ce9e-11ef-81b7-8f3b82297126"><img src="https://www.ilva.is/library/Images/Products/V010468.jpg?proc=366x366" width="320"></a>
 
-[RUNAR Hornsófi vinstri natural](https://www.ilva.is/stok-vara/?ProductName=RUNAR-Hornsofi-vinstri-natural&PathId=1fc7d092-ce9e-11ef-81b7-8f3b82297126)  
+[LEAN Hornsófi hægri drapplitaður](https://www.ilva.is/stok-vara/?ProductName=LEAN-Hornsofi-haegri-drapplitadur&PathId=1fc7d092-ce9e-11ef-81b7-8f3b82297126)  
 <sub>ILVA</sub>
 
-<sub>The sofa matches the target style with its light greige fabric, generous L-shape, plush loose cushions, and simple design.</sub>
+<sub>The sofa matches the target look with its light greige color and woven fabric, featuring an L-shaped design with soft lines and low proportions.</sub>
+
+---
+
+**8/10** · **352.425 kr**
+
+<a href="https://www.ilva.is/stok-vara/?ProductName=LEAN-Hornsofi-vinstri-drapplitadur&PathId=1fc7d092-ce9e-11ef-81b7-8f3b82297126"><img src="https://www.ilva.is/library/Images/Products/V010467.jpg?proc=366x366" width="320"></a>
+
+[LEAN Hornsófi vinstri drapplitaður](https://www.ilva.is/stok-vara/?ProductName=LEAN-Hornsofi-vinstri-drapplitadur&PathId=1fc7d092-ce9e-11ef-81b7-8f3b82297126)  
+<sub>ILVA</sub>
+
+<sub>The candidate sofa is a light greige corner sofa with simple lines, soft fabric, and hidden legs, closely matching the desired aesthetic.</sub>
+
+---
+
+**8/10** · **379.990 kr**
+
+<a href="https://jysk.is/stok-vara/VARDO-hornsofi-beige-haegt-ad-vixla/?PathId=daa6be5b-5fc6-4c03-a44a-6267f53d68a8"><img src="https://jysk.is/library/Images/products/P013104.jpg?proc=366x366" width="320"></a>
+
+[VARDO hornsófi beige (hægt að víxla)](https://jysk.is/stok-vara/VARDO-hornsofi-beige-haegt-ad-vixla/?PathId=daa6be5b-5fc6-4c03-a44a-6267f53d68a8)  
+<sub>JYSK</sub>
+
+<sub>The sofa is light-colored with a soft fabric, has a relaxed and deep design, plush cushions, and hidden legs, fitting well with the desired aesthetic.</sub>
+
+---
+
+**8/10** · **391.992 kr <sub>was 395.177 kr</sub>**
+
+<a href="https://husgagnahollin.is/vara/nelson-hornsofi-vinstri-hevre-beige-bb/"><img src="https://husgagnahollin.is/wp-content/uploads/2026/01/104835098002-Nelson-hornsofi-haegri-Hevre-beige-Bb-1-copy.webp" width="320"></a>
+
+[Nelson hornsófi vinstri Hevre beige Bb](https://husgagnahollin.is/vara/nelson-hornsofi-vinstri-hevre-beige-bb/)  
+<sub>Húsgagnahöllin</sub>
+
+<sub>The Nelson sofa has a light woven fabric, soft rounded arms, loose back cushions, and a low, L-shaped design that matches the desired aesthetic.</sub>
+
+---
+
+**8/10** · **399.992 kr** · 🆕
+
+<a href="https://husgagnahollin.is/vara/vesta-hornsofi-haegri-mito-beige/"><img src="https://husgagnahollin.is/wp-content/uploads/2026/05/49682799079299151562-Vesta-hornsofi-haegri-Mito-beige-1.webp" width="320"></a>
+
+[Vesta hornsófi hægri Mito beige](https://husgagnahollin.is/vara/vesta-hornsofi-haegri-mito-beige/)  
+<sub>Húsgagnahöllin</sub>
+
+<sub>The sofa matches the color and material preferences and has clean lines and a relaxed look, although slightly more minimalistic than the references.</sub>
 
 ---
 
@@ -281,6 +402,28 @@ Updated 2026-11-04 15:47 UTC · 358 listings · 0 kr–400.000 kr
 
 ---
 
+**7/10** · **95.992 kr**
+
+<a href="https://jysk.is/stok-vara/LYBY-sofi-2ja-saeta-sand/?PathId=f6d7172e-17b7-451c-bff9-8ef08a1d4c2a"><img src="https://jysk.is/library/Images/products/P009392.jpg?proc=366x366" width="320"></a>
+
+[LYBY sófi 2ja sæta sand](https://jysk.is/stok-vara/LYBY-sofi-2ja-saeta-sand/?PathId=f6d7172e-17b7-451c-bff9-8ef08a1d4c2a)  
+<sub>JYSK</sub>
+
+<sub>The sofa features a suitable light color and fabric, but lacks the L-shape and has slightly more structured lines than desired.</sub>
+
+---
+
+**7/10** · **169.890 kr**
+
+<a href="https://jysk.is/stok-vara/LYBY-sofi-3ja-saeta-sand/?PathId=f6d7172e-17b7-451c-bff9-8ef08a1d4c2a"><img src="https://jysk.is/library/Images/products/P009393.jpg?proc=366x366" width="320"></a>
+
+[LYBY sófi 3ja sæta sand](https://jysk.is/stok-vara/LYBY-sofi-3ja-saeta-sand/?PathId=f6d7172e-17b7-451c-bff9-8ef08a1d4c2a)  
+<sub>JYSK</sub>
+
+<sub>The sofa features a soft woven fabric and plush cushions with simple lines, matching the desired style, but it lacks the L-shape or chaise preference.</sub>
+
+---
+
 **7/10** · **169.900 kr**
 
 <a href="https://www.ilva.is/stok-vara/?ProductName=CANTON-Tungusofi-haegri-hvitur-med-16-cm-keilulaga-svortum-vidarfotum&PathId=1fc7d092-ce9e-11ef-81b7-8f3b82297126"><img src="https://www.ilva.is/library/Images/Products/V014337.jpg?proc=366x366" width="320"></a>
@@ -303,6 +446,50 @@ Updated 2026-11-04 15:47 UTC · 358 listings · 0 kr–400.000 kr
 
 ---
 
+**7/10** · **179.990 kr**
+
+<a href="https://jysk.is/stok-vara/SKIBBY-tungusofi-haegri-sand/?PathId=daa6be5b-5fc6-4c03-a44a-6267f53d68a8"><img src="https://jysk.is/library/Images/products/P013095.jpg?proc=366x366" width="320"></a>
+
+[SKIBBY tungusófi hægri sand](https://jysk.is/stok-vara/SKIBBY-tungusofi-haegri-sand/?PathId=daa6be5b-5fc6-4c03-a44a-6267f53d68a8)  
+<sub>JYSK</sub>
+
+<sub>The candidate sofa has a light neutral color and woven texture, but its boxy shape and lack of visible soft cushions and rounded arms make it less relaxed compared to the reference images.</sub>
+
+---
+
+**7/10** · **187.275 kr <sub>was 249.700 kr</sub>**
+
+<a href="https://www.ilva.is/stok-vara/?ProductName=AIMEE-Tungusofi-haegri-off-white-med-midjueiningu&PathId=1fc7d092-ce9e-11ef-81b7-8f3b82297126"><img src="https://www.ilva.is/library/Images/Products/V011412.jpg?proc=366x366" width="320"></a>
+
+[AIMEE Tungusófi hægri off white með miðjueiningu](https://www.ilva.is/stok-vara/?ProductName=AIMEE-Tungusofi-haegri-off-white-med-midjueiningu&PathId=1fc7d092-ce9e-11ef-81b7-8f3b82297126)  
+<sub>ILVA</sub>
+
+<sub>The color and fabric appear to match the desired off-white, soft appearance; the shape is low and deep, but the arms are more structured and the lines are more geometric than relaxed.</sub>
+
+---
+
+**7/10** · **199.992 kr <sub>was 249.990 kr</sub>**
+
+<a href="https://husgagnahollin.is/vara/friday-tungusofi-a-mito-beige-sb/"><img src="https://husgagnahollin.is/wp-content/uploads/2025/10/Friday-tungusofi-A-Mito-beige-vinstri-1.webp" width="320"></a>
+
+[Friday tungusófi (A) Mito beige Sb](https://husgagnahollin.is/vara/friday-tungusofi-a-mito-beige-sb/)  
+<sub>Húsgagnahöllin</sub>
+
+<sub>The sofa is a light greige color with a woven fabric, has rounded arms and clean lines, but its back cushions are more structured and the legs are metallic, slightly differing from the target style.</sub>
+
+---
+
+**7/10** · **239.990 kr**
+
+<a href="https://jysk.is/stok-vara/SKIBBY-hornsofi-m-opnum-enda-sand/?PathId=daa6be5b-5fc6-4c03-a44a-6267f53d68a8"><img src="https://jysk.is/library/Images/products/P013098.jpg?proc=366x366" width="320"></a>
+
+[SKIBBY hornsófi m/opnum enda sand](https://jysk.is/stok-vara/SKIBBY-hornsofi-m-opnum-enda-sand/?PathId=daa6be5b-5fc6-4c03-a44a-6267f53d68a8)  
+<sub>JYSK</sub>
+
+<sub>The candidate sofa has a light color, woven fabric, and a clean design with simple lines that match the general aesthetic but lacks the visible softness and plushness of the reference sofas.</sub>
+
+---
+
 **7/10** · **246.000 kr**
 
 <a href="https://www.epal.is/products/sofaeining-catena-open-r-l301-akl-cotton"><img src="https://cdn.shopify.com/s/files/1/0817/4167/6800/files/d95c3ad9-3ea8-44a2-82a7-ac1a7b442f52.jpg?v=1771264357" width="320"></a>
@@ -314,25 +501,14 @@ Updated 2026-11-04 15:47 UTC · 358 listings · 0 kr–400.000 kr
 
 ---
 
-**7/10** · **249.700 kr**
+**7/10** · **247.992 kr <sub>was 309.990 kr</sub>**
 
-<a href="https://www.ilva.is/stok-vara/?ProductName=AIMEE-Tungusofi-haegri-off-white-med-midjueiningu&PathId=1fc7d092-ce9e-11ef-81b7-8f3b82297126"><img src="https://www.ilva.is/library/Images/Products/V011412.jpg?proc=366x366" width="320"></a>
+<a href="https://husgagnahollin.is/vara/nelson-sofi-35s-hevre-ljos-beige-bb/"><img src="https://husgagnahollin.is/wp-content/uploads/2025/05/Nelson-sofi-35s-Hevre-ljos-beige-Bb-104863098002.webp" width="320"></a>
 
-[AIMEE Tungusófi hægri off white með miðjueiningu](https://www.ilva.is/stok-vara/?ProductName=AIMEE-Tungusofi-haegri-off-white-med-midjueiningu&PathId=1fc7d092-ce9e-11ef-81b7-8f3b82297126)  
-<sub>ILVA</sub>
-
-<sub>The color and fabric appear to match the desired off-white, soft appearance; the shape is low and deep, but the arms are more structured and the lines are more geometric than relaxed.</sub>
-
----
-
-**7/10** · **249.990 kr**
-
-<a href="https://husgagnahollin.is/vara/friday-tungusofi-a-mito-beige-sb/"><img src="https://husgagnahollin.is/wp-content/uploads/2025/10/Friday-tungusofi-A-Mito-beige-vinstri-1.webp" width="320"></a>
-
-[Friday tungusófi (A) Mito beige Sb](https://husgagnahollin.is/vara/friday-tungusofi-a-mito-beige-sb/)  
+[Nelson sófi 3,5s Hevre ljós beige Bb](https://husgagnahollin.is/vara/nelson-sofi-35s-hevre-ljos-beige-bb/)  
 <sub>Húsgagnahöllin</sub>
 
-<sub>The sofa is a light greige color with a woven fabric, has rounded arms and clean lines, but its back cushions are more structured and the legs are metallic, slightly differing from the target style.</sub>
+<sub>The sofa has a light beige color and a soft woven texture that fits the aesthetic, but lacks plush loose back cushions and an L-shape.</sub>
 
 ---
 
@@ -380,6 +556,28 @@ Updated 2026-11-04 15:47 UTC · 358 listings · 0 kr–400.000 kr
 
 ---
 
+**7/10** · **277.425 kr <sub>was 369.900 kr</sub>**
+
+<a href="https://www.ilva.is/stok-vara/?ProductName=HEAVEN-Sofi-3ja-saeta-off-white&PathId=4281ffde-4606-4172-b524-c44ff6c618af"><img src="https://www.ilva.is/library/Images/Products/V011514.jpg?proc=366x366" width="320"></a>
+
+[HEAVEN Sófi 3ja sæta off white](https://www.ilva.is/stok-vara/?ProductName=HEAVEN-Sofi-3ja-saeta-off-white&PathId=4281ffde-4606-4172-b524-c44ff6c618af)  
+<sub>ILVA</sub>
+
+<sub>The color and fabric match the relaxed, light aesthetic, but the design lacks the L-shape or chaise.</sub>
+
+---
+
+**7/10** · **279.992 kr <sub>was 349.990 kr</sub>**
+
+<a href="https://husgagnahollin.is/vara/columbia-hvildarsofi-vinstri-caso-03-beige/"><img src="https://husgagnahollin.is/wp-content/uploads/2024/11/Columbia-hvildarsofi-vinstri-Caso-03-beige-H000024541.png" width="320"></a>
+
+[Columbia sófi m/vinstri hvíld Caso 03 beige](https://husgagnahollin.is/vara/columbia-hvildarsofi-vinstri-caso-03-beige/)  
+<sub>Húsgagnahöllin</sub>
+
+<sub>The sofa's color and fabric closely match the desired aesthetic, though the minimalist design and visible seams give it a more structured look than the relaxed style preferred.</sub>
+
+---
+
 **7/10** · **289.900 kr**
 
 <a href="https://www.ilva.is/stok-vara/?ProductName=PARKER-Tungusofi-vinstri-hvitur&PathId=1fc7d092-ce9e-11ef-81b7-8f3b82297126"><img src="https://www.ilva.is/library/Images/Products/V008142.jpg?proc=366x366" width="320"></a>
@@ -391,40 +589,62 @@ Updated 2026-11-04 15:47 UTC · 358 listings · 0 kr–400.000 kr
 
 ---
 
-**7/10** · **309.990 kr**
+**7/10** · **299.990 kr**
 
-<a href="https://husgagnahollin.is/vara/nelson-sofi-35s-hevre-ljos-beige-bb/"><img src="https://husgagnahollin.is/wp-content/uploads/2025/05/Nelson-sofi-35s-Hevre-ljos-beige-Bb-104863098002.webp" width="320"></a>
+<a href="https://jysk.is/stok-vara/LIDO-tungusofi-haegri-stone/?PathId=daa6be5b-5fc6-4c03-a44a-6267f53d68a8"><img src="https://jysk.is/library/Images/products/P007672.jpg?proc=366x366" width="320"></a>
 
-[Nelson sófi 3,5s Hevre ljós beige Bb](https://husgagnahollin.is/vara/nelson-sofi-35s-hevre-ljos-beige-bb/)  
-<sub>Húsgagnahöllin</sub>
+[LIDO tungusófi hægri stone](https://jysk.is/stok-vara/LIDO-tungusofi-haegri-stone/?PathId=daa6be5b-5fc6-4c03-a44a-6267f53d68a8)  
+<sub>JYSK</sub>
 
-<sub>The sofa has a light beige color and a soft woven texture that fits the aesthetic, but lacks plush loose back cushions and an L-shape.</sub>
-
----
-
-**7/10** · **349.990 kr**
-
-<a href="https://husgagnahollin.is/vara/columbia-hvildarsofi-vinstri-caso-03-beige/"><img src="https://husgagnahollin.is/wp-content/uploads/2024/11/Columbia-hvildarsofi-vinstri-Caso-03-beige-H000024541.png" width="320"></a>
-
-[Columbia sófi m/vinstri hvíld Caso 03 beige](https://husgagnahollin.is/vara/columbia-hvildarsofi-vinstri-caso-03-beige/)  
-<sub>Húsgagnahöllin</sub>
-
-<sub>The sofa's color and fabric closely match the desired aesthetic, though the minimalist design and visible seams give it a more structured look than the relaxed style preferred.</sub>
+<sub>The sofa is an L-shaped corner with a soft woven fabric and clean lines, fitting the general style but the visible legs and slightly darker, grayish tone reduce the match score.</sub>
 
 ---
 
-**7/10** · **369.900 kr**
+**7/10** · **299.990 kr**
 
-<a href="https://www.ilva.is/stok-vara/?ProductName=HEAVEN-Sofi-3ja-saeta-off-white&PathId=4281ffde-4606-4172-b524-c44ff6c618af"><img src="https://www.ilva.is/library/Images/Products/V011514.jpg?proc=366x366" width="320"></a>
+<a href="https://jysk.is/stok-vara/LIDO-tungusofi-vinstri-beige/?PathId=daa6be5b-5fc6-4c03-a44a-6267f53d68a8"><img src="https://jysk.is/library/Images/products/P006677XX.jpg?proc=366x366" width="320"></a>
 
-[HEAVEN Sófi 3ja sæta off white](https://www.ilva.is/stok-vara/?ProductName=HEAVEN-Sofi-3ja-saeta-off-white&PathId=4281ffde-4606-4172-b524-c44ff6c618af)  
+[LIDO tungusófi vinstri beige](https://jysk.is/stok-vara/LIDO-tungusofi-vinstri-beige/?PathId=daa6be5b-5fc6-4c03-a44a-6267f53d68a8)  
+<sub>JYSK</sub>
+
+<sub>The sofa has the right shape and fabric, but the visible metal legs detract slightly from the overall match.</sub>
+
+---
+
+**7/10** · **299.990 kr**
+
+<a href="https://jysk.is/stok-vara/LIDO-tungusofi-haegri-beige/?PathId=daa6be5b-5fc6-4c03-a44a-6267f53d68a8"><img src="https://jysk.is/library/Images/products/P006674.jpg?proc=366x366" width="320"></a>
+
+[LIDO tungusófi hægri beige](https://jysk.is/stok-vara/LIDO-tungusofi-haegri-beige/?PathId=daa6be5b-5fc6-4c03-a44a-6267f53d68a8)  
+<sub>JYSK</sub>
+
+<sub>The sofa has a warm beige color and a woven fabric, matching the relaxed aesthetic; the legs are not wooden and are visible, and the back cushions are not as plush.</sub>
+
+---
+
+**7/10** · **299.990 kr**
+
+<a href="https://jysk.is/stok-vara/RJUKAN-4-saeta-sofi-260x99x84-cm-beige/?PathId=f6d7172e-17b7-451c-bff9-8ef08a1d4c2a"><img src="https://jysk.is/library/Images/products/P012329.jpg?proc=366x366" width="320"></a>
+
+[RJUKAN 4 sæta sófi 260x99x84 cm beige](https://jysk.is/stok-vara/RJUKAN-4-saeta-sofi-260x99x84-cm-beige/?PathId=f6d7172e-17b7-451c-bff9-8ef08a1d4c2a)  
+<sub>JYSK</sub>
+
+<sub>The sofa matches in color and fabric, but lacks loose back cushions and a corner/chaise layout.</sub>
+
+---
+
+**7/10** · **307.425 kr**
+
+<a href="https://www.ilva.is/stok-vara/?ProductName=HEAVEN-Sofi-3ja-saeta-XL-off-white&PathId=4281ffde-4606-4172-b524-c44ff6c618af"><img src="https://www.ilva.is/library/Images/Products/V011179.jpg?proc=366x366" width="320"></a>
+
+[HEAVEN Sófi 3ja sæta XL off white](https://www.ilva.is/stok-vara/?ProductName=HEAVEN-Sofi-3ja-saeta-XL-off-white&PathId=4281ffde-4606-4172-b524-c44ff6c618af)  
 <sub>ILVA</sub>
 
-<sub>The color and fabric match the relaxed, light aesthetic, but the design lacks the L-shape or chaise.</sub>
+<sub>The sofa features an off-white woven fabric, relaxed and deep design with plush back cushions, and clean lines, though lacks an L-shape or chaise.</sub>
 
 ---
 
-**7/10** · **389.990 kr**
+**7/10** · **311.992 kr <sub>was 389.990 kr</sub>**
 
 <a href="https://husgagnahollin.is/vara/friday-u-sofi-m-tungu-vinstri-mito-beige-sb/"><img src="https://husgagnahollin.is/wp-content/uploads/2025/10/Friday-u-sofi-m_tungu-vinstri-Mito-beige.webp" width="320"></a>
 
@@ -435,7 +655,7 @@ Updated 2026-11-04 15:47 UTC · 358 listings · 0 kr–400.000 kr
 
 ---
 
-**7/10** · **389.990 kr**
+**7/10** · **311.992 kr <sub>was 389.990 kr</sub>**
 
 <a href="https://husgagnahollin.is/vara/friday-u-sofi-m-tungu-vinstri-mito-desert-sb/"><img src="https://husgagnahollin.is/wp-content/uploads/2024/06/Friday-u-sofi-mtungu-vinstri-Mito-Desert-Sb-123115429706.webp" width="320"></a>
 
@@ -443,225 +663,5 @@ Updated 2026-11-04 15:47 UTC · 358 listings · 0 kr–400.000 kr
 <sub>Húsgagnahöllin</sub>
 
 <sub>The sofa has a light neutral color and woven fabric, matching relaxed L-shaped style. However, the base is fully visible and not wooden, slightly detracting from the ideal match.</sub>
-
----
-
-**6/10** · **28.000 kr** · 🆕
-
-<a href="https://bland.is/til-solu/heimilid/stofa/sofa-ilva-210x220cm/5301659/"><img src="https://img.bland.is/album/img/434301/m/20261103224647_0.jpg" width="320"></a>
-
-[Sofa ilva 210x220cm](https://bland.is/til-solu/heimilid/stofa/sofa-ilva-210x220cm/5301659/)  
-<sub>Bland (notað)</sub>
-
-<sub>The sofa's colour and fabric are suitable, but the visible metal legs and lack of relaxed plushness slightly deviate from the target look.</sub>
-
----
-
-**6/10** · **47.990 kr**
-
-<a href="https://jysk.is/stok-vara/SKEJBY-sofaeining-horn-endi-sandlitud/?PathId=daa6be5b-5fc6-4c03-a44a-6267f53d68a8"><img src="https://jysk.is/library/Images/products/P009194.jpg?proc=366x366" width="320"></a>
-
-[SKEJBY sófaeining horn/endi sandlituð](https://jysk.is/stok-vara/SKEJBY-sofaeining-horn-endi-sandlitud/?PathId=daa6be5b-5fc6-4c03-a44a-6267f53d68a8)  
-<sub>JYSK</sub>
-
-<sub>The sofa has a light color and soft fabric, but its boxy shape and visible joint lines deviate from the relaxed, plush look desired.</sub>
-
----
-
-**6/10** · **55.990 kr**
-
-<a href="https://jysk.is/stok-vara/SKEJBY-sofaeining-vinstri-tungu-endi-an-bak-sand/?PathId=daa6be5b-5fc6-4c03-a44a-6267f53d68a8"><img src="https://jysk.is/library/Images/products/P011032.jpg?proc=366x366" width="320"></a>
-
-[SKEJBY sófaeining vinstri tungu endi án/bak sand](https://jysk.is/stok-vara/SKEJBY-sofaeining-vinstri-tungu-endi-an-bak-sand/?PathId=daa6be5b-5fc6-4c03-a44a-6267f53d68a8)  
-<sub>JYSK</sub>
-
-<sub>The sofa has a light greige color and woven texture but lacks plush cushions and visible wooden legs.</sub>
-
----
-
-**6/10** · **59.990 kr**
-
-<a href="https://jysk.is/stok-vara/LYBY-sofaeining-horn-endi-sandlitud/?PathId=daa6be5b-5fc6-4c03-a44a-6267f53d68a8"><img src="https://jysk.is/library/Images/products/P009379.JPG?proc=366x366" width="320"></a>
-
-[LYBY sófaeining horn/endi sandlituð](https://jysk.is/stok-vara/LYBY-sofaeining-horn-endi-sandlitud/?PathId=daa6be5b-5fc6-4c03-a44a-6267f53d68a8)  
-<sub>JYSK</sub>
-
-<sub>The sofa has a soft woven fabric and neutral color but lacks the full L-shape. It has clean lines and rounded arms, but the proportions differ slightly from the reference images.</sub>
-
----
-
-**6/10** · **80.000 kr <sub>was 90.000 kr</sub>**
-
-<a href="https://bland.is/til-solu/heimilid/stofa/hornsofi-ur-ilva/5298382/"><img src="https://img.bland.is/album/img/69400/m/20261023183615_0.jpg" width="320"></a>
-
-[Hornsófi úr ILVA](https://bland.is/til-solu/heimilid/stofa/hornsofi-ur-ilva/5298382/)  
-<sub>Bland (notað)</sub>
-
-<sub>The sofa has clean lines and a neutral color, but the fabric and overall design are more structured and modern than the relaxed, plush look desired.</sub>
-
----
-
-**6/10** · **99.900 kr**
-
-<a href="https://www.ilva.is/stok-vara/?ProductName=AIMEE-2ja-saeta-eining-haegri-off-white&PathId=4281ffde-4606-4172-b524-c44ff6c618af"><img src="https://www.ilva.is/library/Images/Products/V012722.jpg?proc=366x366" width="320"></a>
-
-[AIMEE 2ja sæta eining hægri off white](https://www.ilva.is/stok-vara/?ProductName=AIMEE-2ja-saeta-eining-haegri-off-white&PathId=4281ffde-4606-4172-b524-c44ff6c618af)  
-<sub>ILVA</sub>
-
-<sub>The candidate sofa has a modern minimalist design and uses a light fabric similar to the references but lacks the depth and plushness of loose back cushions.</sub>
-
----
-
-**6/10** · **99.900 kr**
-
-<a href="https://www.ilva.is/stok-vara/?ProductName=AIMEE-2ja-saeta-eining-vinstri-off-white&PathId=4281ffde-4606-4172-b524-c44ff6c618af"><img src="https://www.ilva.is/library/Images/Products/V012720.jpg?proc=366x366" width="320"></a>
-
-[AIMEE 2ja sæta eining vinstri off white](https://www.ilva.is/stok-vara/?ProductName=AIMEE-2ja-saeta-eining-vinstri-off-white&PathId=4281ffde-4606-4172-b524-c44ff6c618af)  
-<sub>ILVA</sub>
-
-<sub>The color and material are suitable but the design lacks the plush, loose cushion style and the legs are not visible.</sub>
-
----
-
-**6/10** · **99.990 kr**
-
-<a href="https://jysk.is/stok-vara/SKIBBY-2ja-saeta-sand/?PathId=f6d7172e-17b7-451c-bff9-8ef08a1d4c2a"><img src="https://jysk.is/library/Images/products/P013094.jpg?proc=366x366" width="320"></a>
-
-[SKIBBY 2ja sæta sand](https://jysk.is/stok-vara/SKIBBY-2ja-saeta-sand/?PathId=f6d7172e-17b7-451c-bff9-8ef08a1d4c2a)  
-<sub>JYSK</sub>
-
-<sub>It has the right color and fabric but lacks the loose cushions and softness of the references.</sub>
-
----
-
-**6/10** · **139.800 kr**
-
-<a href="https://www.ilva.is/stok-vara/?ProductName=AIMEE-2ja-saeta-sofi-off-white&PathId=4281ffde-4606-4172-b524-c44ff6c618af"><img src="https://www.ilva.is/library/Images/Products/V013984.jpg?proc=366x366" width="320"></a>
-
-[AIMEE 2ja sæta sófi off white](https://www.ilva.is/stok-vara/?ProductName=AIMEE-2ja-saeta-sofi-off-white&PathId=4281ffde-4606-4172-b524-c44ff6c618af)  
-<sub>ILVA</sub>
-
-<sub>The color and fabric match well, but the overall shape is more boxy and lacks the relaxed, loose cushion look.</sub>
-
----
-
-**6/10** · **159.990 kr**
-
-<a href="https://jysk.is/stok-vara/SKEJBY-sofi-3ja-saeta-sand/?PathId=f6d7172e-17b7-451c-bff9-8ef08a1d4c2a"><img src="https://jysk.is/library/Images/products/P009242.jpg?proc=366x366" width="320"></a>
-
-[SKEJBY sófi 3ja sæta sand](https://jysk.is/stok-vara/SKEJBY-sofi-3ja-saeta-sand/?PathId=f6d7172e-17b7-451c-bff9-8ef08a1d4c2a)  
-<sub>JYSK</sub>
-
-<sub>The sofa matches in color and fabric but lacks the loose cushions, relaxed look, and preferred shape.</sub>
-
----
-
-**6/10** · **183.200 kr <sub>was 229.000 kr</sub>**
-
-<a href="https://snuran.is/products/furnhouse-maggie-tungusofi-haegri-tunga-tau-grar-serpontun-3-4vikur-1"><img src="https://cdn.shopify.com/s/files/1/0582/7693/7904/files/selena-3-seater-sofa-beige.jpg?v=1742138638" width="320"></a>
-
-[SELENA sófi - 3ja sæta](https://snuran.is/products/furnhouse-maggie-tungusofi-haegri-tunga-tau-grar-serpontun-3-4vikur-1)  
-<sub>Snúran</sub>
-
-<sub>The sofa has a light color and simple design but lacks plush loose back cushions and low base, and has visible metal legs.</sub>
-
----
-
-**6/10** · **189.900 kr**
-
-<a href="https://www.ilva.is/stok-vara/?ProductName=PARKER-2-5-saeta-sofi-hvitur&PathId=4281ffde-4606-4172-b524-c44ff6c618af"><img src="https://www.ilva.is/library/Images/Products/V008140.jpg?proc=366x366" width="320"></a>
-
-[PARKER 2,5 sæta sófi hvítur](https://www.ilva.is/stok-vara/?ProductName=PARKER-2-5-saeta-sofi-hvitur&PathId=4281ffde-4606-4172-b524-c44ff6c618af)  
-<sub>ILVA</sub>
-
-<sub>The sofa has a simple, modern design with soft rounded arms and a light color, but its metal legs and straight back give it a less relaxed look.</sub>
-
----
-
-**6/10** · **189.990 kr**
-
-<a href="https://husgagnahollin.is/vara/vilde-sofi-2s-hevre-ljos-beige-bb/"><img src="https://husgagnahollin.is/wp-content/uploads/2024/07/Vilde-sofi-2ja-saeta-Hevre-ljos-beige-Bb-107312098002.webp" width="320"></a>
-
-[Vilde sófi 2s Hevre ljós beige Bb](https://husgagnahollin.is/vara/vilde-sofi-2s-hevre-ljos-beige-bb/)  
-<sub>Húsgagnahöllin</sub>
-
-<sub>The colour and fabric texture are suitable, but the shape lacks the deep, relaxed design and loose cushions of the references.</sub>
-
----
-
-**6/10** · **194.500 kr <sub>was 272.300 kr</sub>**
-
-<a href="https://snuran.is/products/new-york-sofi-3ja-saeta"><img src="https://cdn.shopify.com/s/files/1/0582/7693/7904/files/new-york-3-seater-sofa-brown.jpg?v=1745355800" width="320"></a>
-
-[NEW YORK sófi - 3ja sæta TIL Á LAGER](https://snuran.is/products/new-york-sofi-3ja-saeta)  
-<sub>Snúran</sub>
-
-<sub>The candidate sofa has a soft fabric and rounded arms, but it's darker and lacks the preferred corner or chaise design.</sub>
-
----
-
-**6/10** · **199.900 kr**
-
-<a href="https://www.ilva.is/stok-vara/?ProductName=CLEVELAND-Hornsofi-vinstri-sandlitadur-2&PathId=1fc7d092-ce9e-11ef-81b7-8f3b82297126"><img src="https://www.ilva.is/library/Images/Products/V014285.jpg?proc=366x366" width="320"></a>
-
-[CLEVELAND Hornsófi vinstri sandlitaður](https://www.ilva.is/stok-vara/?ProductName=CLEVELAND-Hornsofi-vinstri-sandlitadur-2&PathId=1fc7d092-ce9e-11ef-81b7-8f3b82297126)  
-<sub>ILVA</sub>
-
-<sub>The candidate sofa has a clean design and is an L-shaped corner, but its textured fabric and darker color deviate from the light, soft look sought.</sub>
-
----
-
-**6/10** · **199.900 kr**
-
-<a href="https://www.ilva.is/stok-vara/?ProductName=CLEVELAND-Hornsofi-haegri-sandlitadur-2&PathId=1fc7d092-ce9e-11ef-81b7-8f3b82297126"><img src="https://www.ilva.is/library/Images/Products/V014286.jpg?proc=366x366" width="320"></a>
-
-[CLEVELAND Hornsófi hægri sandlitaður](https://www.ilva.is/stok-vara/?ProductName=CLEVELAND-Hornsofi-haegri-sandlitadur-2&PathId=1fc7d092-ce9e-11ef-81b7-8f3b82297126)  
-<sub>ILVA</sub>
-
-<sub>The sofa has a simple, modern design with clean lines and a woven fabric, but the color is more brown than the light cream or greige desired.</sub>
-
----
-
-**6/10** · **199.900 kr**
-
-<a href="https://www.ilva.is/stok-vara/?ProductName=PARKER-3ja-saeta-sofi-hvitur&PathId=4281ffde-4606-4172-b524-c44ff6c618af"><img src="https://www.ilva.is/library/Images/Products/V008139.jpg?proc=366x366" width="320"></a>
-
-[PARKER 3ja sæta sófi hvítur](https://www.ilva.is/stok-vara/?ProductName=PARKER-3ja-saeta-sofi-hvitur&PathId=4281ffde-4606-4172-b524-c44ff6c618af)  
-<sub>ILVA</sub>
-
-<sub>The sofa is a light color with simple lines and soft rounded arms, but it lacks the loose back cushions and has visible legs that contrast with the desired style.</sub>
-
----
-
-**6/10** · **199.990 kr**
-
-<a href="https://husgagnahollin.is/vara/rocco-sofi-3s-akl-038-09-beige/"><img src="https://husgagnahollin.is/wp-content/uploads/2026/08/Rocco-sofi-3s-akl-038-09-beige-70083SCKS03809-1.webp" width="320"></a>
-
-[Rocco sófi 3s ákl 038-09 beige](https://husgagnahollin.is/vara/rocco-sofi-3s-akl-038-09-beige/)  
-<sub>Húsgagnahöllin</sub>
-
-<sub>The sofa is light in color with a woven texture, but its blocky shape and visible legs are less aligned with the relaxed, soft forms of the references.</sub>
-
----
-
-**6/10** · **229.990 kr**
-
-<a href="https://husgagnahollin.is/vara/borg-sofi-3s-akl-638-4-beige/"><img src="https://husgagnahollin.is/wp-content/uploads/2026/08/Borg-sofi-3s-akl-638-4-beige-MK62553SJYM6384-1-1.webp" width="320"></a>
-
-[Borg sófi 3s ákl 638-4 beige](https://husgagnahollin.is/vara/borg-sofi-3s-akl-638-4-beige/)  
-<sub>Húsgagnahöllin</sub>
-
-<sub>The candidate is light in color and made of woven fabric, but it features tufting and lacks the loose back cushions and L-shape preferred.</sub>
-
----
-
-**6/10** · **239.900 kr**
-
-<a href="https://modern.is/shop/husgogn/sofar-og-legubekkir/beinir-sofar/pixel-sofi/"><img src="https://modern.is/wp-content/uploads/2023/05/5febccea2eeb4269cd913176728f0318-300x300.jpg" width="320"></a>
-
-[Pixel Modular sófi](https://modern.is/shop/husgogn/sofar-og-legubekkir/beinir-sofar/pixel-sofi/)  
-<sub>Módern</sub>
-
-<sub>The candidate sofa has a modular design and woven fabric that fits the broad category, but the tufted cushions and darker tone deviate from the target aesthetic.</sub>
 
 ---
