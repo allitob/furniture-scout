@@ -1,6 +1,6 @@
 # Sofas
 
-Updated 2026-11-06 15:24 UTC · 406 listings · 0 kr–400.000 kr
+Updated 2026-11-07 14:23 UTC · 416 listings · 0 kr–400.000 kr
 
 [← all categories](../results.md)
 
@@ -347,6 +347,17 @@ Updated 2026-11-06 15:24 UTC · 406 listings · 0 kr–400.000 kr
 
 ---
 
+**8/10** · **359.990 kr** · 🆕
+
+<a href="https://husgagnahollin.is/vara/enjoy-hornsofi-vinstri-mito-01-sand/"><img src="https://husgagnahollin.is/wp-content/uploads/2024/09/Enjoy-hornsofi-vinstri-Mito-01-Sand-KSO018834.webp" width="320"></a>
+
+[Enjoy hornsófi vinstri Mito 01 Sand](https://husgagnahollin.is/vara/enjoy-hornsofi-vinstri-mito-01-sand/)  
+<sub>Húsgagnahöllin</sub>
+
+<sub>The candidate sofa has a light cream color, soft fabric, plush back cushions, rounded arms, clean lines, and hidden legs, fitting well with the target aesthetic.</sub>
+
+---
+
 **8/10** · **379.990 kr**
 
 <a href="https://jysk.is/stok-vara/VARDO-hornsofi-beige-haegt-ad-vixla/?PathId=daa6be5b-5fc6-4c03-a44a-6267f53d68a8"><img src="https://jysk.is/library/Images/products/P013104.jpg?proc=366x366" width="320"></a>
@@ -366,6 +377,17 @@ Updated 2026-11-06 15:24 UTC · 406 listings · 0 kr–400.000 kr
 <sub>Módern</sub>
 
 <sub>The candidate sofa has a similar off-white woven fabric, with soft rounded arms and clean simple lines, matching the desired aesthetic.</sub>
+
+---
+
+**7/10** · **32.000 kr** · 🆕
+
+<a href="https://bland.is/til-solu/heimilid/stofa/sofa-190x290cm/5302445/"><img src="https://img.bland.is/album/img/427317/m/20261107000654_0.jpg" width="320"></a>
+
+[Sofa 190x290cm](https://bland.is/til-solu/heimilid/stofa/sofa-190x290cm/5302445/)  
+<sub>Bland (notað)</sub>
+
+<sub>The sofa has a relevant shape and fabric but the color is slightly off from the target and lacks the plushness.</sub>
 
 ---
 
@@ -545,17 +567,6 @@ Updated 2026-11-06 15:24 UTC · 406 listings · 0 kr–400.000 kr
 
 ---
 
-**7/10** · **289.900 kr**
-
-<a href="https://www.ilva.is/stok-vara/?ProductName=PARKER-Tungusofi-vinstri-hvitur&PathId=1fc7d092-ce9e-11ef-81b7-8f3b82297126"><img src="https://www.ilva.is/library/Images/Products/V008142.jpg?proc=366x366" width="320"></a>
-
-[PARKER Tungusófi vinstri hvítur](https://www.ilva.is/stok-vara/?ProductName=PARKER-Tungusofi-vinstri-hvitur&PathId=1fc7d092-ce9e-11ef-81b7-8f3b82297126)  
-<sub>ILVA</sub>
-
-<sub>The candidate sofa is a light cream color, has a simple and modern design with clean lines and soft rounded arms, fitting well within the relaxed aesthetic, but the visible legs and lack of plush cushions slightly differ from the reference images.</sub>
-
----
-
 **7/10** · **299.990 kr**
 
 <a href="https://jysk.is/stok-vara/LIDO-tungusofi-haegri-stone/?PathId=daa6be5b-5fc6-4c03-a44a-6267f53d68a8"><img src="https://jysk.is/library/Images/products/P007672.jpg?proc=366x366" width="320"></a>
@@ -652,16 +663,5 @@ Updated 2026-11-06 15:24 UTC · 406 listings · 0 kr–400.000 kr
 <sub>JYSK</sub>
 
 <sub>The sofa has a soft woven fabric in a warm neutral tone, with a low and generous profile, matching the relaxed aesthetic desired.</sub>
-
----
-
-**7/10** · **349.990 kr**
-
-<a href="https://jysk.is/stok-vara/VARDO-tungusofi-vinstri-brunn/?PathId=daa6be5b-5fc6-4c03-a44a-6267f53d68a8"><img src="https://jysk.is/library/Images/products/P013102.jpg?proc=366x366" width="320"></a>
-
-[VARDO tungusófi vinstri brúnn](https://jysk.is/stok-vara/VARDO-tungusofi-vinstri-brunn/?PathId=daa6be5b-5fc6-4c03-a44a-6267f53d68a8)  
-<sub>JYSK</sub>
-
-<sub>The design is modern with clean lines and soft rounded arms, aligning well with the target aesthetic, though the color is slightly darker than the reference.</sub>
 
 ---
