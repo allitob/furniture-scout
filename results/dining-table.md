@@ -1,6 +1,6 @@
 # Dining tables
 
-Updated 2026-11-07 14:23 UTC · 86 listings · 5.000 kr–400.000 kr
+Updated 2026-11-08 14:33 UTC · 85 listings · 5.000 kr–400.000 kr
 
 [← all categories](../results.md)
 
@@ -369,6 +369,17 @@ Updated 2026-11-07 14:23 UTC · 86 listings · 5.000 kr–400.000 kr
 
 ---
 
+**4/10** · **20.000 kr** · 🆕
+
+<a href="https://bland.is/til-solu/heimilid/stofa/stort-bord-og-8-stolar/5302877/"><img src="https://img.bland.is/album/img/207083/m/20261108140434_0.jpg" width="320"></a>
+
+[Stórt borð og 8 stólar](https://bland.is/til-solu/heimilid/stofa/stort-bord-og-8-stolar/5302877/)  
+<sub>Bland (notað) · 158 cm</sub>
+
+<sub>The candidate table is a dining table but features ornate details and a polished finish, which differ from the mid-century Scandinavian style sought.</sub>
+
+---
+
 **4/10** · **23.992 kr <sub>was 29.990 kr</sub>**
 
 <a href="https://jysk.is/stok-vara/JEGIND-bordstofubord-80x130-cm-eik-svart/?PathId=68136a40-8cc3-4036-8232-832bbcbd4a46"><img src="https://jysk.is/library/Images/products/P007358.jpg?proc=366x366" width="320"></a>
@@ -556,14 +567,14 @@ Updated 2026-11-07 14:23 UTC · 86 listings · 5.000 kr–400.000 kr
 
 ---
 
-**3/10** · **5.000 kr**
+**3/10** · **15.000 kr** · 🆕
 
-<a href="https://bland.is/til-solu/heimilid/stofa/bordstofubord/5299281/"><img src="https://img.bland.is/album/img/261461/m/20261026190736_0.jpg" width="320"></a>
+<a href="https://bland.is/til-solu/heimilid/stofa/dinner-table-and-chairs/5302727/"><img src="https://img.bland.is/album/img/434512/m/20261107221022_0.jpg" width="320"></a>
 
-[Borðstofuborð](https://bland.is/til-solu/heimilid/stofa/bordstofubord/5299281/)  
-<sub>Bland (notað) · 180 cm</sub>
+[Dinner table and chairs](https://bland.is/til-solu/heimilid/stofa/dinner-table-and-chairs/5302727/)  
+<sub>Bland (notað) · size?</sub>
 
-<sub>The table is made of wood and appears to have an oiled finish, but its chunky design and straight edges do not match the mid-century Scandinavian style with slender, rounded features.</sub>
+<sub>The table has a wooden top but lacks the warm tone and fine finish seen in the references, and its simple straight legs do not match the mid-century Scandinavian style.</sub>
 
 ---
 
@@ -586,17 +597,6 @@ Updated 2026-11-07 14:23 UTC · 86 listings · 5.000 kr–400.000 kr
 <sub>JYSK · 80/200/220 cm</sub>
 
 <sub>The table is too blocky with sharp edges and lacks the mid-century Scandinavian design features such as tapered legs and rounded corners seen in the references.</sub>
-
----
-
-**3/10** · **30.000 kr**
-
-<a href="https://bland.is/til-solu/heimilid/stofa/table-with-chairs/5299346/"><img src="https://img.bland.is/album/img/422707/m/20261026230100_0.jpg" width="320"></a>
-
-[Table with chairs](https://bland.is/til-solu/heimilid/stofa/table-with-chairs/5299346/)  
-<sub>Bland (notað) · 140 cm</sub>
-
-<sub>The table is made of wood but features a rustic, chunky design with straight edges and legs, lacking the slim, tapered look typical of mid-century Scandinavian styles.</sub>
 
 ---
 

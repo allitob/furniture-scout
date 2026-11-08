@@ -1,6 +1,6 @@
 # Sofas
 
-Updated 2026-11-07 14:23 UTC · 416 listings · 0 kr–400.000 kr
+Updated 2026-11-08 14:33 UTC · 411 listings · 0 kr–400.000 kr · 1 not scored yet
 
 [← all categories](../results.md)
 
@@ -347,7 +347,7 @@ Updated 2026-11-07 14:23 UTC · 416 listings · 0 kr–400.000 kr
 
 ---
 
-**8/10** · **359.990 kr** · 🆕
+**8/10** · **359.990 kr**
 
 <a href="https://husgagnahollin.is/vara/enjoy-hornsofi-vinstri-mito-01-sand/"><img src="https://husgagnahollin.is/wp-content/uploads/2024/09/Enjoy-hornsofi-vinstri-Mito-01-Sand-KSO018834.webp" width="320"></a>
 
@@ -380,7 +380,7 @@ Updated 2026-11-07 14:23 UTC · 416 listings · 0 kr–400.000 kr
 
 ---
 
-**7/10** · **32.000 kr** · 🆕
+**7/10** · **32.000 kr**
 
 <a href="https://bland.is/til-solu/heimilid/stofa/sofa-190x290cm/5302445/"><img src="https://img.bland.is/album/img/427317/m/20261107000654_0.jpg" width="320"></a>
 
