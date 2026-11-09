@@ -1,6 +1,6 @@
 # Dining chairs
 
-Updated 2026-11-08 14:33 UTC · 121 listings · 0 kr–50.000 kr per piece
+Updated 2026-11-09 17:50 UTC · 120 listings · 0 kr–50.000 kr per piece
 
 [← all categories](../results.md)
 
@@ -204,17 +204,6 @@ Updated 2026-11-08 14:33 UTC · 121 listings · 0 kr–50.000 kr per piece
 
 ---
 
-**6/10** · **16.493 kr <sub>was 21.990 kr</sub>**
-
-<a href="https://husgagnahollin.is/vara/altea-bordstofustoll-lord-22-beige-svartir-jarnfaetur/"><img src="https://husgagnahollin.is/wp-content/uploads/2025/09/Altea-bordstofustoll-Lord-22-beige-svartir-jarnfaetur-1.jpg" width="320"></a>
-
-[Altea borðstofustóll Lord 22 beige, svartir járnfætur](https://husgagnahollin.is/vara/altea-bordstofustoll-lord-22-beige-svartir-jarnfaetur/)  
-<sub>Húsgagnahöllin</sub>
-
-<sub>The chair has the curved backrest and upholstered seat, but the metal legs and lack of wood frame deviate from the desired mid-century wood aesthetic.</sub>
-
----
-
 **6/10** · **18.392 kr <sub>was 22.990 kr</sub>**
 
 <a href="https://jysk.is/stok-vara/LYNGHOLM-bordstofustoll-eik-svartur-PU/?PathId=73bef239-beb3-4e8d-a05c-f0583025233d"><img src="https://jysk.is/library/Images/products/P002099.jpg?proc=366x366" width="320"></a>
@@ -245,6 +234,17 @@ Updated 2026-11-08 14:33 UTC · 121 listings · 0 kr–50.000 kr per piece
 <sub>JYSK</sub>
 
 <sub>The chair has a solid wood frame in a warm tone and fabric upholstery, but the legs are not slim or tapered, and the back is more angular.</sub>
+
+---
+
+**6/10** · **21.990 kr**
+
+<a href="https://husgagnahollin.is/vara/altea-bordstofustoll-lord-22-beige-svartir-jarnfaetur/"><img src="https://husgagnahollin.is/wp-content/uploads/2025/09/Altea-bordstofustoll-Lord-22-beige-svartir-jarnfaetur-1.jpg" width="320"></a>
+
+[Altea borðstofustóll Lord 22 beige, svartir járnfætur](https://husgagnahollin.is/vara/altea-bordstofustoll-lord-22-beige-svartir-jarnfaetur/)  
+<sub>Húsgagnahöllin</sub>
+
+<sub>The chair has the curved backrest and upholstered seat, but the metal legs and lack of wood frame deviate from the desired mid-century wood aesthetic.</sub>
 
 ---
 
@@ -512,7 +512,7 @@ Updated 2026-11-08 14:33 UTC · 121 listings · 0 kr–50.000 kr per piece
 
 ---
 
-**5/10** · **23.920 kr**
+**5/10** · **29.900 kr**
 
 <a href="https://snuran.is/products/diana-stoll"><img src="https://cdn.shopify.com/s/files/1/0582/7693/7904/files/diana-dining-chair-white.jpg?v=1750764808" width="320"></a>
 
@@ -578,7 +578,18 @@ Updated 2026-11-08 14:33 UTC · 121 listings · 0 kr–50.000 kr per piece
 
 ---
 
-**5/10** · **29.993 kr <sub>was 39.990 kr</sub>**
+**5/10** · **37.900 kr**
+
+<a href="https://modern.is/shop/husgogn/stolar/bordstofustolar/aava-stoll/"><img src="https://modern.is/wp-content/uploads/2020/08/Arper-Aava4leg-300x300.jpg" width="320"></a>
+
+[Aava stóll](https://modern.is/shop/husgogn/stolar/bordstofustolar/aava-stoll/)  
+<sub>Módern</sub>
+
+<sub>The candidate chair has a Scandinavian style but features plastic seat shells and metal legs, which don't align with the mid-century wood-only aesthetic and upholstered seat preference.</sub>
+
+---
+
+**5/10** · **39.990 kr**
 
 <a href="https://husgagnahollin.is/vara/almere-bordstofustoll-hnota-milan-130-ote/"><img src="https://husgagnahollin.is/wp-content/uploads/2026/04/B2982MIL130-Almere-bordstofustoll-Hnota-Milan-130-Ote-2.webp" width="320"></a>
 
@@ -652,16 +663,5 @@ Updated 2026-11-08 14:33 UTC · 121 listings · 0 kr–50.000 kr per piece
 <sub>JYSK</sub>
 
 <sub>The chair has a modern look with metal legs and a fully upholstered seat, which does not align with the mid-century Scandinavian aesthetic desired.</sub>
-
----
-
-**4/10** · **14.925 kr <sub>was 19.900 kr</sub>**
-
-<a href="https://www.ilva.is/stok-vara/?ProductName=MAREK-Bordstofustoll-brunn-svartir-malmfaetur&PathId=4a9ff5ae-c167-400e-b7dd-d6afc3779559"><img src="https://www.ilva.is/library/Images/Products/V010434.jpg?proc=366x366" width="320"></a>
-
-[MAREK Borðstofustóll brúnn/svartir málmfætur](https://www.ilva.is/stok-vara/?ProductName=MAREK-Bordstofustoll-brunn-svartir-malmfaetur&PathId=4a9ff5ae-c167-400e-b7dd-d6afc3779559)  
-<sub>ILVA</sub>
-
-<sub>The chair has metal legs and an overall modern industrial look, which deviates from the warm wood and mid-century Scandinavian design criteria.</sub>
 
 ---

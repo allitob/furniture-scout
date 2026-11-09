@@ -1,34 +1,34 @@
-Epal: 9572 products in catalog
-Snúran: 809 products in catalog
-Bland: 589 listings scanned
-Húsgagnahöllin: 100 matching products
+Epal: 9574 products in catalog
+Snúran: 808 products in catalog
+Bland: 598 listings scanned
+Húsgagnahöllin: 102 matching products
 Módern: 46 listings parsed from HTML
-Línan: 36 listings parsed from HTML
+Línan: 33 listings parsed from HTML
 ILVA: 89 listings parsed from HTML
 JYSK: 63 listings parsed from HTML
-[dining-table] 239 candidates within budget (from 11304 listings)
+[dining-table] 240 candidates within budget (from 11313 listings)
 [dining-table] Opened 91 listing pages for details
-[dining-table] 94 pass price/size filters
-[dining-table] Scored 2 listings with gpt-4o
+[dining-table] 97 pass price/size filters
+[dining-table] Scored 4 listings with gpt-4o
 [dining-table] Notify: 0 new strong matches
-Húsgagnahöllin: 60 matching products
-Módern: 76 listings parsed from HTML
+Húsgagnahöllin: 62 matching products
+Módern: 78 listings parsed from HTML
 Línan: 32 listings parsed from HTML
 ILVA: 77 listings parsed from HTML
 JYSK: 120 listings parsed from HTML
-[dining-chair] 217 candidates within budget (from 11335 listings)
-[dining-chair] Opened 1 listing pages for details
-[dining-chair] 217 pass price/size filters
-[dining-chair] Scored 1 listings with gpt-4o
+[dining-chair] 214 candidates within budget (from 11349 listings)
+[dining-chair] Opened 4 listing pages for details
+[dining-chair] 214 pass price/size filters
+[dining-chair] Scored 6 listings with gpt-4o
 [dining-chair] Notify: 0 new strong matches
-Húsgagnahöllin: 177 matching products
-Módern: 103 listings parsed from HTML
+Húsgagnahöllin: 179 matching products
+Módern: 106 listings parsed from HTML
 Línan: 35 listings parsed from HTML
-ILVA: 165 listings parsed from HTML
+ILVA: 162 listings parsed from HTML
 JYSK: 133 listings parsed from HTML
-[sofa] 432 candidates within budget (from 11583 listings)
-[sofa] Opened 8 listing pages for details
-[sofa] 432 pass price/size filters
+[sofa] 428 candidates within budget (from 11595 listings)
+[sofa] Opened 6 listing pages for details
+[sofa] 428 pass price/size filters
 [sofa] score failed for https://bland.is/til-solu/heimilid/stofa/sofi-glostrup-ikea/5302673/: 404 Client Error: Not Found for url: https://img.bland.is/album/img/190057/m/20261107184023_0.jpg
-[sofa] Scored 7 listings with gpt-4o
-[sofa] Notify: 0 new strong matches
+[sofa] Scored 8 listings with gpt-4o
+[sofa] Notify: posted 1 new matches to issue #1
