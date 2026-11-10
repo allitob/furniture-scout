@@ -1,6 +1,6 @@
 # Dining tables
 
-Updated 2026-11-09 17:50 UTC · 86 listings · 5.000 kr–400.000 kr
+Updated 2026-11-10 15:49 UTC · 85 listings · 5.000 kr–400.000 kr
 
 [← all categories](../results.md)
 
@@ -17,6 +17,17 @@ Updated 2026-11-09 17:50 UTC · 86 listings · 5.000 kr–400.000 kr
 
 ---
 
+**9/10** · **218.249 kr <sub>was 242.499 kr</sub>**
+
+<a href="https://snuran.is/products/skovby-bordstofubord-staekkanlegt-sm-112-serpontun-copy"><img src="https://cdn.shopify.com/s/files/1/0582/7693/7904/files/111no_a.jpg?v=1791996107" width="320"></a>
+
+[Skovby - borðstofuborð/stækkanlegt  SM 111 - sérpöntun](https://snuran.is/products/skovby-bordstofubord-staekkanlegt-sm-112-serpontun-copy)  
+<sub>Snúran · 145 cm</sub>
+
+<sub>The table features a warm wood tone, softly rounded edges, tapered legs, and a matte finish, fitting well with the mid-century Scandinavian aesthetic.</sub>
+
+---
+
 **9/10** · **224.900 kr**
 
 <a href="https://modern.is/shop/husgogn/bord/bordstofubord/wave-bord/"><img src="https://modern.is/wp-content/uploads/2024/12/WAVE_dining_table_C4_oak_001-300x300.png" width="320"></a>
@@ -25,17 +36,6 @@ Updated 2026-11-09 17:50 UTC · 86 listings · 5.000 kr–400.000 kr
 <sub>Módern · 90/140/180/200/220/240/260/280 cm</sub>
 
 <sub>The table has a slim top with softly rounded edges and tapered, slightly splayed wooden legs, fitting well with the desired mid-century Scandinavian style.</sub>
-
----
-
-**9/10** · **242.499 kr**
-
-<a href="https://snuran.is/products/skovby-bordstofubord-staekkanlegt-sm-112-serpontun-copy"><img src="https://cdn.shopify.com/s/files/1/0582/7693/7904/files/111no_a.jpg?v=1791996107" width="320"></a>
-
-[Skovby - borðstofuborð/stækkanlegt  SM 111 - sérpöntun](https://snuran.is/products/skovby-bordstofubord-staekkanlegt-sm-112-serpontun-copy)  
-<sub>Snúran · 145 cm</sub>
-
-<sub>The table features a warm wood tone, softly rounded edges, tapered legs, and a matte finish, fitting well with the mid-century Scandinavian aesthetic.</sub>
 
 ---
 
@@ -72,18 +72,7 @@ Updated 2026-11-09 17:50 UTC · 86 listings · 5.000 kr–400.000 kr
 
 ---
 
-**8/10** · **146.499 kr**
-
-<a href="https://snuran.is/products/skovby-bordstofubord-staekanlegt-120-serpontun"><img src="https://cdn.shopify.com/s/files/1/0582/7693/7904/files/120-4-Copy.png?v=1769187455" width="320"></a>
-
-[Skovby - borðstofuborð/stækkanlegt  SM 120 - sérpöntun](https://snuran.is/products/skovby-bordstofubord-staekanlegt-120-serpontun)  
-<sub>Snúran · 147 cm</sub>
-
-<sub>It features a warm wood tone, a slim top with softly rounded edges, tapered legs, and a matte finish, fitting well with the references.</sub>
-
----
-
-**8/10** · **149.990 kr**
+**8/10** · **119.992 kr <sub>was 149.990 kr</sub>**
 
 <a href="https://husgagnahollin.is/vara/nola-bordstofubord-95x180-oval-reykt-eik/"><img src="https://husgagnahollin.is/wp-content/uploads/2023/09/Nola-bordstofubord-95x180-oval-reykt-eik-48302930.jpg" width="320"></a>
 
@@ -91,6 +80,17 @@ Updated 2026-11-09 17:50 UTC · 86 listings · 5.000 kr–400.000 kr
 <sub>Húsgagnahöllin · 180 cm</sub>
 
 <sub>The table features a warm wood tone, oval shape with softly rounded edges, a wooden pedestal base, and an overall mid-century Scandinavian design.</sub>
+
+---
+
+**8/10** · **131.849 kr <sub>was 146.499 kr</sub>**
+
+<a href="https://snuran.is/products/skovby-bordstofubord-staekanlegt-120-serpontun"><img src="https://cdn.shopify.com/s/files/1/0582/7693/7904/files/120-4-Copy.png?v=1769187455" width="320"></a>
+
+[Skovby - borðstofuborð/stækkanlegt  SM 120 - sérpöntun](https://snuran.is/products/skovby-bordstofubord-staekanlegt-120-serpontun)  
+<sub>Snúran · 147 cm</sub>
+
+<sub>It features a warm wood tone, a slim top with softly rounded edges, tapered legs, and a matte finish, fitting well with the references.</sub>
 
 ---
 
@@ -116,6 +116,28 @@ Updated 2026-11-09 17:50 UTC · 86 listings · 5.000 kr–400.000 kr
 
 ---
 
+**7/10** · **127.992 kr <sub>was 159.990 kr</sub>**
+
+<a href="https://husgagnahollin.is/vara/arun-bordstofubord-95x180cm-espresso/"><img src="https://husgagnahollin.is/wp-content/uploads/2025/10/Arun-bordstofubord-95x180cm-espresso-50164710-1.webp" width="320"></a>
+
+[Arun borðstofuborð 95x180cm espresso](https://husgagnahollin.is/vara/arun-bordstofubord-95x180cm-espresso/)  
+<sub>Húsgagnahöllin · 180 cm</sub>
+
+<sub>The table features a warm wood tone and a simple, slim design with tapered legs, fitting the mid-century Scandinavian aesthetic.</sub>
+
+---
+
+**7/10** · **151.992 kr <sub>was 189.990 kr</sub>**
+
+<a href="https://husgagnahollin.is/vara/kare-cono-bordstofubord-120-cm-hnota/"><img src="https://husgagnahollin.is/wp-content/uploads/2026/07/87812-Kare-Cono-bordstofubord-120-cm-hnota-1.webp" width="320"></a>
+
+[Kare Cono borðstofuborð 120 cm hnota](https://husgagnahollin.is/vara/kare-cono-bordstofubord-120-cm-hnota/)  
+<sub>Húsgagnahöllin · size?</sub>
+
+<sub>The candidate table has a sleek wood veneer finish and a warm walnut tone fitting the aesthetic, but the modern conical pedestal base diverges from the tapered leg style typical of mid-century Scandinavian design.</sub>
+
+---
+
 **7/10** · **159.990 kr**
 
 <a href="https://jysk.is/stok-vara/OREBRO-bordstofubord-o120-120x160-200-H75-cm-eikaraferd/?PathId=68136a40-8cc3-4036-8232-832bbcbd4a46"><img src="https://jysk.is/library/Images/products/P008212.jpg?proc=366x366" width="320"></a>
@@ -127,29 +149,7 @@ Updated 2026-11-09 17:50 UTC · 86 listings · 5.000 kr–400.000 kr
 
 ---
 
-**7/10** · **159.990 kr**
-
-<a href="https://husgagnahollin.is/vara/arun-bordstofubord-95x180cm-espresso/"><img src="https://husgagnahollin.is/wp-content/uploads/2025/10/Arun-bordstofubord-95x180cm-espresso-50164710-1.webp" width="320"></a>
-
-[Arun borðstofuborð 95x180cm espresso](https://husgagnahollin.is/vara/arun-bordstofubord-95x180cm-espresso/)  
-<sub>Húsgagnahöllin · 180 cm</sub>
-
-<sub>The table features a warm wood tone and a simple, slim design with tapered legs, fitting the mid-century Scandinavian aesthetic.</sub>
-
----
-
-**7/10** · **189.990 kr**
-
-<a href="https://husgagnahollin.is/vara/kare-cono-bordstofubord-120-cm-hnota/"><img src="https://husgagnahollin.is/wp-content/uploads/2026/07/87812-Kare-Cono-bordstofubord-120-cm-hnota-1.webp" width="320"></a>
-
-[Kare Cono borðstofuborð 120 cm hnota](https://husgagnahollin.is/vara/kare-cono-bordstofubord-120-cm-hnota/)  
-<sub>Húsgagnahöllin · size?</sub>
-
-<sub>The candidate table has a sleek wood veneer finish and a warm walnut tone fitting the aesthetic, but the modern conical pedestal base diverges from the tapered leg style typical of mid-century Scandinavian design.</sub>
-
----
-
-**7/10** · **219.990 kr**
+**7/10** · **175.992 kr <sub>was 219.990 kr</sub>**
 
 <a href="https://husgagnahollin.is/vara/nola-bordstofubord-95x180-230-oval-natur-eik/"><img src="https://husgagnahollin.is/wp-content/uploads/2026/01/51552780-NOLA-TABLE-95x180-230-CM-OVAL-SHAPE_2.webp" width="320"></a>
 
@@ -157,6 +157,17 @@ Updated 2026-11-09 17:50 UTC · 86 listings · 5.000 kr–400.000 kr
 <sub>Húsgagnahöllin · 180 cm</sub>
 
 <sub>The table has a warm wood tone, softly rounded edges, and a simple wooden pedestal base, fitting well with the mid-century Scandinavian aesthetic.</sub>
+
+---
+
+**7/10** · **311.849 kr <sub>was 346.499 kr</sub>**
+
+<a href="https://snuran.is/products/skovby-bordstofubord-staekkanlegt-sm108-serpontun-copy"><img src="https://cdn.shopify.com/s/files/1/0582/7693/7904/files/108n.png?v=1789487819" width="320"></a>
+
+[Skovby - borðstofuborð/stækkanlegt SM 107 - sérpöntun](https://snuran.is/products/skovby-bordstofubord-staekkanlegt-sm108-serpontun-copy)  
+<sub>Snúran · size?</sub>
+
+<sub>The table has a warm wood veneer and Scandinavian style, with softly rounded corners and tapered legs, fitting well with the reference look.</sub>
 
 ---
 
@@ -171,18 +182,7 @@ Updated 2026-11-09 17:50 UTC · 86 listings · 5.000 kr–400.000 kr
 
 ---
 
-**7/10** · **346.499 kr**
-
-<a href="https://snuran.is/products/skovby-bordstofubord-staekkanlegt-sm108-serpontun-copy"><img src="https://cdn.shopify.com/s/files/1/0582/7693/7904/files/108n.png?v=1789487819" width="320"></a>
-
-[Skovby - borðstofuborð/stækkanlegt SM 107 - sérpöntun](https://snuran.is/products/skovby-bordstofubord-staekkanlegt-sm108-serpontun-copy)  
-<sub>Snúran · size?</sub>
-
-<sub>The table has a warm wood veneer and Scandinavian style, with softly rounded corners and tapered legs, fitting well with the reference look.</sub>
-
----
-
-**7/10** · **360.499 kr**
+**7/10** · **324.449 kr <sub>was 360.499 kr</sub>**
 
 <a href="https://snuran.is/products/skovby-bordstofubord-staekkanlegt-26-serpontun"><img src="https://cdn.shopify.com/s/files/1/0582/7693/7904/files/26E_0aa55126-55a5-45e0-9f8e-06687e14618e.png?v=1769187482" width="320"></a>
 
@@ -215,7 +215,7 @@ Updated 2026-11-09 17:50 UTC · 86 listings · 5.000 kr–400.000 kr
 
 ---
 
-**6/10** · **149.990 kr**
+**6/10** · **119.992 kr <sub>was 149.990 kr</sub>**
 
 <a href="https://husgagnahollin.is/vara/nola-bordstofubord-95x180-oval-natur-eik/"><img src="https://husgagnahollin.is/wp-content/uploads/2025/01/Nola-bordstofubord-95x180-oval-natur-eik-48302780.jpg" width="320"></a>
 
@@ -226,7 +226,7 @@ Updated 2026-11-09 17:50 UTC · 86 listings · 5.000 kr–400.000 kr
 
 ---
 
-**6/10** · **149.990 kr**
+**6/10** · **119.992 kr <sub>was 149.990 kr</sub>**
 
 <a href="https://husgagnahollin.is/vara/alexandra-bordstofubord-hnota-madrid-keramik-ljost/"><img src="https://husgagnahollin.is/wp-content/uploads/2026/04/A3071922393-∙-Alexandra-bordstofubord-hnotaMadrid-keramik-ljost-1-1.webp" width="320"></a>
 
@@ -234,6 +234,17 @@ Updated 2026-11-09 17:50 UTC · 86 listings · 5.000 kr–400.000 kr
 <sub>Húsgagnahöllin · size?</sub>
 
 <sub>The candidate table features wood elements and softly rounded edges, but the ceramic top and pedestal legs give it a more modern look, which differs slightly from the mid-century aesthetic.</sub>
+
+---
+
+**6/10** · **175.992 kr <sub>was 219.990 kr</sub>**
+
+<a href="https://husgagnahollin.is/vara/nola-bordstofubord-95x180-230-oval-reykt-eik/"><img src="https://husgagnahollin.is/wp-content/uploads/2025/06/Nola-bordstofubord-95x180-230-oval-reykt-eik-51552930.webp" width="320"></a>
+
+[Nola borðstofuborð 95×180-230 oval reykt eik](https://husgagnahollin.is/vara/nola-bordstofubord-95x180-230-oval-reykt-eik/)  
+<sub>Húsgagnahöllin · 180 cm</sub>
+
+<sub>The table has a warm wood tone and a modern wooden pedestal, but its bulkier design and vertical slats differ from the more refined, mid-century Scandinavian aesthetic.</sub>
 
 ---
 
@@ -248,18 +259,7 @@ Updated 2026-11-09 17:50 UTC · 86 listings · 5.000 kr–400.000 kr
 
 ---
 
-**6/10** · **219.990 kr**
-
-<a href="https://husgagnahollin.is/vara/nola-bordstofubord-95x180-230-oval-reykt-eik/"><img src="https://husgagnahollin.is/wp-content/uploads/2025/06/Nola-bordstofubord-95x180-230-oval-reykt-eik-51552930.webp" width="320"></a>
-
-[Nola borðstofuborð 95×180-230 oval reykt eik](https://husgagnahollin.is/vara/nola-bordstofubord-95x180-230-oval-reykt-eik/)  
-<sub>Húsgagnahöllin · 180 cm</sub>
-
-<sub>The table has a warm wood tone and a modern wooden pedestal, but its bulkier design and vertical slats differ from the more refined, mid-century Scandinavian aesthetic.</sub>
-
----
-
-**6/10** · **235.499 kr**
+**6/10** · **211.949 kr <sub>was 235.499 kr</sub>**
 
 <a href="https://snuran.is/products/skovby-bordstofubord-staekkanlegt-26-serpontun-copy"><img src="https://cdn.shopify.com/s/files/1/0582/7693/7904/files/142E_A.jpg?v=1769187522" width="320"></a>
 
@@ -267,6 +267,17 @@ Updated 2026-11-09 17:50 UTC · 86 listings · 5.000 kr–400.000 kr
 <sub>Snúran · 174 cm</sub>
 
 <sub>The table features a solid wood appearance and a slim top with clean lines, fitting the Scandinavian style, but the wood tone is lighter and the legs are less tapered than the reference images.</sub>
+
+---
+
+**6/10** · **261.449 kr <sub>was 290.499 kr</sub>**
+
+<a href="https://snuran.is/products/skovby-bordstofubord-staekkanlegt-78-serpontun"><img src="https://cdn.shopify.com/s/files/1/0582/7693/7904/files/78EMO.png?v=1769187480" width="320"></a>
+
+[Skovby - borðstofuborð/stækkanlegt SM 78 - sérpöntun](https://snuran.is/products/skovby-bordstofubord-staekkanlegt-78-serpontun)  
+<sub>Snúran · 190 cm</sub>
+
+<sub>The table has a slim top with softly rounded edges and tapered wooden legs, matching the mid-century Scandinavian aesthetic, but the wood tone is lighter than typical walnut or teak.</sub>
 
 ---
 
@@ -289,17 +300,6 @@ Updated 2026-11-09 17:50 UTC · 86 listings · 5.000 kr–400.000 kr
 <sub>ILVA · 183/275 cm</sub>
 
 <sub>The table has a slim top, wooden elements, and a Scandinavian influence, but the legs and laminate surface slightly deviate from the warm wood aesthetic.</sub>
-
----
-
-**6/10** · **290.499 kr**
-
-<a href="https://snuran.is/products/skovby-bordstofubord-staekkanlegt-78-serpontun"><img src="https://cdn.shopify.com/s/files/1/0582/7693/7904/files/78EMO.png?v=1769187480" width="320"></a>
-
-[Skovby - borðstofuborð/stækkanlegt SM 78 - sérpöntun](https://snuran.is/products/skovby-bordstofubord-staekkanlegt-78-serpontun)  
-<sub>Snúran · 190 cm</sub>
-
-<sub>The table has a slim top with softly rounded edges and tapered wooden legs, matching the mid-century Scandinavian aesthetic, but the wood tone is lighter than typical walnut or teak.</sub>
 
 ---
 
@@ -424,14 +424,14 @@ Updated 2026-11-09 17:50 UTC · 86 listings · 5.000 kr–400.000 kr
 
 ---
 
-**4/10** · **120.000 kr** · 🆕
+**4/10** · **119.992 kr <sub>was 149.990 kr</sub>**
 
-<a href="https://bland.is/til-solu/heimilid/stofa/bordstofubord-og-6-stolar-til-solu/5303155/"><img src="https://img.bland.is/album/img/78686/m/20261109120142_0.jpg" width="320"></a>
+<a href="https://husgagnahollin.is/vara/nola-bordstofubord-95x180-oval-svort-eik/"><img src="https://husgagnahollin.is/wp-content/uploads/2023/09/Nola-bordstofubord-95x180-oval-svort-eik-48304640-1.jpg" width="320"></a>
 
-[Borðstofuborð og 6 stólar til sölu](https://bland.is/til-solu/heimilid/stofa/bordstofubord-og-6-stolar-til-solu/5303155/)  
-<sub>Bland (notað) · size?</sub>
+[Nola borðstofuborð 95×180 oval svört eik](https://husgagnahollin.is/vara/nola-bordstofubord-95x180-oval-svort-eik/)  
+<sub>Húsgagnahöllin · 180 cm</sub>
 
-<sub>The table is wooden but has a blocky, modern design with sharp edges and straight legs, which contrasts with the mid-century Scandinavian style that favors slim, rounded edges and tapered legs.</sub>
+<sub>The table has an oval shape and a matte finish but lacks the warm wood tone and tapered legs typical of mid-century Scandinavian design.</sub>
 
 ---
 
@@ -446,14 +446,14 @@ Updated 2026-11-09 17:50 UTC · 86 listings · 5.000 kr–400.000 kr
 
 ---
 
-**4/10** · **149.990 kr**
+**4/10** · **135.992 kr <sub>was 169.990 kr</sub>**
 
-<a href="https://husgagnahollin.is/vara/nola-bordstofubord-95x180-oval-svort-eik/"><img src="https://husgagnahollin.is/wp-content/uploads/2023/09/Nola-bordstofubord-95x180-oval-svort-eik-48304640-1.jpg" width="320"></a>
+<a href="https://husgagnahollin.is/vara/dinex-eldhusbord-90x140-hvitoliuborin-eik/"><img src="https://husgagnahollin.is/wp-content/uploads/2019/08/Dinex-eldhusbord-90x140-hvitoliuborin-eik.jpg" width="320"></a>
 
-[Nola borðstofuborð 95×180 oval svört eik](https://husgagnahollin.is/vara/nola-bordstofubord-95x180-oval-svort-eik/)  
-<sub>Húsgagnahöllin · 180 cm</sub>
+[Dinex eldhúsborð 90×140 hvítolíuborin eik](https://husgagnahollin.is/vara/dinex-eldhusbord-90x140-hvitoliuborin-eik/)  
+<sub>Húsgagnahöllin · 140 cm</sub>
 
-<sub>The table has an oval shape and a matte finish but lacks the warm wood tone and tapered legs typical of mid-century Scandinavian design.</sub>
+<sub>The table is made of oiled oak which aligns with the material requirement, but its straight legs, boxy top, and lack of soft curves diverge from the mid-century Scandinavian aesthetic.</sub>
 
 ---
 
@@ -468,17 +468,6 @@ Updated 2026-11-09 17:50 UTC · 86 listings · 5.000 kr–400.000 kr
 
 ---
 
-**4/10** · **169.990 kr**
-
-<a href="https://husgagnahollin.is/vara/dinex-eldhusbord-90x140-hvitoliuborin-eik/"><img src="https://husgagnahollin.is/wp-content/uploads/2019/08/Dinex-eldhusbord-90x140-hvitoliuborin-eik.jpg" width="320"></a>
-
-[Dinex eldhúsborð 90×140 hvítolíuborin eik](https://husgagnahollin.is/vara/dinex-eldhusbord-90x140-hvitoliuborin-eik/)  
-<sub>Húsgagnahöllin · 140 cm</sub>
-
-<sub>The table is made of oiled oak which aligns with the material requirement, but its straight legs, boxy top, and lack of soft curves diverge from the mid-century Scandinavian aesthetic.</sub>
-
----
-
 **4/10** · **199.990 kr**
 
 <a href="https://jysk.is/stok-vara/OREBRO-bordstofubord-o120-120x160-200-H75-cm-svart/?PathId=68136a40-8cc3-4036-8232-832bbcbd4a46"><img src="https://jysk.is/library/Images/products/P010726.jpg?proc=366x366" width="320"></a>
@@ -487,6 +476,17 @@ Updated 2026-11-09 17:50 UTC · 86 listings · 5.000 kr–400.000 kr
 <sub>JYSK · 160/200/220 cm</sub>
 
 <sub>The candidate has a more modern design with a sculptural base, lacks the slim, tapered leg look and warm wood tone typical of the reference mid-century Scandinavian style.</sub>
+
+---
+
+**4/10** · **199.992 kr <sub>was 249.990 kr</sub>**
+
+<a href="https://husgagnahollin.is/vara/ritz-bordstofubord-marmari-bursa-espresso-oliuborin-eik/"><img src="https://husgagnahollin.is/wp-content/uploads/2026/01/48704711-Ritz-bordstofubord-marmari-Bursa-espresso-oliuborin-eik-1.webp" width="320"></a>
+
+[Ritz borðstofuborð 120 marmari Bursa](https://husgagnahollin.is/vara/ritz-bordstofubord-marmari-bursa-espresso-oliuborin-eik/)  
+<sub>Húsgagnahöllin · size?</sub>
+
+<sub>The table has a marble top and a dark wood pedestal base, which does not align with the light, warm wood and tapered leg style of the target mid-century Scandinavian aesthetic.</sub>
 
 ---
 
@@ -501,14 +501,25 @@ Updated 2026-11-09 17:50 UTC · 86 listings · 5.000 kr–400.000 kr
 
 ---
 
-**4/10** · **249.990 kr**
+**4/10** · **255.149 kr <sub>was 283.499 kr</sub>**
 
-<a href="https://husgagnahollin.is/vara/ritz-bordstofubord-marmari-bursa-espresso-oliuborin-eik/"><img src="https://husgagnahollin.is/wp-content/uploads/2026/01/48704711-Ritz-bordstofubord-marmari-Bursa-espresso-oliuborin-eik-1.webp" width="320"></a>
+<a href="https://snuran.is/products/skovby-bordstofubord-staekkanlegt-116-serpontun"><img src="https://cdn.shopify.com/s/files/1/0582/7693/7904/files/116EH_A.jpg?v=1769187518" width="320"></a>
 
-[Ritz borðstofuborð 120 marmari Bursa](https://husgagnahollin.is/vara/ritz-bordstofubord-marmari-bursa-espresso-oliuborin-eik/)  
-<sub>Húsgagnahöllin · size?</sub>
+[Skovby - SM 116  borðstofuborð/stækkanlegt  - sérpöntun](https://snuran.is/products/skovby-bordstofubord-staekkanlegt-116-serpontun)  
+<sub>Snúran · 142 cm</sub>
 
-<sub>The table has a marble top and a dark wood pedestal base, which does not align with the light, warm wood and tapered leg style of the target mid-century Scandinavian aesthetic.</sub>
+<sub>The table has a simple wooden pedestal and smooth edges, but its light color and modern design diverge from the warm, mid-century look of the references.</sub>
+
+---
+
+**4/10** · **262.349 kr <sub>was 291.499 kr</sub>**
+
+<a href="https://snuran.is/products/skovby-bordstofubord-staekanlegt-serpontun-2"><img src="https://cdn.shopify.com/s/files/1/0582/7693/7904/files/13.jpg?v=1769187874" width="320"></a>
+
+[Skovby - SM 11 borðstofuborð/stækkanlegt - sérpöntun](https://snuran.is/products/skovby-bordstofubord-staekanlegt-serpontun-2)  
+<sub>Snúran · 183 cm</sub>
+
+<sub>The table's dark wood and angular design differ from the mid-century Scandinavian style with warm tones and rounded edges seen in the reference images.</sub>
 
 ---
 
@@ -523,17 +534,6 @@ Updated 2026-11-09 17:50 UTC · 86 listings · 5.000 kr–400.000 kr
 
 ---
 
-**4/10** · **283.499 kr**
-
-<a href="https://snuran.is/products/skovby-bordstofubord-staekkanlegt-116-serpontun"><img src="https://cdn.shopify.com/s/files/1/0582/7693/7904/files/116EH_A.jpg?v=1769187518" width="320"></a>
-
-[Skovby - SM 116  borðstofuborð/stækkanlegt  - sérpöntun](https://snuran.is/products/skovby-bordstofubord-staekkanlegt-116-serpontun)  
-<sub>Snúran · 142 cm</sub>
-
-<sub>The table has a simple wooden pedestal and smooth edges, but its light color and modern design diverge from the warm, mid-century look of the references.</sub>
-
----
-
 **4/10** · **284.900 kr**
 
 <a href="https://modern.is/shop/husgogn/bord/bordstofubord/curve-bord/"><img src="https://modern.is/wp-content/uploads/2020/08/72619543101-2-e1660516446664-1-300x300.jpg" width="320"></a>
@@ -542,17 +542,6 @@ Updated 2026-11-09 17:50 UTC · 86 listings · 5.000 kr–400.000 kr
 <sub>Módern · 92/132/150/153/232/253 cm</sub>
 
 <sub>The table has a similar form with tapered legs and a slim top, but the light wood color and possibly veneer top do not match the warm wood tone of the reference style.</sub>
-
----
-
-**4/10** · **291.499 kr**
-
-<a href="https://snuran.is/products/skovby-bordstofubord-staekanlegt-serpontun-2"><img src="https://cdn.shopify.com/s/files/1/0582/7693/7904/files/13.jpg?v=1769187874" width="320"></a>
-
-[Skovby - SM 11 borðstofuborð/stækkanlegt - sérpöntun](https://snuran.is/products/skovby-bordstofubord-staekanlegt-serpontun-2)  
-<sub>Snúran · 183 cm</sub>
-
-<sub>The table's dark wood and angular design differ from the mid-century Scandinavian style with warm tones and rounded edges seen in the reference images.</sub>
 
 ---
 
@@ -633,7 +622,7 @@ Updated 2026-11-09 17:50 UTC · 86 listings · 5.000 kr–400.000 kr
 
 ---
 
-**3/10** · **55.000 kr** · 🆕
+**3/10** · **55.000 kr**
 
 <a href="https://bland.is/til-solu/heimilid/eldhus-og-badherbergi/morbylaanga-bordstofubord/5302922/"><img src="https://img.bland.is/album/img/373987/m/20261108154905_0.jpg" width="320"></a>
 
@@ -663,5 +652,16 @@ Updated 2026-11-09 17:50 UTC · 86 listings · 5.000 kr–400.000 kr
 <sub>ILVA · 120/217 cm</sub>
 
 <sub>The table has a contemporary look with a white top and light wood legs, which does not align well with the warm wood tones and mid-century style of the references.</sub>
+
+---
+
+**3/10** · **75.992 kr <sub>was 94.990 kr</sub>**
+
+<a href="https://jysk.is/stok-vara/SKOVLUNDE-bordstofubord-90x160-cm-ljos-eik/?PathId=68136a40-8cc3-4036-8232-832bbcbd4a46"><img src="https://jysk.is/library/Images/products/P002382.jpg?proc=366x366" width="320"></a>
+
+[SKOVLUNDE borðstofuborð 90x160 cm ljós eik](https://jysk.is/stok-vara/SKOVLUNDE-bordstofubord-90x160-cm-ljos-eik/?PathId=68136a40-8cc3-4036-8232-832bbcbd4a46)  
+<sub>JYSK · 160/200/220 cm</sub>
+
+<sub>The table features metal legs and a lighter wood finish, which do not align with the warm wood and sleek Scandinavian design of the reference images.</sub>
 
 ---
