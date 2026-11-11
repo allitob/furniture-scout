@@ -1,6 +1,6 @@
 # Sofas
 
-Updated 2026-11-10 15:49 UTC · 429 listings · 0 kr–400.000 kr · 2 not scored yet
+Updated 2026-11-11 15:38 UTC · 427 listings · 0 kr–400.000 kr · 2 not scored yet
 
 [← all categories](../results.md)
 
@@ -94,7 +94,7 @@ Updated 2026-11-10 15:49 UTC · 429 listings · 0 kr–400.000 kr · 2 not score
 
 ---
 
-**8/10** · **120.000 kr** · 🆕
+**8/10** · **120.000 kr**
 
 <a href="https://bland.is/til-solu/heimilid/stofa/sofa/5303504/"><img src="https://img.bland.is/album/img/357496/m/20261110150756_0.jpg" width="320"></a>
 
@@ -344,17 +344,6 @@ Updated 2026-11-10 15:49 UTC · 429 listings · 0 kr–400.000 kr · 2 not score
 <sub>JYSK</sub>
 
 <sub>The sofa is light-colored with a soft fabric, has a relaxed and deep design, plush cushions, and hidden legs, fitting well with the desired aesthetic.</sub>
-
----
-
-**8/10** · **384.900 kr**
-
-<a href="https://modern.is/shop/husgogn/sofar-og-legubekkir/beinir-sofar/bib-sofi/"><img src="https://modern.is/wp-content/uploads/2025/08/Photoroom_20250819_014254-2-300x300.png" width="320"></a>
-
-[Bib sófi](https://modern.is/shop/husgogn/sofar-og-legubekkir/beinir-sofar/bib-sofi/)  
-<sub>Módern</sub>
-
-<sub>The candidate sofa has a similar off-white woven fabric, with soft rounded arms and clean simple lines, matching the desired aesthetic.</sub>
 
 ---
 
@@ -633,17 +622,6 @@ Updated 2026-11-10 15:49 UTC · 429 listings · 0 kr–400.000 kr · 2 not score
 
 ---
 
-**7/10** · **311.992 kr <sub>was 389.990 kr</sub>**
-
-<a href="https://husgagnahollin.is/vara/friday-u-sofi-m-tungu-vinstri-mito-desert-sb/"><img src="https://husgagnahollin.is/wp-content/uploads/2024/06/Friday-u-sofi-mtungu-vinstri-Mito-Desert-Sb-123115429706.webp" width="320"></a>
-
-[Friday u-sófi m/tungu vinstri Mito Desert Sb](https://husgagnahollin.is/vara/friday-u-sofi-m-tungu-vinstri-mito-desert-sb/)  
-<sub>Húsgagnahöllin</sub>
-
-<sub>The sofa has a light neutral color and woven fabric, matching relaxed L-shaped style. However, the base is fully visible and not wooden, slightly detracting from the ideal match.</sub>
-
----
-
 **7/10** · **329.925 kr <sub>was 351.920 kr</sub>**
 
 <a href="https://www.ilva.is/stok-vara/?ProductName=SIENA-Tungusofi-vinstri-sandlitadur-2&PathId=1fc7d092-ce9e-11ef-81b7-8f3b82297126"><img src="https://www.ilva.is/library/Images/Products/V013135.jpg?proc=366x366" width="320"></a>
@@ -663,5 +641,27 @@ Updated 2026-11-10 15:49 UTC · 429 listings · 0 kr–400.000 kr · 2 not score
 <sub>Húsgagnahöllin</sub>
 
 <sub>The candidate sofa has a light warm greige color with soft fabric, loose back cushions, and a relaxed L-shape; however, the visible chrome legs are a mismatch.</sub>
+
+---
+
+**7/10** · **335.992 kr**
+
+<a href="https://husgagnahollin.is/vara/augusta-tungusofi-haegri-m-rafmagni-aklaedi-grar/"><img src="https://husgagnahollin.is/wp-content/uploads/2024/01/Augusta-tungusofi-haegri-mrafmagni-aklaedi-grar-KM605815E15CH0500920.webp" width="320"></a>
+
+[Augusta tungusófi hægri m/rafmagni Wales 170 beige](https://husgagnahollin.is/vara/augusta-tungusofi-haegri-m-rafmagni-aklaedi-grar/)  
+<sub>Húsgagnahöllin</sub>
+
+<sub>The sofa is a warm greige color in a woven fabric with clean, simple lines and soft arms, fitting the desired style, though the base is more visible than preferred.</sub>
+
+---
+
+**7/10** · **349.990 kr**
+
+<a href="https://jysk.is/stok-vara/VARDO-tungusofi-haegri-brunn/?PathId=daa6be5b-5fc6-4c03-a44a-6267f53d68a8"><img src="https://jysk.is/library/Images/products/P013103.jpg?proc=366x366" width="320"></a>
+
+[VARDO tungusófi hægri brúnn](https://jysk.is/stok-vara/VARDO-tungusofi-haegri-brunn/?PathId=daa6be5b-5fc6-4c03-a44a-6267f53d68a8)  
+<sub>JYSK</sub>
+
+<sub>The sofa has a soft woven fabric in a warm neutral tone, with a low and generous profile, matching the relaxed aesthetic desired.</sub>
 
 ---

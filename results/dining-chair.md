@@ -1,6 +1,6 @@
 # Dining chairs
 
-Updated 2026-11-10 15:49 UTC · 125 listings · 0 kr–50.000 kr per piece
+Updated 2026-11-11 15:38 UTC · 128 listings · 0 kr–50.000 kr per piece
 
 [← all categories](../results.md)
 
@@ -113,6 +113,17 @@ Updated 2026-11-10 15:49 UTC · 125 listings · 0 kr–50.000 kr per piece
 <sub>ILVA</sub>
 
 <sub>The chair features a solid oak frame with slim, tapered legs and a curved backrest, which align with the mid-century Scandinavian aesthetic, but the green fabric seat slightly deviates from the cream/oatmeal requirement.</sub>
+
+---
+
+**7/10** · **25.000 kr** · 🆕
+
+<a href="https://bland.is/til-solu/heimilid/stofa/hardwood-chair/5303639/"><img src="https://img.bland.is/album/img/327635/m/20261110200902_0.jpg" width="320"></a>
+
+[Hardwood chair](https://bland.is/til-solu/heimilid/stofa/hardwood-chair/5303639/)  
+<sub>Bland (notað)</sub>
+
+<sub>The chair matches the overall mid-century look with a wooden frame, curved back, and slim tapered legs, but the seat fabric does not align with the desired light cream/oatmeal textured fabric.</sub>
 
 ---
 
@@ -479,6 +490,17 @@ Updated 2026-11-10 15:49 UTC · 125 listings · 0 kr–50.000 kr per piece
 
 ---
 
+**6/10** · **45.000 kr** · 🆕
+
+<a href="https://bland.is/til-solu/heimilid/stofa/4-lynghol-bordstofustolar/5303678/"><img src="https://img.bland.is/album/img/236011/m/20261110232046_0.jpg" width="320"></a>
+
+[4 lynghol borðstofustólar](https://bland.is/til-solu/heimilid/stofa/4-lynghol-bordstofustolar/5303678/)  
+<sub>Bland (notað)</sub>
+
+<sub>The chair has a wood frame with tapered legs and a simple backrest but the seat material and color differ from the target design.</sub>
+
+---
+
 **5/10** · **6.396 kr <sub>was 7.995 kr</sub>**
 
 <a href="https://jysk.is/stok-vara/JONSTRUP-stoll-grar-tau-eikarlitadir-stalfaetur/?PathId=73bef239-beb3-4e8d-a05c-f0583025233d"><img src="https://jysk.is/library/Images/products/P002336.jpg?proc=366x366" width="320"></a>
@@ -512,7 +534,7 @@ Updated 2026-11-10 15:49 UTC · 125 listings · 0 kr–50.000 kr per piece
 
 ---
 
-**5/10** · **15.992 kr <sub>was 19.990 kr</sub>** · uppselt
+**5/10** · **15.992 kr <sub>was 19.990 kr</sub>**
 
 <a href="https://jysk.is/stok-vara/SOTTRUP-bordstofustoll-beige-svartur/?PathId=73bef239-beb3-4e8d-a05c-f0583025233d"><img src="https://jysk.is/library/Images/products/P011139.jpg?proc=366x366" width="320"></a>
 
@@ -611,6 +633,17 @@ Updated 2026-11-10 15:49 UTC · 125 listings · 0 kr–50.000 kr per piece
 
 ---
 
+**5/10** · **30.320 kr <sub>was 37.900 kr</sub>**
+
+<a href="https://modern.is/shop/husgogn/stolar/bordstofustolar/aava-stoll/"><img src="https://modern.is/wp-content/uploads/2020/08/Arper-Aava4leg-300x300.jpg" width="320"></a>
+
+[Aava stóll](https://modern.is/shop/husgogn/stolar/bordstofustolar/aava-stoll/)  
+<sub>Módern</sub>
+
+<sub>The candidate chair has a Scandinavian style but features plastic seat shells and metal legs, which don't align with the mid-century wood-only aesthetic and upholstered seat preference.</sub>
+
+---
+
 **5/10** · **31.992 kr <sub>was 39.990 kr</sub>**
 
 <a href="https://husgagnahollin.is/vara/almere-bordstofustoll-hnota-milan-130-ote/"><img src="https://husgagnahollin.is/wp-content/uploads/2026/04/B2982MIL130-Almere-bordstofustoll-Hnota-Milan-130-Ote-2.webp" width="320"></a>
@@ -622,17 +655,6 @@ Updated 2026-11-10 15:49 UTC · 125 listings · 0 kr–50.000 kr per piece
 
 ---
 
-**5/10** · **37.900 kr**
-
-<a href="https://modern.is/shop/husgogn/stolar/bordstofustolar/aava-stoll/"><img src="https://modern.is/wp-content/uploads/2020/08/Arper-Aava4leg-300x300.jpg" width="320"></a>
-
-[Aava stóll](https://modern.is/shop/husgogn/stolar/bordstofustolar/aava-stoll/)  
-<sub>Módern</sub>
-
-<sub>The candidate chair has a Scandinavian style but features plastic seat shells and metal legs, which don't align with the mid-century wood-only aesthetic and upholstered seat preference.</sub>
-
----
-
 **5/10** · **38.392 kr <sub>was 47.990 kr</sub>**
 
 <a href="https://husgagnahollin.is/vara/nyborg-bordstofustoll-1326-svart-beyki/"><img src="https://husgagnahollin.is/wp-content/uploads/2023/05/Nyborg-bordstofustoll-1326-svart-beyki.jpg" width="320"></a>
@@ -641,27 +663,5 @@ Updated 2026-11-10 15:49 UTC · 125 listings · 0 kr–50.000 kr per piece
 <sub>Húsgagnahöllin</sub>
 
 <sub>The chair has a mid-century design with a wood frame and tapered legs, but the black color and backrest style deviate from the desired aesthetic.</sub>
-
----
-
-**5/10** · **45.800 kr**
-
-<a href="https://www.epal.is/products/stoll-herman-dining-eik-hvitolia"><img src="https://cdn.shopify.com/s/files/1/0817/4167/6800/files/a9bf1906-44ed-4dfc-8647-2e339b3409e9.jpg?v=1771259684" width="320"></a>
-
-[Stóll HERMAN DINING eik/hvítolía](https://www.epal.is/products/stoll-herman-dining-eik-hvitolia)  
-<sub>Epal</sub>
-
-<sub>The chair has a wood back and seat, but the metal legs and simpler design do not fully match the mid-century Scandinavian aesthetic.</sub>
-
----
-
-**4/10** · **1.234 kr <sub>5 stk · 247 kr/stk</sub>**
-
-<a href="https://bland.is/til-solu/heimilid/stofa/tekk-bordstofustolar/5301426/"><img src="https://img.bland.is/album/img/285020/m/20261103105431_0.jpg" width="320"></a>
-
-[Tekk borðstofustólar](https://bland.is/til-solu/heimilid/stofa/tekk-bordstofustolar/5301426/)  
-<sub>Bland (notað)</sub>
-
-<sub>The chair has a wooden frame with slim tapered legs, but the plastic seat and back do not match the upholstered look of the references.</sub>
 
 ---
