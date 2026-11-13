@@ -1,6 +1,6 @@
 # Sofas
 
-Updated 2026-11-12 16:19 UTC · 378 listings · 0 kr–400.000 kr · 2 not scored yet
+Updated 2026-11-13 15:43 UTC · 382 listings · 0 kr–400.000 kr · 2 not scored yet
 
 [← all categories](../results.md)
 
@@ -28,6 +28,39 @@ Updated 2026-11-12 16:19 UTC · 378 listings · 0 kr–400.000 kr · 2 not score
 
 ---
 
+**9/10** · **251.993 kr <sub>was 287.992 kr</sub>**
+
+<a href="https://husgagnahollin.is/vara/enjoy-hornsofi-haegri-mito-01-sand/"><img src="https://husgagnahollin.is/wp-content/uploads/2024/09/Enjoy-hornsofi-haegri-Mito-01-Sand-KSO018651.webp" width="320"></a>
+
+[Enjoy hornsófi hægri Mito 01 Sand](https://husgagnahollin.is/vara/enjoy-hornsofi-haegri-mito-01-sand/)  
+<sub>Húsgagnahöllin</sub>
+
+<sub>The sofa matches the aesthetic with its light cream color, soft woven fabric, relaxed and deep design, and clean lines, fitting the reference images.</sub>
+
+---
+
+**9/10** · **262.493 kr <sub>was 279.992 kr</sub>**
+
+<a href="https://husgagnahollin.is/vara/vesta-tungusofi-haegri-mito-beige/"><img src="https://husgagnahollin.is/wp-content/uploads/2026/04/Vesta-tungusofi-haegri-Mito-beige-haegri-6.webp" width="320"></a>
+
+[Vesta tungusófi hægri Mito Beige](https://husgagnahollin.is/vara/vesta-tungusofi-haegri-mito-beige/)  
+<sub>Húsgagnahöllin</sub>
+
+<sub>The sofa has a light cream color, soft rounded arms, plush cushions, and simple lines, matching the desired aesthetic closely.</sub>
+
+---
+
+**9/10** · **262.493 kr <sub>was 279.992 kr</sub>**
+
+<a href="https://husgagnahollin.is/vara/vesta-tungusofi-vinstri-mito-beige/"><img src="https://husgagnahollin.is/wp-content/uploads/2025/12/Vesta-tungusofi-haegri-Mito-beige-vinstri-6.jpg" width="320"></a>
+
+[Vesta tungusófi vinstri Mito Beige](https://husgagnahollin.is/vara/vesta-tungusofi-vinstri-mito-beige/)  
+<sub>Húsgagnahöllin</sub>
+
+<sub>Matches the aesthetic with its light color, soft fabric, rounded arms, and low, generous proportions.</sub>
+
+---
+
 **9/10** · **269.790 kr**
 
 <a href="https://jysk.is/stok-vara/LYBY-hornsofi-m-opnum-enda-sand/?PathId=daa6be5b-5fc6-4c03-a44a-6267f53d68a8"><img src="https://jysk.is/library/Images/products/P009391.jpg?proc=366x366" width="320"></a>
@@ -39,40 +72,7 @@ Updated 2026-11-12 16:19 UTC · 378 listings · 0 kr–400.000 kr · 2 not score
 
 ---
 
-**9/10** · **279.790 kr**
-
-<a href="https://jysk.is/stok-vara/LYBY-hornsofi-sand/?PathId=daa6be5b-5fc6-4c03-a44a-6267f53d68a8"><img src="https://jysk.is/library/Images/products/P009390.jpg?proc=366x366" width="320"></a>
-
-[LYBY hornsófi sand](https://jysk.is/stok-vara/LYBY-hornsofi-sand/?PathId=daa6be5b-5fc6-4c03-a44a-6267f53d68a8)  
-<sub>JYSK</sub>
-
-<sub>The sofa's light warm greige color, soft woven fabric, loose back cushions, and hidden legs align closely with the desired style.</sub>
-
----
-
-**9/10** · **279.992 kr <sub>was 349.990 kr</sub>**
-
-<a href="https://husgagnahollin.is/vara/vesta-tungusofi-haegri-mito-beige/"><img src="https://husgagnahollin.is/wp-content/uploads/2026/04/Vesta-tungusofi-haegri-Mito-beige-haegri-6.webp" width="320"></a>
-
-[Vesta tungusófi hægri Mito Beige](https://husgagnahollin.is/vara/vesta-tungusofi-haegri-mito-beige/)  
-<sub>Húsgagnahöllin</sub>
-
-<sub>The sofa has a light cream color, soft rounded arms, plush cushions, and simple lines, matching the desired aesthetic closely.</sub>
-
----
-
-**9/10** · **279.992 kr <sub>was 349.990 kr</sub>**
-
-<a href="https://husgagnahollin.is/vara/vesta-tungusofi-vinstri-mito-beige/"><img src="https://husgagnahollin.is/wp-content/uploads/2025/12/Vesta-tungusofi-haegri-Mito-beige-vinstri-6.jpg" width="320"></a>
-
-[Vesta tungusófi vinstri Mito Beige](https://husgagnahollin.is/vara/vesta-tungusofi-vinstri-mito-beige/)  
-<sub>Húsgagnahöllin</sub>
-
-<sub>Matches the aesthetic with its light color, soft fabric, rounded arms, and low, generous proportions.</sub>
-
----
-
-**9/10** · **287.992 kr <sub>was 359.990 kr</sub>**
+**9/10** · **269.993 kr <sub>was 287.992 kr</sub>**
 
 <a href="https://husgagnahollin.is/vara/dean-tungusofi-cremona-14-beige/"><img src="https://husgagnahollin.is/wp-content/uploads/2026/01/HA0010185-Dean-tungusofi-Cremona-14-1.webp" width="320"></a>
 
@@ -83,14 +83,14 @@ Updated 2026-11-12 16:19 UTC · 378 listings · 0 kr–400.000 kr · 2 not score
 
 ---
 
-**9/10** · **287.992 kr <sub>was 359.990 kr</sub>**
+**9/10** · **279.790 kr**
 
-<a href="https://husgagnahollin.is/vara/enjoy-hornsofi-haegri-mito-01-sand/"><img src="https://husgagnahollin.is/wp-content/uploads/2024/09/Enjoy-hornsofi-haegri-Mito-01-Sand-KSO018651.webp" width="320"></a>
+<a href="https://jysk.is/stok-vara/LYBY-hornsofi-sand/?PathId=daa6be5b-5fc6-4c03-a44a-6267f53d68a8"><img src="https://jysk.is/library/Images/products/P009390.jpg?proc=366x366" width="320"></a>
 
-[Enjoy hornsófi hægri Mito 01 Sand](https://husgagnahollin.is/vara/enjoy-hornsofi-haegri-mito-01-sand/)  
-<sub>Húsgagnahöllin</sub>
+[LYBY hornsófi sand](https://jysk.is/stok-vara/LYBY-hornsofi-sand/?PathId=daa6be5b-5fc6-4c03-a44a-6267f53d68a8)  
+<sub>JYSK</sub>
 
-<sub>The sofa matches the aesthetic with its light cream color, soft woven fabric, relaxed and deep design, and clean lines, fitting the reference images.</sub>
+<sub>The sofa's light warm greige color, soft woven fabric, loose back cushions, and hidden legs align closely with the desired style.</sub>
 
 ---
 
@@ -182,7 +182,7 @@ Updated 2026-11-12 16:19 UTC · 378 listings · 0 kr–400.000 kr · 2 not score
 
 ---
 
-**8/10** · **287.992 kr <sub>was 359.990 kr</sub>**
+**8/10** · **251.993 kr <sub>was 287.992 kr</sub>**
 
 <a href="https://husgagnahollin.is/vara/enjoy-hornsofi-vinstri-mito-01-sand/"><img src="https://husgagnahollin.is/wp-content/uploads/2024/09/Enjoy-hornsofi-vinstri-Mito-01-Sand-KSO018834.webp" width="320"></a>
 
@@ -193,7 +193,7 @@ Updated 2026-11-12 16:19 UTC · 378 listings · 0 kr–400.000 kr · 2 not score
 
 ---
 
-**8/10** · **367.984 kr**
+**8/10** · **298.987 kr <sub>was 367.984 kr</sub>**
 
 <a href="https://husgagnahollin.is/vara/vesta-tungusofi-haegri-c1-denali-beige/"><img src="https://husgagnahollin.is/wp-content/uploads/2023/05/Vesta-tungusofi-haegri-C1-Denali-beige-496670006099150162.jpg" width="320"></a>
 
@@ -204,18 +204,7 @@ Updated 2026-11-12 16:19 UTC · 378 listings · 0 kr–400.000 kr · 2 not score
 
 ---
 
-**8/10** · **384.900 kr**
-
-<a href="https://modern.is/shop/husgogn/sofar-og-legubekkir/beinir-sofar/bib-sofi/"><img src="https://modern.is/wp-content/uploads/2025/08/Photoroom_20250819_014254-2-300x300.png" width="320"></a>
-
-[Bib sófi](https://modern.is/shop/husgogn/sofar-og-legubekkir/beinir-sofar/bib-sofi/)  
-<sub>Módern</sub>
-
-<sub>The candidate sofa has a similar off-white woven fabric, with soft rounded arms and clean simple lines, matching the desired aesthetic.</sub>
-
----
-
-**8/10** · **391.992 kr <sub>was 395.177 kr</sub>**
+**8/10** · **367.493 kr <sub>was 391.992 kr</sub>**
 
 <a href="https://husgagnahollin.is/vara/nelson-hornsofi-vinstri-hevre-beige-bb/"><img src="https://husgagnahollin.is/wp-content/uploads/2026/01/104835098002-Nelson-hornsofi-haegri-Hevre-beige-Bb-1-copy.webp" width="320"></a>
 
@@ -336,6 +325,17 @@ Updated 2026-11-12 16:19 UTC · 378 listings · 0 kr–400.000 kr · 2 not score
 
 ---
 
+**7/10** · **174.995 kr <sub>was 279.992 kr</sub>**
+
+<a href="https://husgagnahollin.is/vara/columbia-hvildarsofi-vinstri-caso-03-beige/"><img src="https://husgagnahollin.is/wp-content/uploads/2024/11/Columbia-hvildarsofi-vinstri-Caso-03-beige-H000024541.png" width="320"></a>
+
+[Columbia sófi m/vinstri hvíld Caso 03 beige](https://husgagnahollin.is/vara/columbia-hvildarsofi-vinstri-caso-03-beige/)  
+<sub>Húsgagnahöllin</sub>
+
+<sub>The sofa's color and fabric closely match the desired aesthetic, though the minimalist design and visible seams give it a more structured look than the relaxed style preferred.</sub>
+
+---
+
 **7/10** · **179.990 kr**
 
 <a href="https://jysk.is/stok-vara/SKIBBY-tungusofi-haegri-sand/?PathId=daa6be5b-5fc6-4c03-a44a-6267f53d68a8"><img src="https://jysk.is/library/Images/products/P013095.jpg?proc=366x366" width="320"></a>
@@ -347,7 +347,7 @@ Updated 2026-11-12 16:19 UTC · 378 listings · 0 kr–400.000 kr · 2 not score
 
 ---
 
-**7/10** · **199.992 kr <sub>was 249.990 kr</sub>**
+**7/10** · **187.493 kr <sub>was 199.992 kr</sub>**
 
 <a href="https://husgagnahollin.is/vara/friday-tungusofi-a-mito-beige-sb/"><img src="https://husgagnahollin.is/wp-content/uploads/2025/10/Friday-tungusofi-A-Mito-beige-vinstri-1.webp" width="320"></a>
 
@@ -355,6 +355,17 @@ Updated 2026-11-12 16:19 UTC · 378 listings · 0 kr–400.000 kr · 2 not score
 <sub>Húsgagnahöllin</sub>
 
 <sub>The sofa is a light greige color with a woven fabric, has rounded arms and clean lines, but its back cushions are more structured and the legs are metallic, slightly differing from the target style.</sub>
+
+---
+
+**7/10** · **232.493 kr <sub>was 247.992 kr</sub>**
+
+<a href="https://husgagnahollin.is/vara/nelson-sofi-35s-hevre-ljos-beige-bb/"><img src="https://husgagnahollin.is/wp-content/uploads/2025/05/Nelson-sofi-35s-Hevre-ljos-beige-Bb-104863098002.webp" width="320"></a>
+
+[Nelson sófi 3,5s Hevre ljós beige Bb](https://husgagnahollin.is/vara/nelson-sofi-35s-hevre-ljos-beige-bb/)  
+<sub>Húsgagnahöllin</sub>
+
+<sub>The sofa has a light beige color and a soft woven texture that fits the aesthetic, but lacks plush loose back cushions and an L-shape.</sub>
 
 ---
 
@@ -380,17 +391,6 @@ Updated 2026-11-12 16:19 UTC · 378 listings · 0 kr–400.000 kr · 2 not score
 
 ---
 
-**7/10** · **247.992 kr <sub>was 309.990 kr</sub>**
-
-<a href="https://husgagnahollin.is/vara/nelson-sofi-35s-hevre-ljos-beige-bb/"><img src="https://husgagnahollin.is/wp-content/uploads/2025/05/Nelson-sofi-35s-Hevre-ljos-beige-Bb-104863098002.webp" width="320"></a>
-
-[Nelson sófi 3,5s Hevre ljós beige Bb](https://husgagnahollin.is/vara/nelson-sofi-35s-hevre-ljos-beige-bb/)  
-<sub>Húsgagnahöllin</sub>
-
-<sub>The sofa has a light beige color and a soft woven texture that fits the aesthetic, but lacks plush loose back cushions and an L-shape.</sub>
-
----
-
 **7/10** · **249.700 kr**
 
 <a href="https://www.ilva.is/stok-vara/?ProductName=AIMEE-Tungusofi-haegri-off-white-med-midjueiningu&PathId=1fc7d092-ce9e-11ef-81b7-8f3b82297126"><img src="https://www.ilva.is/library/Images/Products/V011412.jpg?proc=366x366" width="320"></a>
@@ -413,14 +413,14 @@ Updated 2026-11-12 16:19 UTC · 378 listings · 0 kr–400.000 kr · 2 not score
 
 ---
 
-**7/10** · **279.992 kr <sub>was 349.990 kr</sub>**
+**7/10** · **292.493 kr <sub>was 311.992 kr</sub>**
 
-<a href="https://husgagnahollin.is/vara/columbia-hvildarsofi-vinstri-caso-03-beige/"><img src="https://husgagnahollin.is/wp-content/uploads/2024/11/Columbia-hvildarsofi-vinstri-Caso-03-beige-H000024541.png" width="320"></a>
+<a href="https://husgagnahollin.is/vara/friday-u-sofi-m-tungu-vinstri-mito-beige-sb/"><img src="https://husgagnahollin.is/wp-content/uploads/2025/10/Friday-u-sofi-m_tungu-vinstri-Mito-beige.webp" width="320"></a>
 
-[Columbia sófi m/vinstri hvíld Caso 03 beige](https://husgagnahollin.is/vara/columbia-hvildarsofi-vinstri-caso-03-beige/)  
+[Friday u-sófi m/tungu vinstri Mito beige Sb](https://husgagnahollin.is/vara/friday-u-sofi-m-tungu-vinstri-mito-beige-sb/)  
 <sub>Húsgagnahöllin</sub>
 
-<sub>The sofa's color and fabric closely match the desired aesthetic, though the minimalist design and visible seams give it a more structured look than the relaxed style preferred.</sub>
+<sub>The sofa has a light greige color and simple lines that match the desired aesthetic, but the visible metal legs and firm-looking back cushions slightly detract from the relaxed look.</sub>
 
 ---
 
@@ -457,18 +457,7 @@ Updated 2026-11-12 16:19 UTC · 378 listings · 0 kr–400.000 kr · 2 not score
 
 ---
 
-**7/10** · **311.992 kr <sub>was 389.990 kr</sub>**
-
-<a href="https://husgagnahollin.is/vara/friday-u-sofi-m-tungu-vinstri-mito-beige-sb/"><img src="https://husgagnahollin.is/wp-content/uploads/2025/10/Friday-u-sofi-m_tungu-vinstri-Mito-beige.webp" width="320"></a>
-
-[Friday u-sófi m/tungu vinstri Mito beige Sb](https://husgagnahollin.is/vara/friday-u-sofi-m-tungu-vinstri-mito-beige-sb/)  
-<sub>Húsgagnahöllin</sub>
-
-<sub>The sofa has a light greige color and simple lines that match the desired aesthetic, but the visible metal legs and firm-looking back cushions slightly detract from the relaxed look.</sub>
-
----
-
-**7/10** · **335.992 kr <sub>was 338.722 kr</sub>**
+**7/10** · **314.993 kr <sub>was 335.992 kr</sub>**
 
 <a href="https://husgagnahollin.is/vara/paso-doble-night-tungusofi-vinstri-mito-beige/"><img src="https://husgagnahollin.is/wp-content/uploads/2024/10/Paso-Doble-Night-tungusofi-vinstri-Mito-beige-262525001099151562.webp" width="320"></a>
 
@@ -487,6 +476,17 @@ Updated 2026-11-12 16:19 UTC · 378 listings · 0 kr–400.000 kr · 2 not score
 <sub>Húsgagnahöllin</sub>
 
 <sub>The sofa is a warm greige color in a woven fabric with clean, simple lines and soft arms, fitting the desired style, though the base is more visible than preferred.</sub>
+
+---
+
+**7/10** · **367.493 kr <sub>was 391.992 kr</sub>**
+
+<a href="https://husgagnahollin.is/vara/nelson-hornsofi-haegri-hevre-beige-bb/"><img src="https://husgagnahollin.is/wp-content/uploads/2025/11/104835098002-Nelson-hornsofi-haegri-Hevre-beige-Bb.jpg" width="320"></a>
+
+[Nelson hornsófi hægri Hevre beige Bb](https://husgagnahollin.is/vara/nelson-hornsofi-haegri-hevre-beige-bb/)  
+<sub>Húsgagnahöllin</sub>
+
+<sub>Matches the target with similar color and fabric, clean lines, but has visible legs and firmer cushions.</sub>
 
 ---
 
@@ -534,14 +534,25 @@ Updated 2026-11-12 16:19 UTC · 378 listings · 0 kr–400.000 kr · 2 not score
 
 ---
 
-**7/10** · **391.992 kr <sub>was 395.177 kr</sub>**
+**7/10** · **389.993 kr**
 
-<a href="https://husgagnahollin.is/vara/nelson-hornsofi-haegri-hevre-beige-bb/"><img src="https://husgagnahollin.is/wp-content/uploads/2025/11/104835098002-Nelson-hornsofi-haegri-Hevre-beige-Bb.jpg" width="320"></a>
+<a href="https://husgagnahollin.is/vara/maggie-3s-sofi-more-rabbit/"><img src="https://husgagnahollin.is/wp-content/uploads/2026/05/463130310131126808-Maggie.webp" width="320"></a>
 
-[Nelson hornsófi hægri Hevre beige Bb](https://husgagnahollin.is/vara/nelson-hornsofi-haegri-hevre-beige-bb/)  
+[Maggie 3s sófi More Rabbit](https://husgagnahollin.is/vara/maggie-3s-sofi-more-rabbit/)  
 <sub>Húsgagnahöllin</sub>
 
-<sub>Matches the target with similar color and fabric, clean lines, but has visible legs and firmer cushions.</sub>
+<sub>The sofa features light warm greige fabric, plush back cushions, and simple lines, but it is not an L-shaped or chaise style.</sub>
+
+---
+
+**6/10** · **25.000 kr <sub>was 50.000 kr</sub>**
+
+<a href="https://bland.is/til-solu/heimilid/stofa/sofi-tungusofi/5302287/"><img src="https://img.bland.is/album/img/299702/m/20261106150311_0.jpg" width="320"></a>
+
+[Sófi - Tungusófi](https://bland.is/til-solu/heimilid/stofa/sofi-tungusofi/5302287/)  
+<sub>Bland (notað)</sub>
+
+<sub>The sofa is an L-shaped corner design with simple lines and a modern look but fails to match the light, warm color scheme and plush, relaxed cushion style.</sub>
 
 ---
 
@@ -575,17 +586,6 @@ Updated 2026-11-12 16:19 UTC · 378 listings · 0 kr–400.000 kr · 2 not score
 <sub>Bland (notað)</sub>
 
 <sub>The sofa's color and material align with the desired look, but its exposed metal legs and lack of plush cushions diverge from the preferred style.</sub>
-
----
-
-**6/10** · **50.000 kr**
-
-<a href="https://bland.is/til-solu/heimilid/stofa/sofi-tungusofi/5302287/"><img src="https://img.bland.is/album/img/299702/m/20261106150311_0.jpg" width="320"></a>
-
-[Sófi - Tungusófi](https://bland.is/til-solu/heimilid/stofa/sofi-tungusofi/5302287/)  
-<sub>Bland (notað)</sub>
-
-<sub>The sofa is an L-shaped corner design with simple lines and a modern look but fails to match the light, warm color scheme and plush, relaxed cushion style.</sub>
 
 ---
 
