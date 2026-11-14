@@ -1,6 +1,6 @@
 # Sofas
 
-Updated 2026-11-13 15:43 UTC · 382 listings · 0 kr–400.000 kr · 2 not scored yet
+Updated 2026-11-14 14:33 UTC · 392 listings · 0 kr–400.000 kr · 2 not scored yet
 
 [← all categories](../results.md)
 
@@ -160,17 +160,6 @@ Updated 2026-11-13 15:43 UTC · 382 listings · 0 kr–400.000 kr · 2 not score
 
 ---
 
-**8/10** · **200.000 kr**
-
-<a href="https://bland.is/til-solu/heimilid/stofa/hornsofi/5301618/"><img src="https://img.bland.is/album/img/326356/m/20261103204222_0.jpg" width="320"></a>
-
-[Hornsófi](https://bland.is/til-solu/heimilid/stofa/hornsofi/5301618/)  
-<sub>Bland (notað)</sub>
-
-<sub>The candidate sofa matches the desired style with its light color, soft fabric texture, loose back cushions, low profile, and simple, clean lines.</sub>
-
----
-
 **8/10** · **249.700 kr**
 
 <a href="https://www.ilva.is/stok-vara/?ProductName=AIMEE-Tungusofi-vinstri-off-white-med-midjueiningu&PathId=1fc7d092-ce9e-11ef-81b7-8f3b82297126"><img src="https://www.ilva.is/library/Images/Products/V011413.jpg?proc=366x366" width="320"></a>
@@ -212,6 +201,17 @@ Updated 2026-11-13 15:43 UTC · 382 listings · 0 kr–400.000 kr · 2 not score
 <sub>Húsgagnahöllin</sub>
 
 <sub>The Nelson sofa has a light woven fabric, soft rounded arms, loose back cushions, and a low, L-shaped design that matches the desired aesthetic.</sub>
+
+---
+
+**8/10** · **384.900 kr**
+
+<a href="https://modern.is/shop/husgogn/sofar-og-legubekkir/beinir-sofar/bib-sofi/"><img src="https://modern.is/wp-content/uploads/2025/08/Photoroom_20250819_014254-2-300x300.png" width="320"></a>
+
+[Bib sófi](https://modern.is/shop/husgogn/sofar-og-legubekkir/beinir-sofar/bib-sofi/)  
+<sub>Módern</sub>
+
+<sub>The candidate sofa has a similar off-white woven fabric, with soft rounded arms and clean simple lines, matching the desired aesthetic.</sub>
 
 ---
 
@@ -545,6 +545,17 @@ Updated 2026-11-13 15:43 UTC · 382 listings · 0 kr–400.000 kr · 2 not score
 
 ---
 
+**6/10** · **no price <sub>free or offer — check</sub>** · 🆕
+
+<a href="https://bland.is/til-solu/heimilid/stofa/hornsofi/5304494/"><img src="https://img.bland.is/album/img/149308/m/20261113233048_0.jpg" width="320"></a>
+
+[Hornsófi](https://bland.is/til-solu/heimilid/stofa/hornsofi/5304494/)  
+<sub>Bland (notað)</sub>
+
+<sub>The candidate sofa has a simple design with soft rounded arms and loose back cushions, but the darker color and more structured appearance diverge from the target aesthetic.</sub>
+
+---
+
 **6/10** · **25.000 kr <sub>was 50.000 kr</sub>**
 
 <a href="https://bland.is/til-solu/heimilid/stofa/sofi-tungusofi/5302287/"><img src="https://img.bland.is/album/img/299702/m/20261106150311_0.jpg" width="320"></a>
@@ -553,17 +564,6 @@ Updated 2026-11-13 15:43 UTC · 382 listings · 0 kr–400.000 kr · 2 not score
 <sub>Bland (notað)</sub>
 
 <sub>The sofa is an L-shaped corner design with simple lines and a modern look but fails to match the light, warm color scheme and plush, relaxed cushion style.</sub>
-
----
-
-**6/10** · **28.000 kr**
-
-<a href="https://bland.is/til-solu/heimilid/stofa/sofa-ilva-210x220cm/5301659/"><img src="https://img.bland.is/album/img/434301/m/20261103224647_0.jpg" width="320"></a>
-
-[Sofa ilva 210x220cm](https://bland.is/til-solu/heimilid/stofa/sofa-ilva-210x220cm/5301659/)  
-<sub>Bland (notað)</sub>
-
-<sub>The sofa's colour and fabric are suitable, but the visible metal legs and lack of relaxed plushness slightly deviate from the target look.</sub>
 
 ---
 

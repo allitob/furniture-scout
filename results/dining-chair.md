@@ -1,6 +1,6 @@
 # Dining chairs
 
-Updated 2026-11-13 15:43 UTC · 122 listings · 0 kr–50.000 kr per piece
+Updated 2026-11-14 14:33 UTC · 123 listings · 0 kr–50.000 kr per piece
 
 [← all categories](../results.md)
 
@@ -545,6 +545,17 @@ Updated 2026-11-13 15:43 UTC · 122 listings · 0 kr–50.000 kr per piece
 
 ---
 
+**5/10** · **37.900 kr**
+
+<a href="https://modern.is/shop/husgogn/stolar/bordstofustolar/aava-stoll/"><img src="https://modern.is/wp-content/uploads/2020/08/Arper-Aava4leg-300x300.jpg" width="320"></a>
+
+[Aava stóll](https://modern.is/shop/husgogn/stolar/bordstofustolar/aava-stoll/)  
+<sub>Módern</sub>
+
+<sub>The candidate chair has a Scandinavian style but features plastic seat shells and metal legs, which don't align with the mid-century wood-only aesthetic and upholstered seat preference.</sub>
+
+---
+
 **5/10** · **39.900 kr**
 
 <a href="https://www.ilva.is/stok-vara/?ProductName=NORRLAND-Bordstofustoll-svart-flettad-svartlakkadir-eikarfaetur&PathId=4a9ff5ae-c167-400e-b7dd-d6afc3779559"><img src="https://www.ilva.is/library/Images/Products/V007971.jpg?proc=366x366" width="320"></a>
@@ -589,7 +600,7 @@ Updated 2026-11-13 15:43 UTC · 122 listings · 0 kr–50.000 kr per piece
 
 ---
 
-**5/10** · **48.993 kr** · 🆕
+**5/10** · **48.993 kr**
 
 <a href="https://husgagnahollin.is/vara/kare-cindy-bordstofustoll/"><img src="https://husgagnahollin.is/wp-content/uploads/2025/07/Kare-Cindy-bordstofustoll-70256K.png" width="320"></a>
 
@@ -652,16 +663,5 @@ Updated 2026-11-13 15:43 UTC · 122 listings · 0 kr–50.000 kr per piece
 <sub>JYSK</sub>
 
 <sub>The chair has a modern look with metal legs and a fully upholstered seat, which does not align with the mid-century Scandinavian aesthetic desired.</sub>
-
----
-
-**4/10** · **19.900 kr**
-
-<a href="https://www.ilva.is/stok-vara/?ProductName=MAREK-Bordstofustoll-brunn-svartir-malmfaetur&PathId=4a9ff5ae-c167-400e-b7dd-d6afc3779559"><img src="https://www.ilva.is/library/Images/Products/V010434.jpg?proc=366x366" width="320"></a>
-
-[MAREK Borðstofustóll brúnn/svartir málmfætur](https://www.ilva.is/stok-vara/?ProductName=MAREK-Bordstofustoll-brunn-svartir-malmfaetur&PathId=4a9ff5ae-c167-400e-b7dd-d6afc3779559)  
-<sub>ILVA</sub>
-
-<sub>The chair has metal legs and an overall modern industrial look, which deviates from the warm wood and mid-century Scandinavian design criteria.</sub>
 
 ---

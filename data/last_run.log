@@ -1,35 +1,35 @@
-Epal: 9558 products in catalog
+Epal: 9557 products in catalog
 Snúran: 795 products in catalog
-Bland: 607 listings scanned
+Bland: 606 listings scanned
 Húsgagnahöllin: 105 matching products
 Módern: 46 listings parsed from HTML
 Línan: 33 listings parsed from HTML
 ILVA: 89 listings parsed from HTML
 JYSK: 63 listings parsed from HTML
-[dining-table] 217 candidates within budget (from 11296 listings)
-[dining-table] Opened 68 listing pages for details
-[dining-table] 92 pass price/size filters
-[dining-table] Scored 1 listings with gpt-4o
+[dining-table] 218 candidates within budget (from 11294 listings)
+[dining-table] Opened 71 listing pages for details
+[dining-table] 93 pass price/size filters
+[dining-table] Scored 4 listings with gpt-4o
 [dining-table] Notify: 0 new strong matches
 Húsgagnahöllin: 61 matching products
-Módern: 78 listings parsed from HTML
+Módern: 76 listings parsed from HTML
 Línan: 32 listings parsed from HTML
 ILVA: 77 listings parsed from HTML
 JYSK: 120 listings parsed from HTML
-[dining-chair] 220 candidates within budget (from 11328 listings)
-[dining-chair] Opened 1 listing pages for details
-[dining-chair] 220 pass price/size filters
+[dining-chair] 222 candidates within budget (from 11324 listings)
+[dining-chair] Opened 3 listing pages for details
+[dining-chair] 221 pass price/size filters
 [dining-chair] Scored 2 listings with gpt-4o
 [dining-chair] Notify: 0 new strong matches
 Húsgagnahöllin: 180 matching products
-Módern: 103 listings parsed from HTML
+Módern: 105 listings parsed from HTML
 Línan: 35 listings parsed from HTML
-ILVA: 161 listings parsed from HTML
+ILVA: 164 listings parsed from HTML
 JYSK: 133 listings parsed from HTML
-[sofa] 410 candidates within budget (from 11572 listings)
-[sofa] Opened 4 listing pages for details
-[sofa] 410 pass price/size filters
+[sofa] 421 candidates within budget (from 11575 listings)
+[sofa] Opened 11 listing pages for details
+[sofa] 421 pass price/size filters
 [sofa] score failed for https://bland.is/til-solu/heimilid/stofa/sofi-glostrup-ikea/5302673/: 404 Client Error: Not Found for url: https://img.bland.is/album/img/190057/m/20261107184023_0.jpg
 [sofa] score failed for https://www.ilva.is/stok-vara/?ProductName=ZARZA-Tungusofi-haegri-brunn&PathId=1fc7d092-ce9e-11ef-81b7-8f3b82297126: 404 Client Error: Not Found for url: https://www.ilva.is/lisalib/getfile.aspx?itemid=&proc=366x366
-[sofa] Scored 8 listings with gpt-4o
+[sofa] Scored 11 listings with gpt-4o
 [sofa] Notify: 0 new strong matches

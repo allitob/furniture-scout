@@ -1,6 +1,6 @@
 # Dining tables
 
-Updated 2026-11-13 15:43 UTC · 81 listings · 5.000 kr–400.000 kr
+Updated 2026-11-14 14:33 UTC · 82 listings · 5.000 kr–400.000 kr
 
 [← all categories](../results.md)
 
@@ -226,6 +226,17 @@ Updated 2026-11-13 15:43 UTC · 81 listings · 5.000 kr–400.000 kr
 
 ---
 
+**6/10** · **45.000 kr** · 🆕
+
+<a href="https://bland.is/til-solu/heimilid/stofa/bord/5304405/"><img src="https://img.bland.is/album/img/216104/m/20261113172159_0.jpg" width="320"></a>
+
+[Borð](https://bland.is/til-solu/heimilid/stofa/bord/5304405/)  
+<sub>Bland (notað) · 110/140 cm</sub>
+
+<sub>The table features a warm wood tone and a simple pedestal base, but its edges and overall style are more modern than mid-century Scandinavian.</sub>
+
+---
+
 **6/10** · **112.493 kr <sub>was 119.992 kr</sub>**
 
 <a href="https://husgagnahollin.is/vara/nola-bordstofubord-95x180-oval-natur-eik/"><img src="https://husgagnahollin.is/wp-content/uploads/2025/01/Nola-bordstofubord-95x180-oval-natur-eik-48302780.jpg" width="320"></a>
@@ -369,18 +380,7 @@ Updated 2026-11-13 15:43 UTC · 81 listings · 5.000 kr–400.000 kr
 
 ---
 
-**4/10** · **15.000 kr <sub>was 20.000 kr</sub>**
-
-<a href="https://bland.is/til-solu/heimilid/stofa/stort-bord-og-8-stolar/5302877/"><img src="https://img.bland.is/album/img/207083/m/20261108140434_0.jpg" width="320"></a>
-
-[Stórt borð og 8 stólar](https://bland.is/til-solu/heimilid/stofa/stort-bord-og-8-stolar/5302877/)  
-<sub>Bland (notað) · 158 cm</sub>
-
-<sub>The candidate table is a dining table but features ornate details and a polished finish, which differ from the mid-century Scandinavian style sought.</sub>
-
----
-
-**4/10** · **25.000 kr** · 🆕
+**4/10** · **25.000 kr**
 
 <a href="https://bland.is/til-solu/heimilid/stofa/bordstofubord/5303861/"><img src="https://img.bland.is/album/img/129648/m/20261111173832_0.jpg" width="320"></a>
 
@@ -567,17 +567,6 @@ Updated 2026-11-13 15:43 UTC · 81 listings · 5.000 kr–400.000 kr
 
 ---
 
-**3/10** · **15.000 kr**
-
-<a href="https://bland.is/til-solu/heimilid/stofa/til-solu-staekkanlegt-bordstofubord/5304089/"><img src="https://img.bland.is/album/img/152/m/20261112145830_0.jpg" width="320"></a>
-
-[Til sölu stækkanlegt borðstofuborð](https://bland.is/til-solu/heimilid/stofa/til-solu-staekkanlegt-bordstofubord/5304089/)  
-<sub>Bland (notað) · 180 cm</sub>
-
-<sub>The candidate table has a modern industrial look with a darker wood tone and metal legs, lacking the warm wood tone and tapered legs of the mid-century Scandinavian style.</sub>
-
----
-
 **3/10** · **29.990 kr**
 
 <a href="https://jysk.is/stok-vara/AABENRAA-bord-80x120-cm-eik-svart-3/?PathId=68136a40-8cc3-4036-8232-832bbcbd4a46"><img src="https://jysk.is/library/Images/products/P002111.jpg?proc=366x366" width="320"></a>
@@ -619,6 +608,17 @@ Updated 2026-11-13 15:43 UTC · 81 listings · 5.000 kr–400.000 kr
 <sub>JYSK · 160/200/220 cm</sub>
 
 <sub>The table has a dark stained wood appearance but lacks the mid-century Scandinavian design elements like softly rounded corners and tapered legs.</sub>
+
+---
+
+**3/10** · **50.000 kr** · 🆕
+
+<a href="https://bland.is/til-solu/heimilid/stofa/staekkankegt-bordstofubord-140x140-2x-20cm-staekkun/5304393/"><img src="https://img.bland.is/album/img/287596/m/20261113165603_0.jpg" width="320"></a>
+
+[Stækkankegt Borðstofuborð 140x140 2x 20cm stækkun](https://bland.is/til-solu/heimilid/stofa/staekkankegt-bordstofubord-140x140-2x-20cm-staekkun/5304393/)  
+<sub>Bland (notað) · 140/180 cm</sub>
+
+<sub>The table has a thick top, sharp edges, and blocky legs, which do not align with the mid-century Scandinavian style characterized by slim tops, rounded edges, and tapered legs.</sub>
 
 ---
 
