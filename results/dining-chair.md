@@ -1,6 +1,6 @@
 # Dining chairs
 
-Updated 2026-11-16 17:29 UTC · 121 listings · 0 kr–50.000 kr per piece
+Updated 2026-11-17 17:06 UTC · 119 listings · 0 kr–50.000 kr per piece
 
 [← all categories](../results.md)
 
@@ -61,7 +61,7 @@ Updated 2026-11-16 17:29 UTC · 121 listings · 0 kr–50.000 kr per piece
 
 ---
 
-**8/10** · **49.900 kr**
+**8/10** · **49.900 kr** · uppselt
 
 <a href="https://www.ilva.is/stok-vara/?ProductName=LYSTRA-Bordstofustoll-off-white&PathId=4a9ff5ae-c167-400e-b7dd-d6afc3779559"><img src="https://www.ilva.is/library/Images/Products/V014107.jpg?proc=366x366" width="320"></a>
 
@@ -190,6 +190,17 @@ Updated 2026-11-16 17:29 UTC · 121 listings · 0 kr–50.000 kr per piece
 <sub>Húsgagnahöllin</sub>
 
 <sub>The chair has the curved backrest and upholstered seat, but the metal legs and lack of wood frame deviate from the desired mid-century wood aesthetic.</sub>
+
+---
+
+**6/10** · **18.193 kr** · 🆕
+
+<a href="https://husgagnahollin.is/vara/lean-bordstofustoll-brunn-carson-beige/"><img src="https://husgagnahollin.is/wp-content/uploads/2026/04/Luna-bordstofustoll-brunnCarson-beige-C3455BL111-2.webp" width="320"></a>
+
+[Lean borðstofustóll brúnn/Carson beige](https://husgagnahollin.is/vara/lean-bordstofustoll-brunn-carson-beige/)  
+<sub>Húsgagnahöllin</sub>
+
+<sub>The chair has a mid-century design with a wood frame and upholstered seat, but the wood tone and fabric texture are slightly off from the target aesthetic.</sub>
 
 ---
 
@@ -402,17 +413,6 @@ Updated 2026-11-16 17:29 UTC · 121 listings · 0 kr–50.000 kr per piece
 
 ---
 
-**6/10** · **45.000 kr**
-
-<a href="https://bland.is/til-solu/heimilid/stofa/4-lynghol-bordstofustolar/5303678/"><img src="https://img.bland.is/album/img/236011/m/20261110232046_0.jpg" width="320"></a>
-
-[4 lynghol borðstofustólar](https://bland.is/til-solu/heimilid/stofa/4-lynghol-bordstofustolar/5303678/)  
-<sub>Bland (notað)</sub>
-
-<sub>The chair has a wood frame with tapered legs and a simple backrest but the seat material and color differ from the target design.</sub>
-
----
-
 **6/10** · **49.900 kr**
 
 <a href="https://www.ilva.is/stok-vara/?ProductName=LYSTRA-Bordstofustoll-graenn&PathId=4a9ff5ae-c167-400e-b7dd-d6afc3779559"><img src="https://www.ilva.is/library/Images/Products/V014108.jpg?proc=366x366" width="320"></a>
@@ -443,6 +443,39 @@ Updated 2026-11-16 17:29 UTC · 121 listings · 0 kr–50.000 kr per piece
 <sub>JYSK</sub>
 
 <sub>The chair has slim round tapered legs and a light fabric seat, but lacks the curved wood backrest typical of mid-century Scandinavian designs.</sub>
+
+---
+
+**5/10** · **13.740 kr <sub>was 22.900 kr</sub>**
+
+<a href="https://www.ilva.is/stok-vara/?ProductName=ALLY-Bordstofustoll-koniaksbrunt-ledurliki-oliubornir-eikarfaetur&PathId=4a9ff5ae-c167-400e-b7dd-d6afc3779559"><img src="https://www.ilva.is/library/Images/Products/V001288.jpg?proc=366x366" width="320"></a>
+
+[ALLY Borðstofustóll koníaksbrúnt leðurlíki/olíubornir eikarfætur](https://www.ilva.is/stok-vara/?ProductName=ALLY-Bordstofustoll-koniaksbrunt-ledurliki-oliubornir-eikarfaetur&PathId=4a9ff5ae-c167-400e-b7dd-d6afc3779559)  
+<sub>ILVA</sub>
+
+<sub>The chair is a dining chair with a wood base, but the leather-like seat and the slightly bulky molded design diverge from the target mid-century Scandinavian look.</sub>
+
+---
+
+**5/10** · **14.940 kr <sub>was 24.900 kr</sub>**
+
+<a href="https://www.ilva.is/stok-vara/?ProductName=ALLY-Bordstofustoll-brunn-oliubornir-eikarfaetur&PathId=4a9ff5ae-c167-400e-b7dd-d6afc3779559"><img src="https://www.ilva.is/library/Images/Products/V010112.jpg?proc=366x366" width="320"></a>
+
+[ALLY Borðstofustóll brúnn/olíubornir eikarfætur](https://www.ilva.is/stok-vara/?ProductName=ALLY-Bordstofustoll-brunn-oliubornir-eikarfaetur&PathId=4a9ff5ae-c167-400e-b7dd-d6afc3779559)  
+<sub>ILVA</sub>
+
+<sub>While it features the solid wood frame and tapered legs, the seat and back are one shell and not consistent with mid-century Scandinavian design.</sub>
+
+---
+
+**5/10** · **18.193 kr** · 🆕
+
+<a href="https://husgagnahollin.is/vara/lean-bordstofustoll-brunn-carson-brunn/"><img src="https://husgagnahollin.is/wp-content/uploads/2026/04/Luna-bordstofustoll-brunnCarson-brunn-C3455BL400-2.webp" width="320"></a>
+
+[Lean borðstofustóll brúnn/Carson brúnn](https://husgagnahollin.is/vara/lean-bordstofustoll-brunn-carson-brunn/)  
+<sub>Húsgagnahöllin</sub>
+
+<sub>The chair has rounded wooden legs and a curved back, but the dark, velvety upholstery and fully upholstered back don't fit the target aesthetic of light cream textured fabric and bent wood.</sub>
 
 ---
 
@@ -490,25 +523,14 @@ Updated 2026-11-16 17:29 UTC · 121 listings · 0 kr–50.000 kr per piece
 
 ---
 
-**5/10** · **22.900 kr**
+**5/10** · **23.940 kr <sub>was 39.900 kr</sub>**
 
-<a href="https://www.ilva.is/stok-vara/?ProductName=ALLY-Bordstofustoll-koniaksbrunt-ledurliki-oliubornir-eikarfaetur&PathId=4a9ff5ae-c167-400e-b7dd-d6afc3779559"><img src="https://www.ilva.is/library/Images/Products/V001288.jpg?proc=366x366" width="320"></a>
+<a href="https://www.ilva.is/stok-vara/?ProductName=NORRLAND-Bordstofustoll-svart-flettad-svartlakkadir-eikarfaetur&PathId=4a9ff5ae-c167-400e-b7dd-d6afc3779559"><img src="https://www.ilva.is/library/Images/Products/V007971.jpg?proc=366x366" width="320"></a>
 
-[ALLY Borðstofustóll koníaksbrúnt leðurlíki/olíubornir eikarfætur](https://www.ilva.is/stok-vara/?ProductName=ALLY-Bordstofustoll-koniaksbrunt-ledurliki-oliubornir-eikarfaetur&PathId=4a9ff5ae-c167-400e-b7dd-d6afc3779559)  
+[NORRLAND Borðstofustóll svart fléttað/svartlakkaðir eikarfætur](https://www.ilva.is/stok-vara/?ProductName=NORRLAND-Bordstofustoll-svart-flettad-svartlakkadir-eikarfaetur&PathId=4a9ff5ae-c167-400e-b7dd-d6afc3779559)  
 <sub>ILVA</sub>
 
-<sub>The chair is a dining chair with a wood base, but the leather-like seat and the slightly bulky molded design diverge from the target mid-century Scandinavian look.</sub>
-
----
-
-**5/10** · **24.900 kr**
-
-<a href="https://www.ilva.is/stok-vara/?ProductName=ALLY-Bordstofustoll-brunn-oliubornir-eikarfaetur&PathId=4a9ff5ae-c167-400e-b7dd-d6afc3779559"><img src="https://www.ilva.is/library/Images/Products/V010112.jpg?proc=366x366" width="320"></a>
-
-[ALLY Borðstofustóll brúnn/olíubornir eikarfætur](https://www.ilva.is/stok-vara/?ProductName=ALLY-Bordstofustoll-brunn-oliubornir-eikarfaetur&PathId=4a9ff5ae-c167-400e-b7dd-d6afc3779559)  
-<sub>ILVA</sub>
-
-<sub>While it features the solid wood frame and tapered legs, the seat and back are one shell and not consistent with mid-century Scandinavian design.</sub>
+<sub>The chair has a mid-century modern style with wood construction but lacks the light color tones and soft upholstery of the target aesthetic.</sub>
 
 ---
 
@@ -542,28 +564,6 @@ Updated 2026-11-16 17:29 UTC · 121 listings · 0 kr–50.000 kr per piece
 <sub>Húsgagnahöllin</sub>
 
 <sub>The chair has a mid-century design with a wood frame and tapered legs, but the black color and backrest style deviate from the desired aesthetic.</sub>
-
----
-
-**5/10** · **37.900 kr**
-
-<a href="https://modern.is/shop/husgogn/stolar/bordstofustolar/aava-stoll/"><img src="https://modern.is/wp-content/uploads/2020/08/Arper-Aava4leg-300x300.jpg" width="320"></a>
-
-[Aava stóll](https://modern.is/shop/husgogn/stolar/bordstofustolar/aava-stoll/)  
-<sub>Módern</sub>
-
-<sub>The candidate chair has a Scandinavian style but features plastic seat shells and metal legs, which don't align with the mid-century wood-only aesthetic and upholstered seat preference.</sub>
-
----
-
-**5/10** · **39.900 kr**
-
-<a href="https://www.ilva.is/stok-vara/?ProductName=NORRLAND-Bordstofustoll-svart-flettad-svartlakkadir-eikarfaetur&PathId=4a9ff5ae-c167-400e-b7dd-d6afc3779559"><img src="https://www.ilva.is/library/Images/Products/V007971.jpg?proc=366x366" width="320"></a>
-
-[NORRLAND Borðstofustóll svart fléttað/svartlakkaðir eikarfætur](https://www.ilva.is/stok-vara/?ProductName=NORRLAND-Bordstofustoll-svart-flettad-svartlakkadir-eikarfaetur&PathId=4a9ff5ae-c167-400e-b7dd-d6afc3779559)  
-<sub>ILVA</sub>
-
-<sub>The chair has a mid-century modern style with wood construction but lacks the light color tones and soft upholstery of the target aesthetic.</sub>
 
 ---
 
@@ -611,17 +611,6 @@ Updated 2026-11-16 17:29 UTC · 121 listings · 0 kr–50.000 kr per piece
 
 ---
 
-**4/10** · **6.000 kr**
-
-<a href="https://bland.is/til-solu/heimilid/stofa/6-bordstofustolar/5303952/"><img src="https://img.bland.is/album/img/366193/m/20261111234024_0.jpg" width="320"></a>
-
-[6 borðstofustólar](https://bland.is/til-solu/heimilid/stofa/6-bordstofustolar/5303952/)  
-<sub>Bland (notað)</sub>
-
-<sub>The chair is made of wood with fabric seats, matching the dining chair category, but the dark wood tone, slat back design, and overall traditional style differ from the mid-century Scandinavian aesthetic.</sub>
-
----
-
 **4/10** · **7.995 kr <sub>was 7.996 kr</sub>**
 
 <a href="https://jysk.is/stok-vara/JONSTRUP-stoll-beige-dokk-eikarlitadir-stalfaetur/?PathId=73bef239-beb3-4e8d-a05c-f0583025233d"><img src="https://jysk.is/library/Images/products/P007678.jpg?proc=366x366" width="320"></a>
@@ -644,14 +633,14 @@ Updated 2026-11-16 17:29 UTC · 121 listings · 0 kr–50.000 kr per piece
 
 ---
 
-**4/10** · **8.000 kr**
+**4/10** · **13.740 kr <sub>was 22.900 kr</sub>**
 
-<a href="https://bland.is/til-solu/heimilid/stofa/stoll/5303626/"><img src="https://img.bland.is/album/img/327635/m/20261110195713_0.jpg" width="320"></a>
+<a href="https://www.ilva.is/stok-vara/?ProductName=ALLY-Bordstofustoll-svart-ledurliki-oliubornir-eikarfaetur&PathId=4a9ff5ae-c167-400e-b7dd-d6afc3779559"><img src="https://www.ilva.is/library/Images/Products/V001287.jpg?proc=366x366" width="320"></a>
 
-[Stóll](https://bland.is/til-solu/heimilid/stofa/stoll/5303626/)  
-<sub>Bland (notað)</sub>
+[ALLY Borðstofustóll svart leðurlíki/olíubornir eikarfætur](https://www.ilva.is/stok-vara/?ProductName=ALLY-Bordstofustoll-svart-ledurliki-oliubornir-eikarfaetur&PathId=4a9ff5ae-c167-400e-b7dd-d6afc3779559)  
+<sub>ILVA</sub>
 
-<sub>The chair has a wood frame and a curved back but the upholstery design is ornate and not aligned with the simple, textured fabric described.</sub>
+<sub>The chair has a wood frame and tapered legs, but features leather-like upholstery and a metal structure which differ from the target light fabric and wood-only aesthetic.</sub>
 
 ---
 
@@ -663,5 +652,16 @@ Updated 2026-11-16 17:29 UTC · 121 listings · 0 kr–50.000 kr per piece
 <sub>JYSK</sub>
 
 <sub>The chair has a modern look with metal legs and a fully upholstered seat, which does not align with the mid-century Scandinavian aesthetic desired.</sub>
+
+---
+
+**4/10** · **18.193 kr** · 🆕
+
+<a href="https://husgagnahollin.is/vara/lean-bordstofustoll-svartur-carson-brunn/"><img src="https://husgagnahollin.is/wp-content/uploads/2026/04/Luna-bordstofustoll-svarturCarson-brunn-C3455BR400-2.webp" width="320"></a>
+
+[Lean borðstofustóll svartur/Carson brúnn](https://husgagnahollin.is/vara/lean-bordstofustoll-svartur-carson-brunn/)  
+<sub>Húsgagnahöllin</sub>
+
+<sub>The chair uses metal legs instead of wood and the fabric is a darker tone, deviating from the mid-century Scandinavian aesthetic.</sub>
 
 ---

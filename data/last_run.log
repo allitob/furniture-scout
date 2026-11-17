@@ -1,35 +1,37 @@
-Epal: 9553 products in catalog
-Snúran: 794 products in catalog
-Bland: 606 listings scanned
-Húsgagnahöllin: 103 matching products
+Epal: 9573 products in catalog
+Snúran: 793 products in catalog
+Bland: failed https://bland.is/solutorg/heimilid/stofa-sofi/?categoryId=29: HTTPSConnectionPool(host='bland.is', port=443): Max retries exceeded with url: /solutorg/heimilid/stofa-sofi/?categoryId=29 (Caused by ConnectTimeoutError(<HTTPSConnection(host='bland.is', port=443) at 0x751eb25997c0>, 'Connection to bland.is timed out. (connect timeout=30)'))
+Bland: failed https://bland.is/solutorg/heimilid/eldhus-badherbergi/?categoryId=30: HTTPSConnectionPool(host='bland.is', port=443): Max retries exceeded with url: /solutorg/heimilid/eldhus-badherbergi/?categoryId=30 (Caused by ConnectTimeoutError(<HTTPSConnection(host='bland.is', port=443) at 0x751eb259eed0>, 'Connection to bland.is timed out. (connect timeout=30)'))
+Bland: failed https://bland.is/solutorg/heimilid/antik-husgogn/?categoryId=114: HTTPSConnectionPool(host='bland.is', port=443): Max retries exceeded with url: /solutorg/heimilid/antik-husgogn/?categoryId=114 (Caused by ConnectTimeoutError(<HTTPSConnection(host='bland.is', port=443) at 0x751eb1a1ac60>, 'Connection to bland.is timed out. (connect timeout=30)'))
+Bland: 0 listings scanned
+Húsgagnahöllin: 105 matching products
 Módern: 46 listings parsed from HTML
-Línan: 36 listings parsed from HTML
+Línan: 34 listings parsed from HTML
 ILVA: 89 listings parsed from HTML
 JYSK: 63 listings parsed from HTML
-[dining-table] 222 candidates within budget (from 11290 listings)
-[dining-table] Opened 75 listing pages for details
-[dining-table] 97 pass price/size filters
-[dining-table] Scored 9 listings with gpt-4o
-[dining-table] Notify: posted 1 new matches to issue #1
-Húsgagnahöllin: 60 matching products
-Módern: 82 listings parsed from HTML
+[dining-table] 195 candidates within budget (from 10703 listings)
+[dining-table] Opened 63 listing pages for details
+[dining-table] 75 pass price/size filters
+[dining-table] Scored 0 listings with gpt-4o
+[dining-table] Notify: 0 new strong matches
+Húsgagnahöllin: 63 matching products
+Módern: 76 listings parsed from HTML
 Línan: 34 listings parsed from HTML
-ILVA: 77 listings parsed from HTML
+ILVA: 78 listings parsed from HTML
 JYSK: 120 listings parsed from HTML
-[dining-chair] 213 candidates within budget (from 11326 listings)
-[dining-chair] Opened 3 listing pages for details
-[dining-chair] 212 pass price/size filters
-[dining-chair] Scored 2 listings with gpt-4o
+[dining-chair] 195 candidates within budget (from 10737 listings)
+[dining-chair] Opened 4 listing pages for details
+[dining-chair] 195 pass price/size filters
+[dining-chair] Scored 7 listings with gpt-4o
 [dining-chair] Notify: 0 new strong matches
 Húsgagnahöllin: 177 matching products
-Módern: 108 listings parsed from HTML
+Módern: 106 listings parsed from HTML
 Línan: 36 listings parsed from HTML
-ILVA: 163 listings parsed from HTML
+ILVA: 166 listings parsed from HTML
 JYSK: 133 listings parsed from HTML
-[sofa] 399 candidates within budget (from 11570 listings)
-[sofa] Opened 12 listing pages for details
-[sofa] 399 pass price/size filters
-[sofa] score failed for https://bland.is/til-solu/heimilid/stofa/sofi-glostrup-ikea/5302673/: 404 Client Error: Not Found for url: https://img.bland.is/album/img/190057/m/20261107184023_0.jpg
+[sofa] 353 candidates within budget (from 10984 listings)
+[sofa] Opened 1 listing pages for details
+[sofa] 353 pass price/size filters
 [sofa] score failed for https://www.ilva.is/stok-vara/?ProductName=ZARZA-Tungusofi-haegri-brunn&PathId=1fc7d092-ce9e-11ef-81b7-8f3b82297126: 404 Client Error: Not Found for url: https://www.ilva.is/lisalib/getfile.aspx?itemid=&proc=366x366
-[sofa] Scored 12 listings with gpt-4o
+[sofa] Scored 1 listings with gpt-4o
 [sofa] Notify: 0 new strong matches
