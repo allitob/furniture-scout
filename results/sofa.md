@@ -1,6 +1,6 @@
 # Sofas
 
-Updated 2026-11-17 17:06 UTC · 335 listings · 0 kr–400.000 kr · 1 not scored yet
+Updated 2026-11-18 16:44 UTC · 382 listings · 0 kr–400.000 kr · 2 not scored yet
 
 [← all categories](../results.md)
 
@@ -91,6 +91,17 @@ Updated 2026-11-17 17:06 UTC · 335 listings · 0 kr–400.000 kr · 1 not score
 <sub>JYSK</sub>
 
 <sub>The sofa's light warm greige color, soft woven fabric, loose back cushions, and hidden legs align closely with the desired style.</sub>
+
+---
+
+**8/10** · **120.000 kr**
+
+<a href="https://bland.is/til-solu/heimilid/stofa/sofa/5303504/"><img src="https://img.bland.is/album/img/357496/m/20261110150756_0.jpg" width="320"></a>
+
+[Sofa](https://bland.is/til-solu/heimilid/stofa/sofa/5303504/)  
+<sub>Bland (notað)</sub>
+
+<sub>The sofa has the required light cream color and soft lines with plush, loose back cushions and an L-shaped design, matching the desired aesthetic.</sub>
 
 ---
 
@@ -256,6 +267,17 @@ Updated 2026-11-17 17:06 UTC · 335 listings · 0 kr–400.000 kr · 1 not score
 <sub>JYSK</sub>
 
 <sub>The sofa features a suitable light color and fabric, but lacks the L-shape and has slightly more structured lines than desired.</sub>
+
+---
+
+**7/10** · **150.000 kr** · 🆕
+
+<a href="https://bland.is/til-solu/heimilid/stofa/sofi-ur-tekk-eins-og-nyr/5305937/"><img src="https://img.bland.is/album/img/38204/m/20261118131905_0.jpg" width="320"></a>
+
+[Sófi úr Tekk - eins og nýr](https://bland.is/til-solu/heimilid/stofa/sofi-ur-tekk-eins-og-nyr/5305937/)  
+<sub>Bland (notað)</sub>
+
+<sub>The candidate sofa is light-colored and has a soft fabric, but lacks the L-shape and loose cushions of the reference images.</sub>
 
 ---
 
@@ -512,6 +534,39 @@ Updated 2026-11-17 17:06 UTC · 335 listings · 0 kr–400.000 kr · 1 not score
 
 ---
 
+**6/10** · **no price <sub>free or offer — check</sub>**
+
+<a href="https://bland.is/til-solu/heimilid/stofa/hornsofi/5304494/"><img src="https://img.bland.is/album/img/149308/m/20261113233048_0.jpg" width="320"></a>
+
+[Hornsófi](https://bland.is/til-solu/heimilid/stofa/hornsofi/5304494/)  
+<sub>Bland (notað)</sub>
+
+<sub>The candidate sofa has a simple design with soft rounded arms and loose back cushions, but the darker color and more structured appearance diverge from the target aesthetic.</sub>
+
+---
+
+**6/10** · **25.000 kr** · 🆕
+
+<a href="https://bland.is/til-solu/heimilid/stofa/sofabed-150x230cm-/5305997/"><img src="https://img.bland.is/album/img/427317/m/20261116145741_0.jpg" width="320"></a>
+
+[Sofabed 150x230cm .](https://bland.is/til-solu/heimilid/stofa/sofabed-150x230cm-/5305997/)  
+<sub>Bland (notað)</sub>
+
+<sub>The sofa has simple lines, is an L-shaped corner, and has short, likely wooden legs, but the color is darker than desired and lacks the plushness of the reference.</sub>
+
+---
+
+**6/10** · **32.000 kr** · 🆕
+
+<a href="https://bland.is/til-solu/heimilid/stofa/sofa-220x260cm/5305594/"><img src="https://img.bland.is/album/img/434301/m/20261117115747_0.jpg" width="320"></a>
+
+[Sofa 220x260cm](https://bland.is/til-solu/heimilid/stofa/sofa-220x260cm/5305594/)  
+<sub>Bland (notað)</sub>
+
+<sub>The sofa has a woven fabric but lacks the light cream color, has structured back cushions and visible, bulkier legs.</sub>
+
+---
+
 **6/10** · **47.990 kr <sub>was 47.992 kr</sub>**
 
 <a href="https://jysk.is/stok-vara/LYBY-sofaeining-horn-endi-sandlitud/?PathId=daa6be5b-5fc6-4c03-a44a-6267f53d68a8"><img src="https://jysk.is/library/Images/products/P009379.JPG?proc=366x366" width="320"></a>
@@ -520,6 +575,17 @@ Updated 2026-11-17 17:06 UTC · 335 listings · 0 kr–400.000 kr · 1 not score
 <sub>JYSK</sub>
 
 <sub>The sofa has a soft woven fabric and neutral color but lacks the full L-shape. It has clean lines and rounded arms, but the proportions differ slightly from the reference images.</sub>
+
+---
+
+**6/10** · **50.000 kr**
+
+<a href="https://bland.is/til-solu/heimilid/stofa/nockeby-sofi/5303469/"><img src="https://img.bland.is/album/img/83911/m/20261110140201_0.jpg" width="320"></a>
+
+[Nockeby sófi](https://bland.is/til-solu/heimilid/stofa/nockeby-sofi/5303469/)  
+<sub>Bland (notað)</sub>
+
+<sub>The sofa has the right color and fabric but lacks the L-shape or plush and loose cushion style of the references.</sub>
 
 ---
 
@@ -597,71 +663,5 @@ Updated 2026-11-17 17:06 UTC · 335 listings · 0 kr–400.000 kr · 1 not score
 <sub>ILVA</sub>
 
 <sub>The color and fabric match well, but the overall shape is more boxy and lacks the relaxed, loose cushion look.</sub>
-
----
-
-**6/10** · **142.493 kr <sub>was 151.992 kr</sub>**
-
-<a href="https://husgagnahollin.is/vara/vilde-sofi-2s-hevre-ljos-beige-bb/"><img src="https://husgagnahollin.is/wp-content/uploads/2024/07/Vilde-sofi-2ja-saeta-Hevre-ljos-beige-Bb-107312098002.webp" width="320"></a>
-
-[Vilde sófi 2s Hevre ljós beige Bb](https://husgagnahollin.is/vara/vilde-sofi-2s-hevre-ljos-beige-bb/)  
-<sub>Húsgagnahöllin</sub>
-
-<sub>The colour and fabric texture are suitable, but the shape lacks the deep, relaxed design and loose cushions of the references.</sub>
-
----
-
-**6/10** · **149.990 kr**
-
-<a href="https://jysk.is/stok-vara/SKIBBY-sofi-3ja-saeta-sand/?PathId=f6d7172e-17b7-451c-bff9-8ef08a1d4c2a"><img src="https://jysk.is/library/Images/products/P013096.jpg?proc=366x366" width="320"></a>
-
-[SKIBBY sófi 3ja sæta sand](https://jysk.is/stok-vara/SKIBBY-sofi-3ja-saeta-sand/?PathId=f6d7172e-17b7-451c-bff9-8ef08a1d4c2a)  
-<sub>JYSK</sub>
-
-<sub>The candidate sofa is in a light neutral color and woven fabric but has a boxy shape and lacks the relaxed, plush look of the references.</sub>
-
----
-
-**6/10** · **159.992 kr <sub>was 199.990 kr</sub>**
-
-<a href="https://husgagnahollin.is/vara/rocco-sofi-3s-akl-038-09-beige/"><img src="https://husgagnahollin.is/wp-content/uploads/2026/08/Rocco-sofi-3s-akl-038-09-beige-70083SCKS03809-1.webp" width="320"></a>
-
-[Rocco sófi 3s ákl 038-09 beige](https://husgagnahollin.is/vara/rocco-sofi-3s-akl-038-09-beige/)  
-<sub>Húsgagnahöllin</sub>
-
-<sub>The sofa is light in color with a woven texture, but its blocky shape and visible legs are less aligned with the relaxed, soft forms of the references.</sub>
-
----
-
-**6/10** · **172.493 kr <sub>was 183.992 kr</sub>**
-
-<a href="https://husgagnahollin.is/vara/borg-sofi-3s-akl-638-4-beige/"><img src="https://husgagnahollin.is/wp-content/uploads/2026/08/Borg-sofi-3s-akl-638-4-beige-MK62553SJYM6384-1-1.webp" width="320"></a>
-
-[Borg sófi 3s ákl 638-4 beige](https://husgagnahollin.is/vara/borg-sofi-3s-akl-638-4-beige/)  
-<sub>Húsgagnahöllin</sub>
-
-<sub>The candidate is light in color and made of woven fabric, but it features tufting and lacks the loose back cushions and L-shape preferred.</sub>
-
----
-
-**6/10** · **174.993 kr <sub>was 199.992 kr</sub>**
-
-<a href="https://husgagnahollin.is/vara/bern-hornsofi-vinstri-legacy-2-beige/"><img src="https://husgagnahollin.is/wp-content/uploads/2026/05/KSO022828-Bern-hornsofi-vinstri-Legacy-2-beige-1.webp" width="320"></a>
-
-[Bern hornsófi vinstri Legacy 2 beige](https://husgagnahollin.is/vara/bern-hornsofi-vinstri-legacy-2-beige/)  
-<sub>Húsgagnahöllin</sub>
-
-<sub>The sofa has a similar color and fabric texture but lacks plush loose back cushions and has visible legs, which are not consistent with the target aesthetic.</sub>
-
----
-
-**6/10** · **174.993 kr <sub>was 199.992 kr</sub>**
-
-<a href="https://husgagnahollin.is/vara/bern-hornsofi-haegri-legacy-2-beige/"><img src="https://husgagnahollin.is/wp-content/uploads/2026/05/KSO022827-Bern-hornsofi-haegri-Legacy-2-beige-1-1.webp" width="320"></a>
-
-[Bern hornsófi hægri Legacy 2 beige](https://husgagnahollin.is/vara/bern-hornsofi-haegri-legacy-2-beige/)  
-<sub>Húsgagnahöllin</sub>
-
-<sub>The candidate sofa is a light-colored L-shaped sofa with clean lines and soft rounded arms, but it has exposed legs that do not match the aesthetic preferences of hidden or wooden legs.</sub>
 
 ---
