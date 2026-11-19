@@ -1,162 +1,184 @@
 # Dining chairs
 
-Updated 2026-11-18 16:44 UTC · 131 listings · 0 kr–50.000 kr per piece
+Updated 2026-11-19 16:50 UTC · 136 listings · 0 kr–50.000 kr per piece
 
 [← all categories](../results.md)
 
 ---
 
-**9/10** · **16.990 kr**
+**9/10** · **12.990 kr** · 🆕
 
-<a href="https://jysk.is/stok-vara/EJSING-bordstofustoll-beige-dokk-eik/?PathId=73bef239-beb3-4e8d-a05c-f0583025233d"><img src="https://jysk.is/library/Images/products/P012993.jpg?proc=366x366" width="320"></a>
+<a href="https://jysk.is/stok-vara/EJSING-bordstofustoll-beige-eik/"><img src="https://jysk.is/library/Images/products/P011137.jpg?proc=366x366" width="320"></a>
 
-[EJSING borðstofustóll beige/dökk eik](https://jysk.is/stok-vara/EJSING-bordstofustoll-beige-dokk-eik/?PathId=73bef239-beb3-4e8d-a05c-f0583025233d)  
+[BLACK FRIDAY 24% VINSÆL EJSING borðstofustóll beige/eik](https://jysk.is/stok-vara/EJSING-bordstofustoll-beige-eik/)  
 <sub>JYSK</sub>
 
-<sub>The chair has a solid wood frame with slim round tapered legs, a curved backrest, and an upholstered seat in a light fabric, closely matching the target aesthetic.</sub>
+<sub>The chair has a solid wood frame with slim round tapered legs and a curved upholstered backrest, matching the mid-century Scandinavian aesthetic described.</sub>
 
 ---
 
-**9/10** · **29.900 kr**
+**9/10** · **29.900 kr** · 🆕
 
-<a href="https://www.ilva.is/stok-vara/?ProductName=EMILA-Bordstofustoll-off-white-mattlakkadir-eikarfaetur&PathId=4a9ff5ae-c167-400e-b7dd-d6afc3779559"><img src="https://www.ilva.is/library/Images/Products/V009288.jpg?proc=366x366" width="320"></a>
+<a href="https://www.ilva.is/stok-vara/?ProductName=EMILA-Bordstofustoll-off-white-mattlakkadir-eikarfaetur"><img src="https://www.ilva.is/library/Images/Products/V009288.jpg?proc=366x366" width="320"></a>
 
-[EMILA Borðstofustóll off white/mattlakkaðir eikarfætur](https://www.ilva.is/stok-vara/?ProductName=EMILA-Bordstofustoll-off-white-mattlakkadir-eikarfaetur&PathId=4a9ff5ae-c167-400e-b7dd-d6afc3779559)  
+[EMILA Borðstofustóll off white/mattlakkaðir eikarfætur](https://www.ilva.is/stok-vara/?ProductName=EMILA-Bordstofustoll-off-white-mattlakkadir-eikarfaetur)  
 <sub>ILVA</sub>
 
-<sub>The chair features a solid wood frame with tapered legs and a light upholstered seat, closely matching the mid-century Scandinavian aesthetic.</sub>
+<sub>The chair features a solid wood frame with a warm oak tone, slim tapered legs, a curved backrest, and a light cream upholstered seat, closely matching the desired aesthetic.</sub>
 
 ---
 
-**9/10** · **29.900 kr**
+**8/10** · **12.990 kr** · 🆕
 
-<a href="https://www.ilva.is/stok-vara/?ProductName=EMILA-Bordstofustoll-off-white-reyklitadir-eikarfaetur&PathId=4a9ff5ae-c167-400e-b7dd-d6afc3779559"><img src="https://www.ilva.is/library/Images/Products/V012372.jpg?proc=366x366" width="320"></a>
+<a href="https://jysk.is/stok-vara/EJSING-bordstofustoll-beige-dokk-eik/"><img src="https://jysk.is/library/Images/products/P012993.jpg?proc=366x366" width="320"></a>
 
-[EMILA Borðstofustóll off white/reyklitaðir eikarfætur](https://www.ilva.is/stok-vara/?ProductName=EMILA-Bordstofustoll-off-white-reyklitadir-eikarfaetur&PathId=4a9ff5ae-c167-400e-b7dd-d6afc3779559)  
-<sub>ILVA</sub>
-
-<sub>The chair features a solid wood frame with a warm mid-tone, tapered legs, a curved backrest, and a light cream upholstered seat, closely matching the desired aesthetic.</sub>
-
----
-
-**8/10** · **16.990 kr**
-
-<a href="https://jysk.is/stok-vara/EJSING-bordstofustoll-beige-eik/?PathId=73bef239-beb3-4e8d-a05c-f0583025233d"><img src="https://jysk.is/library/Images/products/P011137.jpg?proc=366x366" width="320"></a>
-
-[EJSING borðstofustóll beige/eik](https://jysk.is/stok-vara/EJSING-bordstofustoll-beige-eik/?PathId=73bef239-beb3-4e8d-a05c-f0583025233d)  
+[BLACK FRIDAY 24% VINSÆL EJSING borðstofustóll beige/dökk eik](https://jysk.is/stok-vara/EJSING-bordstofustoll-beige-dokk-eik/)  
 <sub>JYSK</sub>
 
-<sub>The chair has a solid wood frame with slim, tapered legs and a curved backrest. It features a light upholstered seat, matching the mid-century Scandinavian aesthetic.</sub>
+<sub>The chair has a solid wood frame with a warm tone and rounded, tapered legs, resembling the mid-century Scandinavian style, although the back rest and overall proportions differ slightly from the references.</sub>
 
 ---
 
-**8/10** · **37.900 kr**
+**8/10** · **22.990 kr** · 🆕
 
-<a href="https://www.ilva.is/stok-vara/?ProductName=SWAN-Bordstofustoll-off-white-lakkadir-eikarfaetur&PathId=4a9ff5ae-c167-400e-b7dd-d6afc3779559"><img src="https://www.ilva.is/library/Images/Products/V010453.jpg?proc=366x366" width="320"></a>
+<a href="https://jysk.is/stok-vara/GUDERUP-bordstofustoll-dokk-eik-natur/"><img src="https://jysk.is/library/Images/products/P010965.jpg?proc=366x366" width="320"></a>
 
-[SWAN Borðstofustóll off white/lakkaðir eikarfætur](https://www.ilva.is/stok-vara/?ProductName=SWAN-Bordstofustoll-off-white-lakkadir-eikarfaetur&PathId=4a9ff5ae-c167-400e-b7dd-d6afc3779559)  
-<sub>ILVA</sub>
-
-<sub>The chair has a solid wood frame with slim, tapered legs, a curved upholstered backrest, and a light cream textured fabric seat, fitting well into the mid-century Scandinavian aesthetic.</sub>
-
----
-
-**8/10** · **49.900 kr** · uppselt
-
-<a href="https://www.ilva.is/stok-vara/?ProductName=LYSTRA-Bordstofustoll-off-white&PathId=4a9ff5ae-c167-400e-b7dd-d6afc3779559"><img src="https://www.ilva.is/library/Images/Products/V014107.jpg?proc=366x366" width="320"></a>
-
-[LYSTRA Borðstofustóll off-white](https://www.ilva.is/stok-vara/?ProductName=LYSTRA-Bordstofustoll-off-white&PathId=4a9ff5ae-c167-400e-b7dd-d6afc3779559)  
-<sub>ILVA</sub>
-
-<sub>The chair features a solid wood frame with slim, tapered legs, a curved back rest, and a light cream upholstered seat, fitting the mid-century Scandinavian style.</sub>
-
----
-
-**7/10** · **14.990 kr**
-
-<a href="https://jysk.is/stok-vara/THORUP-bordstofustoll-beige-eikarlitadir-faetur/?PathId=73bef239-beb3-4e8d-a05c-f0583025233d"><img src="https://jysk.is/library/Images/products/P009219.jpg?proc=366x366" width="320"></a>
-
-[THORUP borðstofustóll beige/eikarlitaðir fætur](https://jysk.is/stok-vara/THORUP-bordstofustoll-beige-eikarlitadir-faetur/?PathId=73bef239-beb3-4e8d-a05c-f0583025233d)  
+[BLACK FRIDAY 23% VINSÆL GUDERUP borðstofustóll dökk eik/natur](https://jysk.is/stok-vara/GUDERUP-bordstofustoll-dokk-eik-natur/)  
 <sub>JYSK</sub>
 
-<sub>The candidate chair has a solid wood frame with tapered legs and an upholstered seat, but the overall design and backrest style deviate slightly from the mid-century aesthetic of the references.</sub>
+<sub>The chair features a solid wood frame with slim, tapered legs and a curved back rest, closely aligning with the target look.</sub>
 
 ---
 
-**7/10** · **26.990 kr**
+**8/10** · **29.900 kr** · 🆕
 
-<a href="https://jysk.is/stok-vara/ISLEV-bordstofustoll-eik/?PathId=73bef239-beb3-4e8d-a05c-f0583025233d"><img src="https://jysk.is/library/Images/products/P009224.jpg?proc=366x366" width="320"></a>
+<a href="https://www.ilva.is/stok-vara/?ProductName=EMILA-Bordstofustoll-off-white-reyklitadir-eikarfaetur"><img src="https://www.ilva.is/library/Images/Products/V012372.jpg?proc=366x366" width="320"></a>
 
-[ISLEV borðstofustóll eik](https://jysk.is/stok-vara/ISLEV-bordstofustoll-eik/?PathId=73bef239-beb3-4e8d-a05c-f0583025233d)  
+[EMILA Borðstofustóll off white/reyklitaðir eikarfætur](https://www.ilva.is/stok-vara/?ProductName=EMILA-Bordstofustoll-off-white-reyklitadir-eikarfaetur)  
+<sub>ILVA</sub>
+
+<sub>The chair features a wood frame with rounded joints, tapered legs, and an upholstered seat, aligning well with the desired aesthetic.</sub>
+
+---
+
+**8/10** · **37.900 kr** · 🆕
+
+<a href="https://www.ilva.is/stok-vara/?ProductName=SWAN-Bordstofustoll-off-white-lakkadir-eikarfaetur"><img src="https://www.ilva.is/library/Images/Products/V010453.jpg?proc=366x366" width="320"></a>
+
+[SWAN Borðstofustóll off white/lakkaðir eikarfætur](https://www.ilva.is/stok-vara/?ProductName=SWAN-Bordstofustoll-off-white-lakkadir-eikarfaetur)  
+<sub>ILVA</sub>
+
+<sub>The chair has a solid wood frame with slim round tapered legs and an upholstered light fabric seat, matching the mid-century Scandinavian aesthetic.</sub>
+
+---
+
+**8/10** · **37.900 kr** · 🆕
+
+<a href="https://www.ilva.is/stok-vara/?ProductName=RAVELLO-Bordstofustoll-off-white-mattlakkadir-eikarfaetur"><img src="https://www.ilva.is/library/Images/Products/V012539.jpg?proc=366x366" width="320"></a>
+
+[RAVELLO Borðstofustóll off white/mattlakkaðir eikarfætur](https://www.ilva.is/stok-vara/?ProductName=RAVELLO-Bordstofustoll-off-white-mattlakkadir-eikarfaetur)  
+<sub>ILVA</sub>
+
+<sub>The chair has a solid wood frame with slim, tapered legs and a curved backrest, matching the mid-century Scandinavian aesthetic.</sub>
+
+---
+
+**8/10** · **39.900 kr** · 🆕
+
+<a href="https://www.ilva.is/stok-vara/?ProductName=ADLER-Bordstofustoll-brunn-oliubornir-eikarfaetur"><img src="https://www.ilva.is/library/Images/Products/V010111.jpg?proc=366x366" width="320"></a>
+
+[ADLER Borðstofustóll brúnn/olíubornir eikarfætur](https://www.ilva.is/stok-vara/?ProductName=ADLER-Bordstofustoll-brunn-oliubornir-eikarfaetur)  
+<sub>ILVA</sub>
+
+<sub>The chair has a solid wood frame with slim, tapered legs and softly rounded joints, but the fabric is darker than specified.</sub>
+
+---
+
+**8/10** · **49.900 kr** · 🆕 · uppselt
+
+<a href="https://www.ilva.is/stok-vara/?ProductName=LYSTRA-Bordstofustoll-off-white"><img src="https://www.ilva.is/library/Images/Products/V014107.jpg?proc=366x366" width="320"></a>
+
+[LYSTRA Borðstofustóll off-white](https://www.ilva.is/stok-vara/?ProductName=LYSTRA-Bordstofustoll-off-white)  
+<sub>ILVA</sub>
+
+<sub>The chair features a solid wood frame with a warm tone, slim tapered legs, a curved backrest, and a light upholstered seat, matching the mid-century Scandinavian aesthetic.</sub>
+
+---
+
+**7/10** · **16.990 kr** · 🆕
+
+<a href="https://jysk.is/stok-vara/LYNGHOLM-bordstofustoll-eik-svartur-PU/"><img src="https://jysk.is/library/Images/products/P002099.jpg?proc=366x366" width="320"></a>
+
+[BLACK FRIDAY 26% VINSÆL LYNGHOLM borðstofustóll eik/svartur PU](https://jysk.is/stok-vara/LYNGHOLM-bordstofustoll-eik-svartur-PU/)  
 <sub>JYSK</sub>
 
-<sub>The chair has a solid oak frame with a warm tone and a minimalist design, matching some aspects of the reference style, but lacks the upholstered seat and the curved backrest, which are key elements.</sub>
+<sub>The chair has a solid wood frame with tapered legs and a curved backrest, aligning well with the mid-century Scandinavian style, although the seat material and color do not fully match the desired light cream fabric.</sub>
 
 ---
 
-**7/10** · **29.900 kr**
+**7/10** · **22.990 kr** · 🆕
 
-<a href="https://www.ilva.is/stok-vara/?ProductName=EMILA-Bordstofustoll-graenn-mattlakkadir-eikarfaetur&PathId=4a9ff5ae-c167-400e-b7dd-d6afc3779559"><img src="https://www.ilva.is/library/Images/Products/V009289.jpg?proc=366x366" width="320"></a>
+<a href="https://jysk.is/stok-vara/GUDERUP-bordstofustoll-eik-natur/"><img src="https://jysk.is/library/Images/products/P007389.jpg?proc=366x366" width="320"></a>
 
-[EMILA Borðstofustóll grænn/mattlakkaðir eikarfætur](https://www.ilva.is/stok-vara/?ProductName=EMILA-Bordstofustoll-graenn-mattlakkadir-eikarfaetur&PathId=4a9ff5ae-c167-400e-b7dd-d6afc3779559)  
-<sub>ILVA</sub>
+[BLACK FRIDAY 23% VINSÆL GUDERUP borðstofustóll eik/natur](https://jysk.is/stok-vara/GUDERUP-bordstofustoll-eik-natur/)  
+<sub>JYSK</sub>
 
-<sub>The chair features a solid oak frame with slim, tapered legs and a curved backrest, which align with the mid-century Scandinavian aesthetic, but the green fabric seat slightly deviates from the cream/oatmeal requirement.</sub>
-
----
-
-**7/10** · **37.900 kr**
-
-<a href="https://www.ilva.is/stok-vara/?ProductName=RAVELLO-Bordstofustoll-taupe-mattlakkadir-eikarfaetur&PathId=4a9ff5ae-c167-400e-b7dd-d6afc3779559"><img src="https://www.ilva.is/library/Images/Products/V012540.jpg?proc=366x366" width="320"></a>
-
-[RAVELLO Borðstofustóll taupe/mattlakkaðir eikarfætur](https://www.ilva.is/stok-vara/?ProductName=RAVELLO-Bordstofustoll-taupe-mattlakkadir-eikarfaetur&PathId=4a9ff5ae-c167-400e-b7dd-d6afc3779559)  
-<sub>ILVA</sub>
-
-<sub>The chair has a solid wood frame with slim tapered legs and a curved backrest, but the darker upholstered seat and different wood tone slightly diverge from the reference aesthetic.</sub>
+<sub>The chair has a wood frame in a warm tone, slim tapered legs, and a curved backrest, but the seat is woven instead of upholstered.</sub>
 
 ---
 
-**7/10** · **37.900 kr**
+**7/10** · **29.900 kr** · 🆕
 
-<a href="https://www.ilva.is/stok-vara/?ProductName=RAVELLO-Bordstofustoll-off-white-mattlakkadir-eikarfaetur&PathId=4a9ff5ae-c167-400e-b7dd-d6afc3779559"><img src="https://www.ilva.is/library/Images/Products/V012539.jpg?proc=366x366" width="320"></a>
+<a href="https://www.ilva.is/stok-vara/?ProductName=EMILA-Bordstofustoll-graenn-mattlakkadir-eikarfaetur"><img src="https://www.ilva.is/library/Images/Products/V009289.jpg?proc=366x366" width="320"></a>
 
-[RAVELLO Borðstofustóll off white/mattlakkaðir eikarfætur](https://www.ilva.is/stok-vara/?ProductName=RAVELLO-Bordstofustoll-off-white-mattlakkadir-eikarfaetur&PathId=4a9ff5ae-c167-400e-b7dd-d6afc3779559)  
+[EMILA Borðstofustóll grænn/mattlakkaðir eikarfætur](https://www.ilva.is/stok-vara/?ProductName=EMILA-Bordstofustoll-graenn-mattlakkadir-eikarfaetur)  
 <sub>ILVA</sub>
 
-<sub>It has a solid wood frame with tapered legs, a curved backrest, and upholstered seat, but the wood tone and some proportions might differ slightly from the references.</sub>
+<sub>The candidate chair has a wooden frame with tapered legs and a curved backrest, fitting the mid-century Scandinavian style, but the seat upholstery is dark green instead of light cream/oatmeal.</sub>
 
 ---
 
-**7/10** · **39.900 kr**
+**7/10** · **39.900 kr** · 🆕
 
-<a href="https://www.ilva.is/stok-vara/?ProductName=ADLER-Bordstofustoll-brunn-reyklitadir-eikarfaetur&PathId=4a9ff5ae-c167-400e-b7dd-d6afc3779559"><img src="https://www.ilva.is/library/Images/Products/V013327.jpg?proc=366x366" width="320"></a>
+<a href="https://www.ilva.is/stok-vara/?ProductName=ADLER-Bordstofustoll-brunn-reyklitadir-eikarfaetur"><img src="https://www.ilva.is/library/Images/Products/V013327.jpg?proc=366x366" width="320"></a>
 
-[ADLER Borðstofustóll brúnn/reyklitaðir eikarfætur](https://www.ilva.is/stok-vara/?ProductName=ADLER-Bordstofustoll-brunn-reyklitadir-eikarfaetur&PathId=4a9ff5ae-c167-400e-b7dd-d6afc3779559)  
+[ADLER Borðstofustóll brúnn/reyklitaðir eikarfætur](https://www.ilva.is/stok-vara/?ProductName=ADLER-Bordstofustoll-brunn-reyklitadir-eikarfaetur)  
 <sub>ILVA</sub>
 
-<sub>Matches the mid-century look with a wooden frame and slim tapered legs, but has a darker tone and slightly bulkier design.</sub>
+<sub>The chair features a wooden frame with tapered legs and a curved back, but the darker wood tone and upholstered seat do not perfectly match the light cream fabric criterion.</sub>
 
 ---
 
-**7/10** · **44.900 kr**
+**7/10** · **44.900 kr** · 🆕
 
-<a href="https://www.ilva.is/stok-vara/?ProductName=NORRLAND-Bordstofustoll-flettad-hvittadir-eikarfaetur&PathId=4a9ff5ae-c167-400e-b7dd-d6afc3779559"><img src="https://www.ilva.is/library/Images/Products/V010469.jpg?proc=366x366" width="320"></a>
+<a href="https://www.ilva.is/stok-vara/?ProductName=NORRLAND-Bordstofustoll-flettad-hvittadir-eikarfaetur"><img src="https://www.ilva.is/library/Images/Products/V010469.jpg?proc=366x366" width="320"></a>
 
-[NORRLAND Borðstofustóll fléttað/hvíttaðir eikarfætur](https://www.ilva.is/stok-vara/?ProductName=NORRLAND-Bordstofustoll-flettad-hvittadir-eikarfaetur&PathId=4a9ff5ae-c167-400e-b7dd-d6afc3779559)  
+[NORRLAND Borðstofustóll fléttað/hvíttaðir eikarfætur](https://www.ilva.is/stok-vara/?ProductName=NORRLAND-Bordstofustoll-flettad-hvittadir-eikarfaetur)  
 <sub>ILVA</sub>
 
-<sub>The chair features a solid wood frame, slim tapered legs, curved backrest, and an upholstered seat, aligning well with the desired Scandinavian mid-century aesthetic.</sub>
+<sub>The chair has a solid wood frame, slim tapered legs, and a curved back, but the seat lacks the textured fabric described.</sub>
 
 ---
 
-**7/10** · **44.900 kr**
+**7/10** · **44.900 kr** · 🆕
 
-<a href="https://www.ilva.is/stok-vara/?ProductName=NORRLAND-Bordstofustoll-flettad-oliubornir-eikarfaetur&PathId=4a9ff5ae-c167-400e-b7dd-d6afc3779559"><img src="https://www.ilva.is/library/Images/Products/V009899.jpg?proc=366x366" width="320"></a>
+<a href="https://www.ilva.is/stok-vara/?ProductName=NORRLAND-Bordstofustoll-svart-ledurliki-oliubornir-eikarfaetur"><img src="https://www.ilva.is/library/Images/Products/V009026.jpg?proc=366x366" width="320"></a>
 
-[NORRLAND Borðstofustóll fléttað/olíubornir eikarfætur](https://www.ilva.is/stok-vara/?ProductName=NORRLAND-Bordstofustoll-flettad-oliubornir-eikarfaetur&PathId=4a9ff5ae-c167-400e-b7dd-d6afc3779559)  
+[NORRLAND Borðstofustóll svart leðurlíki/olíubornir eikarfætur](https://www.ilva.is/stok-vara/?ProductName=NORRLAND-Bordstofustoll-svart-ledurliki-oliubornir-eikarfaetur)  
 <sub>ILVA</sub>
 
-<sub>The chair has a solid wood frame, slim round tapered legs, a curved back rest, and an upholstered seat, consistent with the target aesthetic, although the back is slightly different.</sub>
+<sub>The chair has a solid wood frame and slim tapered legs with a curved back rest, but the seat is in dark faux leather instead of a light cream fabric.</sub>
+
+---
+
+**7/10** · **44.900 kr** · 🆕
+
+<a href="https://www.ilva.is/stok-vara/?ProductName=NORRLAND-Bordstofustoll-flettad-oliubornir-eikarfaetur"><img src="https://www.ilva.is/library/Images/Products/V009899.jpg?proc=366x366" width="320"></a>
+
+[NORRLAND Borðstofustóll fléttað/olíubornir eikarfætur](https://www.ilva.is/stok-vara/?ProductName=NORRLAND-Bordstofustoll-flettad-oliubornir-eikarfaetur)  
+<sub>ILVA</sub>
+
+<sub>The chair has a solid wood frame with a warm tone and features slim, round tapered legs and a curved backrest, but lacks the upholstered roll back element.</sub>
 
 ---
 
@@ -171,14 +193,14 @@ Updated 2026-11-18 16:44 UTC · 131 listings · 0 kr–50.000 kr per piece
 
 ---
 
-**6/10** · **16.990 kr**
+**6/10** · **12.990 kr** · 🆕
 
-<a href="https://jysk.is/stok-vara/EJSING-bordstofustoll-brunn-ljos-eik/?PathId=73bef239-beb3-4e8d-a05c-f0583025233d"><img src="https://jysk.is/library/Images/products/P012994.jpg?proc=366x366" width="320"></a>
+<a href="https://jysk.is/stok-vara/EJSING-bordstofustoll-brunn-ljos-eik/"><img src="https://jysk.is/library/Images/products/P012994.jpg?proc=366x366" width="320"></a>
 
-[EJSING borðstofustóll brúnn/ljós eik](https://jysk.is/stok-vara/EJSING-bordstofustoll-brunn-ljos-eik/?PathId=73bef239-beb3-4e8d-a05c-f0583025233d)  
+[BLACK FRIDAY 24% EJSING borðstofustóll brúnn/ljós eik](https://jysk.is/stok-vara/EJSING-bordstofustoll-brunn-ljos-eik/)  
 <sub>JYSK</sub>
 
-<sub>The candidate chair has the Scandinavian style with wood frame and textured fabric but lacks the mid-century curves and warm wood tone of the references.</sub>
+<sub>The chair has a mid-century Scandinavian look with wooden legs and an upholstered seat but lacks the lighter fabric color and wood tone of the reference.</sub>
 
 ---
 
@@ -204,25 +226,58 @@ Updated 2026-11-18 16:44 UTC · 131 listings · 0 kr–50.000 kr per piece
 
 ---
 
-**6/10** · **19.990 kr**
+**6/10** · **19.990 kr** · 🆕
 
-<a href="https://jysk.is/stok-vara/ADSLEV-bordstofustoll-drapplitadur/?PathId=73bef239-beb3-4e8d-a05c-f0583025233d"><img src="https://jysk.is/library/Images/products/P002204.jpg?proc=366x366" width="320"></a>
+<a href="https://jysk.is/stok-vara/ISLEV-bordstofustoll-eik/"><img src="https://jysk.is/library/Images/products/P009224.jpg?proc=366x366" width="320"></a>
 
-[ADSLEV borðstofustóll drapplitaður](https://jysk.is/stok-vara/ADSLEV-bordstofustoll-drapplitadur/?PathId=73bef239-beb3-4e8d-a05c-f0583025233d)  
+[BLACK FRIDAY 26% VINSÆL ISLEV borðstofustóll eik](https://jysk.is/stok-vara/ISLEV-bordstofustoll-eik/)  
 <sub>JYSK</sub>
 
-<sub>The chair has wood legs and an upholstered seat but the backrest and armrest design deviates from the desired slim, curved look.</sub>
+<sub>The chair has a Scandinavian look with solid wood and simple design, though the woven seat and back rest differ from the upholstered seat requirement.</sub>
 
 ---
 
-**6/10** · **22.990 kr**
+**6/10** · **19.990 kr** · 🆕
 
-<a href="https://jysk.is/stok-vara/LYNGHOLM-bordstofustoll-eik-svartur-PU/?PathId=73bef239-beb3-4e8d-a05c-f0583025233d"><img src="https://jysk.is/library/Images/products/P002099.jpg?proc=366x366" width="320"></a>
+<a href="https://jysk.is/stok-vara/LARVIK-bordstofustoll-stal-krem/"><img src="https://jysk.is/library/Images/products/P012348.jpg?proc=366x366" width="320"></a>
 
-[LYNGHOLM borðstofustóll eik/svartur PU](https://jysk.is/stok-vara/LYNGHOLM-bordstofustoll-eik-svartur-PU/?PathId=73bef239-beb3-4e8d-a05c-f0583025233d)  
+[BLACK FRIDAY 20% NÝTT LARVIK borðstofustóll stál/krem](https://jysk.is/stok-vara/LARVIK-bordstofustoll-stal-krem/)  
 <sub>JYSK</sub>
 
-<sub>The chair has a wood frame with rounded legs and a curved back, but the black PU seat contrasts with the desired light cream upholstery.</sub>
+<sub>The candidate chair has a light cream upholstered seat but features black metal legs, which deviates from the desired solid wood frame.</sub>
+
+---
+
+**6/10** · **19.990 kr** · 🆕
+
+<a href="https://jysk.is/stok-vara/BOVRUP-bordstofustoll-eik/"><img src="https://jysk.is/library/Images/products/P011493.jpg?proc=366x366" width="320"></a>
+
+[BLACK FRIDAY 33% BOVRUP borðstofustóll eik](https://jysk.is/stok-vara/BOVRUP-bordstofustoll-eik/)  
+<sub>JYSK</sub>
+
+<sub>The chair is made of wood and fabric with a curved back, but the legs are not tapered and the design is more angular.</sub>
+
+---
+
+**6/10** · **26.990 kr** · 🆕
+
+<a href="https://jysk.is/stok-vara/LYKSBORG-stoll-eik-krem/"><img src="https://jysk.is/library/Images/products/P002394.jpg?proc=366x366" width="320"></a>
+
+[BLACK FRIDAY 23% VINSÆL LYKSBORG stóll eik/krem](https://jysk.is/stok-vara/LYKSBORG-stoll-eik-krem/)  
+<sub>JYSK</sub>
+
+<sub>The chair has a solid wood frame with a curved back and upholstered seat, but the back design slightly deviates from the preferred bent wood style.</sub>
+
+---
+
+**6/10** · **26.990 kr** · 🆕
+
+<a href="https://jysk.is/stok-vara/LYKSBORG-stoll-dokk-eik-dokksandlitadur/"><img src="https://jysk.is/library/Images/products/P002304.jpg?proc=366x366" width="320"></a>
+
+[BLACK FRIDAY 23% LYKSBORG stóll dökk eik/dökksandlitaður](https://jysk.is/stok-vara/LYKSBORG-stoll-dokk-eik-dokksandlitadur/)  
+<sub>JYSK</sub>
+
+<sub>The chair has a mid-century design with round tapered legs and a wood frame, but the spindle back and darker tone deviate from the target aesthetic.</sub>
 
 ---
 
@@ -237,51 +292,7 @@ Updated 2026-11-18 16:44 UTC · 131 listings · 0 kr–50.000 kr per piece
 
 ---
 
-**6/10** · **29.990 kr**
-
-<a href="https://jysk.is/stok-vara/GUDERUP-bordstofustoll-dokk-eik-natur/?PathId=73bef239-beb3-4e8d-a05c-f0583025233d"><img src="https://jysk.is/library/Images/products/P010965.jpg?proc=366x366" width="320"></a>
-
-[GUDERUP borðstofustóll dökk eik/natur](https://jysk.is/stok-vara/GUDERUP-bordstofustoll-dokk-eik-natur/?PathId=73bef239-beb3-4e8d-a05c-f0583025233d)  
-<sub>JYSK</sub>
-
-<sub>The chair has a solid wood frame with a warm tone and slim round tapered legs, aligning with the mid-century aesthetic, but the woven seat differs from the upholstered style in the references.</sub>
-
----
-
-**6/10** · **29.990 kr**
-
-<a href="https://jysk.is/stok-vara/GUDERUP-bordstofustoll-eik-natur/?PathId=73bef239-beb3-4e8d-a05c-f0583025233d"><img src="https://jysk.is/library/Images/products/P007389.jpg?proc=366x366" width="320"></a>
-
-[GUDERUP borðstofustóll eik/natur](https://jysk.is/stok-vara/GUDERUP-bordstofustoll-eik-natur/?PathId=73bef239-beb3-4e8d-a05c-f0583025233d)  
-<sub>JYSK</sub>
-
-<sub>The chair features a wooden frame and a light-colored seat, but the backrest design and seat material are not fully aligned with the reference.</sub>
-
----
-
-**6/10** · **29.990 kr**
-
-<a href="https://jysk.is/stok-vara/BOVRUP-bordstofustoll-dokk-eik/?PathId=73bef239-beb3-4e8d-a05c-f0583025233d"><img src="https://jysk.is/library/Images/products/P011494.jpg?proc=366x366" width="320"></a>
-
-[BOVRUP borðstofustóll dökk eik](https://jysk.is/stok-vara/BOVRUP-bordstofustoll-dokk-eik/?PathId=73bef239-beb3-4e8d-a05c-f0583025233d)  
-<sub>JYSK</sub>
-
-<sub>The chair is made of wood with a dark tone and has a fabric seat, but the design is bulkier and less refined than the reference style.</sub>
-
----
-
-**6/10** · **29.990 kr**
-
-<a href="https://jysk.is/stok-vara/BOVRUP-bordstofustoll-eik/?PathId=73bef239-beb3-4e8d-a05c-f0583025233d"><img src="https://jysk.is/library/Images/products/P011493.jpg?proc=366x366" width="320"></a>
-
-[BOVRUP borðstofustóll eik](https://jysk.is/stok-vara/BOVRUP-bordstofustoll-eik/?PathId=73bef239-beb3-4e8d-a05c-f0583025233d)  
-<sub>JYSK</sub>
-
-<sub>The chair has a solid wood frame in a warm tone and fabric upholstery, but the legs are not slim or tapered, and the back is more angular.</sub>
-
----
-
-**6/10** · **33.743 kr** · 🆕
+**6/10** · **33.743 kr**
 
 <a href="https://husgagnahollin.is/vara/orion-bordstofustoll-natur-eik/"><img src="https://husgagnahollin.is/wp-content/uploads/2026/11/MC35108NA-Orion-bordstofustoll-natur-eik-1.webp" width="320"></a>
 
@@ -292,91 +303,69 @@ Updated 2026-11-18 16:44 UTC · 131 listings · 0 kr–50.000 kr per piece
 
 ---
 
-**6/10** · **34.990 kr**
+**6/10** · **37.900 kr** · 🆕
 
-<a href="https://jysk.is/stok-vara/LYKSBORG-stoll-eik-krem/?PathId=73bef239-beb3-4e8d-a05c-f0583025233d"><img src="https://jysk.is/library/Images/products/P002394.jpg?proc=366x366" width="320"></a>
+<a href="https://www.ilva.is/stok-vara/?ProductName=SWAN-Bordstofustoll-taupe-lakkadir-eikarfaetur"><img src="https://www.ilva.is/library/Images/Products/V010454.jpg?proc=366x366" width="320"></a>
 
-[LYKSBORG stóll eik/krem](https://jysk.is/stok-vara/LYKSBORG-stoll-eik-krem/?PathId=73bef239-beb3-4e8d-a05c-f0583025233d)  
-<sub>JYSK</sub>
-
-<sub>The chair has a solid wood frame with slim tapered legs and a light-colored upholstered seat, but the back is more open than the reference images.</sub>
-
----
-
-**6/10** · **34.990 kr**
-
-<a href="https://jysk.is/stok-vara/LYKSBORG-stoll-dokk-eik-dokksandlitadur/?PathId=73bef239-beb3-4e8d-a05c-f0583025233d"><img src="https://jysk.is/library/Images/products/P002304.jpg?proc=366x366" width="320"></a>
-
-[LYKSBORG stóll dökk eik/dökksandlitaður](https://jysk.is/stok-vara/LYKSBORG-stoll-dokk-eik-dokksandlitadur/?PathId=73bef239-beb3-4e8d-a05c-f0583025233d)  
-<sub>JYSK</sub>
-
-<sub>The candidate chair has a solid wood frame and upholstered seat, but the design with spindled back and slightly different legs diverges from a soft mid-century aesthetic.</sub>
-
----
-
-**6/10** · **37.900 kr**
-
-<a href="https://www.ilva.is/stok-vara/?ProductName=SWAN-Bordstofustoll-taupe-lakkadir-eikarfaetur&PathId=4a9ff5ae-c167-400e-b7dd-d6afc3779559"><img src="https://www.ilva.is/library/Images/Products/V010454.jpg?proc=366x366" width="320"></a>
-
-[SWAN Borðstofustóll taupe/lakkaðir eikarfætur](https://www.ilva.is/stok-vara/?ProductName=SWAN-Bordstofustoll-taupe-lakkadir-eikarfaetur&PathId=4a9ff5ae-c167-400e-b7dd-d6afc3779559)  
+[SWAN Borðstofustóll taupe/lakkaðir eikarfætur](https://www.ilva.is/stok-vara/?ProductName=SWAN-Bordstofustoll-taupe-lakkadir-eikarfaetur)  
 <sub>ILVA</sub>
 
-<sub>The chair has a mid-century design with a solid wood frame and sleek tapered legs, but the dark upholstery diverges from the desired light cream color.</sub>
+<sub>The chair has a wood frame with round tapered legs but the upholstery is darker, and the back is more rounded than the references.</sub>
 
 ---
 
-**6/10** · **39.900 kr**
+**6/10** · **37.900 kr** · 🆕
 
-<a href="https://www.ilva.is/stok-vara/?ProductName=VILO-Bordstofustoll-svart-ledurliki-med-gegnheilum-eikarfotum&PathId=4a9ff5ae-c167-400e-b7dd-d6afc3779559"><img src="https://www.ilva.is/library/Images/Products/V014200.jpg?proc=366x366" width="320"></a>
+<a href="https://www.ilva.is/stok-vara/?ProductName=RAVELLO-Bordstofustoll-taupe-mattlakkadir-eikarfaetur"><img src="https://www.ilva.is/library/Images/Products/V012540.jpg?proc=366x366" width="320"></a>
 
-[VILO Borðstofustóll svart leðurlíki með gegnheilum eikarfótum](https://www.ilva.is/stok-vara/?ProductName=VILO-Bordstofustoll-svart-ledurliki-med-gegnheilum-eikarfotum&PathId=4a9ff5ae-c167-400e-b7dd-d6afc3779559)  
+[RAVELLO Borðstofustóll taupe/mattlakkaðir eikarfætur](https://www.ilva.is/stok-vara/?ProductName=RAVELLO-Bordstofustoll-taupe-mattlakkadir-eikarfaetur)  
 <sub>ILVA</sub>
 
-<sub>The chair features slim, round tapered legs and a simple wooden frame, but the black leather seat and angular armrests diverge from the mid-century Scandinavian style.</sub>
+<sub>The chair has a solid wood frame, slim tapered legs, and a curved back, but the dark seat fabric doesn't match the target light cream/oatmeal color.</sub>
 
 ---
 
-**6/10** · **39.900 kr**
+**6/10** · **39.900 kr** · 🆕
 
-<a href="https://www.ilva.is/stok-vara/?ProductName=NORRLAND-Bordstofustoll-koniaksbrunt-ledurliki-oliubornir-eikarfaetur&PathId=4a9ff5ae-c167-400e-b7dd-d6afc3779559"><img src="https://www.ilva.is/library/Images/Products/V010052.jpg?proc=366x366" width="320"></a>
+<a href="https://www.ilva.is/stok-vara/?ProductName=VILO-Bordstofustoll-svart-ledurliki-med-gegnheilum-eikarfotum"><img src="https://www.ilva.is/library/Images/Products/V014200.jpg?proc=366x366" width="320"></a>
 
-[NORRLAND Borðstofustóll koníaksbrúnt leðurlíki/olíubornir eikarfætur](https://www.ilva.is/stok-vara/?ProductName=NORRLAND-Bordstofustoll-koniaksbrunt-ledurliki-oliubornir-eikarfaetur&PathId=4a9ff5ae-c167-400e-b7dd-d6afc3779559)  
+[VILO Borðstofustóll svart leðurlíki með gegnheilum eikarfótum](https://www.ilva.is/stok-vara/?ProductName=VILO-Bordstofustoll-svart-ledurliki-med-gegnheilum-eikarfotum)  
 <sub>ILVA</sub>
 
-<sub>The chair has a solid wood frame with a warm tone and slim, tapered legs, matching the mid-century aesthetic, but the back rest and seat materials don't closely match the reference.</sub>
+<sub>The chair has a solid wood frame and slim tapered legs, but the black faux leather seat and flat back differ from the target aesthetic.</sub>
 
 ---
 
-**6/10** · **39.900 kr**
+**6/10** · **39.900 kr** · 🆕
 
-<a href="https://www.ilva.is/stok-vara/?ProductName=ADLER-Bordstofustoll-brunn-oliubornir-eikarfaetur&PathId=4a9ff5ae-c167-400e-b7dd-d6afc3779559"><img src="https://www.ilva.is/library/Images/Products/V010111.jpg?proc=366x366" width="320"></a>
+<a href="https://www.ilva.is/stok-vara/?ProductName=ADLER-Bordstofustoll-koniaksbrunt-ledurliki-oliubornir-eikarfaetur"><img src="https://www.ilva.is/library/Images/Products/V010110.jpg?proc=366x366" width="320"></a>
 
-[ADLER Borðstofustóll brúnn/olíubornir eikarfætur](https://www.ilva.is/stok-vara/?ProductName=ADLER-Bordstofustoll-brunn-oliubornir-eikarfaetur&PathId=4a9ff5ae-c167-400e-b7dd-d6afc3779559)  
+[ADLER Borðstofustóll koníaksbrúnt leðurlíki/olíubornir eikarfætur](https://www.ilva.is/stok-vara/?ProductName=ADLER-Bordstofustoll-koniaksbrunt-ledurliki-oliubornir-eikarfaetur)  
 <sub>ILVA</sub>
 
-<sub>The chair features a solid wood frame with tapered legs and a curved backrest, which aligns with the mid-century Scandinavian design, but the fabric color is darker than specified.</sub>
+<sub>The chair has a solid wood frame with round tapered legs and a curved backrest, but the seat and backrest material and color do not match the light cream/oatmeal fabric specified.</sub>
 
 ---
 
-**6/10** · **39.900 kr**
+**6/10** · **39.900 kr** · 🆕
 
-<a href="https://www.ilva.is/stok-vara/?ProductName=ADLER-Bordstofustoll-koniaksbrunt-ledurliki-oliubornir-eikarfaetur&PathId=4a9ff5ae-c167-400e-b7dd-d6afc3779559"><img src="https://www.ilva.is/library/Images/Products/V010110.jpg?proc=366x366" width="320"></a>
+<a href="https://www.ilva.is/stok-vara/?ProductName=NORRLAND-Bordstofustoll-koniaksbrunt-ledurliki-oliubornir-eikarfaetur"><img src="https://www.ilva.is/library/Images/Products/V010052.jpg?proc=366x366" width="320"></a>
 
-[ADLER Borðstofustóll koníaksbrúnt leðurlíki/olíubornir eikarfætur](https://www.ilva.is/stok-vara/?ProductName=ADLER-Bordstofustoll-koniaksbrunt-ledurliki-oliubornir-eikarfaetur&PathId=4a9ff5ae-c167-400e-b7dd-d6afc3779559)  
+[NORRLAND Borðstofustóll koníaksbrúnt leðurlíki/olíubornir eikarfætur](https://www.ilva.is/stok-vara/?ProductName=NORRLAND-Bordstofustoll-koniaksbrunt-ledurliki-oliubornir-eikarfaetur)  
 <sub>ILVA</sub>
 
-<sub>The chair has a wooden frame with round tapered legs and a curved backrest. However, it uses leather-like upholstery instead of light cream fabric, which partially aligns with the aesthetic but not fully.</sub>
+<sub>The chair has a wooden frame with warm-toned oak legs and a curved backrest, but the seat is upholstered in a cognac faux leather instead of light cream fabric.</sub>
 
 ---
 
-**6/10** · **39.900 kr**
+**6/10** · **39.900 kr** · 🆕
 
-<a href="https://www.ilva.is/stok-vara/?ProductName=VILO-Bordstofustoll-brunn-med-gegnheilum-eikarfotum&PathId=4a9ff5ae-c167-400e-b7dd-d6afc3779559"><img src="https://www.ilva.is/library/Images/Products/V014199.jpg?proc=366x366" width="320"></a>
+<a href="https://www.ilva.is/stok-vara/?ProductName=VILO-Bordstofustoll-brunn-med-gegnheilum-eikarfotum"><img src="https://www.ilva.is/library/Images/Products/V014199.jpg?proc=366x366" width="320"></a>
 
-[VILO Borðstofustóll brúnn með gegnheilum eikarfótum](https://www.ilva.is/stok-vara/?ProductName=VILO-Bordstofustoll-brunn-med-gegnheilum-eikarfotum&PathId=4a9ff5ae-c167-400e-b7dd-d6afc3779559)  
+[VILO Borðstofustóll brúnn með gegnheilum eikarfótum](https://www.ilva.is/stok-vara/?ProductName=VILO-Bordstofustoll-brunn-med-gegnheilum-eikarfotum)  
 <sub>ILVA</sub>
 
-<sub>The chair has a solid wood frame and an upholstered seat, but its legs aren't tapered, and its overall design lacks the curved back rest seen in the references.</sub>
+<sub>The candidate chair has a solid wood frame with a natural tone, but lacks the curved backrest and round tapered legs typical of mid-century Scandinavian design.</sub>
 
 ---
 
@@ -402,25 +391,14 @@ Updated 2026-11-18 16:44 UTC · 131 listings · 0 kr–50.000 kr per piece
 
 ---
 
-**6/10** · **44.900 kr**
+**6/10** · **44.900 kr** · 🆕 · uppselt
 
-<a href="https://www.ilva.is/stok-vara/?ProductName=NORRLAND-Bordstofustoll-svart-ledurliki-oliubornir-eikarfaetur&PathId=4a9ff5ae-c167-400e-b7dd-d6afc3779559"><img src="https://www.ilva.is/library/Images/Products/V009026.jpg?proc=366x366" width="320"></a>
+<a href="https://www.ilva.is/stok-vara/?ProductName=NORRLAND-Bordstofustoll-flettad-svartlakkadir-eikarfaetur"><img src="https://www.ilva.is/library/Images/Products/V011118.jpg?proc=366x366" width="320"></a>
 
-[NORRLAND Borðstofustóll svart leðurlíki/olíubornir eikarfætur](https://www.ilva.is/stok-vara/?ProductName=NORRLAND-Bordstofustoll-svart-ledurliki-oliubornir-eikarfaetur&PathId=4a9ff5ae-c167-400e-b7dd-d6afc3779559)  
+[NORRLAND Borðstofustóll fléttað/svartlakkaðir eikarfætur](https://www.ilva.is/stok-vara/?ProductName=NORRLAND-Bordstofustoll-flettad-svartlakkadir-eikarfaetur)  
 <sub>ILVA</sub>
 
-<sub>The chair has a solid wood frame with a warm tone, slim round legs, and a curved backrest, but the seat is black leather-like material rather than light cream fabric.</sub>
-
----
-
-**6/10** · **44.900 kr** · uppselt
-
-<a href="https://www.ilva.is/stok-vara/?ProductName=NORRLAND-Bordstofustoll-flettad-svartlakkadir-eikarfaetur&PathId=4a9ff5ae-c167-400e-b7dd-d6afc3779559"><img src="https://www.ilva.is/library/Images/Products/V011118.jpg?proc=366x366" width="320"></a>
-
-[NORRLAND Borðstofustóll fléttað/svartlakkaðir eikarfætur](https://www.ilva.is/stok-vara/?ProductName=NORRLAND-Bordstofustoll-flettad-svartlakkadir-eikarfaetur&PathId=4a9ff5ae-c167-400e-b7dd-d6afc3779559)  
-<sub>ILVA</sub>
-
-<sub>The candidate chair has a solid wood frame and slim legs but lacks the warm mid tone and upholstered seat in the specified fabric.</sub>
+<sub>The chair has a solid wood frame with a Scandinavian mid-century design, but with black lacquered legs and a seat that doesn't fully match the light cream/oatmeal color preference.</sub>
 
 ---
 
@@ -435,58 +413,69 @@ Updated 2026-11-18 16:44 UTC · 131 listings · 0 kr–50.000 kr per piece
 
 ---
 
-**6/10** · **49.900 kr**
+**6/10** · **49.900 kr** · 🆕
 
-<a href="https://www.ilva.is/stok-vara/?ProductName=LYSTRA-Bordstofustoll-graenn&PathId=4a9ff5ae-c167-400e-b7dd-d6afc3779559"><img src="https://www.ilva.is/library/Images/Products/V014108.jpg?proc=366x366" width="320"></a>
+<a href="https://www.ilva.is/stok-vara/?ProductName=LYSTRA-Bordstofustoll-graenn"><img src="https://www.ilva.is/library/Images/Products/V014108.jpg?proc=366x366" width="320"></a>
 
-[LYSTRA Borðstofustóll grænn](https://www.ilva.is/stok-vara/?ProductName=LYSTRA-Bordstofustoll-graenn&PathId=4a9ff5ae-c167-400e-b7dd-d6afc3779559)  
+[LYSTRA Borðstofustóll grænn](https://www.ilva.is/stok-vara/?ProductName=LYSTRA-Bordstofustoll-graenn)  
 <sub>ILVA</sub>
 
-<sub>The chair features a wooden frame and curved backrest but uses a darker fabric and slightly different leg design than the references.</sub>
+<sub>The chair has a solid wood frame with slim, tapered legs and a curved back, but the upholstery and seat color do not fully match the target aesthetic.</sub>
 
 ---
 
-**5/10** · **6.395 kr <sub>was 6.396 kr</sub>**
+**5/10** · **11.990 kr** · 🆕
 
-<a href="https://jysk.is/stok-vara/JONSTRUP-stoll-grar-tau-eikarlitadir-stalfaetur/?PathId=73bef239-beb3-4e8d-a05c-f0583025233d"><img src="https://jysk.is/library/Images/products/P002336.jpg?proc=366x366" width="320"></a>
+<a href="https://jysk.is/stok-vara/PEBRINGE-bordstofustoll-velour-grar-eik/"><img src="https://jysk.is/library/Images/products/P002129.jpg?proc=366x366" width="320"></a>
 
-[JONSTRUP stóll grár/tau eikarlitaðir stálfætur](https://jysk.is/stok-vara/JONSTRUP-stoll-grar-tau-eikarlitadir-stalfaetur/?PathId=73bef239-beb3-4e8d-a05c-f0583025233d)  
+[BLACK FRIDAY 40% VINSÆL PEBRINGE borðstofustóll velour grár/eik](https://jysk.is/stok-vara/PEBRINGE-bordstofustoll-velour-grar-eik/)  
 <sub>JYSK</sub>
 
-<sub>The chair is a dining chair but has metal legs and a more modern design, differing from the mid-century Scandinavian aesthetic.</sub>
+<sub>While it has slim tapered legs, the quilted upholstery and high-back make it bulkier and more modern than the mid-century Scandinavian style sought.</sub>
 
 ---
 
-**5/10** · **9.995 kr**
+**5/10** · **11.992 kr** · 🆕
 
-<a href="https://jysk.is/stok-vara/BISTRUP-stoll-sand-eik/?PathId=73bef239-beb3-4e8d-a05c-f0583025233d"><img src="https://jysk.is/library/Images/products/P002410.jpg?proc=366x366" width="320"></a>
+<a href="https://jysk.is/stok-vara/THORUP-bordstofustoll-beige-eikarlitadir-faetur/"><img src="https://jysk.is/library/Images/products/P009219.jpg?proc=366x366" width="320"></a>
 
-[BISTRUP stóll sand/eik](https://jysk.is/stok-vara/BISTRUP-stoll-sand-eik/?PathId=73bef239-beb3-4e8d-a05c-f0583025233d)  
+[THORUP borðstofustóll beige/eikarlitaðir fætur](https://jysk.is/stok-vara/THORUP-bordstofustoll-beige-eikarlitadir-faetur/)  
 <sub>JYSK</sub>
 
-<sub>The chair has slim round tapered legs and a light fabric seat, but lacks the curved wood backrest typical of mid-century Scandinavian designs.</sub>
+<sub>The chair has wood legs and a fabric seat, but lacks the curved backrest and slim tapered legs that define the mid-century Scandinavian look.</sub>
 
 ---
 
-**5/10** · **13.740 kr <sub>was 22.900 kr</sub>**
+**5/10** · **12.990 kr** · 🆕
 
-<a href="https://www.ilva.is/stok-vara/?ProductName=ALLY-Bordstofustoll-koniaksbrunt-ledurliki-oliubornir-eikarfaetur&PathId=4a9ff5ae-c167-400e-b7dd-d6afc3779559"><img src="https://www.ilva.is/library/Images/Products/V001288.jpg?proc=366x366" width="320"></a>
+<a href="https://jysk.is/stok-vara/ADSLEV-bordstofustoll-olivugraenn-eikar-faetur/"><img src="https://jysk.is/library/Images/products/P007517.jpg?proc=366x366" width="320"></a>
 
-[ALLY Borðstofustóll koníaksbrúnt leðurlíki/olíubornir eikarfætur](https://www.ilva.is/stok-vara/?ProductName=ALLY-Bordstofustoll-koniaksbrunt-ledurliki-oliubornir-eikarfaetur&PathId=4a9ff5ae-c167-400e-b7dd-d6afc3779559)  
-<sub>ILVA</sub>
+[BLACK FRIDAY 35% ADSLEV borðstofustóll olivugrænn / eikar fætur](https://jysk.is/stok-vara/ADSLEV-bordstofustoll-olivugraenn-eikar-faetur/)  
+<sub>JYSK</sub>
 
-<sub>The chair is a dining chair with a wood base, but the leather-like seat and the slightly bulky molded design diverge from the target mid-century Scandinavian look.</sub>
+<sub>The chair has wooden legs and an upholstered seat, but the design is bulkier with armrests and lacks the refined, slim lines of mid-century Scandinavian design.</sub>
 
 ---
 
-**5/10** · **14.940 kr <sub>was 24.900 kr</sub>**
+**5/10** · **14.940 kr** · 🆕
 
-<a href="https://www.ilva.is/stok-vara/?ProductName=ALLY-Bordstofustoll-brunn-oliubornir-eikarfaetur&PathId=4a9ff5ae-c167-400e-b7dd-d6afc3779559"><img src="https://www.ilva.is/library/Images/Products/V010112.jpg?proc=366x366" width="320"></a>
+<a href="https://www.ilva.is/stok-vara/?ProductName=ALLY-Bordstofustoll-brunn-reyklitadir-eikarfaetur"><img src="https://www.ilva.is/library/Images/Products/V013329.jpg?proc=366x366" width="320"></a>
 
-[ALLY Borðstofustóll brúnn/olíubornir eikarfætur](https://www.ilva.is/stok-vara/?ProductName=ALLY-Bordstofustoll-brunn-oliubornir-eikarfaetur&PathId=4a9ff5ae-c167-400e-b7dd-d6afc3779559)  
+[ALLY Borðstofustóll brúnn/reyklitaðir eikarfætur](https://www.ilva.is/stok-vara/?ProductName=ALLY-Bordstofustoll-brunn-reyklitadir-eikarfaetur)  
 <sub>ILVA</sub>
 
-<sub>While it features the solid wood frame and tapered legs, the seat and back are one shell and not consistent with mid-century Scandinavian design.</sub>
+<sub>The chair has a curved upholstered seat and wooden legs, but lacks the desired mid-century Scandinavian design with tapered legs and a curved back rest.</sub>
+
+---
+
+**5/10** · **15.992 kr** · 🆕
+
+<a href="https://jysk.is/stok-vara/SOTTRUP-bordstofustoll-beige-svartur/"><img src="https://jysk.is/library/Images/products/P011139.jpg?proc=366x366" width="320"></a>
+
+[SOTTRUP borðstofustóll beige/svartur](https://jysk.is/stok-vara/SOTTRUP-bordstofustoll-beige-svartur/)  
+<sub>JYSK</sub>
+
+<sub>The candidate is a dining chair with upholstered fabric and wood, fitting broadly with the mid-century style but with bulkier proportions and black legs.</sub>
 
 ---
 
@@ -501,7 +490,7 @@ Updated 2026-11-18 16:44 UTC · 131 listings · 0 kr–50.000 kr per piece
 
 ---
 
-**5/10** · **18.193 kr** · 🆕
+**5/10** · **18.193 kr**
 
 <a href="https://husgagnahollin.is/vara/lean-bordstofustoll-svartur-carson-beige/"><img src="https://husgagnahollin.is/wp-content/uploads/2026/04/Luna-bordstofustoll-svarturCarson-beige-C3455BR111-2.webp" width="320"></a>
 
@@ -512,25 +501,36 @@ Updated 2026-11-18 16:44 UTC · 131 listings · 0 kr–50.000 kr per piece
 
 ---
 
-**5/10** · **19.990 kr**
+**5/10** · **19.900 kr** · 🆕
 
-<a href="https://jysk.is/stok-vara/ADSLEV-bordstofustoll-grar-flauel-eik-2/?PathId=73bef239-beb3-4e8d-a05c-f0583025233d"><img src="https://jysk.is/library/Images/products/P002091.jpg?proc=366x366" width="320"></a>
+<a href="https://www.ilva.is/stok-vara/?ProductName=MAREK-Bordstofustoll-brunn-svartir-malmfaetur"><img src="https://www.ilva.is/library/Images/Products/V010434.jpg?proc=366x366" width="320"></a>
 
-[ADSLEV borðstofustóll grár flauel/eik](https://jysk.is/stok-vara/ADSLEV-bordstofustoll-grar-flauel-eik-2/?PathId=73bef239-beb3-4e8d-a05c-f0583025233d)  
-<sub>JYSK</sub>
+[MAREK Borðstofustóll brúnn/svartir málmfætur](https://www.ilva.is/stok-vara/?ProductName=MAREK-Bordstofustoll-brunn-svartir-malmfaetur)  
+<sub>ILVA</sub>
 
-<sub>The candidate chair has a wood frame and slim legs, but the upholstery and armrest design do not align with the mid-century Scandinavian style.</sub>
+<sub>The candidate chair features metal legs, which does not align with the target mid-century Scandinavian style favoring wood; however, the seat and backrest shape show some influence from the desired aesthetic.</sub>
 
 ---
 
-**5/10** · **19.990 kr**
+**5/10** · **19.990 kr** · 🆕
 
-<a href="https://jysk.is/stok-vara/SOTTRUP-bordstofustoll-beige-svartur/?PathId=73bef239-beb3-4e8d-a05c-f0583025233d"><img src="https://jysk.is/library/Images/products/P011139.jpg?proc=366x366" width="320"></a>
+<a href="https://husgagnahollin.is/vara/evander-bordstofustoll-munich-brunn/"><img src="https://husgagnahollin.is/wp-content/uploads/2026/11/Evander-bordstofustoll-Munich-brunn-MC3540441-1.webp" width="320"></a>
 
-[SOTTRUP borðstofustóll beige/svartur](https://jysk.is/stok-vara/SOTTRUP-bordstofustoll-beige-svartur/?PathId=73bef239-beb3-4e8d-a05c-f0583025233d)  
+[Evander borðstofustóll Munich brúnn](https://husgagnahollin.is/vara/evander-bordstofustoll-munich-brunn/)  
+<sub>Húsgagnahöllin</sub>
+
+<sub>The candidate chair is upholstered, which doesn't align with the preferred style of exposed wood frame and light fabric, but shares the curved back and similar overall silhouette.</sub>
+
+---
+
+**5/10** · **19.990 kr** · 🆕
+
+<a href="https://jysk.is/stok-vara/BOVRUP-bordstofustoll-dokk-eik/"><img src="https://jysk.is/library/Images/products/P011494.jpg?proc=366x366" width="320"></a>
+
+[BLACK FRIDAY 33% BOVRUP borðstofustóll dökk eik](https://jysk.is/stok-vara/BOVRUP-bordstofustoll-dokk-eik/)  
 <sub>JYSK</sub>
 
-<sub>The chair has upholstered elements and a wooden frame, but the overall design with black legs and armrest is bulkier and deviates from the mid-century Scandinavian aesthetic.</sub>
+<sub>The candidate chair is a dining chair but its bulky build, darker wood tone, and overall heavier style do not match the slim, mid-century Scandinavian aesthetic desired.</sub>
 
 ---
 
@@ -553,17 +553,6 @@ Updated 2026-11-18 16:44 UTC · 131 listings · 0 kr–50.000 kr per piece
 <sub>Húsgagnahöllin</sub>
 
 <sub>The chair is upholstered and has rounded edges but does not have a wooden frame or the slim, tapered legs typical of mid-century Scandinavian design.</sub>
-
----
-
-**5/10** · **23.940 kr <sub>was 39.900 kr</sub>**
-
-<a href="https://www.ilva.is/stok-vara/?ProductName=NORRLAND-Bordstofustoll-svart-flettad-svartlakkadir-eikarfaetur&PathId=4a9ff5ae-c167-400e-b7dd-d6afc3779559"><img src="https://www.ilva.is/library/Images/Products/V007971.jpg?proc=366x366" width="320"></a>
-
-[NORRLAND Borðstofustóll svart fléttað/svartlakkaðir eikarfætur](https://www.ilva.is/stok-vara/?ProductName=NORRLAND-Bordstofustoll-svart-flettad-svartlakkadir-eikarfaetur&PathId=4a9ff5ae-c167-400e-b7dd-d6afc3779559)  
-<sub>ILVA</sub>
-
-<sub>The chair has a mid-century modern style with wood construction but lacks the light color tones and soft upholstery of the target aesthetic.</sub>
 
 ---
 
@@ -611,25 +600,47 @@ Updated 2026-11-18 16:44 UTC · 131 listings · 0 kr–50.000 kr per piece
 
 ---
 
-**5/10** · **39.900 kr**
+**5/10** · **39.900 kr** · 🆕
 
-<a href="https://www.ilva.is/stok-vara/?ProductName=NORRLAND-Bordstofustoll-svart-ledurlliki-hvittadir-eikarfaetur&PathId=4a9ff5ae-c167-400e-b7dd-d6afc3779559"><img src="https://www.ilva.is/library/Images/Products/V009035.jpg?proc=366x366" width="320"></a>
+<a href="https://www.ilva.is/stok-vara/?ProductName=BASTIA-Bordstofustoll-flettad-mattlakkadir-eikarfaetur"><img src="https://www.ilva.is/library/Images/Products/V009188.jpg?proc=366x366" width="320"></a>
 
-[NORRLAND Borðstofustóll svart leðurllíki/hvíttaðir eikarfætur](https://www.ilva.is/stok-vara/?ProductName=NORRLAND-Bordstofustoll-svart-ledurlliki-hvittadir-eikarfaetur&PathId=4a9ff5ae-c167-400e-b7dd-d6afc3779559)  
+[BASTIA Borðstofustóll fléttað/mattlakkaðir eikarfætur](https://www.ilva.is/stok-vara/?ProductName=BASTIA-Bordstofustoll-flettad-mattlakkadir-eikarfaetur)  
 <sub>ILVA</sub>
 
-<sub>The chair has a wood frame with a curved back, but features black faux leather and lacks the warm mid-tone wood and upholstered seat of the reference.</sub>
+<sub>The chair has a mid-century Scandinavian look with solid wood and a warm tone, but the woven seat and back differ from the upholstered style in the reference.</sub>
 
 ---
 
-**5/10** · **39.900 kr**
+**5/10** · **39.900 kr** · 🆕
 
-<a href="https://www.ilva.is/stok-vara/?ProductName=BASTIA-Bordstofustoll-flettad-mattlakkadir-eikarfaetur&PathId=4a9ff5ae-c167-400e-b7dd-d6afc3779559"><img src="https://www.ilva.is/library/Images/Products/V009188.jpg?proc=366x366" width="320"></a>
+<a href="https://www.ilva.is/stok-vara/?ProductName=ADLER-Bordstofustoll-svart-ledurliki-svartir-vidarfaetur"><img src="https://www.ilva.is/library/Images/Products/V010114.jpg?proc=366x366" width="320"></a>
 
-[BASTIA Borðstofustóll fléttað/mattlakkaðir eikarfætur](https://www.ilva.is/stok-vara/?ProductName=BASTIA-Bordstofustoll-flettad-mattlakkadir-eikarfaetur&PathId=4a9ff5ae-c167-400e-b7dd-d6afc3779559)  
+[ADLER Borðstofustóll svart leðurlíki/svartir viðarfætur](https://www.ilva.is/stok-vara/?ProductName=ADLER-Bordstofustoll-svart-ledurliki-svartir-vidarfaetur)  
 <sub>ILVA</sub>
 
-<sub>The chair has a wooden frame and warm tone, but the woven seat and back diverge from the upholstered look.</sub>
+<sub>The candidate chair has a mid-century modern style but uses black wood and faux leather, differing from the warm wood and light fabric aesthetic desired.</sub>
+
+---
+
+**5/10** · **39.900 kr** · 🆕
+
+<a href="https://www.ilva.is/stok-vara/?ProductName=NORRLAND-Bordstofustoll-svart-ledurliki-svartlakkadir-eikarfaetur"><img src="https://www.ilva.is/library/Images/Products/V007970.jpg?proc=366x366" width="320"></a>
+
+[NORRLAND Borðstofustóll svart leðurlíki/svartlakkaðir eikarfætur](https://www.ilva.is/stok-vara/?ProductName=NORRLAND-Bordstofustoll-svart-ledurliki-svartlakkadir-eikarfaetur)  
+<sub>ILVA</sub>
+
+<sub>The candidate chair features a solid wood frame with tapered legs and a curved back, but its black color and faux leather seat deviate from the warm, light-toned and fabric-upholstered style of the references.</sub>
+
+---
+
+**5/10** · **39.900 kr** · 🆕
+
+<a href="https://www.ilva.is/stok-vara/?ProductName=BASTIA-Bordstofustoll-flettad-svartlakkadir-beykifaetur"><img src="https://www.ilva.is/library/Images/Products/V011273.jpg?proc=366x366" width="320"></a>
+
+[BASTIA Borðstofustóll fléttað/svartlakkaðir beykifætur](https://www.ilva.is/stok-vara/?ProductName=BASTIA-Bordstofustoll-flettad-svartlakkadir-beykifaetur)  
+<sub>ILVA</sub>
+
+<sub>The chair has a mid-century Scandinavian look with a solid wood frame and a warm tone, but the woven seat differs from the upholstered style desired.</sub>
 
 ---
 
@@ -652,16 +663,5 @@ Updated 2026-11-18 16:44 UTC · 131 listings · 0 kr–50.000 kr per piece
 <sub>Húsgagnahöllin</sub>
 
 <sub>The chair has a curved backrest and upholstered seat, but the use of metal legs and a different design language diverges from the fully wood frame aesthetic of mid-century Scandinavian style.</sub>
-
----
-
-**4/10** · **6.000 kr**
-
-<a href="https://bland.is/til-solu/heimilid/stofa/6-bordstofustolar/5303952/"><img src="https://img.bland.is/album/img/366193/m/20261111234024_0.jpg" width="320"></a>
-
-[6 borðstofustólar](https://bland.is/til-solu/heimilid/stofa/6-bordstofustolar/5303952/)  
-<sub>Bland (notað)</sub>
-
-<sub>The chair is made of wood with fabric seats, matching the dining chair category, but the dark wood tone, slat back design, and overall traditional style differ from the mid-century Scandinavian aesthetic.</sub>
 
 ---
