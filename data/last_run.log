@@ -1,34 +1,33 @@
-Epal: 9604 products in catalog
+Epal: 9606 products in catalog
 Snúran: 771 products in catalog
-Bland: 607 listings scanned
-Húsgagnahöllin: 113 matching products
+Bland: 603 listings scanned
+Húsgagnahöllin: 112 matching products
 Módern: 46 listings parsed from HTML
 Línan: 34 listings parsed from HTML
 ILVA: 89 listings parsed from HTML
 JYSK: 63 listings parsed from HTML
-[dining-table] 245 candidates within budget (from 11327 listings)
-[dining-table] Opened 136 listing pages for details
-[dining-table] 121 pass price/size filters
-[dining-table] Scored 56 listings with gpt-4o
-[dining-table] Notify: posted 6 new matches to issue #1
-Húsgagnahöllin: 69 matching products
-Módern: 76 listings parsed from HTML
+[dining-table] 245 candidates within budget (from 11324 listings)
+[dining-table] Opened 85 listing pages for details
+[dining-table] 109 pass price/size filters
+[dining-table] Scored 5 listings with gpt-4o
+[dining-table] Notify: 0 new strong matches
+Húsgagnahöllin: 68 matching products
+Módern: 74 listings parsed from HTML
 Línan: 34 listings parsed from HTML
-ILVA: 78 listings parsed from HTML
+ILVA: 79 listings parsed from HTML
 JYSK: 120 listings parsed from HTML
-[dining-chair] 225 candidates within budget (from 11359 listings)
-[dining-chair] Opened 133 listing pages for details
-[dining-chair] 224 pass price/size filters
-[dining-chair] Scored 134 listings with gpt-4o
-[dining-chair] Notify: posted 16 new matches to issue #1
-Húsgagnahöllin: 178 matching products
-Módern: 106 listings parsed from HTML
+[dining-chair] 227 candidates within budget (from 11355 listings)
+[dining-chair] Opened 4 listing pages for details
+[dining-chair] 226 pass price/size filters
+[dining-chair] Scored 3 listings with gpt-4o
+[dining-chair] Notify: 0 new strong matches
+Húsgagnahöllin: 176 matching products
+Módern: 104 listings parsed from HTML
 Línan: 36 listings parsed from HTML
-ILVA: 164 listings parsed from HTML
+ILVA: 163 listings parsed from HTML
 JYSK: 133 listings parsed from HTML
-[sofa] 443 candidates within budget (from 11599 listings)
-[sofa] Opened 150 listing pages for details
-[sofa] 443 pass price/size filters
-[sofa] score failed for https://www.ilva.is/stok-vara/?ProductName=SCOTT-Tungusofi-haegri-stone: the JSON object must be str, bytes or bytearray, not NoneType
-[sofa] Scored 150 listings with gpt-4o
-[sofa] Notify: posted 20 new matches to issue #1
+[sofa] 437 candidates within budget (from 11592 listings)
+[sofa] Opened 56 listing pages for details
+[sofa] 436 pass price/size filters
+[sofa] Scored 60 listings with gpt-4o
+[sofa] Notify: posted 2 new matches to issue #1

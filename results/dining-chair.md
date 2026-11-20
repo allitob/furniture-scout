@@ -1,12 +1,12 @@
 # Dining chairs
 
-Updated 2026-11-19 16:50 UTC · 136 listings · 0 kr–50.000 kr per piece
+Updated 2026-11-20 16:25 UTC · 135 listings · 0 kr–50.000 kr per piece
 
 [← all categories](../results.md)
 
 ---
 
-**9/10** · **12.990 kr** · 🆕
+**9/10** · **12.990 kr**
 
 <a href="https://jysk.is/stok-vara/EJSING-bordstofustoll-beige-eik/"><img src="https://jysk.is/library/Images/products/P011137.jpg?proc=366x366" width="320"></a>
 
@@ -17,7 +17,7 @@ Updated 2026-11-19 16:50 UTC · 136 listings · 0 kr–50.000 kr per piece
 
 ---
 
-**9/10** · **29.900 kr** · 🆕
+**9/10** · **29.900 kr**
 
 <a href="https://www.ilva.is/stok-vara/?ProductName=EMILA-Bordstofustoll-off-white-mattlakkadir-eikarfaetur"><img src="https://www.ilva.is/library/Images/Products/V009288.jpg?proc=366x366" width="320"></a>
 
@@ -28,7 +28,7 @@ Updated 2026-11-19 16:50 UTC · 136 listings · 0 kr–50.000 kr per piece
 
 ---
 
-**8/10** · **12.990 kr** · 🆕
+**8/10** · **12.990 kr**
 
 <a href="https://jysk.is/stok-vara/EJSING-bordstofustoll-beige-dokk-eik/"><img src="https://jysk.is/library/Images/products/P012993.jpg?proc=366x366" width="320"></a>
 
@@ -39,7 +39,7 @@ Updated 2026-11-19 16:50 UTC · 136 listings · 0 kr–50.000 kr per piece
 
 ---
 
-**8/10** · **22.990 kr** · 🆕
+**8/10** · **22.990 kr**
 
 <a href="https://jysk.is/stok-vara/GUDERUP-bordstofustoll-dokk-eik-natur/"><img src="https://jysk.is/library/Images/products/P010965.jpg?proc=366x366" width="320"></a>
 
@@ -50,7 +50,7 @@ Updated 2026-11-19 16:50 UTC · 136 listings · 0 kr–50.000 kr per piece
 
 ---
 
-**8/10** · **29.900 kr** · 🆕
+**8/10** · **29.900 kr**
 
 <a href="https://www.ilva.is/stok-vara/?ProductName=EMILA-Bordstofustoll-off-white-reyklitadir-eikarfaetur"><img src="https://www.ilva.is/library/Images/Products/V012372.jpg?proc=366x366" width="320"></a>
 
@@ -61,7 +61,7 @@ Updated 2026-11-19 16:50 UTC · 136 listings · 0 kr–50.000 kr per piece
 
 ---
 
-**8/10** · **37.900 kr** · 🆕
+**8/10** · **37.900 kr**
 
 <a href="https://www.ilva.is/stok-vara/?ProductName=SWAN-Bordstofustoll-off-white-lakkadir-eikarfaetur"><img src="https://www.ilva.is/library/Images/Products/V010453.jpg?proc=366x366" width="320"></a>
 
@@ -72,7 +72,7 @@ Updated 2026-11-19 16:50 UTC · 136 listings · 0 kr–50.000 kr per piece
 
 ---
 
-**8/10** · **37.900 kr** · 🆕
+**8/10** · **37.900 kr**
 
 <a href="https://www.ilva.is/stok-vara/?ProductName=RAVELLO-Bordstofustoll-off-white-mattlakkadir-eikarfaetur"><img src="https://www.ilva.is/library/Images/Products/V012539.jpg?proc=366x366" width="320"></a>
 
@@ -83,7 +83,7 @@ Updated 2026-11-19 16:50 UTC · 136 listings · 0 kr–50.000 kr per piece
 
 ---
 
-**8/10** · **39.900 kr** · 🆕
+**8/10** · **39.900 kr**
 
 <a href="https://www.ilva.is/stok-vara/?ProductName=ADLER-Bordstofustoll-brunn-oliubornir-eikarfaetur"><img src="https://www.ilva.is/library/Images/Products/V010111.jpg?proc=366x366" width="320"></a>
 
@@ -94,7 +94,7 @@ Updated 2026-11-19 16:50 UTC · 136 listings · 0 kr–50.000 kr per piece
 
 ---
 
-**8/10** · **49.900 kr** · 🆕 · uppselt
+**8/10** · **49.900 kr** · uppselt
 
 <a href="https://www.ilva.is/stok-vara/?ProductName=LYSTRA-Bordstofustoll-off-white"><img src="https://www.ilva.is/library/Images/Products/V014107.jpg?proc=366x366" width="320"></a>
 
@@ -105,7 +105,7 @@ Updated 2026-11-19 16:50 UTC · 136 listings · 0 kr–50.000 kr per piece
 
 ---
 
-**7/10** · **16.990 kr** · 🆕
+**7/10** · **16.990 kr**
 
 <a href="https://jysk.is/stok-vara/LYNGHOLM-bordstofustoll-eik-svartur-PU/"><img src="https://jysk.is/library/Images/products/P002099.jpg?proc=366x366" width="320"></a>
 
@@ -116,7 +116,7 @@ Updated 2026-11-19 16:50 UTC · 136 listings · 0 kr–50.000 kr per piece
 
 ---
 
-**7/10** · **22.990 kr** · 🆕
+**7/10** · **22.990 kr**
 
 <a href="https://jysk.is/stok-vara/GUDERUP-bordstofustoll-eik-natur/"><img src="https://jysk.is/library/Images/products/P007389.jpg?proc=366x366" width="320"></a>
 
@@ -127,7 +127,7 @@ Updated 2026-11-19 16:50 UTC · 136 listings · 0 kr–50.000 kr per piece
 
 ---
 
-**7/10** · **29.900 kr** · 🆕
+**7/10** · **29.900 kr**
 
 <a href="https://www.ilva.is/stok-vara/?ProductName=EMILA-Bordstofustoll-graenn-mattlakkadir-eikarfaetur"><img src="https://www.ilva.is/library/Images/Products/V009289.jpg?proc=366x366" width="320"></a>
 
@@ -138,7 +138,7 @@ Updated 2026-11-19 16:50 UTC · 136 listings · 0 kr–50.000 kr per piece
 
 ---
 
-**7/10** · **39.900 kr** · 🆕
+**7/10** · **39.900 kr**
 
 <a href="https://www.ilva.is/stok-vara/?ProductName=ADLER-Bordstofustoll-brunn-reyklitadir-eikarfaetur"><img src="https://www.ilva.is/library/Images/Products/V013327.jpg?proc=366x366" width="320"></a>
 
@@ -149,7 +149,7 @@ Updated 2026-11-19 16:50 UTC · 136 listings · 0 kr–50.000 kr per piece
 
 ---
 
-**7/10** · **44.900 kr** · 🆕
+**7/10** · **44.900 kr**
 
 <a href="https://www.ilva.is/stok-vara/?ProductName=NORRLAND-Bordstofustoll-flettad-hvittadir-eikarfaetur"><img src="https://www.ilva.is/library/Images/Products/V010469.jpg?proc=366x366" width="320"></a>
 
@@ -160,7 +160,7 @@ Updated 2026-11-19 16:50 UTC · 136 listings · 0 kr–50.000 kr per piece
 
 ---
 
-**7/10** · **44.900 kr** · 🆕
+**7/10** · **44.900 kr**
 
 <a href="https://www.ilva.is/stok-vara/?ProductName=NORRLAND-Bordstofustoll-svart-ledurliki-oliubornir-eikarfaetur"><img src="https://www.ilva.is/library/Images/Products/V009026.jpg?proc=366x366" width="320"></a>
 
@@ -171,7 +171,7 @@ Updated 2026-11-19 16:50 UTC · 136 listings · 0 kr–50.000 kr per piece
 
 ---
 
-**7/10** · **44.900 kr** · 🆕
+**7/10** · **44.900 kr**
 
 <a href="https://www.ilva.is/stok-vara/?ProductName=NORRLAND-Bordstofustoll-flettad-oliubornir-eikarfaetur"><img src="https://www.ilva.is/library/Images/Products/V009899.jpg?proc=366x366" width="320"></a>
 
@@ -193,7 +193,7 @@ Updated 2026-11-19 16:50 UTC · 136 listings · 0 kr–50.000 kr per piece
 
 ---
 
-**6/10** · **12.990 kr** · 🆕
+**6/10** · **12.990 kr**
 
 <a href="https://jysk.is/stok-vara/EJSING-bordstofustoll-brunn-ljos-eik/"><img src="https://jysk.is/library/Images/products/P012994.jpg?proc=366x366" width="320"></a>
 
@@ -226,7 +226,7 @@ Updated 2026-11-19 16:50 UTC · 136 listings · 0 kr–50.000 kr per piece
 
 ---
 
-**6/10** · **19.990 kr** · 🆕
+**6/10** · **19.990 kr**
 
 <a href="https://jysk.is/stok-vara/ISLEV-bordstofustoll-eik/"><img src="https://jysk.is/library/Images/products/P009224.jpg?proc=366x366" width="320"></a>
 
@@ -237,7 +237,7 @@ Updated 2026-11-19 16:50 UTC · 136 listings · 0 kr–50.000 kr per piece
 
 ---
 
-**6/10** · **19.990 kr** · 🆕
+**6/10** · **19.990 kr**
 
 <a href="https://jysk.is/stok-vara/LARVIK-bordstofustoll-stal-krem/"><img src="https://jysk.is/library/Images/products/P012348.jpg?proc=366x366" width="320"></a>
 
@@ -248,7 +248,7 @@ Updated 2026-11-19 16:50 UTC · 136 listings · 0 kr–50.000 kr per piece
 
 ---
 
-**6/10** · **19.990 kr** · 🆕
+**6/10** · **19.990 kr**
 
 <a href="https://jysk.is/stok-vara/BOVRUP-bordstofustoll-eik/"><img src="https://jysk.is/library/Images/products/P011493.jpg?proc=366x366" width="320"></a>
 
@@ -259,7 +259,7 @@ Updated 2026-11-19 16:50 UTC · 136 listings · 0 kr–50.000 kr per piece
 
 ---
 
-**6/10** · **26.990 kr** · 🆕
+**6/10** · **26.990 kr**
 
 <a href="https://jysk.is/stok-vara/LYKSBORG-stoll-eik-krem/"><img src="https://jysk.is/library/Images/products/P002394.jpg?proc=366x366" width="320"></a>
 
@@ -270,7 +270,7 @@ Updated 2026-11-19 16:50 UTC · 136 listings · 0 kr–50.000 kr per piece
 
 ---
 
-**6/10** · **26.990 kr** · 🆕
+**6/10** · **26.990 kr**
 
 <a href="https://jysk.is/stok-vara/LYKSBORG-stoll-dokk-eik-dokksandlitadur/"><img src="https://jysk.is/library/Images/products/P002304.jpg?proc=366x366" width="320"></a>
 
@@ -303,7 +303,7 @@ Updated 2026-11-19 16:50 UTC · 136 listings · 0 kr–50.000 kr per piece
 
 ---
 
-**6/10** · **37.900 kr** · 🆕
+**6/10** · **37.900 kr**
 
 <a href="https://www.ilva.is/stok-vara/?ProductName=SWAN-Bordstofustoll-taupe-lakkadir-eikarfaetur"><img src="https://www.ilva.is/library/Images/Products/V010454.jpg?proc=366x366" width="320"></a>
 
@@ -314,7 +314,7 @@ Updated 2026-11-19 16:50 UTC · 136 listings · 0 kr–50.000 kr per piece
 
 ---
 
-**6/10** · **37.900 kr** · 🆕
+**6/10** · **37.900 kr**
 
 <a href="https://www.ilva.is/stok-vara/?ProductName=RAVELLO-Bordstofustoll-taupe-mattlakkadir-eikarfaetur"><img src="https://www.ilva.is/library/Images/Products/V012540.jpg?proc=366x366" width="320"></a>
 
@@ -325,7 +325,7 @@ Updated 2026-11-19 16:50 UTC · 136 listings · 0 kr–50.000 kr per piece
 
 ---
 
-**6/10** · **39.900 kr** · 🆕
+**6/10** · **39.900 kr**
 
 <a href="https://www.ilva.is/stok-vara/?ProductName=VILO-Bordstofustoll-svart-ledurliki-med-gegnheilum-eikarfotum"><img src="https://www.ilva.is/library/Images/Products/V014200.jpg?proc=366x366" width="320"></a>
 
@@ -336,7 +336,7 @@ Updated 2026-11-19 16:50 UTC · 136 listings · 0 kr–50.000 kr per piece
 
 ---
 
-**6/10** · **39.900 kr** · 🆕
+**6/10** · **39.900 kr**
 
 <a href="https://www.ilva.is/stok-vara/?ProductName=ADLER-Bordstofustoll-koniaksbrunt-ledurliki-oliubornir-eikarfaetur"><img src="https://www.ilva.is/library/Images/Products/V010110.jpg?proc=366x366" width="320"></a>
 
@@ -347,7 +347,7 @@ Updated 2026-11-19 16:50 UTC · 136 listings · 0 kr–50.000 kr per piece
 
 ---
 
-**6/10** · **39.900 kr** · 🆕
+**6/10** · **39.900 kr**
 
 <a href="https://www.ilva.is/stok-vara/?ProductName=NORRLAND-Bordstofustoll-koniaksbrunt-ledurliki-oliubornir-eikarfaetur"><img src="https://www.ilva.is/library/Images/Products/V010052.jpg?proc=366x366" width="320"></a>
 
@@ -358,7 +358,7 @@ Updated 2026-11-19 16:50 UTC · 136 listings · 0 kr–50.000 kr per piece
 
 ---
 
-**6/10** · **39.900 kr** · 🆕
+**6/10** · **39.900 kr**
 
 <a href="https://www.ilva.is/stok-vara/?ProductName=VILO-Bordstofustoll-brunn-med-gegnheilum-eikarfotum"><img src="https://www.ilva.is/library/Images/Products/V014199.jpg?proc=366x366" width="320"></a>
 
@@ -391,7 +391,7 @@ Updated 2026-11-19 16:50 UTC · 136 listings · 0 kr–50.000 kr per piece
 
 ---
 
-**6/10** · **44.900 kr** · 🆕 · uppselt
+**6/10** · **44.900 kr** · uppselt
 
 <a href="https://www.ilva.is/stok-vara/?ProductName=NORRLAND-Bordstofustoll-flettad-svartlakkadir-eikarfaetur"><img src="https://www.ilva.is/library/Images/Products/V011118.jpg?proc=366x366" width="320"></a>
 
@@ -413,7 +413,7 @@ Updated 2026-11-19 16:50 UTC · 136 listings · 0 kr–50.000 kr per piece
 
 ---
 
-**6/10** · **49.900 kr** · 🆕
+**6/10** · **49.900 kr**
 
 <a href="https://www.ilva.is/stok-vara/?ProductName=LYSTRA-Bordstofustoll-graenn"><img src="https://www.ilva.is/library/Images/Products/V014108.jpg?proc=366x366" width="320"></a>
 
@@ -424,7 +424,7 @@ Updated 2026-11-19 16:50 UTC · 136 listings · 0 kr–50.000 kr per piece
 
 ---
 
-**5/10** · **11.990 kr** · 🆕
+**5/10** · **11.990 kr**
 
 <a href="https://jysk.is/stok-vara/PEBRINGE-bordstofustoll-velour-grar-eik/"><img src="https://jysk.is/library/Images/products/P002129.jpg?proc=366x366" width="320"></a>
 
@@ -435,7 +435,7 @@ Updated 2026-11-19 16:50 UTC · 136 listings · 0 kr–50.000 kr per piece
 
 ---
 
-**5/10** · **11.992 kr** · 🆕
+**5/10** · **11.992 kr**
 
 <a href="https://jysk.is/stok-vara/THORUP-bordstofustoll-beige-eikarlitadir-faetur/"><img src="https://jysk.is/library/Images/products/P009219.jpg?proc=366x366" width="320"></a>
 
@@ -446,7 +446,7 @@ Updated 2026-11-19 16:50 UTC · 136 listings · 0 kr–50.000 kr per piece
 
 ---
 
-**5/10** · **12.990 kr** · 🆕
+**5/10** · **12.990 kr**
 
 <a href="https://jysk.is/stok-vara/ADSLEV-bordstofustoll-olivugraenn-eikar-faetur/"><img src="https://jysk.is/library/Images/products/P007517.jpg?proc=366x366" width="320"></a>
 
@@ -457,7 +457,7 @@ Updated 2026-11-19 16:50 UTC · 136 listings · 0 kr–50.000 kr per piece
 
 ---
 
-**5/10** · **14.940 kr** · 🆕
+**5/10** · **14.940 kr**
 
 <a href="https://www.ilva.is/stok-vara/?ProductName=ALLY-Bordstofustoll-brunn-reyklitadir-eikarfaetur"><img src="https://www.ilva.is/library/Images/Products/V013329.jpg?proc=366x366" width="320"></a>
 
@@ -468,7 +468,18 @@ Updated 2026-11-19 16:50 UTC · 136 listings · 0 kr–50.000 kr per piece
 
 ---
 
-**5/10** · **15.992 kr** · 🆕
+**5/10** · **15.992 kr <sub>was 19.990 kr</sub>**
+
+<a href="https://husgagnahollin.is/vara/evander-bordstofustoll-munich-brunn/"><img src="https://husgagnahollin.is/wp-content/uploads/2026/11/Evander-bordstofustoll-Munich-brunn-MC3540441-1.webp" width="320"></a>
+
+[Evander borðstofustóll Munich brúnn](https://husgagnahollin.is/vara/evander-bordstofustoll-munich-brunn/)  
+<sub>Húsgagnahöllin</sub>
+
+<sub>The candidate chair is upholstered, which doesn't align with the preferred style of exposed wood frame and light fabric, but shares the curved back and similar overall silhouette.</sub>
+
+---
+
+**5/10** · **15.992 kr**
 
 <a href="https://jysk.is/stok-vara/SOTTRUP-bordstofustoll-beige-svartur/"><img src="https://jysk.is/library/Images/products/P011139.jpg?proc=366x366" width="320"></a>
 
@@ -501,7 +512,7 @@ Updated 2026-11-19 16:50 UTC · 136 listings · 0 kr–50.000 kr per piece
 
 ---
 
-**5/10** · **19.900 kr** · 🆕
+**5/10** · **19.900 kr**
 
 <a href="https://www.ilva.is/stok-vara/?ProductName=MAREK-Bordstofustoll-brunn-svartir-malmfaetur"><img src="https://www.ilva.is/library/Images/Products/V010434.jpg?proc=366x366" width="320"></a>
 
@@ -512,18 +523,7 @@ Updated 2026-11-19 16:50 UTC · 136 listings · 0 kr–50.000 kr per piece
 
 ---
 
-**5/10** · **19.990 kr** · 🆕
-
-<a href="https://husgagnahollin.is/vara/evander-bordstofustoll-munich-brunn/"><img src="https://husgagnahollin.is/wp-content/uploads/2026/11/Evander-bordstofustoll-Munich-brunn-MC3540441-1.webp" width="320"></a>
-
-[Evander borðstofustóll Munich brúnn](https://husgagnahollin.is/vara/evander-bordstofustoll-munich-brunn/)  
-<sub>Húsgagnahöllin</sub>
-
-<sub>The candidate chair is upholstered, which doesn't align with the preferred style of exposed wood frame and light fabric, but shares the curved back and similar overall silhouette.</sub>
-
----
-
-**5/10** · **19.990 kr** · 🆕
+**5/10** · **19.990 kr**
 
 <a href="https://jysk.is/stok-vara/BOVRUP-bordstofustoll-dokk-eik/"><img src="https://jysk.is/library/Images/products/P011494.jpg?proc=366x366" width="320"></a>
 
@@ -600,7 +600,7 @@ Updated 2026-11-19 16:50 UTC · 136 listings · 0 kr–50.000 kr per piece
 
 ---
 
-**5/10** · **39.900 kr** · 🆕
+**5/10** · **39.900 kr**
 
 <a href="https://www.ilva.is/stok-vara/?ProductName=BASTIA-Bordstofustoll-flettad-mattlakkadir-eikarfaetur"><img src="https://www.ilva.is/library/Images/Products/V009188.jpg?proc=366x366" width="320"></a>
 
@@ -611,7 +611,7 @@ Updated 2026-11-19 16:50 UTC · 136 listings · 0 kr–50.000 kr per piece
 
 ---
 
-**5/10** · **39.900 kr** · 🆕
+**5/10** · **39.900 kr**
 
 <a href="https://www.ilva.is/stok-vara/?ProductName=ADLER-Bordstofustoll-svart-ledurliki-svartir-vidarfaetur"><img src="https://www.ilva.is/library/Images/Products/V010114.jpg?proc=366x366" width="320"></a>
 
@@ -622,7 +622,7 @@ Updated 2026-11-19 16:50 UTC · 136 listings · 0 kr–50.000 kr per piece
 
 ---
 
-**5/10** · **39.900 kr** · 🆕
+**5/10** · **39.900 kr**
 
 <a href="https://www.ilva.is/stok-vara/?ProductName=NORRLAND-Bordstofustoll-svart-ledurliki-svartlakkadir-eikarfaetur"><img src="https://www.ilva.is/library/Images/Products/V007970.jpg?proc=366x366" width="320"></a>
 
@@ -633,7 +633,7 @@ Updated 2026-11-19 16:50 UTC · 136 listings · 0 kr–50.000 kr per piece
 
 ---
 
-**5/10** · **39.900 kr** · 🆕
+**5/10** · **39.900 kr**
 
 <a href="https://www.ilva.is/stok-vara/?ProductName=BASTIA-Bordstofustoll-flettad-svartlakkadir-beykifaetur"><img src="https://www.ilva.is/library/Images/Products/V011273.jpg?proc=366x366" width="320"></a>
 
