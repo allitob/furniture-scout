@@ -1,6 +1,6 @@
 # Dining tables
 
-Updated 2026-11-20 16:25 UTC · 96 listings · 5.000 kr–400.000 kr
+Updated 2026-11-21 15:39 UTC · 94 listings · 5.000 kr–400.000 kr
 
 [← all categories](../results.md)
 
@@ -413,18 +413,18 @@ Updated 2026-11-20 16:25 UTC · 96 listings · 5.000 kr–400.000 kr
 
 ---
 
-**4/10** · **12.000 kr** · 🆕
+**4/10** · **12.000 kr**
 
 <a href="https://bland.is/til-solu/heimilid/stofa/nylegt-eldhusbord-stolarnir-geta-fylgt-med/5305890/"><img src="https://img.bland.is/album/img/200870/m/20261118104139_0.jpg" width="320"></a>
 
 [Nýlegt eldhúsborð, stólarnir geta fylgt með](https://bland.is/til-solu/heimilid/stofa/nylegt-eldhusbord-stolarnir-geta-fylgt-med/5305890/)  
-<sub>Bland (notað) · 110/170 cm</sub>
+<sub>Bland (notað) · size?</sub>
 
 <sub>The candidate table has a light wood veneer top but features metal legs, which does not align with the mid-century Scandinavian wooden aesthetic sought.</sub>
 
 ---
 
-**4/10** · **12.000 kr** · 🆕
+**4/10** · **12.000 kr**
 
 <a href="https://bland.is/til-solu/heimilid/eldhus-og-badherbergi/nylegt-eldhusbord-stolarnir-geta-fylgt-med/5306410/"><img src="https://img.bland.is/album/img/200870/m/20261120093431_0.jpg" width="320"></a>
 
@@ -644,17 +644,6 @@ Updated 2026-11-20 16:25 UTC · 96 listings · 5.000 kr–400.000 kr
 
 ---
 
-**3/10** · **8.000 kr**
-
-<a href="https://bland.is/til-solu/heimilid/stofa/bord-fra-ikea/5303624/"><img src="https://img.bland.is/album/img/327635/m/20261110195409_0.jpg" width="320"></a>
-
-[Borð fra IKEa](https://bland.is/til-solu/heimilid/stofa/bord-fra-ikea/5303624/)  
-<sub>Bland (notað) · size?</sub>
-
-<sub>The table has a slim top with rounded edges and simple legs but lacks the warm wood tone and mid-century Scandinavian style, showing a more modern and darker aesthetic.</sub>
-
----
-
 **3/10** · **14.990 kr**
 
 <a href="https://jysk.is/stok-vara/AABENRAA-bord-80x120-cm-eik-svart-3/"><img src="https://jysk.is/library/Images/products/P002111.jpg?proc=366x366" width="320"></a>
@@ -663,5 +652,16 @@ Updated 2026-11-20 16:25 UTC · 96 listings · 5.000 kr–400.000 kr
 <sub>JYSK · 120/200/220 cm</sub>
 
 <sub>The candidate table has metal legs and a simple oak top, which contrasts with the warm wood and mid-century style seen in the references.</sub>
+
+---
+
+**3/10** · **20.000 kr <sub>was 30.000 kr</sub>**
+
+<a href="https://bland.is/til-solu/heimilid/stofa/bordstofubord-staekkanlegt-og-6-stolar/5303905/"><img src="https://img.bland.is/album/img/236690/m/20261111202740_0.jpg" width="320"></a>
+
+[Borðstofuborð stækkanlegt og 6 stólar](https://bland.is/til-solu/heimilid/stofa/bordstofubord-staekkanlegt-og-6-stolar/5303905/)  
+<sub>Bland (notað) · size?</sub>
+
+<sub>The table's blocky shape and thick legs do not match the slim, tapered design of mid-century Scandinavian style.</sub>
 
 ---

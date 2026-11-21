@@ -1,6 +1,6 @@
 # Dining chairs
 
-Updated 2026-11-20 16:25 UTC · 135 listings · 0 kr–50.000 kr per piece
+Updated 2026-11-21 15:39 UTC · 133 listings · 0 kr–50.000 kr per piece
 
 [← all categories](../results.md)
 
@@ -589,17 +589,6 @@ Updated 2026-11-20 16:25 UTC · 135 listings · 0 kr–50.000 kr per piece
 
 ---
 
-**5/10** · **37.900 kr**
-
-<a href="https://modern.is/shop/husgogn/stolar/bordstofustolar/aava-stoll/"><img src="https://modern.is/wp-content/uploads/2020/08/Arper-Aava4leg-300x300.jpg" width="320"></a>
-
-[Aava stóll](https://modern.is/shop/husgogn/stolar/bordstofustolar/aava-stoll/)  
-<sub>Módern</sub>
-
-<sub>The candidate chair has a Scandinavian style but features plastic seat shells and metal legs, which don't align with the mid-century wood-only aesthetic and upholstered seat preference.</sub>
-
----
-
 **5/10** · **39.900 kr**
 
 <a href="https://www.ilva.is/stok-vara/?ProductName=BASTIA-Bordstofustoll-flettad-mattlakkadir-eikarfaetur"><img src="https://www.ilva.is/library/Images/Products/V009188.jpg?proc=366x366" width="320"></a>
@@ -663,5 +652,16 @@ Updated 2026-11-20 16:25 UTC · 135 listings · 0 kr–50.000 kr per piece
 <sub>Húsgagnahöllin</sub>
 
 <sub>The chair has a curved backrest and upholstered seat, but the use of metal legs and a different design language diverges from the fully wood frame aesthetic of mid-century Scandinavian style.</sub>
+
+---
+
+**4/10** · **3.000 kr**
+
+<a href="https://bland.is/til-solu/heimilid/antik/10-stki-casco-stolar-3000kr-stki/5306129/"><img src="https://img.bland.is/album/img/341046/m/20261119135526_0.jpg" width="320"></a>
+
+[10 Stki Casco stolar 3000kr Stki](https://bland.is/til-solu/heimilid/antik/10-stki-casco-stolar-3000kr-stki/5306129/)  
+<sub>Bland (notað)</sub>
+
+<sub>The chair has a wooden frame but uses metal legs and cane seating, deviating from the mid-century Scandinavian aesthetic.</sub>
 
 ---

@@ -1,6 +1,6 @@
 # Sofas
 
-Updated 2026-11-20 16:25 UTC · 408 listings · 0 kr–400.000 kr
+Updated 2026-11-21 15:39 UTC · 407 listings · 0 kr–400.000 kr
 
 [← all categories](../results.md)
 
@@ -113,6 +113,17 @@ Updated 2026-11-20 16:25 UTC · 408 listings · 0 kr–400.000 kr
 <sub>ILVA</sub>
 
 <sub>The sofa's light cream color, simple lines, and soft fabric align well with the target aesthetic, although the visible legs slightly differ.</sub>
+
+---
+
+**8/10** · **189.800 kr**
+
+<a href="https://www.ilva.is/stok-vara/?ProductName=AIMEE-Tungusofi-vinstri-off-white-1"><img src="https://www.ilva.is/library/Images/Products/V009686.png?proc=366x366" width="320"></a>
+
+[AIMEE Tungusófi vinstri off white](https://www.ilva.is/stok-vara/?ProductName=AIMEE-Tungusofi-vinstri-off-white-1)  
+<sub>ILVA</sub>
+
+<sub>The sofa has an off-white color, soft fabric, clean lines, hidden legs, and fits the L-shaped design preference.</sub>
 
 ---
 
@@ -281,6 +292,17 @@ Updated 2026-11-20 16:25 UTC · 408 listings · 0 kr–400.000 kr
 
 ---
 
+**8/10** · **384.900 kr**
+
+<a href="https://modern.is/shop/husgogn/sofar-og-legubekkir/beinir-sofar/bib-sofi/"><img src="https://modern.is/wp-content/uploads/2025/08/Photoroom_20250819_014254-2-300x300.png" width="320"></a>
+
+[Bib sófi](https://modern.is/shop/husgogn/sofar-og-legubekkir/beinir-sofar/bib-sofi/)  
+<sub>Módern</sub>
+
+<sub>The candidate sofa has a similar off-white woven fabric, with soft rounded arms and clean simple lines, matching the desired aesthetic.</sub>
+
+---
+
 **8/10** · **399.992 kr**
 
 <a href="https://husgagnahollin.is/vara/vesta-hornsofi-haegri-mito-beige/"><img src="https://husgagnahollin.is/wp-content/uploads/2026/05/49682799079299151562-Vesta-hornsofi-haegri-Mito-beige-1.webp" width="320"></a>
@@ -289,6 +311,17 @@ Updated 2026-11-20 16:25 UTC · 408 listings · 0 kr–400.000 kr
 <sub>Húsgagnahöllin</sub>
 
 <sub>The sofa matches the color and material preferences and has clean lines and a relaxed look, although slightly more minimalistic than the references.</sub>
+
+---
+
+**7/10** · **30.000 kr** · 🆕
+
+<a href="https://bland.is/til-solu/heimilid/stofa/2ja-og-3ja-saeta-sofar/5306602/"><img src="https://img.bland.is/album/img/365474/m/20261120212919_0.jpg" width="320"></a>
+
+[2ja og 3ja sæta sófar](https://bland.is/til-solu/heimilid/stofa/2ja-og-3ja-saeta-sofar/5306602/)  
+<sub>Bland (notað)</sub>
+
+<sub>The sofa has a light color and simple design, with soft cushions and rounded arms. However, it is not L-shaped and appears slightly more structured than the references.</sub>
 
 ---
 
@@ -402,25 +435,14 @@ Updated 2026-11-20 16:25 UTC · 408 listings · 0 kr–400.000 kr
 
 ---
 
-**7/10** · **189.800 kr** · 🆕
+**7/10** · **189.800 kr**
 
-<a href="https://www.ilva.is/stok-vara/?ProductName=AIMEE-Tungusofi-haegri-off-white"><img src="https://www.ilva.is/library/Images/Products/V009685.png?proc=366x366" width="320"></a>
+<a href="https://www.ilva.is/stok-vara/?ProductName=AIMEE-Tungusofi-haegri-off-white-1"><img src="https://www.ilva.is/library/Images/Products/V009685.png?proc=366x366" width="320"></a>
 
-[AIMEE Tungusófi hægri off white](https://www.ilva.is/stok-vara/?ProductName=AIMEE-Tungusofi-haegri-off-white)  
+[AIMEE Tungusófi hægri off white](https://www.ilva.is/stok-vara/?ProductName=AIMEE-Tungusofi-haegri-off-white-1)  
 <sub>ILVA</sub>
 
-<sub>The sofa matches the color and fabric criteria, with clean lines and a low profile, but the lack of plush back cushions reduces the match score.</sub>
-
----
-
-**7/10** · **189.800 kr** · 🆕
-
-<a href="https://www.ilva.is/stok-vara/?ProductName=AIMEE-Tungusofi-vinstri-off-white"><img src="https://www.ilva.is/library/Images/Products/V009686.png?proc=366x366" width="320"></a>
-
-[AIMEE Tungusófi vinstri off white](https://www.ilva.is/stok-vara/?ProductName=AIMEE-Tungusofi-vinstri-off-white)  
-<sub>ILVA</sub>
-
-<sub>The sofa has an off-white color and woven fabric that fits the aesthetic, but the design is more minimalist and lacks the plush, relaxed look of the references.</sub>
+<sub>The candidate sofa has a light cream color and soft woven appearance with clean simple lines, matching the target aesthetic, though it lacks the plushness and visible wooden legs of the references.</sub>
 
 ---
 
@@ -641,27 +663,5 @@ Updated 2026-11-20 16:25 UTC · 408 listings · 0 kr–400.000 kr
 <sub>Bland (notað)</sub>
 
 <sub>The candidate sofa has a simple design with soft rounded arms and loose back cushions, but the darker color and more structured appearance diverge from the target aesthetic.</sub>
-
----
-
-**6/10** · **25.000 kr**
-
-<a href="https://bland.is/til-solu/heimilid/stofa/sofabed-150x230cm-/5305997/"><img src="https://img.bland.is/album/img/427317/m/20261116145741_0.jpg" width="320"></a>
-
-[Sofabed 150x230cm .](https://bland.is/til-solu/heimilid/stofa/sofabed-150x230cm-/5305997/)  
-<sub>Bland (notað)</sub>
-
-<sub>The sofa has simple lines, is an L-shaped corner, and has short, likely wooden legs, but the color is darker than desired and lacks the plushness of the reference.</sub>
-
----
-
-**6/10** · **32.000 kr**
-
-<a href="https://bland.is/til-solu/heimilid/stofa/sofa-220x260cm/5305594/"><img src="https://img.bland.is/album/img/434301/m/20261117115747_0.jpg" width="320"></a>
-
-[Sofa 220x260cm](https://bland.is/til-solu/heimilid/stofa/sofa-220x260cm/5305594/)  
-<sub>Bland (notað)</sub>
-
-<sub>The sofa has a woven fabric but lacks the light cream color, has structured back cushions and visible, bulkier legs.</sub>
 
 ---
