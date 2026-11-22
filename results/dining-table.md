@@ -1,6 +1,6 @@
 # Dining tables
 
-Updated 2026-11-21 15:39 UTC · 94 listings · 5.000 kr–400.000 kr
+Updated 2026-11-22 15:42 UTC · 93 listings · 5.000 kr–400.000 kr
 
 [← all categories](../results.md)
 
@@ -347,6 +347,17 @@ Updated 2026-11-21 15:39 UTC · 94 listings · 5.000 kr–400.000 kr
 
 ---
 
+**5/10** · **5.000 kr** · 🆕
+
+<a href="https://bland.is/til-solu/heimilid/stofa/staekkanlegt-bord-i-eikarlit-175261-cm/5307077/"><img src="https://img.bland.is/album/img/138599/m/20261122135137_0.jpg" width="320"></a>
+
+[Stækkanlegt borð í eikarlit, 175261 cm](https://bland.is/til-solu/heimilid/stofa/staekkanlegt-bord-i-eikarlit-175261-cm/5307077/)  
+<sub>Bland (notað) · 175 cm</sub>
+
+<sub>The table is made of warm wood and has a simple design but lacks the tapered legs and rounded edges typical of mid-century Scandinavian style.</sub>
+
+---
+
 **5/10** · **18.990 kr**
 
 <a href="https://jysk.is/stok-vara/ALLING-bordstofubord-80x100-163-cm-eikarlitad/"><img src="https://jysk.is/library/Images/products/P009218.jpg?proc=366x366" width="320"></a>
@@ -410,39 +421,6 @@ Updated 2026-11-21 15:39 UTC · 94 listings · 5.000 kr–400.000 kr
 <sub>ILVA · 142/182 cm</sub>
 
 <sub>The table has a slim top with softly rounded edges and a simple wooden pedestal, but the wood tone is lighter than the warm woods usually seen in mid-century aesthetics.</sub>
-
----
-
-**4/10** · **12.000 kr**
-
-<a href="https://bland.is/til-solu/heimilid/stofa/nylegt-eldhusbord-stolarnir-geta-fylgt-med/5305890/"><img src="https://img.bland.is/album/img/200870/m/20261118104139_0.jpg" width="320"></a>
-
-[Nýlegt eldhúsborð, stólarnir geta fylgt með](https://bland.is/til-solu/heimilid/stofa/nylegt-eldhusbord-stolarnir-geta-fylgt-med/5305890/)  
-<sub>Bland (notað) · size?</sub>
-
-<sub>The candidate table has a light wood veneer top but features metal legs, which does not align with the mid-century Scandinavian wooden aesthetic sought.</sub>
-
----
-
-**4/10** · **12.000 kr**
-
-<a href="https://bland.is/til-solu/heimilid/eldhus-og-badherbergi/nylegt-eldhusbord-stolarnir-geta-fylgt-med/5306410/"><img src="https://img.bland.is/album/img/200870/m/20261120093431_0.jpg" width="320"></a>
-
-[Nýlegt eldhúsborð, stólarnir geta fylgt með](https://bland.is/til-solu/heimilid/eldhus-og-badherbergi/nylegt-eldhusbord-stolarnir-geta-fylgt-med/5306410/)  
-<sub>Bland (notað) · size?</sub>
-
-<sub>The table has a minimalistic design with a wooden top but features metal legs, which do not fit the mid-century Scandinavian style.</sub>
-
----
-
-**4/10** · **25.000 kr**
-
-<a href="https://bland.is/til-solu/heimilid/stofa/bordstofubord/5303861/"><img src="https://img.bland.is/album/img/129648/m/20261111173832_0.jpg" width="320"></a>
-
-[Borðstofuborð](https://bland.is/til-solu/heimilid/stofa/bordstofubord/5303861/)  
-<sub>Bland (notað) · size?</sub>
-
-<sub>The candidate table's design is minimalist with tapered legs, but the black color and overall finish diverge from the warm wood tone of the target mid-century Scandinavian aesthetic.</sub>
 
 ---
 
@@ -644,6 +622,17 @@ Updated 2026-11-21 15:39 UTC · 94 listings · 5.000 kr–400.000 kr
 
 ---
 
+**3/10** · **5.000 kr** · 🆕
+
+<a href="https://bland.is/til-solu/heimilid/stofa/litid-bordstofubord-110-x-60-x-75/5304584/"><img src="https://img.bland.is/album/img/377244/m/20261114115558_0.jpg" width="320"></a>
+
+[lítið borðstofuborð 110 x 60 x 75](https://bland.is/til-solu/heimilid/stofa/litid-bordstofubord-110-x-60-x-75/5304584/)  
+<sub>Bland (notað) · 110/170 cm</sub>
+
+<sub>The table is rustic with reclaimed wood and a flat pedestal base, which deviates from the sleek Scandinavian mid-century style desired.</sub>
+
+---
+
 **3/10** · **14.990 kr**
 
 <a href="https://jysk.is/stok-vara/AABENRAA-bord-80x120-cm-eik-svart-3/"><img src="https://jysk.is/library/Images/products/P002111.jpg?proc=366x366" width="320"></a>
@@ -655,13 +644,24 @@ Updated 2026-11-21 15:39 UTC · 94 listings · 5.000 kr–400.000 kr
 
 ---
 
-**3/10** · **20.000 kr <sub>was 30.000 kr</sub>**
+**3/10** · **20.000 kr <sub>was 50.000 kr</sub>**
 
-<a href="https://bland.is/til-solu/heimilid/stofa/bordstofubord-staekkanlegt-og-6-stolar/5303905/"><img src="https://img.bland.is/album/img/236690/m/20261111202740_0.jpg" width="320"></a>
+<a href="https://bland.is/til-solu/heimilid/stofa/staekkankegt-bordstofubord-140x140-2x-20cm-staekkun/5304393/"><img src="https://img.bland.is/album/img/287596/m/20261113165603_0.jpg" width="320"></a>
 
-[Borðstofuborð stækkanlegt og 6 stólar](https://bland.is/til-solu/heimilid/stofa/bordstofubord-staekkanlegt-og-6-stolar/5303905/)  
-<sub>Bland (notað) · size?</sub>
+[Stækkankegt Borðstofuborð 140x140 2x 20cm stækkun](https://bland.is/til-solu/heimilid/stofa/staekkankegt-bordstofubord-140x140-2x-20cm-staekkun/5304393/)  
+<sub>Bland (notað) · 140/180 cm</sub>
 
-<sub>The table's blocky shape and thick legs do not match the slim, tapered design of mid-century Scandinavian style.</sub>
+<sub>The table has a thick top, sharp edges, and blocky legs, which do not align with the mid-century Scandinavian style characterized by slim tops, rounded edges, and tapered legs.</sub>
+
+---
+
+**3/10** · **24.990 kr**
+
+<a href="https://jysk.is/stok-vara/JUNGEN-bordstofubord-80x80-160-cm-ljos-eik/"><img src="https://jysk.is/library/Images/products/P011136.jpg?proc=366x366" width="320"></a>
+
+[BLACK FRIDAY 29% JUNGEN borðstofuborð 80x80/160 cm ljós eik](https://jysk.is/stok-vara/JUNGEN-bordstofubord-80x80-160-cm-ljos-eik/)  
+<sub>JYSK · 80/200/220 cm</sub>
+
+<sub>The table's blocky design and light wood tone do not align with the mid-century, tapered style of the references.</sub>
 
 ---

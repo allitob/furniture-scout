@@ -1,6 +1,6 @@
 # Dining chairs
 
-Updated 2026-11-21 15:39 UTC · 133 listings · 0 kr–50.000 kr per piece
+Updated 2026-11-22 15:42 UTC · 132 listings · 0 kr–50.000 kr per piece
 
 [← all categories](../results.md)
 
@@ -402,17 +402,6 @@ Updated 2026-11-21 15:39 UTC · 133 listings · 0 kr–50.000 kr per piece
 
 ---
 
-**6/10** · **45.000 kr**
-
-<a href="https://bland.is/til-solu/heimilid/stofa/4-lynghol-bordstofustolar/5303678/"><img src="https://img.bland.is/album/img/236011/m/20261110232046_0.jpg" width="320"></a>
-
-[4 lynghol borðstofustólar](https://bland.is/til-solu/heimilid/stofa/4-lynghol-bordstofustolar/5303678/)  
-<sub>Bland (notað)</sub>
-
-<sub>The chair has a wood frame with tapered legs and a simple backrest but the seat material and color differ from the target design.</sub>
-
----
-
 **6/10** · **49.900 kr**
 
 <a href="https://www.ilva.is/stok-vara/?ProductName=LYSTRA-Bordstofustoll-graenn"><img src="https://www.ilva.is/library/Images/Products/V014108.jpg?proc=366x366" width="320"></a>
@@ -586,6 +575,17 @@ Updated 2026-11-21 15:39 UTC · 133 listings · 0 kr–50.000 kr per piece
 <sub>Húsgagnahöllin</sub>
 
 <sub>The chair has a mid-century design with a wood frame and tapered legs, but the black color and backrest style deviate from the desired aesthetic.</sub>
+
+---
+
+**5/10** · **37.900 kr**
+
+<a href="https://modern.is/shop/husgogn/stolar/bordstofustolar/aava-stoll/"><img src="https://modern.is/wp-content/uploads/2020/08/Arper-Aava4leg-300x300.jpg" width="320"></a>
+
+[Aava stóll](https://modern.is/shop/husgogn/stolar/bordstofustolar/aava-stoll/)  
+<sub>Módern</sub>
+
+<sub>The candidate chair has a Scandinavian style but features plastic seat shells and metal legs, which don't align with the mid-century wood-only aesthetic and upholstered seat preference.</sub>
 
 ---
 

@@ -1,6 +1,6 @@
 # Sofas
 
-Updated 2026-11-21 15:39 UTC · 407 listings · 0 kr–400.000 kr
+Updated 2026-11-22 15:42 UTC · 403 listings · 0 kr–400.000 kr
 
 [← all categories](../results.md)
 
@@ -314,7 +314,7 @@ Updated 2026-11-21 15:39 UTC · 407 listings · 0 kr–400.000 kr
 
 ---
 
-**7/10** · **30.000 kr** · 🆕
+**7/10** · **30.000 kr**
 
 <a href="https://bland.is/til-solu/heimilid/stofa/2ja-og-3ja-saeta-sofar/5306602/"><img src="https://img.bland.is/album/img/365474/m/20261120212919_0.jpg" width="320"></a>
 
