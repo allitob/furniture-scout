@@ -1,6 +1,6 @@
 # Dining chairs
 
-Updated 2026-11-22 15:42 UTC · 132 listings · 0 kr–50.000 kr per piece
+Updated 2026-11-23 19:30 UTC · 133 listings · 0 kr–50.000 kr per piece
 
 [← all categories](../results.md)
 
@@ -28,7 +28,7 @@ Updated 2026-11-22 15:42 UTC · 132 listings · 0 kr–50.000 kr per piece
 
 ---
 
-**8/10** · **12.990 kr**
+**8/10** · **12.990 kr** · uppselt
 
 <a href="https://jysk.is/stok-vara/EJSING-bordstofustoll-beige-dokk-eik/"><img src="https://jysk.is/library/Images/products/P012993.jpg?proc=366x366" width="320"></a>
 
