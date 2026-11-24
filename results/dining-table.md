@@ -1,6 +1,6 @@
 # Dining tables
 
-Updated 2026-11-23 19:30 UTC · 90 listings · 5.000 kr–400.000 kr
+Updated 2026-11-24 19:12 UTC · 89 listings · 5.000 kr–400.000 kr
 
 [← all categories](../results.md)
 
@@ -424,7 +424,7 @@ Updated 2026-11-23 19:30 UTC · 90 listings · 5.000 kr–400.000 kr
 
 ---
 
-**4/10** · **60.000 kr** · 🆕
+**4/10** · **60.000 kr**
 
 <a href="https://bland.is/til-solu/heimilid/stofa/hay-bord-120-cm-i-thvermal/5307218/"><img src="https://img.bland.is/album/img/299151/m/20261122184903_0.jpg" width="320"></a>
 
@@ -468,6 +468,17 @@ Updated 2026-11-23 19:30 UTC · 90 listings · 5.000 kr–400.000 kr
 
 ---
 
+**4/10** · **101.994 kr <sub>was 127.493 kr</sub>**
+
+<a href="https://husgagnahollin.is/vara/dinex-eldhusbord-90x140-hvitoliuborin-eik/"><img src="https://husgagnahollin.is/wp-content/uploads/2019/08/Dinex-eldhusbord-90x140-hvitoliuborin-eik.jpg" width="320"></a>
+
+[Dinex eldhúsborð 90×140 hvítolíuborin eik](https://husgagnahollin.is/vara/dinex-eldhusbord-90x140-hvitoliuborin-eik/)  
+<sub>Húsgagnahöllin · 140 cm</sub>
+
+<sub>The table is made of oiled oak which aligns with the material requirement, but its straight legs, boxy top, and lack of soft curves diverge from the mid-century Scandinavian aesthetic.</sub>
+
+---
+
 **4/10** · **112.493 kr <sub>was 119.992 kr</sub>**
 
 <a href="https://husgagnahollin.is/vara/nola-bordstofubord-95x180-oval-svort-eik/"><img src="https://husgagnahollin.is/wp-content/uploads/2023/09/Nola-bordstofubord-95x180-oval-svort-eik-48304640-1.jpg" width="320"></a>
@@ -498,17 +509,6 @@ Updated 2026-11-23 19:30 UTC · 90 listings · 5.000 kr–400.000 kr
 <sub>Húsgagnahöllin · size?</sub>
 
 <sub>The table has a marble top and a dark wood base, contrasting with the target warm wood and slim top style.</sub>
-
----
-
-**4/10** · **127.493 kr <sub>was 135.992 kr</sub>**
-
-<a href="https://husgagnahollin.is/vara/dinex-eldhusbord-90x140-hvitoliuborin-eik/"><img src="https://husgagnahollin.is/wp-content/uploads/2019/08/Dinex-eldhusbord-90x140-hvitoliuborin-eik.jpg" width="320"></a>
-
-[Dinex eldhúsborð 90×140 hvítolíuborin eik](https://husgagnahollin.is/vara/dinex-eldhusbord-90x140-hvitoliuborin-eik/)  
-<sub>Húsgagnahöllin · 140 cm</sub>
-
-<sub>The table is made of oiled oak which aligns with the material requirement, but its straight legs, boxy top, and lack of soft curves diverge from the mid-century Scandinavian aesthetic.</sub>
 
 ---
 
@@ -655,13 +655,13 @@ Updated 2026-11-23 19:30 UTC · 90 listings · 5.000 kr–400.000 kr
 
 ---
 
-**3/10** · **55.000 kr**
+**3/10** · **55.000 kr** · 🆕
 
-<a href="https://bland.is/til-solu/heimilid/eldhus-og-badherbergi/italskt-bordstofubord/5292343/"><img src="https://img.bland.is/album/img/219922/m/20261004103151_0.jpg" width="320"></a>
+<a href="https://bland.is/til-solu/heimilid/eldhus-og-badherbergi/italskt-bordstofubord/5307771/"><img src="https://img.bland.is/album/img/219922/m/20261124190327_0.jpg" width="320"></a>
 
-[Italskt borðstofuborð](https://bland.is/til-solu/heimilid/eldhus-og-badherbergi/italskt-bordstofubord/5292343/)  
+[Italskt borðstofuborð](https://bland.is/til-solu/heimilid/eldhus-og-badherbergi/italskt-bordstofubord/5307771/)  
 <sub>Bland (notað) · 184/228 cm</sub>
 
-<sub>The dark, glossy finish and pedestal base contrast with the matte, mid-century Scandinavian style sought.</sub>
+<sub>The table features a high gloss finish and traditional design, contrasting with the mid-century, matte aesthetic of the references.</sub>
 
 ---

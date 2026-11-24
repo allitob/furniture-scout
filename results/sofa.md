@@ -1,6 +1,6 @@
 # Sofas
 
-Updated 2026-11-23 19:30 UTC · 398 listings · 0 kr–400.000 kr
+Updated 2026-11-24 19:12 UTC · 394 listings · 0 kr–400.000 kr
 
 [← all categories](../results.md)
 
@@ -138,7 +138,7 @@ Updated 2026-11-23 19:30 UTC · 398 listings · 0 kr–400.000 kr
 
 ---
 
-**8/10** · **239.990 kr**
+**8/10** · **239.990 kr** · uppselt
 
 <a href="https://jysk.is/stok-vara/SKIBBY-hornsofi-m-opnum-enda-sand/"><img src="https://jysk.is/library/Images/products/P013098.jpg?proc=366x366" width="320"></a>
 
@@ -402,7 +402,7 @@ Updated 2026-11-23 19:30 UTC · 398 listings · 0 kr–400.000 kr
 
 ---
 
-**7/10** · **179.990 kr**
+**7/10** · **179.990 kr** · uppselt
 
 <a href="https://jysk.is/stok-vara/SKIBBY-tungusofi-haegri-sand/"><img src="https://jysk.is/library/Images/products/P013095.jpg?proc=366x366" width="320"></a>
 
@@ -446,7 +446,7 @@ Updated 2026-11-23 19:30 UTC · 398 listings · 0 kr–400.000 kr
 
 ---
 
-**7/10** · **249.990 kr**
+**7/10** · **249.990 kr** · uppselt
 
 <a href="https://jysk.is/stok-vara/SKIBBY-hornsofi-sand/"><img src="https://jysk.is/library/Images/products/P013097.jpg?proc=366x366" width="320"></a>
 
@@ -622,7 +622,7 @@ Updated 2026-11-23 19:30 UTC · 398 listings · 0 kr–400.000 kr
 
 ---
 
-**6/10** · **12.000 kr** · 🆕
+**6/10** · **12.000 kr**
 
 <a href="https://bland.is/til-solu/heimilid/stofa/2ja-og-3ja-saeta-sofi/5307459/"><img src="https://img.bland.is/album/img/365474/m/20261123181803_0.jpg" width="320"></a>
 

@@ -1,10 +1,10 @@
 # Furniture matches
 
-Updated 2026-11-23 19:30 UTC. Sorted by style match (gpt-4o).
+Updated 2026-11-24 19:12 UTC. Sorted by style match (gpt-4o).
 
 ## [Dining tables →](results/dining-table.md)
 
-90 in budget (5.000 kr–400.000 kr) · 2 new today
+89 in budget (5.000 kr–400.000 kr) · 1 new today
 
 Top: **9/10** [Skovby - borðstofuborð/stækkanlegt  SM 111 - sérpöntun](https://snuran.is/products/skovby-bordstofubord-staekkanlegt-sm-112-serpontun-copy) — 218.249 kr <sub>was 242.499 kr</sub>
 
@@ -16,27 +16,27 @@ Top: **9/10** [BLACK FRIDAY 24% VINSÆL EJSING borðstofustóll beige/eik](https
 
 ## [Sofas →](results/sofa.md)
 
-398 in budget (0 kr–400.000 kr) · 7 new today
+394 in budget (0 kr–400.000 kr) · 6 new today
 
 Top: **9/10** [BLACK FRIDAY 22% VINSÆL LYBY tungusófi sand](https://jysk.is/stok-vara/LYBY-tungusofi-sand/) — 199.890 kr
 
 <details><summary>Source status</summary>
 
-- Epal: 9605
+- Epal: 9600
 - Snúran: 769
-- Bland: 611
-- Húsgagnahöllin [dining-table]: 106
+- Bland: 613
+- Húsgagnahöllin [dining-table]: 105
 - Módern [dining-table]: 46
-- Línan [dining-table]: 34
+- Línan [dining-table]: 36
 - ILVA [dining-table]: 89
 - JYSK [dining-table]: 62
 - Húsgagnahöllin [dining-chair]: 67
-- Módern [dining-chair]: 73
+- Módern [dining-chair]: 72
 - Línan [dining-chair]: 33
 - ILVA [dining-chair]: 79
 - JYSK [dining-chair]: 120
-- Húsgagnahöllin [sofa]: 169
-- Módern [sofa]: 111
+- Húsgagnahöllin [sofa]: 172
+- Módern [sofa]: 107
 - Línan [sofa]: 36
 - ILVA [sofa]: 160
 - JYSK [sofa]: 132
