@@ -1,6 +1,6 @@
 # Dining tables
 
-Updated 2026-11-24 19:12 UTC · 89 listings · 5.000 kr–400.000 kr
+Updated 2026-11-25 18:12 UTC · 90 listings · 5.000 kr–400.000 kr
 
 [← all categories](../results.md)
 
@@ -655,7 +655,7 @@ Updated 2026-11-24 19:12 UTC · 89 listings · 5.000 kr–400.000 kr
 
 ---
 
-**3/10** · **55.000 kr** · 🆕
+**3/10** · **55.000 kr**
 
 <a href="https://bland.is/til-solu/heimilid/eldhus-og-badherbergi/italskt-bordstofubord/5307771/"><img src="https://img.bland.is/album/img/219922/m/20261124190327_0.jpg" width="320"></a>
 

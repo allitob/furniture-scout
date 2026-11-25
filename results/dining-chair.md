@@ -1,6 +1,6 @@
 # Dining chairs
 
-Updated 2026-11-24 19:12 UTC · 133 listings · 0 kr–50.000 kr per piece
+Updated 2026-11-25 18:12 UTC · 136 listings · 0 kr–50.000 kr per piece
 
 [← all categories](../results.md)
 
@@ -413,6 +413,17 @@ Updated 2026-11-24 19:12 UTC · 133 listings · 0 kr–50.000 kr per piece
 
 ---
 
+**5/10** · **20.000 kr <sub>6 stk · 3.333 kr/stk</sub>** · 🆕
+
+<a href="https://bland.is/til-solu/heimilid/stofa/6-bordstofustolar-til-solu/5307815/"><img src="https://img.bland.is/album/img/292205/m/20261124213421_0.jpg" width="320"></a>
+
+[6 borðstofustólar til sölu](https://bland.is/til-solu/heimilid/stofa/6-bordstofustolar-til-solu/5307815/)  
+<sub>Bland (notað)</sub>
+
+<sub>The chair has wood elements and cream upholstery but lacks the rounded back and tapered legs of mid-century Scandinavian style.</sub>
+
+---
+
 **5/10** · **11.990 kr**
 
 <a href="https://jysk.is/stok-vara/PEBRINGE-bordstofustoll-velour-grar-eik/"><img src="https://jysk.is/library/Images/products/P002129.jpg?proc=366x366" width="320"></a>
@@ -652,16 +663,5 @@ Updated 2026-11-24 19:12 UTC · 133 listings · 0 kr–50.000 kr per piece
 <sub>Húsgagnahöllin</sub>
 
 <sub>The chair has a curved backrest and upholstered seat, but the use of metal legs and a different design language diverges from the fully wood frame aesthetic of mid-century Scandinavian style.</sub>
-
----
-
-**4/10** · **3.000 kr**
-
-<a href="https://bland.is/til-solu/heimilid/antik/10-stki-casco-stolar-3000kr-stki/5306129/"><img src="https://img.bland.is/album/img/341046/m/20261119135526_0.jpg" width="320"></a>
-
-[10 Stki Casco stolar 3000kr Stki](https://bland.is/til-solu/heimilid/antik/10-stki-casco-stolar-3000kr-stki/5306129/)  
-<sub>Bland (notað)</sub>
-
-<sub>The chair has a wooden frame but uses metal legs and cane seating, deviating from the mid-century Scandinavian aesthetic.</sub>
 
 ---

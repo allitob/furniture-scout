@@ -1,6 +1,6 @@
 # Sofas
 
-Updated 2026-11-24 19:12 UTC · 394 listings · 0 kr–400.000 kr
+Updated 2026-11-25 18:12 UTC · 392 listings · 0 kr–400.000 kr
 
 [← all categories](../results.md)
 
@@ -47,17 +47,6 @@ Updated 2026-11-24 19:12 UTC · 394 listings · 0 kr–400.000 kr
 <sub>Húsgagnahöllin</sub>
 
 <sub>Matches the aesthetic with its light color, soft fabric, rounded arms, and low, generous proportions.</sub>
-
----
-
-**9/10** · **269.993 kr <sub>was 287.992 kr</sub>**
-
-<a href="https://husgagnahollin.is/vara/dean-tungusofi-cremona-14-beige/"><img src="https://husgagnahollin.is/wp-content/uploads/2026/01/HA0010185-Dean-tungusofi-Cremona-14-1.webp" width="320"></a>
-
-[Dean tungusófi Cremona 14 beige](https://husgagnahollin.is/vara/dean-tungusofi-cremona-14-beige/)  
-<sub>Húsgagnahöllin</sub>
-
-<sub>The candidate sofa has a light warm greige tone, soft fabric, and plush loose back cushions fitting the desired aesthetic.</sub>
 
 ---
 
@@ -281,17 +270,6 @@ Updated 2026-11-24 19:12 UTC · 394 listings · 0 kr–400.000 kr
 
 ---
 
-**8/10** · **384.900 kr**
-
-<a href="https://modern.is/shop/husgogn/sofar-og-legubekkir/beinir-sofar/bib-sofi/"><img src="https://modern.is/wp-content/uploads/2025/08/Photoroom_20250819_014254-2-300x300.png" width="320"></a>
-
-[Bib sófi](https://modern.is/shop/husgogn/sofar-og-legubekkir/beinir-sofar/bib-sofi/)  
-<sub>Módern</sub>
-
-<sub>The candidate sofa has a similar off-white woven fabric, with soft rounded arms and clean simple lines, matching the desired aesthetic.</sub>
-
----
-
 **8/10** · **399.992 kr**
 
 <a href="https://husgagnahollin.is/vara/vesta-hornsofi-haegri-mito-beige/"><img src="https://husgagnahollin.is/wp-content/uploads/2026/05/49682799079299151562-Vesta-hornsofi-haegri-Mito-beige-1.webp" width="320"></a>
@@ -333,17 +311,6 @@ Updated 2026-11-24 19:12 UTC · 394 listings · 0 kr–400.000 kr
 <sub>ILVA</sub>
 
 <sub>The fabric and color are consistent with the target aesthetic, but the sofa lacks visible plush cushions and has a more structured design with no soft, rounded arms.</sub>
-
----
-
-**7/10** · **150.000 kr**
-
-<a href="https://bland.is/til-solu/heimilid/stofa/sofi-ur-tekk-eins-og-nyr/5305937/"><img src="https://img.bland.is/album/img/38204/m/20261118131905_0.jpg" width="320"></a>
-
-[Sófi úr Tekk - eins og nýr](https://bland.is/til-solu/heimilid/stofa/sofi-ur-tekk-eins-og-nyr/5305937/)  
-<sub>Bland (notað)</sub>
-
-<sub>The candidate sofa is light-colored and has a soft fabric, but lacks the L-shape and loose cushions of the reference images.</sub>
 
 ---
 
@@ -663,5 +630,38 @@ Updated 2026-11-24 19:12 UTC · 394 listings · 0 kr–400.000 kr
 <sub>JYSK</sub>
 
 <sub>The color and fabric are suitable, but the blocky style and lack of cushioned look do not fully match the relaxed aesthetic.</sub>
+
+---
+
+**6/10** · **47.990 kr**
+
+<a href="https://jysk.is/stok-vara/SKEJBY-sofaeining-horn-endi-sandlitud/"><img src="https://jysk.is/library/Images/products/P009194.jpg?proc=366x366" width="320"></a>
+
+[BLACK FRIDAY 20% VINSÆL SKEJBY sófaeining horn/endi sandlituð](https://jysk.is/stok-vara/SKEJBY-sofaeining-horn-endi-sandlitud/)  
+<sub>JYSK</sub>
+
+<sub>The sofa is a light color in a woven fabric and has simple lines, but its blocky shape and lack of loose cushions make it less relaxed and inviting.</sub>
+
+---
+
+**6/10** · **49.000 kr**
+
+<a href="https://bland.is/til-solu/heimilid/stofa/sofi-hornsofi-eins-og-nyr/5306997/"><img src="https://img.bland.is/album/img/422272/m/20261122103230_0.jpg" width="320"></a>
+
+[Sófi Hornsófi eins og nýr](https://bland.is/til-solu/heimilid/stofa/sofi-hornsofi-eins-og-nyr/5306997/)  
+<sub>Bland (notað)</sub>
+
+<sub>The candidate sofa is a light, woven fabric with a relaxed, modern design, but the visible black legs and slightly cooler tone diverge from the reference look.</sub>
+
+---
+
+**6/10** · **55.990 kr**
+
+<a href="https://jysk.is/stok-vara/SKEJBY-sofaeining-vinstri-tungu-endi-an-bak-sand/"><img src="https://jysk.is/library/Images/products/P011032.jpg?proc=366x366" width="320"></a>
+
+[BLACK FRIDAY 30% SKEJBY sófaeining vinstri tungu endi án/bak sand](https://jysk.is/stok-vara/SKEJBY-sofaeining-vinstri-tungu-endi-an-bak-sand/)  
+<sub>JYSK</sub>
+
+<sub>The candidate sofa's color and fabric align with the desired aesthetic, but it lacks loose back cushions and has very short legs, affecting the relaxed look.</sub>
 
 ---
