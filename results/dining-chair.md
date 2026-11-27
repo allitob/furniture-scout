@@ -1,6 +1,6 @@
 # Dining chairs
 
-Updated 2026-11-26 17:54 UTC · 142 listings · 0 kr–50.000 kr per piece
+Updated 2026-11-27 17:40 UTC · 143 listings · 0 kr–50.000 kr per piece
 
 [← all categories](../results.md)
 
@@ -28,7 +28,7 @@ Updated 2026-11-26 17:54 UTC · 142 listings · 0 kr–50.000 kr per piece
 
 ---
 
-**9/10** · **42.320 kr** · 🆕
+**9/10** · **42.320 kr**
 
 <a href="https://www.ilva.is/stok-vara/?ProductName=NEWTON-Bordstofustoll-sandlitadur-med-reyklitadri-eikarskel"><img src="https://www.ilva.is/library/Images/Products/V014190.jpg?proc=366x366" width="320"></a>
 
@@ -424,7 +424,7 @@ Updated 2026-11-26 17:54 UTC · 142 listings · 0 kr–50.000 kr per piece
 
 ---
 
-**6/10** · **42.320 kr** · 🆕
+**6/10** · **42.320 kr**
 
 <a href="https://www.ilva.is/stok-vara/?ProductName=NEWTON-Bordstofustoll-off-white-reyklitadir-eikarfaetur"><img src="https://www.ilva.is/library/Images/Products/V012584.jpg?proc=366x366" width="320"></a>
 
@@ -435,7 +435,7 @@ Updated 2026-11-26 17:54 UTC · 142 listings · 0 kr–50.000 kr per piece
 
 ---
 
-**6/10** · **42.320 kr** · 🆕
+**6/10** · **42.320 kr**
 
 <a href="https://www.ilva.is/stok-vara/?ProductName=NEWTON-Bordstofustoll-brunn-mattlakkadir-eikarfaetur"><img src="https://www.ilva.is/library/Images/Products/V011450.jpg?proc=366x366" width="320"></a>
 
@@ -443,17 +443,6 @@ Updated 2026-11-26 17:54 UTC · 142 listings · 0 kr–50.000 kr per piece
 <sub>ILVA</sub>
 
 <sub>The chair has a wood frame with tapered legs and a curved back, fitting the mid-century Scandinavian style, but the darker seat upholstery is not a perfect match for the desired light cream/oatmeal fabric.</sub>
-
----
-
-**5/10** · **20.000 kr <sub>6 stk · 3.333 kr/stk</sub>**
-
-<a href="https://bland.is/til-solu/heimilid/stofa/6-bordstofustolar-til-solu/5307815/"><img src="https://img.bland.is/album/img/292205/m/20261124213421_0.jpg" width="320"></a>
-
-[6 borðstofustólar til sölu](https://bland.is/til-solu/heimilid/stofa/6-bordstofustolar-til-solu/5307815/)  
-<sub>Bland (notað)</sub>
-
-<sub>The chair has wood elements and cream upholstery but lacks the rounded back and tapered legs of mid-century Scandinavian style.</sub>
 
 ---
 
@@ -498,6 +487,17 @@ Updated 2026-11-26 17:54 UTC · 142 listings · 0 kr–50.000 kr per piece
 <sub>ILVA</sub>
 
 <sub>The chair has a curved upholstered seat and wooden legs, but lacks the desired mid-century Scandinavian design with tapered legs and a curved back rest.</sub>
+
+---
+
+**5/10** · **15.000 kr** · 🆕
+
+<a href="https://bland.is/til-solu/heimilid/stofa/fjorir-harbo-bordstofustolar-til-solu/5308297/"><img src="https://img.bland.is/album/img/344424/m/20261126201126_0.jpg" width="320"></a>
+
+[Fjórir HARBO borðstofustólar til sölu](https://bland.is/til-solu/heimilid/stofa/fjorir-harbo-bordstofustolar-til-solu/5308297/)  
+<sub>Bland (notað)</sub>
+
+<sub>The chair has the appropriate use of fabric and wood, but its legs are metal and design is bulkier compared to the mid-century Scandinavian style.</sub>
 
 ---
 
@@ -611,6 +611,17 @@ Updated 2026-11-26 17:54 UTC · 142 listings · 0 kr–50.000 kr per piece
 
 ---
 
+**5/10** · **30.320 kr <sub>was 37.900 kr</sub>**
+
+<a href="https://modern.is/shop/husgogn/stolar/bordstofustolar/aava-stoll/"><img src="https://modern.is/wp-content/uploads/2020/08/Arper-Aava4leg-300x300.jpg" width="320"></a>
+
+[Aava stóll](https://modern.is/shop/husgogn/stolar/bordstofustolar/aava-stoll/)  
+<sub>Módern</sub>
+
+<sub>The candidate chair has a Scandinavian style but features plastic seat shells and metal legs, which don't align with the mid-century wood-only aesthetic and upholstered seat preference.</sub>
+
+---
+
 **5/10** · **31.920 kr <sub>was 39.900 kr</sub>**
 
 <a href="https://www.ilva.is/stok-vara/?ProductName=BASTIA-Bordstofustoll-flettad-mattlakkadir-eikarfaetur"><img src="https://www.ilva.is/library/Images/Products/V009188.jpg?proc=366x366" width="320"></a>
@@ -652,16 +663,5 @@ Updated 2026-11-26 17:54 UTC · 142 listings · 0 kr–50.000 kr per piece
 <sub>ILVA</sub>
 
 <sub>The chair has a mid-century Scandinavian look with a solid wood frame and a warm tone, but the woven seat differs from the upholstered style desired.</sub>
-
----
-
-**5/10** · **35.993 kr <sub>was 38.392 kr</sub>**
-
-<a href="https://husgagnahollin.is/vara/nyborg-bordstofustoll-1326-svart-beyki/"><img src="https://husgagnahollin.is/wp-content/uploads/2023/05/Nyborg-bordstofustoll-1326-svart-beyki.jpg" width="320"></a>
-
-[Nyborg borðstofustóll 1326 svart beyki](https://husgagnahollin.is/vara/nyborg-bordstofustoll-1326-svart-beyki/)  
-<sub>Húsgagnahöllin</sub>
-
-<sub>The chair has a mid-century design with a wood frame and tapered legs, but the black color and backrest style deviate from the desired aesthetic.</sub>
 
 ---

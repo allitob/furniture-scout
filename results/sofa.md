@@ -1,6 +1,6 @@
 # Sofas
 
-Updated 2026-11-26 17:54 UTC · 414 listings · 0 kr–400.000 kr
+Updated 2026-11-27 17:40 UTC · 420 listings · 0 kr–400.000 kr
 
 [← all categories](../results.md)
 
@@ -47,6 +47,17 @@ Updated 2026-11-26 17:54 UTC · 414 listings · 0 kr–400.000 kr
 <sub>Húsgagnahöllin</sub>
 
 <sub>Matches the aesthetic with its light color, soft fabric, rounded arms, and low, generous proportions.</sub>
+
+---
+
+**8/10** · **40.000 kr** · 🆕
+
+<a href="https://bland.is/til-solu/heimilid/stofa/tungusofi/5308381/"><img src="https://img.bland.is/album/img/176124/m/20261127114356_0.jpg" width="320"></a>
+
+[Tungusófi](https://bland.is/til-solu/heimilid/stofa/tungusofi/5308381/)  
+<sub>Bland (notað)</sub>
+
+<sub>The sofa is a light cream tone with a woven fabric, features clean lines, plush cushions, and a low profile, matching the desired aesthetic closely.</sub>
 
 ---
 
@@ -105,7 +116,7 @@ Updated 2026-11-26 17:54 UTC · 414 listings · 0 kr–400.000 kr
 
 ---
 
-**8/10** · **169.900 kr** · 🆕
+**8/10** · **169.900 kr**
 
 <a href="https://www.ilva.is/stok-vara/?ProductName=CANTON-Tungusofi-haegri-hvitur-med-16-cm-keilulaga-eikarfotum"><img src="https://www.ilva.is/library/Images/Products/V014328.jpg?proc=366x366" width="320"></a>
 
@@ -138,7 +149,7 @@ Updated 2026-11-26 17:54 UTC · 414 listings · 0 kr–400.000 kr
 
 ---
 
-**8/10** · **239.990 kr** · uppselt
+**8/10** · **239.990 kr**
 
 <a href="https://jysk.is/stok-vara/SKIBBY-hornsofi-m-opnum-enda-sand/"><img src="https://jysk.is/library/Images/products/P013098.jpg?proc=366x366" width="320"></a>
 
@@ -237,6 +248,17 @@ Updated 2026-11-26 17:54 UTC · 414 listings · 0 kr–400.000 kr
 
 ---
 
+**8/10** · **307.920 kr <sub>was 384.900 kr</sub>**
+
+<a href="https://modern.is/shop/husgogn/sofar-og-legubekkir/beinir-sofar/bib-sofi/"><img src="https://modern.is/wp-content/uploads/2025/08/Photoroom_20250819_014254-2-300x300.png" width="320"></a>
+
+[Bib sófi](https://modern.is/shop/husgogn/sofar-og-legubekkir/beinir-sofar/bib-sofi/)  
+<sub>Módern</sub>
+
+<sub>The candidate sofa has a similar off-white woven fabric, with soft rounded arms and clean simple lines, matching the desired aesthetic.</sub>
+
+---
+
 **8/10** · **349.990 kr**
 
 <a href="https://jysk.is/stok-vara/VARDO-tungusofi-haegri-beige/"><img src="https://jysk.is/library/Images/products/P013101.jpg?proc=366x366" width="320"></a>
@@ -259,7 +281,7 @@ Updated 2026-11-26 17:54 UTC · 414 listings · 0 kr–400.000 kr
 
 ---
 
-**8/10** · **351.920 kr** · 🆕
+**8/10** · **351.920 kr**
 
 <a href="https://www.ilva.is/stok-vara/?ProductName=SIENA-Tungusofi-vinstri-sandlitadur-2"><img src="https://www.ilva.is/library/Images/Products/V013135.jpg?proc=366x366" width="320"></a>
 
@@ -270,7 +292,7 @@ Updated 2026-11-26 17:54 UTC · 414 listings · 0 kr–400.000 kr
 
 ---
 
-**8/10** · **351.920 kr** · 🆕
+**8/10** · **351.920 kr**
 
 <a href="https://www.ilva.is/stok-vara/?ProductName=SIENA-Tungusofi-haegri-sandlitadur-2"><img src="https://www.ilva.is/library/Images/Products/V013134.jpg?proc=366x366" width="320"></a>
 
@@ -278,6 +300,17 @@ Updated 2026-11-26 17:54 UTC · 414 listings · 0 kr–400.000 kr
 <sub>ILVA</sub>
 
 <sub>The sofa has the preferred light sand color, soft rounded arms, clean lines, and a low, generous form, fitting well with the desired aesthetic.</sub>
+
+---
+
+**8/10** · **351.920 kr** · 🆕
+
+<a href="https://modern.is/shop/husgogn/sofar-og-legubekkir/beinir-sofar/zola-sofi/"><img src="https://modern.is/wp-content/uploads/2025/08/img-1565-1-300x300.jpg" width="320"></a>
+
+[Zola sófi](https://modern.is/shop/husgogn/sofar-og-legubekkir/beinir-sofar/zola-sofi/)  
+<sub>Módern</sub>
+
+<sub>The candidate sofa is in a light neutral color with a soft woven fabric, featuring a relaxed design with plush cushions, rounded arms, and a clean, simple silhouette similar to the references.</sub>
 
 ---
 
@@ -292,7 +325,7 @@ Updated 2026-11-26 17:54 UTC · 414 listings · 0 kr–400.000 kr
 
 ---
 
-**8/10** · **375.920 kr** · 🆕
+**8/10** · **375.920 kr**
 
 <a href="https://www.ilva.is/stok-vara/?ProductName=LEAN-Hornsofi-vinstri-drapplitadur"><img src="https://www.ilva.is/library/Images/Products/V010467.jpg?proc=366x366" width="320"></a>
 
@@ -303,7 +336,7 @@ Updated 2026-11-26 17:54 UTC · 414 listings · 0 kr–400.000 kr
 
 ---
 
-**8/10** · **375.920 kr** · 🆕
+**8/10** · **375.920 kr**
 
 <a href="https://www.ilva.is/stok-vara/?ProductName=LEAN-Hornsofi-haegri-drapplitadur"><img src="https://www.ilva.is/library/Images/Products/V010468.jpg?proc=366x366" width="320"></a>
 
@@ -311,17 +344,6 @@ Updated 2026-11-26 17:54 UTC · 414 listings · 0 kr–400.000 kr
 <sub>ILVA</sub>
 
 <sub>The candidate sofa has a light greige woven fabric, clean lines, hidden legs, and an L-shaped design, aligning well with the reference aesthetic.</sub>
-
----
-
-**8/10** · **384.900 kr**
-
-<a href="https://modern.is/shop/husgogn/sofar-og-legubekkir/beinir-sofar/bib-sofi/"><img src="https://modern.is/wp-content/uploads/2025/08/Photoroom_20250819_014254-2-300x300.png" width="320"></a>
-
-[Bib sófi](https://modern.is/shop/husgogn/sofar-og-legubekkir/beinir-sofar/bib-sofi/)  
-<sub>Módern</sub>
-
-<sub>The candidate sofa has a similar off-white woven fabric, with soft rounded arms and clean simple lines, matching the desired aesthetic.</sub>
 
 ---
 
@@ -424,7 +446,7 @@ Updated 2026-11-26 17:54 UTC · 414 listings · 0 kr–400.000 kr
 
 ---
 
-**7/10** · **169.900 kr** · 🆕
+**7/10** · **169.900 kr**
 
 <a href="https://www.ilva.is/stok-vara/?ProductName=CANTON-Tungusofi-vinstri-hvitur-med-16-cm-keilulaga-eikarfotum"><img src="https://www.ilva.is/library/Images/Products/V014327.jpg?proc=366x366" width="320"></a>
 
@@ -446,7 +468,7 @@ Updated 2026-11-26 17:54 UTC · 414 listings · 0 kr–400.000 kr
 
 ---
 
-**7/10** · **179.990 kr** · uppselt
+**7/10** · **179.990 kr**
 
 <a href="https://jysk.is/stok-vara/SKIBBY-tungusofi-haegri-sand/"><img src="https://jysk.is/library/Images/products/P013095.jpg?proc=366x366" width="320"></a>
 
@@ -468,7 +490,7 @@ Updated 2026-11-26 17:54 UTC · 414 listings · 0 kr–400.000 kr
 
 ---
 
-**7/10** · **249.990 kr** · uppselt
+**7/10** · **249.990 kr**
 
 <a href="https://jysk.is/stok-vara/SKIBBY-hornsofi-sand/"><img src="https://jysk.is/library/Images/products/P013097.jpg?proc=366x366" width="320"></a>
 
@@ -641,27 +663,5 @@ Updated 2026-11-26 17:54 UTC · 414 listings · 0 kr–400.000 kr
 <sub>Húsgagnahöllin</sub>
 
 <sub>The sofa features light warm greige fabric, plush back cushions, and simple lines, but it is not an L-shaped or chaise style.</sub>
-
----
-
-**6/10** · **12.000 kr**
-
-<a href="https://bland.is/til-solu/heimilid/stofa/2ja-og-3ja-saeta-sofi/5307459/"><img src="https://img.bland.is/album/img/365474/m/20261123181803_0.jpg" width="320"></a>
-
-[2ja og 3ja sæta sófi](https://bland.is/til-solu/heimilid/stofa/2ja-og-3ja-saeta-sofi/5307459/)  
-<sub>Bland (notað)</sub>
-
-<sub>The sofa has a light color and simple design, but the arms are more rounded and structured than the reference images.</sub>
-
----
-
-**6/10** · **25.000 kr**
-
-<a href="https://bland.is/til-solu/heimilid/stofa/sofabed-150x230cm-/5305997/"><img src="https://img.bland.is/album/img/427317/m/20261116145741_0.jpg" width="320"></a>
-
-[Sofabed 150x230cm .](https://bland.is/til-solu/heimilid/stofa/sofabed-150x230cm-/5305997/)  
-<sub>Bland (notað)</sub>
-
-<sub>The sofa has simple lines, is an L-shaped corner, and has short, likely wooden legs, but the color is darker than desired and lacks the plushness of the reference.</sub>
 
 ---
