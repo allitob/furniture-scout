@@ -1,6 +1,6 @@
 # Dining tables
 
-Updated 2026-11-27 17:40 UTC · 94 listings · 5.000 kr–400.000 kr
+Updated 2026-11-28 16:25 UTC · 96 listings · 5.000 kr–400.000 kr
 
 [← all categories](../results.md)
 
@@ -303,18 +303,7 @@ Updated 2026-11-27 17:40 UTC · 94 listings · 5.000 kr–400.000 kr
 
 ---
 
-**5/10** · **5.000 kr**
-
-<a href="https://bland.is/til-solu/heimilid/stofa/staekkanlegt-bord-i-eikarlit-175261-cm/5307077/"><img src="https://img.bland.is/album/img/138599/m/20261122135137_0.jpg" width="320"></a>
-
-[Stækkanlegt borð í eikarlit, 175261 cm](https://bland.is/til-solu/heimilid/stofa/staekkanlegt-bord-i-eikarlit-175261-cm/5307077/)  
-<sub>Bland (notað) · 175 cm</sub>
-
-<sub>The table is made of warm wood and has a simple design but lacks the tapered legs and rounded edges typical of mid-century Scandinavian style.</sub>
-
----
-
-**5/10** · **10.000 kr** · 🆕
+**5/10** · **10.000 kr**
 
 <a href="https://bland.is/til-solu/heimilid/stofa/stofu-bord/5308259/"><img src="https://img.bland.is/album/img/367942/m/20261126184521_0.jpg" width="320"></a>
 
@@ -333,6 +322,17 @@ Updated 2026-11-27 17:40 UTC · 94 listings · 5.000 kr–400.000 kr
 <sub>JYSK · 100/200/220 cm</sub>
 
 <sub>The table has a warm wood tone and rounded edges, but the base is more modern and lacks the tapered legs typical of mid-century Scandinavian style.</sub>
+
+---
+
+**5/10** · **20.000 kr** · 🆕
+
+<a href="https://bland.is/til-solu/heimilid/stofa/stort-bord-og-8-stolar/5308298/"><img src="https://img.bland.is/album/img/207083/m/20261126201258_0.jpg" width="320"></a>
+
+[Stórt borð og 8 stólar](https://bland.is/til-solu/heimilid/stofa/stort-bord-og-8-stolar/5308298/)  
+<sub>Bland (notað) · size?</sub>
+
+<sub>The table is solid wood with rounded corners and traditional styling, but lacks the mid-century Scandinavian design and has a different leg style.</sub>
 
 ---
 

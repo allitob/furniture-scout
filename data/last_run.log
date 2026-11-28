@@ -1,33 +1,33 @@
-Epal: 9598 products in catalog
-Snúran: 769 products in catalog
-Bland: 627 listings scanned
-Húsgagnahöllin: 114 matching products
+Epal: 9599 products in catalog
+Snúran: 767 products in catalog
+Bland: 622 listings scanned
+Húsgagnahöllin: 112 matching products
 Módern: 46 listings parsed from HTML
-Línan: 36 listings parsed from HTML
+Línan: 0 listings parsed from HTML
 ILVA: 88 listings parsed from HTML
 JYSK: 62 listings parsed from HTML
-[dining-table] 258 candidates within budget (from 11340 listings)
+[dining-table] 258 candidates within budget (from 11296 listings)
 [dining-table] Opened 96 listing pages for details
-[dining-table] 107 pass price/size filters
-[dining-table] Scored 2 listings with gpt-4o
+[dining-table] 109 pass price/size filters
+[dining-table] Scored 4 listings with gpt-4o
 [dining-table] Notify: 0 new strong matches
-Húsgagnahöllin: 71 matching products
-Módern: 76 listings parsed from HTML
-Línan: 33 listings parsed from HTML
+Húsgagnahöllin: 69 matching products
+Módern: 80 listings parsed from HTML
+Línan: 0 listings parsed from HTML
 ILVA: 79 listings parsed from HTML
 JYSK: 120 listings parsed from HTML
-[dining-chair] 238 candidates within budget (from 11373 listings)
+[dining-chair] 237 candidates within budget (from 11336 listings)
 [dining-chair] Opened 3 listing pages for details
-[dining-chair] 238 pass price/size filters
+[dining-chair] 237 pass price/size filters
 [dining-chair] Scored 3 listings with gpt-4o
 [dining-chair] Notify: 0 new strong matches
-Húsgagnahöllin: 167 matching products
-Módern: 107 listings parsed from HTML
-Línan: 36 listings parsed from HTML
-ILVA: 161 listings parsed from HTML
+Húsgagnahöllin: 164 matching products
+Módern: 101 listings parsed from HTML
+Línan: 0 listings parsed from HTML
+ILVA: 160 listings parsed from HTML
 JYSK: 135 listings parsed from HTML
-[sofa] 451 candidates within budget (from 11600 listings)
-[sofa] Opened 11 listing pages for details
-[sofa] 450 pass price/size filters
-[sofa] Scored 10 listings with gpt-4o
-[sofa] Notify: posted 2 new matches to issue #1
+[sofa] 449 candidates within budget (from 11548 listings)
+[sofa] Opened 7 listing pages for details
+[sofa] 448 pass price/size filters
+[sofa] Scored 6 listings with gpt-4o
+[sofa] Notify: 0 new strong matches

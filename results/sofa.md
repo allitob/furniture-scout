@@ -1,6 +1,6 @@
 # Sofas
 
-Updated 2026-11-27 17:40 UTC · 420 listings · 0 kr–400.000 kr
+Updated 2026-11-28 16:25 UTC · 418 listings · 0 kr–400.000 kr
 
 [← all categories](../results.md)
 
@@ -50,7 +50,7 @@ Updated 2026-11-27 17:40 UTC · 420 listings · 0 kr–400.000 kr
 
 ---
 
-**8/10** · **40.000 kr** · 🆕
+**8/10** · **40.000 kr**
 
 <a href="https://bland.is/til-solu/heimilid/stofa/tungusofi/5308381/"><img src="https://img.bland.is/album/img/176124/m/20261127114356_0.jpg" width="320"></a>
 
@@ -303,7 +303,7 @@ Updated 2026-11-27 17:40 UTC · 420 listings · 0 kr–400.000 kr
 
 ---
 
-**8/10** · **351.920 kr** · 🆕
+**8/10** · **351.920 kr**
 
 <a href="https://modern.is/shop/husgogn/sofar-og-legubekkir/beinir-sofar/zola-sofi/"><img src="https://modern.is/wp-content/uploads/2025/08/img-1565-1-300x300.jpg" width="320"></a>
 
@@ -355,17 +355,6 @@ Updated 2026-11-27 17:40 UTC · 420 listings · 0 kr–400.000 kr
 <sub>Húsgagnahöllin</sub>
 
 <sub>The sofa matches the color and material preferences and has clean lines and a relaxed look, although slightly more minimalistic than the references.</sub>
-
----
-
-**7/10** · **30.000 kr**
-
-<a href="https://bland.is/til-solu/heimilid/stofa/2ja-og-3ja-saeta-sofar/5306602/"><img src="https://img.bland.is/album/img/365474/m/20261120212919_0.jpg" width="320"></a>
-
-[2ja og 3ja sæta sófar](https://bland.is/til-solu/heimilid/stofa/2ja-og-3ja-saeta-sofar/5306602/)  
-<sub>Bland (notað)</sub>
-
-<sub>The sofa has a light color and simple design, with soft cushions and rounded arms. However, it is not L-shaped and appears slightly more structured than the references.</sub>
 
 ---
 
@@ -663,5 +652,16 @@ Updated 2026-11-27 17:40 UTC · 420 listings · 0 kr–400.000 kr
 <sub>Húsgagnahöllin</sub>
 
 <sub>The sofa features light warm greige fabric, plush back cushions, and simple lines, but it is not an L-shaped or chaise style.</sub>
+
+---
+
+**6/10** · **6.000 kr** · 🆕
+
+<a href="https://bland.is/til-solu/heimilid/stofa/2ja-og-3ja-saeta-sofi/5308637/"><img src="https://img.bland.is/album/img/365474/m/20261128113839_0.jpg" width="320"></a>
+
+[2ja og 3ja sæta sófi](https://bland.is/til-solu/heimilid/stofa/2ja-og-3ja-saeta-sofi/5308637/)  
+<sub>Bland (notað)</sub>
+
+<sub>The candidate sofa has a light fabric and simple lines, but lacks the desired L-shape and low, deep proportions.</sub>
 
 ---

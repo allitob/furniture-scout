@@ -1,6 +1,6 @@
 # Dining chairs
 
-Updated 2026-11-27 17:40 UTC · 143 listings · 0 kr–50.000 kr per piece
+Updated 2026-11-28 16:25 UTC · 142 listings · 0 kr–50.000 kr per piece
 
 [← all categories](../results.md)
 
@@ -490,7 +490,7 @@ Updated 2026-11-27 17:40 UTC · 143 listings · 0 kr–50.000 kr per piece
 
 ---
 
-**5/10** · **15.000 kr** · 🆕
+**5/10** · **15.000 kr**
 
 <a href="https://bland.is/til-solu/heimilid/stofa/fjorir-harbo-bordstofustolar-til-solu/5308297/"><img src="https://img.bland.is/album/img/344424/m/20261126201126_0.jpg" width="320"></a>
 
